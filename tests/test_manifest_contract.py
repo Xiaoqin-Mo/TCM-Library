@@ -23,11 +23,12 @@ from collections import Counter
 ROOT = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 MANIFEST_PATH = os.path.join(ROOT, "manifest.json")
 
-SUPPORTED_SCHEMA = 2
+SUPPORTED_SCHEMA = 2.1
 ENTRY_REQUIRED = ["id", "book", "type", "tier", "category", "subcategory",
                   "path", "weight", "title", "chapter", "conditions"]
 CONDITION_FIELDS = ["zhengxing", "zhifa", "bingzheng", "zhengzhuang",
-                    "fangming", "yaoming", "xuewei", "jingluo", "keywords"]
+                    "fangming", "yaoming", "xuewei", "jingluo",
+                    "siqi", "wuwei", "guijing", "keywords"]
 
 
 def main() -> None:

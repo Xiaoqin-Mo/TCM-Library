@@ -46,6 +46,13 @@ def main() -> None:
                          ids({"xuewei": ["足三里"]}), ["zusanli_001"]))
     results.append(check("按经络 足阳明胃经",
                          ids({"jingluo": ["足阳明胃经"]}), ["zusanli_001"]))
+    # 药性维度（schema 2.1）
+    results.append(check("按四气 温",
+                         ids({"siqi": ["温"]}), ["mahuang_001"]))
+    results.append(check("按五味 辛",
+                         ids({"wuwei": ["辛"]}), ["mahuang_001"]))
+    results.append(check("按归经 肺经",
+                         ids({"guijing": ["肺经"]}), ["mahuang_001"]))
     # 同字段多值 OR：任一命中即该字段命中（桂枝汤 zhengxing 含太阳中风）
     results.append(check("同字段多值 OR",
                          ids({"zhengxing": ["太阳中风", "风寒束表"]}), ["guizhitang_001"]))
@@ -68,7 +75,8 @@ def main() -> None:
     results.append(check("match_fields 齐全",
                          MANIFEST["match_fields"],
                          ["zhengxing", "zhifa", "bingzheng", "zhengzhuang",
-                          "fangming", "yaoming", "xuewei", "jingluo"]))
+                          "fangming", "yaoming", "xuewei", "jingluo",
+                          "siqi", "wuwei", "guijing"]))
 
     failed = results.count(False)
     print(f"\n{len(results) - failed}/{len(results)} 通过")

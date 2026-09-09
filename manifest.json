@@ -1,5 +1,5 @@
 {
-  "schema_version": 2,
+  "schema_version": 2.1,
   "name": "TCM-Library 中医知识百科全书检索库",
   "match_fields": [
     "zhengxing",
@@ -9,7 +9,10 @@
     "fangming",
     "yaoming",
     "xuewei",
-    "jingluo"
+    "jingluo",
+    "siqi",
+    "wuwei",
+    "guijing"
   ],
   "match_rule": "entry is recalled iff, for every non-empty declared field, it intersects the query's same-field set; results sort by hit specificity, then weight, then path. keywords performs containment recall.",
   "roots": {
@@ -36,8 +39,8 @@
       }
     },
     "zhongyao": {
-      "yaowu": {
-        "dir": "zhongyao/yaowu/mahuang",
+      "jiebiao": {
+        "dir": "zhongyao/jiebiao/mahuang",
         "count": 1
       }
     }
@@ -113,9 +116,109 @@
           "name_zh": "药性理论"
         },
         {
-          "id": "yaowu",
-          "name": "yaowu",
-          "name_zh": "单味药"
+          "id": "jiebiao",
+          "name": "jiebiao",
+          "name_zh": "解表药"
+        },
+        {
+          "id": "qingre",
+          "name": "qingre",
+          "name_zh": "清热药"
+        },
+        {
+          "id": "xiexia",
+          "name": "xiexia",
+          "name_zh": "泻下药"
+        },
+        {
+          "id": "qufengshi",
+          "name": "qufengshi",
+          "name_zh": "祛风湿药"
+        },
+        {
+          "id": "huashi",
+          "name": "huashi",
+          "name_zh": "化湿药"
+        },
+        {
+          "id": "lishuishenshi",
+          "name": "lishuishenshi",
+          "name_zh": "利水渗湿药"
+        },
+        {
+          "id": "wenli",
+          "name": "wenli",
+          "name_zh": "温里药"
+        },
+        {
+          "id": "liqi",
+          "name": "liqi",
+          "name_zh": "理气药"
+        },
+        {
+          "id": "xiaoshi",
+          "name": "xiaoshi",
+          "name_zh": "消食药"
+        },
+        {
+          "id": "quchong",
+          "name": "quchong",
+          "name_zh": "驱虫药"
+        },
+        {
+          "id": "zhixue",
+          "name": "zhixue",
+          "name_zh": "止血药"
+        },
+        {
+          "id": "huoxuehuayu",
+          "name": "huoxuehuayu",
+          "name_zh": "活血化瘀药"
+        },
+        {
+          "id": "huatan",
+          "name": "huatan",
+          "name_zh": "化痰止咳平喘药"
+        },
+        {
+          "id": "anshen",
+          "name": "anshen",
+          "name_zh": "安神药"
+        },
+        {
+          "id": "pingganxifeng",
+          "name": "pingganxifeng",
+          "name_zh": "平肝息风药"
+        },
+        {
+          "id": "kaiqiao",
+          "name": "kaiqiao",
+          "name_zh": "开窍药"
+        },
+        {
+          "id": "buxu",
+          "name": "buxu",
+          "name_zh": "补虚药"
+        },
+        {
+          "id": "shouse",
+          "name": "shouse",
+          "name_zh": "收涩药"
+        },
+        {
+          "id": "yongtu",
+          "name": "yongtu",
+          "name_zh": "涌吐药"
+        },
+        {
+          "id": "gongdu",
+          "name": "gongdu",
+          "name_zh": "攻毒杀虫止痒药"
+        },
+        {
+          "id": "badu",
+          "name": "badu",
+          "name_zh": "拔毒化腐生肌药"
         },
         {
           "id": "paozhi",
@@ -383,11 +486,11 @@
       "count": 1
     },
     {
-      "dir": "zhongyao/yaowu/mahuang",
+      "dir": "zhongyao/jiebiao/mahuang",
       "tier": 1,
       "tier_name": "核心",
       "category": "zhongyao",
-      "subcategory": "yaowu",
+      "subcategory": "jiebiao",
       "count": 1
     }
   ],
@@ -435,6 +538,9 @@
         ],
         "xuewei": [],
         "jingluo": [],
+        "siqi": [],
+        "wuwei": [],
+        "guijing": [],
         "keywords": [
           "解表剂",
           "辛温解表",
@@ -464,6 +570,9 @@
         "yaoming": [],
         "xuewei": [],
         "jingluo": [],
+        "siqi": [],
+        "wuwei": [],
+        "guijing": [],
         "keywords": [
           "养生",
           "天年",
@@ -500,6 +609,9 @@
         "yaoming": [],
         "xuewei": [],
         "jingluo": [],
+        "siqi": [],
+        "wuwei": [],
+        "guijing": [],
         "keywords": [
           "六经辨证",
           "太阳经",
@@ -550,6 +662,9 @@
         "jingluo": [
           "足阳明胃经"
         ],
+        "siqi": [],
+        "wuwei": [],
+        "guijing": [],
         "keywords": [
           "合穴",
           "胃下合穴",
@@ -560,15 +675,15 @@
     },
     {
       "id": "mahuang_001",
-      "book": "神农本草经",
+      "book": "中国药典（2025年版）一部",
       "type": "yaowu",
       "tier": 1,
       "category": "zhongyao",
-      "subcategory": "yaowu",
-      "path": "library/zhongyao/yaowu/mahuang/mahuang_001.md",
+      "subcategory": "jiebiao",
+      "path": "library/zhongyao/jiebiao/mahuang/mahuang_001.md",
       "weight": 8,
       "title": "麻黄",
-      "chapter": "草部中品",
+      "chapter": "解表药",
       "conditions": {
         "zhengxing": [
           "风寒表实"
@@ -599,10 +714,22 @@
         ],
         "xuewei": [],
         "jingluo": [],
+        "siqi": [
+          "温"
+        ],
+        "wuwei": [
+          "辛",
+          "微苦"
+        ],
+        "guijing": [
+          "肺经",
+          "膀胱经"
+        ],
         "keywords": [
           "发汗",
           "解表药",
-          "辛温"
+          "中国药典",
+          "草麻黄"
         ]
       }
     }

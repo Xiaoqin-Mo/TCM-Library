@@ -103,8 +103,8 @@ CONDITION_FIELDS: List[str] = MATCH_FIELDS + [KEYWORDS_FIELD]
 # 正文三层标记
 LAYER_MARKS = ("【原文】", "【古注】", "【白话提要】")
 
-# 需要全文录入的目录（INDEX.md / _book.yaml / 模板不参与索引）
-SKIP_FILENAMES = ("INDEX.md", "_book.yaml")
+# 不参与索引的文件（INDEX.md / README.md / _book.yaml / 模板）
+SKIP_FILENAMES = ("INDEX.md", "README.md", "_book.yaml")
 
 
 # ---------------------------------------------------------------------------
@@ -194,7 +194,11 @@ def _parse_block(block: str) -> Dict[str, Any]:
                         block_items.append(parse_scalar_token(item))
                 elif ":" in stripped:
                     k2, _, v2 = stripped.partition(":")
-                    sub_dict[k2.strip()] = parse_scalar_token(v2)
+                    v2 = v2.strip()
+                    if v2.startswith("["):
+                        sub_dict[k2.strip()] = _parse_inline_list(v2)
+                    else:
+                        sub_dict[k2.strip()] = parse_scalar_token(v2)
                 else:
                     block_items.append(parse_scalar_token(stripped))
             if block_items:

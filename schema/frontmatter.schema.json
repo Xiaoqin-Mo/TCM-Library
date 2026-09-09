@@ -1,0 +1,49 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "$id": "https://github.com/moxiaoqin12345/12345/schema/frontmatter.schema.json",
+  "title": "TCM-Library entry Markdown frontmatter",
+  "description": "YAML frontmatter that begins every entry .md. Controlled values for type / conditions fields are enumerated in controlled_vocabulary.json (validated by scripts/validate_library.py). Designed for RAG-friendly machine retrieval: structured fields carry exact-match recall dimensions, keywords carries open theme recall.",
+  "type": "object",
+  "required": ["id", "book", "chapter", "section_title", "source_version",
+               "author", "dynasty", "type", "conditions", "weight", "tags"],
+  "additionalProperties": true,
+  "properties": {
+    "id": { "type": "string", "pattern": "^[a-z0-9_]+$", "description": "Equals filename stem, globally unique." },
+    "book": { "type": "string", "description": "典籍名或现代文献名，如 黄帝内经素问 / 中医内科学 / 流行性感冒诊疗方案" },
+    "chapter": { "type": "string", "description": "卷/篇/章名，如 上古天真论篇第一" },
+    "chapter_num": { "type": "integer", "minimum": 0, "description": "篇/章/条序号（可省略）" },
+    "section_title": { "type": "string", "description": "条目标题（中文）" },
+    "source_version": { "type": "string", "description": "版本出处，如 重广补注本·唐王冰注 / 通行本 / 人民卫生出版社《中医内科学》第2版" },
+    "author": { "type": "string", "description": "作者/编撰者；佚名可用『佚名』" },
+    "dynasty": { "type": "string", "description": "朝代（古籍）；现代文献写『现代』" },
+    "type": {
+      "type": "string",
+      "enum": ["chapter", "tiaomu", "fangji", "yaowu", "shuxue", "yian",
+               "yijia", "koujue", "zhinan", "reference"],
+      "description": "条目类型，见 controlled_vocabulary.json 或 docs/frontmatter-spec.md"
+    },
+    "conditions": { "$ref": "#/$defs/conditions" },
+    "weight": { "type": "integer", "minimum": 0, "maximum": 10, "description": "多书命中时的排序权重（见 docs/frontmatter-spec.md §权重）" },
+    "tags": { "type": "array", "items": { "type": "string" }, "description": "分类标签，如 [中医基础, 藏象]" }
+  },
+  "$defs": {
+    "conditions": {
+      "type": "object",
+      "description": "中医结构化检索条件：所有字段均为数组；组内 AND（如 zhengxing+zhifa 同时满足），维度间 OR；keywords 为开放主题词做包含召回。后续 RAG 直接消费本结构。",
+      "required": ["zhengxing", "zhifa", "bingzheng", "zhengzhuang",
+                   "fangming", "yaoming", "xuewei", "jingluo", "keywords"],
+      "additionalProperties": false,
+      "properties": {
+        "zhengxing": { "type": "array", "items": { "type": "string" }, "description": "证型（辨证分型），如 风寒束表 / 肝气郁结 / 脾胃气虚；建议取自受控词表" },
+        "zhifa": { "type": "array", "items": { "type": "string" }, "description": "治法，如 解表散寒 / 疏肝理气 / 益气健脾" },
+        "bingzheng": { "type": "array", "items": { "type": "string" }, "description": "病症/疾病名，如 感冒 / 消渴 / 头痛" },
+        "zhengzhuang": { "type": "array", "items": { "type": "string" }, "description": "症状/体征，如 发热 / 恶寒 / 口渴" },
+        "fangming": { "type": "array", "items": { "type": "string" }, "description": "方剂名，如 桂枝汤 / 逍遥散" },
+        "yaoming": { "type": "array", "items": { "type": "string" }, "description": "药物名，如 麻黄 / 桂枝 / 甘草" },
+        "xuewei": { "type": "array", "items": { "type": "string" }, "description": "腧穴名，如 足三里 / 合谷" },
+        "jingluo": { "type": "array", "items": { "type": "string" }, "description": "经络名，如 手太阴肺经 / 足阳明胃经" },
+        "keywords": { "type": "array", "items": { "type": "string" }, "description": "开放主题词，主题包含召回" }
+      }
+    }
+  }
+}

@@ -25,7 +25,7 @@ ROOT = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 LIBRARY_DIR = os.path.join(ROOT, "library")
 VOCAB_PATH = os.path.join(ROOT, "schema", "controlled_vocabulary.json")
 
-COUNT_FIELDS = ["zhengxing", "zhifa", "jingluo"]
+COUNT_FIELDS = ["zhengxing", "zhifa", "jingluo", "siqi", "wuwei", "guijing"]
 
 
 def collect() -> dict:

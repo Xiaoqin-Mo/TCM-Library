@@ -33,7 +33,27 @@ CATEGORIES: List[Tuple[str, str, List[Tuple[str, str]]]] = [
     ("zhongyao", "中药学", [
         ("bencao", "本草著作"),
         ("yaoxing", "药性理论"),
-        ("yaowu", "单味药"),
+        ("jiebiao", "解表药"),
+        ("qingre", "清热药"),
+        ("xiexia", "泻下药"),
+        ("qufengshi", "祛风湿药"),
+        ("huashi", "化湿药"),
+        ("lishuishenshi", "利水渗湿药"),
+        ("wenli", "温里药"),
+        ("liqi", "理气药"),
+        ("xiaoshi", "消食药"),
+        ("quchong", "驱虫药"),
+        ("zhixue", "止血药"),
+        ("huoxuehuayu", "活血化瘀药"),
+        ("huatan", "化痰止咳平喘药"),
+        ("anshen", "安神药"),
+        ("pingganxifeng", "平肝息风药"),
+        ("kaiqiao", "开窍药"),
+        ("buxu", "补虚药"),
+        ("shouse", "收涩药"),
+        ("yongtu", "涌吐药"),
+        ("gongdu", "攻毒杀虫止痒药"),
+        ("badu", "拔毒化腐生肌药"),
         ("paozhi", "炮制"),
         ("peiwu", "配伍与禁忌"),
     ]),
@@ -95,6 +115,7 @@ for cid, czh, subs in CATEGORIES:
 MATCH_FIELDS: List[str] = [
     "zhengxing", "zhifa", "bingzheng", "zhengzhuang",
     "fangming", "yaoming", "xuewei", "jingluo",
+    "siqi", "wuwei", "guijing",
 ]
 KEYWORDS_FIELD: str = "keywords"
 

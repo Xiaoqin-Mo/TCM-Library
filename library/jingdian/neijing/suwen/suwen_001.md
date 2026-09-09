@@ -17,6 +17,9 @@ conditions:
   yaoming: []
   xuewei: []
   jingluo: []
+  siqi: []
+  wuwei: []
+  guijing: []
   keywords: ["养生", "天年", "上古之人", "形与神俱", "法于阴阳"]
 weight: 10
 tags: ["经典医籍", "黄帝内经", "素问", "养生"]

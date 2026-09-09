@@ -1,0 +1,610 @@
+{
+  "schema_version": 2,
+  "name": "TCM-Library 中医知识百科全书检索库",
+  "match_fields": [
+    "zhengxing",
+    "zhifa",
+    "bingzheng",
+    "zhengzhuang",
+    "fangming",
+    "yaoming",
+    "xuewei",
+    "jingluo"
+  ],
+  "match_rule": "entry is recalled iff, for every non-empty declared field, it intersects the query's same-field set; results sort by hit specificity, then weight, then path. keywords performs containment recall.",
+  "roots": {
+    "fangji": {
+      "jingfang": {
+        "dir": "fangji/jingfang/guizhitang",
+        "count": 1
+      }
+    },
+    "jingdian": {
+      "neijing": {
+        "dir": "jingdian/neijing/suwen",
+        "count": 1
+      },
+      "shanghan": {
+        "dir": "jingdian/shanghan",
+        "count": 1
+      }
+    },
+    "zhenjiu": {
+      "shuxue": {
+        "dir": "zhenjiu/shuxue/zusanli",
+        "count": 1
+      }
+    },
+    "zhongyao": {
+      "yaowu": {
+        "dir": "zhongyao/yaowu/mahuang",
+        "count": 1
+      }
+    }
+  },
+  "categories": [
+    {
+      "id": "jichu",
+      "name": "jichu",
+      "name_zh": "中医基础理论",
+      "subcategories": [
+        {
+          "id": "yinyangwuxing",
+          "name": "yinyangwuxing",
+          "name_zh": "阴阳五行"
+        },
+        {
+          "id": "zangxiang",
+          "name": "zangxiang",
+          "name_zh": "藏象"
+        },
+        {
+          "id": "jingluo",
+          "name": "jingluo",
+          "name_zh": "经络"
+        },
+        {
+          "id": "qixuejinye",
+          "name": "qixuejinye",
+          "name_zh": "气血津液"
+        },
+        {
+          "id": "bingyinbingji",
+          "name": "bingyinbingji",
+          "name_zh": "病因病机"
+        },
+        {
+          "id": "zhifa",
+          "name": "zhifa",
+          "name_zh": "治则治法"
+        }
+      ]
+    },
+    {
+      "id": "zhenduan",
+      "name": "zhenduan",
+      "name_zh": "中医诊断",
+      "subcategories": [
+        {
+          "id": "siyang",
+          "name": "siyang",
+          "name_zh": "四诊"
+        },
+        {
+          "id": "bianzheng",
+          "name": "bianzheng",
+          "name_zh": "辨证"
+        }
+      ]
+    },
+    {
+      "id": "zhongyao",
+      "name": "zhongyao",
+      "name_zh": "中药学",
+      "subcategories": [
+        {
+          "id": "bencao",
+          "name": "bencao",
+          "name_zh": "本草著作"
+        },
+        {
+          "id": "yaoxing",
+          "name": "yaoxing",
+          "name_zh": "药性理论"
+        },
+        {
+          "id": "yaowu",
+          "name": "yaowu",
+          "name_zh": "单味药"
+        },
+        {
+          "id": "paozhi",
+          "name": "paozhi",
+          "name_zh": "炮制"
+        },
+        {
+          "id": "peiwu",
+          "name": "peiwu",
+          "name_zh": "配伍与禁忌"
+        }
+      ]
+    },
+    {
+      "id": "fangji",
+      "name": "fangji",
+      "name_zh": "方剂学",
+      "subcategories": [
+        {
+          "id": "jingfang",
+          "name": "jingfang",
+          "name_zh": "经方"
+        },
+        {
+          "id": "shifang",
+          "name": "shifang",
+          "name_zh": "时方"
+        },
+        {
+          "id": "chengfang",
+          "name": "chengfang",
+          "name_zh": "成方制剂"
+        },
+        {
+          "id": "jieyao",
+          "name": "jieyao",
+          "name_zh": "方解"
+        }
+      ]
+    },
+    {
+      "id": "zhenjiu",
+      "name": "zhenjiu",
+      "name_zh": "针灸推拿",
+      "subcategories": [
+        {
+          "id": "jingluo",
+          "name": "jingluo",
+          "name_zh": "经络"
+        },
+        {
+          "id": "shuxue",
+          "name": "shuxue",
+          "name_zh": "腧穴"
+        },
+        {
+          "id": "cijiu",
+          "name": "cijiu",
+          "name_zh": "刺法灸法"
+        },
+        {
+          "id": "tuina",
+          "name": "tuina",
+          "name_zh": "推拿"
+        }
+      ]
+    },
+    {
+      "id": "linchuang",
+      "name": "linchuang",
+      "name_zh": "中医临床",
+      "subcategories": [
+        {
+          "id": "neike",
+          "name": "neike",
+          "name_zh": "内科"
+        },
+        {
+          "id": "waike",
+          "name": "waike",
+          "name_zh": "外科"
+        },
+        {
+          "id": "fuke",
+          "name": "fuke",
+          "name_zh": "妇科"
+        },
+        {
+          "id": "erke",
+          "name": "erke",
+          "name_zh": "儿科"
+        },
+        {
+          "id": "gushang",
+          "name": "gushang",
+          "name_zh": "骨伤科"
+        },
+        {
+          "id": "wuguan",
+          "name": "wuguan",
+          "name_zh": "五官科"
+        },
+        {
+          "id": "pifu",
+          "name": "pifu",
+          "name_zh": "皮肤科"
+        },
+        {
+          "id": "wenbing",
+          "name": "wenbing",
+          "name_zh": "温病"
+        }
+      ]
+    },
+    {
+      "id": "yangsheng",
+      "name": "yangsheng",
+      "name_zh": "养生康复",
+      "subcategories": [
+        {
+          "id": "daoyin",
+          "name": "daoyin",
+          "name_zh": "导引气功"
+        },
+        {
+          "id": "shiliao",
+          "name": "shiliao",
+          "name_zh": "食疗药膳"
+        },
+        {
+          "id": "qiju",
+          "name": "qiju",
+          "name_zh": "起居调摄"
+        },
+        {
+          "id": "kangfu",
+          "name": "kangfu",
+          "name_zh": "康复"
+        }
+      ]
+    },
+    {
+      "id": "yishi",
+      "name": "yishi",
+      "name_zh": "医史医家",
+      "subcategories": [
+        {
+          "id": "yijia",
+          "name": "yijia",
+          "name_zh": "医家"
+        },
+        {
+          "id": "yian",
+          "name": "yian",
+          "name_zh": "医案"
+        },
+        {
+          "id": "xuepai",
+          "name": "xuepai",
+          "name_zh": "学术流派"
+        },
+        {
+          "id": "shishu",
+          "name": "shishu",
+          "name_zh": "医史"
+        }
+      ]
+    },
+    {
+      "id": "jingdian",
+      "name": "jingdian",
+      "name_zh": "经典医籍",
+      "subcategories": [
+        {
+          "id": "neijing",
+          "name": "neijing",
+          "name_zh": "黄帝内经"
+        },
+        {
+          "id": "shanghan",
+          "name": "shanghan",
+          "name_zh": "伤寒论"
+        },
+        {
+          "id": "jingui",
+          "name": "jingui",
+          "name_zh": "金匮要略"
+        },
+        {
+          "id": "wenbing",
+          "name": "wenbing",
+          "name_zh": "温病经典"
+        },
+        {
+          "id": "bencao",
+          "name": "bencao",
+          "name_zh": "本草经典"
+        },
+        {
+          "id": "nanjing",
+          "name": "nanjing",
+          "name_zh": "难经"
+        }
+      ]
+    },
+    {
+      "id": "xiandai",
+      "name": "xiandai",
+      "name_zh": "现代中医",
+      "subcategories": [
+        {
+          "id": "zhidao",
+          "name": "zhidao",
+          "name_zh": "临床指南"
+        },
+        {
+          "id": "gongshi",
+          "name": "gongshi",
+          "name_zh": "专家共识"
+        },
+        {
+          "id": "yanjiu",
+          "name": "yanjiu",
+          "name_zh": "现代研究"
+        },
+        {
+          "id": "jiaocai",
+          "name": "jiaocai",
+          "name_zh": "教材与规范"
+        }
+      ]
+    }
+  ],
+  "books": [
+    {
+      "dir": "fangji/jingfang/guizhitang",
+      "tier": 1,
+      "tier_name": "核心",
+      "category": "fangji",
+      "subcategory": "jingfang",
+      "count": 1
+    },
+    {
+      "dir": "jingdian/neijing/suwen",
+      "tier": 1,
+      "tier_name": "核心",
+      "category": "jingdian",
+      "subcategory": "neijing",
+      "count": 1
+    },
+    {
+      "dir": "jingdian/shanghan",
+      "tier": 1,
+      "tier_name": "核心",
+      "category": "jingdian",
+      "subcategory": "shanghan",
+      "count": 1
+    },
+    {
+      "dir": "zhenjiu/shuxue/zusanli",
+      "tier": 1,
+      "tier_name": "核心",
+      "category": "zhenjiu",
+      "subcategory": "shuxue",
+      "count": 1
+    },
+    {
+      "dir": "zhongyao/yaowu/mahuang",
+      "tier": 1,
+      "tier_name": "核心",
+      "category": "zhongyao",
+      "subcategory": "yaowu",
+      "count": 1
+    }
+  ],
+  "total": 5,
+  "entries": [
+    {
+      "id": "guizhitang_001",
+      "book": "伤寒论",
+      "type": "fangji",
+      "tier": 1,
+      "category": "fangji",
+      "subcategory": "jingfang",
+      "path": "library/fangji/jingfang/guizhitang/guizhitang_001.md",
+      "weight": 8,
+      "title": "桂枝汤方",
+      "chapter": "辨太阳病脉证并治上",
+      "conditions": {
+        "zhengxing": [
+          "太阳中风",
+          "营卫不和"
+        ],
+        "zhifa": [
+          "解肌发表",
+          "调和营卫"
+        ],
+        "bingzheng": [
+          "感冒",
+          "自汗"
+        ],
+        "zhengzhuang": [
+          "发热",
+          "恶风",
+          "汗出",
+          "脉浮缓"
+        ],
+        "fangming": [
+          "桂枝汤"
+        ],
+        "yaoming": [
+          "桂枝",
+          "芍药",
+          "甘草",
+          "生姜",
+          "大枣"
+        ],
+        "xuewei": [],
+        "jingluo": [],
+        "keywords": [
+          "解表剂",
+          "辛温解表",
+          "群方之冠"
+        ]
+      }
+    },
+    {
+      "id": "suwen_001",
+      "book": "黄帝内经素问",
+      "type": "chapter",
+      "tier": 1,
+      "category": "jingdian",
+      "subcategory": "neijing",
+      "path": "library/jingdian/neijing/suwen/suwen_001.md",
+      "weight": 10,
+      "title": "上古天真论篇第一",
+      "chapter": "上古天真论篇第一",
+      "conditions": {
+        "zhengxing": [],
+        "zhifa": [
+          "养生"
+        ],
+        "bingzheng": [],
+        "zhengzhuang": [],
+        "fangming": [],
+        "yaoming": [],
+        "xuewei": [],
+        "jingluo": [],
+        "keywords": [
+          "养生",
+          "天年",
+          "上古之人",
+          "形与神俱",
+          "法于阴阳"
+        ]
+      }
+    },
+    {
+      "id": "shanghan_001",
+      "book": "伤寒论",
+      "type": "tiaomu",
+      "tier": 1,
+      "category": "jingdian",
+      "subcategory": "shanghan",
+      "path": "library/jingdian/shanghan/shanghan_001.md",
+      "weight": 10,
+      "title": "太阳病提纲（第1条）",
+      "chapter": "辨太阳病脉证并治上",
+      "conditions": {
+        "zhengxing": [
+          "太阳病"
+        ],
+        "zhifa": [],
+        "bingzheng": [],
+        "zhengzhuang": [
+          "发热",
+          "恶寒",
+          "头项强痛",
+          "脉浮"
+        ],
+        "fangming": [],
+        "yaoming": [],
+        "xuewei": [],
+        "jingluo": [],
+        "keywords": [
+          "六经辨证",
+          "太阳经",
+          "表证"
+        ]
+      }
+    },
+    {
+      "id": "zusanli_001",
+      "book": "针灸学",
+      "type": "shuxue",
+      "tier": 1,
+      "category": "zhenjiu",
+      "subcategory": "shuxue",
+      "path": "library/zhenjiu/shuxue/zusanli/zusanli_001.md",
+      "weight": 8,
+      "title": "足三里",
+      "chapter": "足阳明胃经",
+      "conditions": {
+        "zhengxing": [
+          "脾胃虚弱",
+          "气血不足"
+        ],
+        "zhifa": [
+          "健脾和胃",
+          "扶正培元",
+          "通经活络"
+        ],
+        "bingzheng": [
+          "胃痛",
+          "呕吐",
+          "腹胀",
+          "泄泻",
+          "便秘",
+          "下肢痿痹",
+          "虚劳"
+        ],
+        "zhengzhuang": [
+          "胃脘痛",
+          "纳呆",
+          "下肢无力"
+        ],
+        "fangming": [],
+        "yaoming": [],
+        "xuewei": [
+          "足三里"
+        ],
+        "jingluo": [
+          "足阳明胃经"
+        ],
+        "keywords": [
+          "合穴",
+          "胃下合穴",
+          "保健要穴",
+          "四总穴"
+        ]
+      }
+    },
+    {
+      "id": "mahuang_001",
+      "book": "神农本草经",
+      "type": "yaowu",
+      "tier": 1,
+      "category": "zhongyao",
+      "subcategory": "yaowu",
+      "path": "library/zhongyao/yaowu/mahuang/mahuang_001.md",
+      "weight": 8,
+      "title": "麻黄",
+      "chapter": "草部中品",
+      "conditions": {
+        "zhengxing": [
+          "风寒表实"
+        ],
+        "zhifa": [
+          "发汗解表",
+          "宣肺平喘",
+          "利水消肿"
+        ],
+        "bingzheng": [
+          "感冒",
+          "咳喘",
+          "风水水肿"
+        ],
+        "zhengzhuang": [
+          "恶寒发热",
+          "无汗",
+          "咳逆上气",
+          "水肿"
+        ],
+        "fangming": [
+          "麻黄汤",
+          "麻杏石甘汤",
+          "越婢汤"
+        ],
+        "yaoming": [
+          "麻黄"
+        ],
+        "xuewei": [],
+        "jingluo": [],
+        "keywords": [
+          "发汗",
+          "解表药",
+          "辛温"
+        ]
+      }
+    }
+  ]
+}

@@ -31,17 +31,21 @@
       "type": "object",
       "description": "中医结构化检索条件：所有字段均为数组；组内 AND（如 zhengxing+zhifa 同时满足），维度间 OR；keywords 为开放主题词做包含召回。后续 RAG 直接消费本结构。",
       "required": ["zhengxing", "zhifa", "bingzheng", "zhengzhuang",
-                   "fangming", "yaoming", "xuewei", "jingluo", "keywords"],
+                   "fangming", "yaoming", "xuewei", "jingluo",
+                   "siqi", "wuwei", "guijing", "keywords"],
       "additionalProperties": false,
       "properties": {
         "zhengxing": { "type": "array", "items": { "type": "string" }, "description": "证型（辨证分型），如 风寒束表 / 肝气郁结 / 脾胃气虚；建议取自受控词表" },
-        "zhifa": { "type": "array", "items": { "type": "string" }, "description": "治法，如 解表散寒 / 疏肝理气 / 益气健脾" },
+        "zhifa": { "type": "array", "items": { "type": "string" }, "description": "治法/功能，如 解表散寒 / 疏肝理气 / 益气健脾" },
         "bingzheng": { "type": "array", "items": { "type": "string" }, "description": "病症/疾病名，如 感冒 / 消渴 / 头痛" },
         "zhengzhuang": { "type": "array", "items": { "type": "string" }, "description": "症状/体征，如 发热 / 恶寒 / 口渴" },
         "fangming": { "type": "array", "items": { "type": "string" }, "description": "方剂名，如 桂枝汤 / 逍遥散" },
         "yaoming": { "type": "array", "items": { "type": "string" }, "description": "药物名，如 麻黄 / 桂枝 / 甘草" },
         "xuewei": { "type": "array", "items": { "type": "string" }, "description": "腧穴名，如 足三里 / 合谷" },
         "jingluo": { "type": "array", "items": { "type": "string" }, "description": "经络名，如 手太阴肺经 / 足阳明胃经" },
+        "siqi": { "type": "array", "items": { "type": "string" }, "description": "四气（药性）：寒/热/温/凉/平（药材条目用）" },
+        "wuwei": { "type": "array", "items": { "type": "string" }, "description": "五味：酸/苦/甘/辛/咸/淡/涩（药材条目用）" },
+        "guijing": { "type": "array", "items": { "type": "string" }, "description": "归经：十二正经/任督（药材条目用）" },
         "keywords": { "type": "array", "items": { "type": "string" }, "description": "开放主题词，主题包含召回" }
       }
     }

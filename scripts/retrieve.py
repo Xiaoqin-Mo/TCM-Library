@@ -90,7 +90,7 @@ def print_results(results: List[Dict[str, Any]], detail: bool = False) -> None:
                 f"({e['category']}/{e['subcategory']})  {e['path']}")
         print(line)
         if detail:
-            for f in ["zhengxing", "zhifa", "bingzheng", "zhengzhuang", "fangming", "yaoming", "xuewei", "jingluo", "keywords"]:
+            for f in ["zhengxing", "zhifa", "bingzheng", "zhengzhuang", "fangming", "yaoming", "xuewei", "jingluo", "siqi", "wuwei", "guijing", "keywords"]:
                 vals = cond.get(f, [])
                 if vals:
                     print(f"    {f}: {'、'.join(vals)}")
@@ -106,6 +106,9 @@ def main() -> None:
     ap.add_argument("--yaoming", action="append", default=[])
     ap.add_argument("--xuewei", action="append", default=[])
     ap.add_argument("--jingluo", action="append", default=[])
+    ap.add_argument("--siqi", action="append", default=[], help="四气：寒/热/温/凉/平")
+    ap.add_argument("--wuwei", action="append", default=[], help="五味：酸/苦/甘/辛/咸/淡/涩")
+    ap.add_argument("--guijing", action="append", default=[], help="归经：如 肺经/脾经")
     ap.add_argument("--keyword", action="append", default=[], help="开放主题词（可多次）")
     ap.add_argument("--limit", type=int, default=20)
     ap.add_argument("--detail", action="store_true")
@@ -129,6 +132,9 @@ def main() -> None:
         "yaoming": args.yaoming,
         "xuewei": args.xuewei,
         "jingluo": args.jingluo,
+        "siqi": args.siqi,
+        "wuwei": args.wuwei,
+        "guijing": args.guijing,
         "keywords": args.keyword,
     }
     manifest = load_manifest()

@@ -17,6 +17,9 @@ conditions:
   yaoming: ["桂枝", "芍药", "甘草", "生姜", "大枣"]
   xuewei: []
   jingluo: []
+  siqi: []
+  wuwei: []
+  guijing: []
   keywords: ["解表剂", "辛温解表", "群方之冠"]
 weight: 8
 tags: ["方剂学", "经方", "解表剂"]

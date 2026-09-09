@@ -20,10 +20,11 @@
 
 ```json
 {
-  "schema_version": 2,
+  "schema_version": 2.1,
   "name": "TCM-Library 中医知识百科全书检索库",
   "match_fields": ["zhengxing", "zhifa", "bingzheng", "zhengzhuang",
-                   "fangming", "yaoming", "xuewei", "jingluo"],
+                   "fangming", "yaoming", "xuewei", "jingluo",
+                   "siqi", "wuwei", "guijing"],
   "match_rule": "…",
   "roots": { "<category>": { "<subcategory>": { "dir": "…", "count": 0 } } },
   "categories": [ { "id", "name", "name_zh", "subcategories": [...] } ],
@@ -38,10 +39,10 @@
 
 | 字段 | 类型 | 说明 |
 | --- | --- | --- |
-| `schema_version` | int | 契约版本（当前 2）。破坏性变更递增主版本；兼容性新增递增次版本 |
+| `schema_version` | number | 契约版本（当前 2.1）。破坏性变更递增主版本；兼容性新增递增次版本 |
 | `entries[].id` | string | **全局唯一、稳定的主键**，RAG 文档 ID 直接用 |
 | `entries[].path` | string | 条目 `.md` 相对路径（相对仓库根） |
-| `entries[].conditions` | object | 结构化检索条件（九个数组字段，见 §3） |
+| `entries[].conditions` | object | 结构化检索条件（12 个数组字段，见 §3） |
 | `entries[].weight` | int | 排序权重（0–10），供重排特征 |
 | `entries[].tier` | int | 书籍梯队（1 核心 / 2 重要 / 3 拓展），聚合自 weight |
 | `categories[]` | array | 分类体系（id/name_zh/subcategories），供导航与过滤 |
@@ -49,7 +50,7 @@
 ### 2.2 版本策略
 
 - `schema_version` 升主版本：消费端必须适配（字段删除/改名/语义变化）
-- 升次版本：向后兼容（新增可选字段）
+- 升次版本：向后兼容（新增可选字段）。**2.0 → 2.1**：`conditions` 新增 `siqi`（四气）/`wuwei`（五味）/`guijing`（归经）三个数组字段，旧消费端读取不报错（仅多字段）
 - 消费端读取时**校验版本**，不匹配则告警或走兼容分支
 
 ## 3. 条目正文结构
@@ -113,7 +114,7 @@ def read_entry(entry, repo_root):
 
 if __name__ == "__main__":
     m = load_manifest(sys.argv[1] if len(sys.argv) > 1 else "manifest.json")
-    assert m["schema_version"] == 2, f"unsupported schema {m['schema_version']}"
+    assert m["schema_version"] == 2.1, f"unsupported schema {m['schema_version']}"
     for e in m["entries"][:3]:          # 演示：读前 3 条
         layers = read_entry(e, ".")
         print(e["id"], e["title"], "| 白话提要:", layers["【白话提要】"][:40])

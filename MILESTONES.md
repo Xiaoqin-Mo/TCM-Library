@@ -14,15 +14,20 @@
 
 **完成标准**：质量门 0 错误；`dev` 分支建立；检索器全维度可用。
 
-## v0.2 — 首批经典（目标：≥200 条）
+## v0.2 — 首批经典 + 药材名录（目标：≥500 条）
 
 **优先级 P0（核心经典，weight 10）**
 - [ ] 《黄帝内经·素问》81 篇全文（`jingdian/neijing/suwen/`）
 - [ ] 《黄帝内经·灵枢》81 篇全文（`jingdian/neijing/lingshu/`）
 - [ ] 《伤寒论》398 条条文（`jingdian/shanghan/`）
 
+**药材名录（L0 药典药材，约 620 种；详见 docs/plan-herbal-catalog.md）**
+- [x] 基础设施：siqi/wuwei/guijing 字段（schema 2.1）、21 功效子类、词表、模板、测试
+- [ ] 药典目录清点 + 名单入库
+- [ ] 解表药 / 清热药等分批完整条目（每批 ≤50，按功效类整类推进）
+
 **优先级 P1（本草 / 方剂）**
-- [ ] 《神农本草经》药物条目（`jingdian/bencao/shennong/` + `zhongyao/yaowu/` 关联）
+- [ ] 《神农本草经》药物条目（`jingdian/bencao/shennong/` + `zhongyao/` 关联）
 - [ ] 《金匮要略》篇目（`jingdian/jingui/`）
 - [ ] 经方条目（桂枝汤、麻黄汤、小柴胡汤等 30+，`fangji/jingfang/`）
 

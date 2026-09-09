@@ -30,7 +30,7 @@ ROOT = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 LIBRARY_DIR = os.path.join(ROOT, "library")
 DEFAULT_OUT = os.path.join(ROOT, "manifest.json")
 
-SCHEMA_VERSION = 2
+SCHEMA_VERSION = 2.1
 NAME = "TCM-Library 中医知识百科全书检索库"
 MATCH_RULE = ("entry is recalled iff, for every non-empty declared field, it intersects "
               "the query's same-field set; results sort by hit specificity, then weight, "

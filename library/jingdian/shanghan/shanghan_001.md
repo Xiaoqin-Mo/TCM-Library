@@ -17,6 +17,9 @@ conditions:
   yaoming: []
   xuewei: []
   jingluo: []
+  siqi: []
+  wuwei: []
+  guijing: []
   keywords: ["六经辨证", "太阳经", "表证"]
 weight: 10
 tags: ["经典医籍", "伤寒论", "六经辨证"]

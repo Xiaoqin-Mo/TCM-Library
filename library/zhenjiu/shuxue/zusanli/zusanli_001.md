@@ -17,6 +17,9 @@ conditions:
   yaoming: []
   xuewei: ["足三里"]
   jingluo: ["足阳明胃经"]
+  siqi: []
+  wuwei: []
+  guijing: []
   keywords: ["合穴", "胃下合穴", "保健要穴", "四总穴"]
 weight: 8
 tags: ["针灸推拿", "腧穴", "足阳明胃经"]

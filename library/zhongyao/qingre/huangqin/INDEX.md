@@ -1,0 +1,9 @@
+# zhongyao/qingre/huangqin · 索引
+
+> 中药学 / 清热药 · 条目数 1
+
+| 条目 | 标题 | 类型 | 权重 |
+| --- | --- | --- | --- |
+| [huangqin_001](./huangqin_001.md) | 黄芩 | yaowu | 8 |
+
+[返回总索引](../../../INDEX.md)

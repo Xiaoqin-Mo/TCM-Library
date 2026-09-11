@@ -1,6 +1,6 @@
 # zhongyao · 中药学
 
-> 收录 488 条 · 下级 21 个子类
+> 收录 502 条 · 下级 21 个子类
 
 ## anshen · 安神药
 
@@ -39,16 +39,23 @@
 | zhongyao/buxu/beishashen | 1 | [索引](./zhongyao/buxu/beishashen/INDEX.md) |
 | zhongyao/buxu/biejia | 1 | [索引](./zhongyao/buxu/biejia/INDEX.md) |
 | zhongyao/buxu/buguzhi | 1 | [索引](./zhongyao/buxu/buguzhi/INDEX.md) |
+| zhongyao/buxu/chushizi | 1 | [索引](./zhongyao/buxu/chushizi/INDEX.md) |
+| zhongyao/buxu/ciwujia | 1 | [索引](./zhongyao/buxu/ciwujia/INDEX.md) |
 | zhongyao/buxu/danggui | 1 | [索引](./zhongyao/buxu/danggui/INDEX.md) |
 | zhongyao/buxu/dangshen | 1 | [索引](./zhongyao/buxu/dangshen/INDEX.md) |
 | zhongyao/buxu/dazao | 1 | [索引](./zhongyao/buxu/dazao/INDEX.md) |
 | zhongyao/buxu/dongchongxiacao | 1 | [索引](./zhongyao/buxu/dongchongxiacao/INDEX.md) |
 | zhongyao/buxu/duzhong | 1 | [索引](./zhongyao/buxu/duzhong/INDEX.md) |
+| zhongyao/buxu/duzhongye | 1 | [索引](./zhongyao/buxu/duzhongye/INDEX.md) |
 | zhongyao/buxu/ejiao | 1 | [索引](./zhongyao/buxu/ejiao/INDEX.md) |
 | zhongyao/buxu/fengmi | 1 | [索引](./zhongyao/buxu/fengmi/INDEX.md) |
 | zhongyao/buxu/gancao | 1 | [索引](./zhongyao/buxu/gancao/INDEX.md) |
 | zhongyao/buxu/gouqizi | 1 | [索引](./zhongyao/buxu/gouqizi/INDEX.md) |
+| zhongyao/buxu/guangzao | 1 | [索引](./zhongyao/buxu/guangzao/INDEX.md) |
 | zhongyao/buxu/guijia | 1 | [索引](./zhongyao/buxu/guijia/INDEX.md) |
+| zhongyao/buxu/hailong | 1 | [索引](./zhongyao/buxu/hailong/INDEX.md) |
+| zhongyao/buxu/haima | 1 | [索引](./zhongyao/buxu/haima/INDEX.md) |
+| zhongyao/buxu/hamayou | 1 | [索引](./zhongyao/buxu/hamayou/INDEX.md) |
 | zhongyao/buxu/heshouwu | 1 | [索引](./zhongyao/buxu/heshouwu/INDEX.md) |
 | zhongyao/buxu/hetaoren | 1 | [索引](./zhongyao/buxu/hetaoren/INDEX.md) |
 | zhongyao/buxu/hongjingtian | 1 | [索引](./zhongyao/buxu/hongjingtian/INDEX.md) |
@@ -59,13 +66,17 @@
 | zhongyao/buxu/lujiaojiao | 1 | [索引](./zhongyao/buxu/lujiaojiao/INDEX.md) |
 | zhongyao/buxu/lurong | 1 | [索引](./zhongyao/buxu/lurong/INDEX.md) |
 | zhongyao/buxu/maidong | 1 | [索引](./zhongyao/buxu/maidong/INDEX.md) |
+| zhongyao/buxu/mingdangshen | 1 | [索引](./zhongyao/buxu/mingdangshen/INDEX.md) |
 | zhongyao/buxu/mohanlian | 1 | [索引](./zhongyao/buxu/mohanlian/INDEX.md) |
 | zhongyao/buxu/nanshashen | 1 | [索引](./zhongyao/buxu/nanshashen/INDEX.md) |
 | zhongyao/buxu/nvzhenzi | 1 | [索引](./zhongyao/buxu/nvzhenzi/INDEX.md) |
 | zhongyao/buxu/renshen | 1 | [索引](./zhongyao/buxu/renshen/INDEX.md) |
+| zhongyao/buxu/renshenye | 1 | [索引](./zhongyao/buxu/renshenye/INDEX.md) |
 | zhongyao/buxu/roucongrong | 1 | [索引](./zhongyao/buxu/roucongrong/INDEX.md) |
 | zhongyao/buxu/sangshen | 1 | [索引](./zhongyao/buxu/sangshen/INDEX.md) |
+| zhongyao/buxu/shaji | 1 | [索引](./zhongyao/buxu/shaji/INDEX.md) |
 | zhongyao/buxu/shangyao | 1 | [索引](./zhongyao/buxu/shangyao/INDEX.md) |
+| zhongyao/buxu/shanmaidong | 1 | [索引](./zhongyao/buxu/shanmaidong/INDEX.md) |
 | zhongyao/buxu/shayuanyi | 1 | [索引](./zhongyao/buxu/shayuanyi/INDEX.md) |
 | zhongyao/buxu/shihu | 1 | [索引](./zhongyao/buxu/shihu/INDEX.md) |
 | zhongyao/buxu/shudihuang | 1 | [索引](./zhongyao/buxu/shudihuang/INDEX.md) |
@@ -74,12 +85,15 @@
 | zhongyao/buxu/tiandong | 1 | [索引](./zhongyao/buxu/tiandong/INDEX.md) |
 | zhongyao/buxu/tianshanxuelian | 1 | [索引](./zhongyao/buxu/tianshanxuelian/INDEX.md) |
 | zhongyao/buxu/tusizi | 1 | [索引](./zhongyao/buxu/tusizi/INDEX.md) |
+| zhongyao/buxu/wushanyinyanghuo | 1 | [索引](./zhongyao/buxu/wushanyinyanghuo/INDEX.md) |
 | zhongyao/buxu/xianmao | 1 | [索引](./zhongyao/buxu/xianmao/INDEX.md) |
 | zhongyao/buxu/xiyangshen | 1 | [索引](./zhongyao/buxu/xiyangshen/INDEX.md) |
 | zhongyao/buxu/xuduan | 1 | [索引](./zhongyao/buxu/xuduan/INDEX.md) |
 | zhongyao/buxu/yinyanghuo | 1 | [索引](./zhongyao/buxu/yinyanghuo/INDEX.md) |
+| zhongyao/buxu/yizhi | 1 | [索引](./zhongyao/buxu/yizhi/INDEX.md) |
 | zhongyao/buxu/yizhiren | 1 | [索引](./zhongyao/buxu/yizhiren/INDEX.md) |
 | zhongyao/buxu/yuzhu | 1 | [索引](./zhongyao/buxu/yuzhu/INDEX.md) |
+| zhongyao/buxu/zhuzishen | 1 | [索引](./zhongyao/buxu/zhuzishen/INDEX.md) |
 | zhongyao/buxu/ziheche | 1 | [索引](./zhongyao/buxu/ziheche/INDEX.md) |
 
 ## gongdu · 攻毒杀虫止痒药

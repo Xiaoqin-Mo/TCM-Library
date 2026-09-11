@@ -750,6 +750,22 @@
       "count": 1
     },
     {
+      "dir": "zhongyao/buxu/chushizi",
+      "tier": 1,
+      "tier_name": "核心",
+      "category": "zhongyao",
+      "subcategory": "buxu",
+      "count": 1
+    },
+    {
+      "dir": "zhongyao/buxu/ciwujia",
+      "tier": 1,
+      "tier_name": "核心",
+      "category": "zhongyao",
+      "subcategory": "buxu",
+      "count": 1
+    },
+    {
       "dir": "zhongyao/buxu/danggui",
       "tier": 1,
       "tier_name": "核心",
@@ -790,6 +806,14 @@
       "count": 1
     },
     {
+      "dir": "zhongyao/buxu/duzhongye",
+      "tier": 1,
+      "tier_name": "核心",
+      "category": "zhongyao",
+      "subcategory": "buxu",
+      "count": 1
+    },
+    {
       "dir": "zhongyao/buxu/ejiao",
       "tier": 1,
       "tier_name": "核心",
@@ -822,7 +846,39 @@
       "count": 1
     },
     {
+      "dir": "zhongyao/buxu/guangzao",
+      "tier": 1,
+      "tier_name": "核心",
+      "category": "zhongyao",
+      "subcategory": "buxu",
+      "count": 1
+    },
+    {
       "dir": "zhongyao/buxu/guijia",
+      "tier": 1,
+      "tier_name": "核心",
+      "category": "zhongyao",
+      "subcategory": "buxu",
+      "count": 1
+    },
+    {
+      "dir": "zhongyao/buxu/hailong",
+      "tier": 1,
+      "tier_name": "核心",
+      "category": "zhongyao",
+      "subcategory": "buxu",
+      "count": 1
+    },
+    {
+      "dir": "zhongyao/buxu/haima",
+      "tier": 1,
+      "tier_name": "核心",
+      "category": "zhongyao",
+      "subcategory": "buxu",
+      "count": 1
+    },
+    {
+      "dir": "zhongyao/buxu/hamayou",
       "tier": 1,
       "tier_name": "核心",
       "category": "zhongyao",
@@ -910,6 +966,14 @@
       "count": 1
     },
     {
+      "dir": "zhongyao/buxu/mingdangshen",
+      "tier": 1,
+      "tier_name": "核心",
+      "category": "zhongyao",
+      "subcategory": "buxu",
+      "count": 1
+    },
+    {
       "dir": "zhongyao/buxu/mohanlian",
       "tier": 1,
       "tier_name": "核心",
@@ -942,6 +1006,14 @@
       "count": 1
     },
     {
+      "dir": "zhongyao/buxu/renshenye",
+      "tier": 1,
+      "tier_name": "核心",
+      "category": "zhongyao",
+      "subcategory": "buxu",
+      "count": 1
+    },
+    {
       "dir": "zhongyao/buxu/roucongrong",
       "tier": 1,
       "tier_name": "核心",
@@ -958,7 +1030,23 @@
       "count": 1
     },
     {
+      "dir": "zhongyao/buxu/shaji",
+      "tier": 1,
+      "tier_name": "核心",
+      "category": "zhongyao",
+      "subcategory": "buxu",
+      "count": 1
+    },
+    {
       "dir": "zhongyao/buxu/shangyao",
+      "tier": 1,
+      "tier_name": "核心",
+      "category": "zhongyao",
+      "subcategory": "buxu",
+      "count": 1
+    },
+    {
+      "dir": "zhongyao/buxu/shanmaidong",
       "tier": 1,
       "tier_name": "核心",
       "category": "zhongyao",
@@ -1030,6 +1118,14 @@
       "count": 1
     },
     {
+      "dir": "zhongyao/buxu/wushanyinyanghuo",
+      "tier": 1,
+      "tier_name": "核心",
+      "category": "zhongyao",
+      "subcategory": "buxu",
+      "count": 1
+    },
+    {
       "dir": "zhongyao/buxu/xianmao",
       "tier": 1,
       "tier_name": "核心",
@@ -1062,6 +1158,14 @@
       "count": 1
     },
     {
+      "dir": "zhongyao/buxu/yizhi",
+      "tier": 1,
+      "tier_name": "核心",
+      "category": "zhongyao",
+      "subcategory": "buxu",
+      "count": 1
+    },
+    {
       "dir": "zhongyao/buxu/yizhiren",
       "tier": 1,
       "tier_name": "核心",
@@ -1071,6 +1175,14 @@
     },
     {
       "dir": "zhongyao/buxu/yuzhu",
+      "tier": 1,
+      "tier_name": "核心",
+      "category": "zhongyao",
+      "subcategory": "buxu",
+      "count": 1
+    },
+    {
+      "dir": "zhongyao/buxu/zhuzishen",
       "tier": 1,
       "tier_name": "核心",
       "category": "zhongyao",
@@ -4470,7 +4582,7 @@
       "count": 1
     }
   ],
-  "total": 492,
+  "total": 506,
   "entries": [
     {
       "id": "guizhitang_001",
@@ -6093,6 +6205,122 @@
       }
     },
     {
+      "id": "chushizi_001",
+      "book": "中国药典（2025年版）一部",
+      "type": "yaowu",
+      "tier": 1,
+      "category": "zhongyao",
+      "subcategory": "buxu",
+      "path": "library/zhongyao/buxu/chushizi/chushizi_001.md",
+      "weight": 8,
+      "title": "楮实子",
+      "chapter": "补虚药",
+      "conditions": {
+        "zhengxing": [
+          "肝肾不足",
+          "虚劳"
+        ],
+        "zhifa": [
+          "补肾清肝",
+          "明目",
+          "利尿"
+        ],
+        "bingzheng": [
+          "虚劳骨蒸",
+          "头晕目昏",
+          "目生翳膜",
+          "水肿胀满"
+        ],
+        "zhengzhuang": [
+          "头晕目眩",
+          "视物昏花"
+        ],
+        "fangming": [],
+        "yaoming": [
+          "楮实子"
+        ],
+        "xuewei": [],
+        "jingluo": [],
+        "siqi": [
+          "寒"
+        ],
+        "wuwei": [
+          "甘"
+        ],
+        "guijing": [
+          "肝经",
+          "肾经"
+        ],
+        "keywords": [
+          "桑科",
+          "构树",
+          "成熟果实",
+          "补肾明目",
+          "中国药典"
+        ]
+      }
+    },
+    {
+      "id": "ciwujia_001",
+      "book": "中国药典（2025年版）一部",
+      "type": "yaowu",
+      "tier": 1,
+      "category": "zhongyao",
+      "subcategory": "buxu",
+      "path": "library/zhongyao/buxu/ciwujia/ciwujia_001.md",
+      "weight": 8,
+      "title": "刺五加",
+      "chapter": "补虚药",
+      "conditions": {
+        "zhengxing": [
+          "脾肾气虚",
+          "心神不宁"
+        ],
+        "zhifa": [
+          "益气健脾",
+          "补肾安神"
+        ],
+        "bingzheng": [
+          "脾肺气虚",
+          "体虚乏力",
+          "食欲不振",
+          "腰膝酸软",
+          "失眠多梦"
+        ],
+        "zhengzhuang": [
+          "神疲乏力",
+          "失眠健忘"
+        ],
+        "fangming": [
+          "刺五加片"
+        ],
+        "yaoming": [
+          "刺五加"
+        ],
+        "xuewei": [],
+        "jingluo": [],
+        "siqi": [
+          "温"
+        ],
+        "wuwei": [
+          "辛",
+          "微苦"
+        ],
+        "guijing": [
+          "脾经",
+          "肾经",
+          "心经"
+        ],
+        "keywords": [
+          "五加科",
+          "刺五加",
+          "根和根茎",
+          "益气安神",
+          "中国药典"
+        ]
+      }
+    },
+    {
       "id": "danggui_001",
       "book": "中国药典（2025年版）一部",
       "type": "yaowu",
@@ -6409,6 +6637,62 @@
       }
     },
     {
+      "id": "duzhongye_001",
+      "book": "中国药典（2025年版）一部",
+      "type": "yaowu",
+      "tier": 1,
+      "category": "zhongyao",
+      "subcategory": "buxu",
+      "path": "library/zhongyao/buxu/duzhongye/duzhongye_001.md",
+      "weight": 8,
+      "title": "杜仲叶",
+      "chapter": "补虚药",
+      "conditions": {
+        "zhengxing": [
+          "肝肾不足",
+          "风湿"
+        ],
+        "zhifa": [
+          "补肝肾",
+          "强筋骨"
+        ],
+        "bingzheng": [
+          "肝肾不足",
+          "腰膝酸软",
+          "筋骨痿软",
+          "高血压"
+        ],
+        "zhengzhuang": [
+          "腰膝酸软"
+        ],
+        "fangming": [
+          "杜仲平压片"
+        ],
+        "yaoming": [
+          "杜仲叶"
+        ],
+        "xuewei": [],
+        "jingluo": [],
+        "siqi": [
+          "温"
+        ],
+        "wuwei": [
+          "微辛"
+        ],
+        "guijing": [
+          "肝经",
+          "肾经"
+        ],
+        "keywords": [
+          "杜仲科",
+          "杜仲",
+          "叶",
+          "补肝肾强筋骨",
+          "中国药典"
+        ]
+      }
+    },
+    {
       "id": "ejiao_001",
       "book": "中国药典（2025年版）一部",
       "type": "yaowu",
@@ -6678,6 +6962,62 @@
       }
     },
     {
+      "id": "guangzao_001",
+      "book": "中国药典（2025年版）一部",
+      "type": "yaowu",
+      "tier": 1,
+      "category": "zhongyao",
+      "subcategory": "buxu",
+      "path": "library/zhongyao/buxu/guangzao/guangzao_001.md",
+      "weight": 8,
+      "title": "广枣",
+      "chapter": "补虚药",
+      "conditions": {
+        "zhengxing": [
+          "气滞血瘀",
+          "心神不宁"
+        ],
+        "zhifa": [
+          "行气活血",
+          "养心安神"
+        ],
+        "bingzheng": [
+          "胸痹心痛",
+          "气滞血瘀",
+          "心神不宁",
+          "失眠"
+        ],
+        "zhengzhuang": [
+          "胸闷心痛",
+          "失眠多梦"
+        ],
+        "fangming": [],
+        "yaoming": [
+          "广枣"
+        ],
+        "xuewei": [],
+        "jingluo": [],
+        "siqi": [
+          "平"
+        ],
+        "wuwei": [
+          "甘",
+          "酸"
+        ],
+        "guijing": [
+          "心经",
+          "肝经"
+        ],
+        "keywords": [
+          "漆树科",
+          "南酸枣",
+          "成熟果实",
+          "蒙药常用",
+          "养心安神"
+        ]
+      }
+    },
+    {
       "id": "guijia_001",
       "book": "中国药典（2025年版）一部",
       "type": "yaowu",
@@ -6743,6 +7083,179 @@
           "腹甲",
           "先煎",
           "滋阴潜阳",
+          "中国药典"
+        ]
+      }
+    },
+    {
+      "id": "hailong_001",
+      "book": "中国药典（2025年版）一部",
+      "type": "yaowu",
+      "tier": 1,
+      "category": "zhongyao",
+      "subcategory": "buxu",
+      "path": "library/zhongyao/buxu/hailong/hailong_001.md",
+      "weight": 8,
+      "title": "海龙",
+      "chapter": "补虚药",
+      "conditions": {
+        "zhengxing": [
+          "肾阳不足",
+          "瘀血"
+        ],
+        "zhifa": [
+          "温肾壮阳",
+          "散结消肿"
+        ],
+        "bingzheng": [
+          "肾阳虚衰",
+          "阳痿遗精",
+          "癥瘕积聚",
+          "瘰疬痰核",
+          "跌打损伤"
+        ],
+        "zhengzhuang": [
+          "腰膝酸软",
+          "畏寒肢冷"
+        ],
+        "fangming": [],
+        "yaoming": [
+          "海龙"
+        ],
+        "xuewei": [],
+        "jingluo": [],
+        "siqi": [
+          "温"
+        ],
+        "wuwei": [
+          "甘",
+          "咸"
+        ],
+        "guijing": [
+          "肝经",
+          "肾经"
+        ],
+        "keywords": [
+          "海龙科",
+          "刁海龙",
+          "干燥体",
+          "温肾壮阳",
+          "中国药典"
+        ]
+      }
+    },
+    {
+      "id": "haima_001",
+      "book": "中国药典（2025年版）一部",
+      "type": "yaowu",
+      "tier": 1,
+      "category": "zhongyao",
+      "subcategory": "buxu",
+      "path": "library/zhongyao/buxu/haima/haima_001.md",
+      "weight": 8,
+      "title": "海马",
+      "chapter": "补虚药",
+      "conditions": {
+        "zhengxing": [
+          "肾阳不足",
+          "瘀血"
+        ],
+        "zhifa": [
+          "温肾壮阳",
+          "散结消肿"
+        ],
+        "bingzheng": [
+          "肾阳虚衰",
+          "阳痿遗精",
+          "遗尿",
+          "癥瘕积聚",
+          "跌打损伤",
+          "痈肿疔疮"
+        ],
+        "zhengzhuang": [
+          "腰膝酸软",
+          "畏寒"
+        ],
+        "fangming": [
+          "海马补肾丸"
+        ],
+        "yaoming": [
+          "海马"
+        ],
+        "xuewei": [],
+        "jingluo": [],
+        "siqi": [
+          "温"
+        ],
+        "wuwei": [
+          "甘",
+          "咸"
+        ],
+        "guijing": [
+          "肝经",
+          "肾经"
+        ],
+        "keywords": [
+          "海龙科",
+          "线纹海马",
+          "干燥体",
+          "温肾壮阳",
+          "中国药典"
+        ]
+      }
+    },
+    {
+      "id": "hamayou_001",
+      "book": "中国药典（2025年版）一部",
+      "type": "yaowu",
+      "tier": 1,
+      "category": "zhongyao",
+      "subcategory": "buxu",
+      "path": "library/zhongyao/buxu/hamayou/hamayou_001.md",
+      "weight": 8,
+      "title": "哈蟆油",
+      "chapter": "补虚药",
+      "conditions": {
+        "zhengxing": [
+          "肺肾阴虚"
+        ],
+        "zhifa": [
+          "补肾益精",
+          "养阴润肺"
+        ],
+        "bingzheng": [
+          "病后体弱",
+          "神疲乏力",
+          "心悸失眠",
+          "盗汗",
+          "痨嗽咳血"
+        ],
+        "zhengzhuang": [
+          "体虚乏力",
+          "干咳盗汗"
+        ],
+        "fangming": [],
+        "yaoming": [
+          "哈蟆油"
+        ],
+        "xuewei": [],
+        "jingluo": [],
+        "siqi": [
+          "平"
+        ],
+        "wuwei": [
+          "甘",
+          "咸"
+        ],
+        "guijing": [
+          "肺经",
+          "肾经"
+        ],
+        "keywords": [
+          "蛙科",
+          "中国林蛙",
+          "输卵管",
+          "养阴润肺",
           "中国药典"
         ]
       }
@@ -7399,6 +7912,64 @@
       }
     },
     {
+      "id": "mingdangshen_001",
+      "book": "中国药典（2025年版）一部",
+      "type": "yaowu",
+      "tier": 1,
+      "category": "zhongyao",
+      "subcategory": "buxu",
+      "path": "library/zhongyao/buxu/mingdangshen/mingdangshen_001.md",
+      "weight": 8,
+      "title": "明党参",
+      "chapter": "补虚药",
+      "conditions": {
+        "zhengxing": [
+          "阴虚",
+          "痰热"
+        ],
+        "zhifa": [
+          "润肺化痰",
+          "养阴和胃",
+          "平肝"
+        ],
+        "bingzheng": [
+          "肺热咳嗽",
+          "呕吐反胃",
+          "食少口干",
+          "目赤眩晕"
+        ],
+        "zhengzhuang": [
+          "干咳少痰",
+          "口干食少"
+        ],
+        "fangming": [],
+        "yaoming": [
+          "明党参"
+        ],
+        "xuewei": [],
+        "jingluo": [],
+        "siqi": [
+          "微寒"
+        ],
+        "wuwei": [
+          "甘",
+          "微苦"
+        ],
+        "guijing": [
+          "肺经",
+          "脾经",
+          "肝经"
+        ],
+        "keywords": [
+          "伞形科",
+          "明党参",
+          "根",
+          "润肺化痰",
+          "中国药典"
+        ]
+      }
+    },
+    {
       "id": "mohanlian_001",
       "book": "中国药典（2025年版）一部",
       "type": "yaowu",
@@ -7661,6 +8232,62 @@
       }
     },
     {
+      "id": "renshenye_001",
+      "book": "中国药典（2025年版）一部",
+      "type": "yaowu",
+      "tier": 1,
+      "category": "zhongyao",
+      "subcategory": "buxu",
+      "path": "library/zhongyao/buxu/renshenye/renshenye_001.md",
+      "weight": 8,
+      "title": "人参叶",
+      "chapter": "补虚药",
+      "conditions": {
+        "zhengxing": [
+          "气阴两虚",
+          "热毒"
+        ],
+        "zhifa": [
+          "补气益肺",
+          "祛暑生津"
+        ],
+        "bingzheng": [
+          "气虚咳嗽",
+          "暑热口渴",
+          "津伤口干",
+          "虚火牙痛"
+        ],
+        "zhengzhuang": [
+          "神疲乏力",
+          "口干咽燥"
+        ],
+        "fangming": [],
+        "yaoming": [
+          "人参叶"
+        ],
+        "xuewei": [],
+        "jingluo": [],
+        "siqi": [
+          "寒"
+        ],
+        "wuwei": [
+          "苦",
+          "甘"
+        ],
+        "guijing": [
+          "肺经",
+          "胃经"
+        ],
+        "keywords": [
+          "五加科",
+          "人参",
+          "叶",
+          "补气生津",
+          "中国药典"
+        ]
+      }
+    },
+    {
       "id": "roucongrong_001",
       "book": "中国药典（2025年版）一部",
       "type": "yaowu",
@@ -7788,6 +8415,69 @@
       }
     },
     {
+      "id": "shaji_001",
+      "book": "中国药典（2025年版）一部",
+      "type": "yaowu",
+      "tier": 1,
+      "category": "zhongyao",
+      "subcategory": "buxu",
+      "path": "library/zhongyao/buxu/shaji/shaji_001.md",
+      "weight": 8,
+      "title": "沙棘",
+      "chapter": "补虚药",
+      "conditions": {
+        "zhengxing": [
+          "脾虚",
+          "痰浊",
+          "血瘀"
+        ],
+        "zhifa": [
+          "健脾消食",
+          "止咳祛痰",
+          "活血散瘀"
+        ],
+        "bingzheng": [
+          "脾虚食少",
+          "食积腹痛",
+          "咳嗽痰多",
+          "瘀血经闭",
+          "跌打瘀肿"
+        ],
+        "zhengzhuang": [
+          "食少腹胀",
+          "咳嗽痰多"
+        ],
+        "fangming": [
+          "沙棘颗粒"
+        ],
+        "yaoming": [
+          "沙棘"
+        ],
+        "xuewei": [],
+        "jingluo": [],
+        "siqi": [
+          "温"
+        ],
+        "wuwei": [
+          "酸",
+          "涩"
+        ],
+        "guijing": [
+          "脾经",
+          "胃经",
+          "肺经",
+          "心经"
+        ],
+        "keywords": [
+          "胡颓子科",
+          "沙棘",
+          "成熟果实",
+          "蒙药常用",
+          "健脾活血"
+        ]
+      }
+    },
+    {
       "id": "shangyao_001",
       "book": "中国药典（2025年版）一部",
       "type": "yaowu",
@@ -7850,6 +8540,64 @@
           "薯蓣",
           "根茎",
           "平补三焦",
+          "中国药典"
+        ]
+      }
+    },
+    {
+      "id": "shanmaidong_001",
+      "book": "中国药典（2025年版）一部",
+      "type": "yaowu",
+      "tier": 1,
+      "category": "zhongyao",
+      "subcategory": "buxu",
+      "path": "library/zhongyao/buxu/shanmaidong/shanmaidong_001.md",
+      "weight": 8,
+      "title": "山麦冬",
+      "chapter": "补虚药",
+      "conditions": {
+        "zhengxing": [
+          "阴虚",
+          "津亏"
+        ],
+        "zhifa": [
+          "养阴生津",
+          "润肺清心"
+        ],
+        "bingzheng": [
+          "肺燥干咳",
+          "阴虚痨嗽",
+          "喉痹咽痛",
+          "津伤口渴",
+          "心烦失眠"
+        ],
+        "zhengzhuang": [
+          "干咳少痰",
+          "咽干口渴"
+        ],
+        "fangming": [],
+        "yaoming": [
+          "山麦冬"
+        ],
+        "xuewei": [],
+        "jingluo": [],
+        "siqi": [
+          "微寒"
+        ],
+        "wuwei": [
+          "甘",
+          "微苦"
+        ],
+        "guijing": [
+          "肺经",
+          "胃经",
+          "心经"
+        ],
+        "keywords": [
+          "百合科",
+          "湖北麦冬",
+          "块根",
+          "养阴生津",
           "中国药典"
         ]
       }
@@ -8360,6 +9108,64 @@
       }
     },
     {
+      "id": "wushanyinyanghuo_001",
+      "book": "中国药典（2025年版）一部",
+      "type": "yaowu",
+      "tier": 1,
+      "category": "zhongyao",
+      "subcategory": "buxu",
+      "path": "library/zhongyao/buxu/wushanyinyanghuo/wushanyinyanghuo_001.md",
+      "weight": 8,
+      "title": "巫山淫羊藿",
+      "chapter": "补虚药",
+      "conditions": {
+        "zhengxing": [
+          "肾阳不足",
+          "风湿"
+        ],
+        "zhifa": [
+          "补肾阳",
+          "强筋骨",
+          "祛风湿"
+        ],
+        "bingzheng": [
+          "肾阳虚衰",
+          "阳痿遗精",
+          "腰膝酸软",
+          "筋骨痿软",
+          "风湿痹痛"
+        ],
+        "zhengzhuang": [
+          "腰膝酸软",
+          "畏寒肢冷"
+        ],
+        "fangming": [],
+        "yaoming": [
+          "巫山淫羊藿"
+        ],
+        "xuewei": [],
+        "jingluo": [],
+        "siqi": [
+          "温"
+        ],
+        "wuwei": [
+          "辛",
+          "甘"
+        ],
+        "guijing": [
+          "肾经",
+          "肝经"
+        ],
+        "keywords": [
+          "小檗科",
+          "巫山淫羊藿",
+          "叶",
+          "补肾壮阳",
+          "中国药典"
+        ]
+      }
+    },
+    {
       "id": "xianmao_001",
       "book": "中国药典（2025年版）一部",
       "type": "yaowu",
@@ -8606,6 +9412,65 @@
       }
     },
     {
+      "id": "yizhi_001",
+      "book": "中国药典（2025年版）一部",
+      "type": "yaowu",
+      "tier": 1,
+      "category": "zhongyao",
+      "subcategory": "buxu",
+      "path": "library/zhongyao/buxu/yizhi/yizhi_001.md",
+      "weight": 8,
+      "title": "益智",
+      "chapter": "补虚药",
+      "conditions": {
+        "zhengxing": [
+          "脾肾阳虚",
+          "寒凝"
+        ],
+        "zhifa": [
+          "暖肾固精缩尿",
+          "温脾止泻摄唾"
+        ],
+        "bingzheng": [
+          "肾虚遗尿",
+          "小便频数",
+          "遗精",
+          "脾寒泄泻",
+          "腹中冷痛",
+          "口多唾涎"
+        ],
+        "zhengzhuang": [
+          "遗尿尿频",
+          "泄泻冷痛"
+        ],
+        "fangming": [
+          "缩泉丸"
+        ],
+        "yaoming": [
+          "益智"
+        ],
+        "xuewei": [],
+        "jingluo": [],
+        "siqi": [
+          "温"
+        ],
+        "wuwei": [
+          "辛"
+        ],
+        "guijing": [
+          "脾经",
+          "肾经"
+        ],
+        "keywords": [
+          "姜科",
+          "益智",
+          "成熟果实",
+          "温脾暖肾",
+          "中国药典"
+        ]
+      }
+    },
+    {
       "id": "yizhiren_001",
       "book": "中国药典（2025年版）一部",
       "type": "yaowu",
@@ -8722,6 +9587,65 @@
           "玉竹",
           "根茎",
           "养阴润燥",
+          "中国药典"
+        ]
+      }
+    },
+    {
+      "id": "zhuzishen_001",
+      "book": "中国药典（2025年版）一部",
+      "type": "yaowu",
+      "tier": 1,
+      "category": "zhongyao",
+      "subcategory": "buxu",
+      "path": "library/zhongyao/buxu/zhuzishen/zhuzishen_001.md",
+      "weight": 8,
+      "title": "珠子参",
+      "chapter": "补虚药",
+      "conditions": {
+        "zhengxing": [
+          "气阴两虚",
+          "瘀血"
+        ],
+        "zhifa": [
+          "补肺养阴",
+          "祛瘀止痛",
+          "止血"
+        ],
+        "bingzheng": [
+          "气阴两虚",
+          "肺痨咳嗽",
+          "咯血",
+          "吐血",
+          "崩漏",
+          "跌打损伤"
+        ],
+        "zhengzhuang": [
+          "干咳少痰",
+          "神疲乏力"
+        ],
+        "fangming": [],
+        "yaoming": [
+          "珠子参"
+        ],
+        "xuewei": [],
+        "jingluo": [],
+        "siqi": [
+          "平"
+        ],
+        "wuwei": [
+          "苦",
+          "甘"
+        ],
+        "guijing": [
+          "肺经",
+          "肝经"
+        ],
+        "keywords": [
+          "五加科",
+          "珠子参",
+          "根茎",
+          "补肺养阴",
           "中国药典"
         ]
       }

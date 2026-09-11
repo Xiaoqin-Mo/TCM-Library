@@ -1,6 +1,6 @@
 # zhongyao · 中药学
 
-> 收录 543 条 · 下级 21 个子类
+> 收录 554 条 · 下级 21 个子类
 
 ## anshen · 安神药
 
@@ -290,23 +290,34 @@
 | zhongyao/liqi/chenpi | 1 | [索引](./zhongyao/liqi/chenpi/INDEX.md) |
 | zhongyao/liqi/chenxiang | 1 | [索引](./zhongyao/liqi/chenxiang/INDEX.md) |
 | zhongyao/liqi/chuanlianzi | 1 | [索引](./zhongyao/liqi/chuanlianzi/INDEX.md) |
+| zhongyao/liqi/chuanmuxiang | 1 | [索引](./zhongyao/liqi/chuanmuxiang/INDEX.md) |
 | zhongyao/liqi/dafupi | 1 | [索引](./zhongyao/liqi/dafupi/INDEX.md) |
+| zhongyao/liqi/daodou | 1 | [索引](./zhongyao/liqi/daodou/INDEX.md) |
 | zhongyao/liqi/foshou | 1 | [索引](./zhongyao/liqi/foshou/INDEX.md) |
 | zhongyao/liqi/gansong | 1 | [索引](./zhongyao/liqi/gansong/INDEX.md) |
+| zhongyao/liqi/houpuhua | 1 | [索引](./zhongyao/liqi/houpuhua/INDEX.md) |
+| zhongyao/liqi/huajuhong | 1 | [索引](./zhongyao/liqi/huajuhong/INDEX.md) |
 | zhongyao/liqi/huangshanyao | 1 | [索引](./zhongyao/liqi/huangshanyao/INDEX.md) |
 | zhongyao/liqi/jiuxiangchong | 1 | [索引](./zhongyao/liqi/jiuxiangchong/INDEX.md) |
+| zhongyao/liqi/juhe | 1 | [索引](./zhongyao/liqi/juhe/INDEX.md) |
+| zhongyao/liqi/juhong | 1 | [索引](./zhongyao/liqi/juhong/INDEX.md) |
 | zhongyao/liqi/lizhihe | 1 | [索引](./zhongyao/liqi/lizhihe/INDEX.md) |
 | zhongyao/liqi/meiguihua | 1 | [索引](./zhongyao/liqi/meiguihua/INDEX.md) |
+| zhongyao/liqi/meihua | 1 | [索引](./zhongyao/liqi/meihua/INDEX.md) |
 | zhongyao/liqi/muxiang | 1 | [索引](./zhongyao/liqi/muxiang/INDEX.md) |
 | zhongyao/liqi/qingpi | 1 | [索引](./zhongyao/liqi/qingpi/INDEX.md) |
 | zhongyao/liqi/shidi | 1 | [索引](./zhongyao/liqi/shidi/INDEX.md) |
+| zhongyao/liqi/suoluozi | 1 | [索引](./zhongyao/liqi/suoluozi/INDEX.md) |
 | zhongyao/liqi/tanxiang | 1 | [索引](./zhongyao/liqi/tanxiang/INDEX.md) |
+| zhongyao/liqi/tumuxiang | 1 | [索引](./zhongyao/liqi/tumuxiang/INDEX.md) |
 | zhongyao/liqi/wuyao | 1 | [索引](./zhongyao/liqi/wuyao/INDEX.md) |
 | zhongyao/liqi/xiangfu | 1 | [索引](./zhongyao/liqi/xiangfu/INDEX.md) |
 | zhongyao/liqi/xiangyuan | 1 | [索引](./zhongyao/liqi/xiangyuan/INDEX.md) |
 | zhongyao/liqi/xiebai | 1 | [索引](./zhongyao/liqi/xiebai/INDEX.md) |
+| zhongyao/liqi/yuzhizi | 1 | [索引](./zhongyao/liqi/yuzhizi/INDEX.md) |
 | zhongyao/liqi/zhiqiao | 1 | [索引](./zhongyao/liqi/zhiqiao/INDEX.md) |
 | zhongyao/liqi/zhishi | 1 | [索引](./zhongyao/liqi/zhishi/INDEX.md) |
+| zhongyao/liqi/zhizhuxiang | 1 | [索引](./zhongyao/liqi/zhizhuxiang/INDEX.md) |
 
 ## lishuishenshi · 利水渗湿药
 

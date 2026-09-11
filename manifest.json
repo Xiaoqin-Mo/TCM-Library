@@ -76,7 +76,7 @@
         "count": 1
       },
       "liqi": {
-        "dir": "zhongyao/liqi/zhishi",
+        "dir": "zhongyao/liqi/zhizhuxiang",
         "count": 1
       },
       "lishuishenshi": {
@@ -2478,7 +2478,23 @@
       "count": 1
     },
     {
+      "dir": "zhongyao/liqi/chuanmuxiang",
+      "tier": 1,
+      "tier_name": "核心",
+      "category": "zhongyao",
+      "subcategory": "liqi",
+      "count": 1
+    },
+    {
       "dir": "zhongyao/liqi/dafupi",
+      "tier": 1,
+      "tier_name": "核心",
+      "category": "zhongyao",
+      "subcategory": "liqi",
+      "count": 1
+    },
+    {
+      "dir": "zhongyao/liqi/daodou",
       "tier": 1,
       "tier_name": "核心",
       "category": "zhongyao",
@@ -2502,6 +2518,22 @@
       "count": 1
     },
     {
+      "dir": "zhongyao/liqi/houpuhua",
+      "tier": 1,
+      "tier_name": "核心",
+      "category": "zhongyao",
+      "subcategory": "liqi",
+      "count": 1
+    },
+    {
+      "dir": "zhongyao/liqi/huajuhong",
+      "tier": 1,
+      "tier_name": "核心",
+      "category": "zhongyao",
+      "subcategory": "liqi",
+      "count": 1
+    },
+    {
       "dir": "zhongyao/liqi/huangshanyao",
       "tier": 1,
       "tier_name": "核心",
@@ -2518,6 +2550,22 @@
       "count": 1
     },
     {
+      "dir": "zhongyao/liqi/juhe",
+      "tier": 1,
+      "tier_name": "核心",
+      "category": "zhongyao",
+      "subcategory": "liqi",
+      "count": 1
+    },
+    {
+      "dir": "zhongyao/liqi/juhong",
+      "tier": 1,
+      "tier_name": "核心",
+      "category": "zhongyao",
+      "subcategory": "liqi",
+      "count": 1
+    },
+    {
       "dir": "zhongyao/liqi/lizhihe",
       "tier": 1,
       "tier_name": "核心",
@@ -2527,6 +2575,14 @@
     },
     {
       "dir": "zhongyao/liqi/meiguihua",
+      "tier": 1,
+      "tier_name": "核心",
+      "category": "zhongyao",
+      "subcategory": "liqi",
+      "count": 1
+    },
+    {
+      "dir": "zhongyao/liqi/meihua",
       "tier": 1,
       "tier_name": "核心",
       "category": "zhongyao",
@@ -2558,7 +2614,23 @@
       "count": 1
     },
     {
+      "dir": "zhongyao/liqi/suoluozi",
+      "tier": 1,
+      "tier_name": "核心",
+      "category": "zhongyao",
+      "subcategory": "liqi",
+      "count": 1
+    },
+    {
       "dir": "zhongyao/liqi/tanxiang",
+      "tier": 1,
+      "tier_name": "核心",
+      "category": "zhongyao",
+      "subcategory": "liqi",
+      "count": 1
+    },
+    {
+      "dir": "zhongyao/liqi/tumuxiang",
       "tier": 1,
       "tier_name": "核心",
       "category": "zhongyao",
@@ -2598,6 +2670,14 @@
       "count": 1
     },
     {
+      "dir": "zhongyao/liqi/yuzhizi",
+      "tier": 1,
+      "tier_name": "核心",
+      "category": "zhongyao",
+      "subcategory": "liqi",
+      "count": 1
+    },
+    {
       "dir": "zhongyao/liqi/zhiqiao",
       "tier": 1,
       "tier_name": "核心",
@@ -2607,6 +2687,14 @@
     },
     {
       "dir": "zhongyao/liqi/zhishi",
+      "tier": 1,
+      "tier_name": "核心",
+      "category": "zhongyao",
+      "subcategory": "liqi",
+      "count": 1
+    },
+    {
+      "dir": "zhongyao/liqi/zhizhuxiang",
       "tier": 1,
       "tier_name": "核心",
       "category": "zhongyao",
@@ -4910,7 +4998,7 @@
       "count": 1
     }
   ],
-  "total": 547,
+  "total": 558,
   "entries": [
     {
       "id": "guizhitang_001",
@@ -19756,6 +19844,63 @@
       }
     },
     {
+      "id": "chuanmuxiang_001",
+      "book": "中国药典（2025年版）一部",
+      "type": "yaowu",
+      "tier": 1,
+      "category": "zhongyao",
+      "subcategory": "liqi",
+      "path": "library/zhongyao/liqi/chuanmuxiang/chuanmuxiang_001.md",
+      "weight": 8,
+      "title": "川木香",
+      "chapter": "理气药",
+      "conditions": {
+        "zhengxing": [
+          "气滞",
+          "湿热"
+        ],
+        "zhifa": [
+          "行气止痛"
+        ],
+        "bingzheng": [
+          "脘腹胀痛",
+          "肠鸣腹泻",
+          "痢疾",
+          "里急后重"
+        ],
+        "zhengzhuang": [
+          "脘腹胀痛",
+          "泻痢后重"
+        ],
+        "fangming": [],
+        "yaoming": [
+          "川木香"
+        ],
+        "xuewei": [],
+        "jingluo": [],
+        "siqi": [
+          "温"
+        ],
+        "wuwei": [
+          "辛",
+          "苦"
+        ],
+        "guijing": [
+          "脾经",
+          "胃经",
+          "大肠经",
+          "胆经"
+        ],
+        "keywords": [
+          "菊科",
+          "川木香",
+          "根",
+          "行气止痛",
+          "中国药典"
+        ]
+      }
+    },
+    {
       "id": "dafupi_001",
       "book": "中国药典（2025年版）一部",
       "type": "yaowu",
@@ -19813,6 +19958,60 @@
           "槟榔",
           "果皮",
           "行水消肿",
+          "中国药典"
+        ]
+      }
+    },
+    {
+      "id": "daodou_001",
+      "book": "中国药典（2025年版）一部",
+      "type": "yaowu",
+      "tier": 1,
+      "category": "zhongyao",
+      "subcategory": "liqi",
+      "path": "library/zhongyao/liqi/daodou/daodou_001.md",
+      "weight": 8,
+      "title": "刀豆",
+      "chapter": "理气药",
+      "conditions": {
+        "zhengxing": [
+          "胃寒",
+          "气逆"
+        ],
+        "zhifa": [
+          "温中降逆",
+          "下气止呃"
+        ],
+        "bingzheng": [
+          "虚寒呃逆",
+          "呕吐",
+          "肾虚腰痛"
+        ],
+        "zhengzhuang": [
+          "呃逆",
+          "呕吐"
+        ],
+        "fangming": [],
+        "yaoming": [
+          "刀豆"
+        ],
+        "xuewei": [],
+        "jingluo": [],
+        "siqi": [
+          "温"
+        ],
+        "wuwei": [
+          "甘"
+        ],
+        "guijing": [
+          "胃经",
+          "肾经"
+        ],
+        "keywords": [
+          "豆科",
+          "刀豆",
+          "成熟种子",
+          "降逆止呃",
           "中国药典"
         ]
       }
@@ -19938,6 +20137,117 @@
       }
     },
     {
+      "id": "houpuhua_001",
+      "book": "中国药典（2025年版）一部",
+      "type": "yaowu",
+      "tier": 1,
+      "category": "zhongyao",
+      "subcategory": "liqi",
+      "path": "library/zhongyao/liqi/houpuhua/houpuhua_001.md",
+      "weight": 8,
+      "title": "厚朴花",
+      "chapter": "理气药",
+      "conditions": {
+        "zhengxing": [
+          "湿阻",
+          "气滞"
+        ],
+        "zhifa": [
+          "芳香化湿",
+          "理气宽中"
+        ],
+        "bingzheng": [
+          "脾胃湿阻",
+          "脘腹胀满",
+          "纳呆"
+        ],
+        "zhengzhuang": [
+          "脘腹胀闷",
+          "食少"
+        ],
+        "fangming": [],
+        "yaoming": [
+          "厚朴花"
+        ],
+        "xuewei": [],
+        "jingluo": [],
+        "siqi": [
+          "温"
+        ],
+        "wuwei": [
+          "苦"
+        ],
+        "guijing": [
+          "脾经",
+          "胃经"
+        ],
+        "keywords": [
+          "木兰科",
+          "厚朴",
+          "花蕾",
+          "化湿理气",
+          "中国药典"
+        ]
+      }
+    },
+    {
+      "id": "huajuhong_001",
+      "book": "中国药典（2025年版）一部",
+      "type": "yaowu",
+      "tier": 1,
+      "category": "zhongyao",
+      "subcategory": "liqi",
+      "path": "library/zhongyao/liqi/huajuhong/huajuhong_001.md",
+      "weight": 8,
+      "title": "化橘红",
+      "chapter": "理气药",
+      "conditions": {
+        "zhengxing": [
+          "痰湿",
+          "气滞"
+        ],
+        "zhifa": [
+          "理气宽中",
+          "燥湿化痰"
+        ],
+        "bingzheng": [
+          "咳嗽痰多",
+          "食积伤酒",
+          "呕恶痞闷"
+        ],
+        "zhengzhuang": [
+          "咳嗽痰白",
+          "脘痞纳呆"
+        ],
+        "fangming": [
+          "橘红痰咳液"
+        ],
+        "yaoming": [
+          "化橘红"
+        ],
+        "xuewei": [],
+        "jingluo": [],
+        "siqi": [
+          "温"
+        ],
+        "wuwei": [
+          "辛",
+          "苦"
+        ],
+        "guijing": [
+          "肺经",
+          "脾经"
+        ],
+        "keywords": [
+          "芸香科",
+          "化州柚",
+          "未成熟或近成熟外层果皮",
+          "燥湿化痰",
+          "中国药典"
+        ]
+      }
+    },
+    {
       "id": "huangshanyao_001",
       "book": "中国药典（2025年版）一部",
       "type": "yaowu",
@@ -20050,6 +20360,121 @@
           "九香虫",
           "干燥虫体",
           "温中助阳",
+          "中国药典"
+        ]
+      }
+    },
+    {
+      "id": "juhe_001",
+      "book": "中国药典（2025年版）一部",
+      "type": "yaowu",
+      "tier": 1,
+      "category": "zhongyao",
+      "subcategory": "liqi",
+      "path": "library/zhongyao/liqi/juhe/juhe_001.md",
+      "weight": 8,
+      "title": "橘核",
+      "chapter": "理气药",
+      "conditions": {
+        "zhengxing": [
+          "气滞",
+          "寒凝",
+          "痰结"
+        ],
+        "zhifa": [
+          "理气散结",
+          "止痛"
+        ],
+        "bingzheng": [
+          "疝气疼痛",
+          "睾丸肿痛",
+          "乳痈",
+          "乳房结块"
+        ],
+        "zhengzhuang": [
+          "疝痛",
+          "乳癖结块"
+        ],
+        "fangming": [
+          "橘核丸"
+        ],
+        "yaoming": [
+          "橘核"
+        ],
+        "xuewei": [],
+        "jingluo": [],
+        "siqi": [
+          "平"
+        ],
+        "wuwei": [
+          "苦"
+        ],
+        "guijing": [
+          "肝经",
+          "肾经"
+        ],
+        "keywords": [
+          "芸香科",
+          "橘",
+          "成熟种子",
+          "理气散结",
+          "中国药典"
+        ]
+      }
+    },
+    {
+      "id": "juhong_001",
+      "book": "中国药典（2025年版）一部",
+      "type": "yaowu",
+      "tier": 1,
+      "category": "zhongyao",
+      "subcategory": "liqi",
+      "path": "library/zhongyao/liqi/juhong/juhong_001.md",
+      "weight": 8,
+      "title": "橘红",
+      "chapter": "理气药",
+      "conditions": {
+        "zhengxing": [
+          "痰湿",
+          "气滞",
+          "食积"
+        ],
+        "zhifa": [
+          "理气宽中",
+          "燥湿化痰",
+          "消食"
+        ],
+        "bingzheng": [
+          "咳嗽痰多",
+          "食积伤酒",
+          "呕恶痞闷"
+        ],
+        "zhengzhuang": [
+          "咳嗽痰白",
+          "脘闷食少"
+        ],
+        "fangming": [],
+        "yaoming": [
+          "橘红"
+        ],
+        "xuewei": [],
+        "jingluo": [],
+        "siqi": [
+          "温"
+        ],
+        "wuwei": [
+          "辛",
+          "苦"
+        ],
+        "guijing": [
+          "肺经",
+          "脾经"
+        ],
+        "keywords": [
+          "芸香科",
+          "橘",
+          "外层果皮",
+          "燥湿化痰",
           "中国药典"
         ]
       }
@@ -20169,6 +20594,63 @@
           "玫瑰",
           "花蕾",
           "行气和血",
+          "中国药典"
+        ]
+      }
+    },
+    {
+      "id": "meihua_001",
+      "book": "中国药典（2025年版）一部",
+      "type": "yaowu",
+      "tier": 1,
+      "category": "zhongyao",
+      "subcategory": "liqi",
+      "path": "library/zhongyao/liqi/meihua/meihua_001.md",
+      "weight": 8,
+      "title": "梅花",
+      "chapter": "理气药",
+      "conditions": {
+        "zhengxing": [
+          "肝郁",
+          "胃气不和"
+        ],
+        "zhifa": [
+          "疏肝解郁",
+          "开胃生津"
+        ],
+        "bingzheng": [
+          "肝胃气痛",
+          "郁闷心烦",
+          "梅核气",
+          "瘰疬"
+        ],
+        "zhengzhuang": [
+          "胁肋胀痛",
+          "咽中如有物阻"
+        ],
+        "fangming": [],
+        "yaoming": [
+          "梅花"
+        ],
+        "xuewei": [],
+        "jingluo": [],
+        "siqi": [
+          "平"
+        ],
+        "wuwei": [
+          "微酸",
+          "涩"
+        ],
+        "guijing": [
+          "肝经",
+          "胃经",
+          "肺经"
+        ],
+        "keywords": [
+          "蔷薇科",
+          "梅",
+          "花蕾",
+          "疏肝解郁",
           "中国药典"
         ]
       }
@@ -20354,6 +20836,59 @@
       }
     },
     {
+      "id": "suoluozi_001",
+      "book": "中国药典（2025年版）一部",
+      "type": "yaowu",
+      "tier": 1,
+      "category": "zhongyao",
+      "subcategory": "liqi",
+      "path": "library/zhongyao/liqi/suoluozi/suoluozi_001.md",
+      "weight": 8,
+      "title": "娑罗子",
+      "chapter": "理气药",
+      "conditions": {
+        "zhengxing": [
+          "肝郁",
+          "胃痛"
+        ],
+        "zhifa": [
+          "疏肝理气",
+          "和胃止痛"
+        ],
+        "bingzheng": [
+          "肝胃气滞",
+          "胸腹胀闷",
+          "胃脘疼痛"
+        ],
+        "zhengzhuang": [
+          "脘胁胀痛"
+        ],
+        "fangming": [],
+        "yaoming": [
+          "娑罗子"
+        ],
+        "xuewei": [],
+        "jingluo": [],
+        "siqi": [
+          "温"
+        ],
+        "wuwei": [
+          "甘"
+        ],
+        "guijing": [
+          "肝经",
+          "胃经"
+        ],
+        "keywords": [
+          "七叶树科",
+          "七叶树",
+          "成熟种子",
+          "疏肝和胃",
+          "中国药典"
+        ]
+      }
+    },
+    {
       "id": "tanxiang_001",
       "book": "中国药典（2025年版）一部",
       "type": "yaowu",
@@ -20411,6 +20946,67 @@
           "檀香",
           "心材",
           "后下",
+          "中国药典"
+        ]
+      }
+    },
+    {
+      "id": "tumuxiang_001",
+      "book": "中国药典（2025年版）一部",
+      "type": "yaowu",
+      "tier": 1,
+      "category": "zhongyao",
+      "subcategory": "liqi",
+      "path": "library/zhongyao/liqi/tumuxiang/tumuxiang_001.md",
+      "weight": 8,
+      "title": "土木香",
+      "chapter": "理气药",
+      "conditions": {
+        "zhengxing": [
+          "气滞",
+          "胃寒",
+          "胎动"
+        ],
+        "zhifa": [
+          "健脾和胃",
+          "行气止痛",
+          "安胎"
+        ],
+        "bingzheng": [
+          "胸腹胀痛",
+          "呕吐泄泻",
+          "痢疾",
+          "胎动不安"
+        ],
+        "zhengzhuang": [
+          "脘腹胀痛",
+          "呕吐"
+        ],
+        "fangming": [
+          "木香顺气丸"
+        ],
+        "yaoming": [
+          "土木香"
+        ],
+        "xuewei": [],
+        "jingluo": [],
+        "siqi": [
+          "温"
+        ],
+        "wuwei": [
+          "辛",
+          "苦"
+        ],
+        "guijing": [
+          "脾经",
+          "胃经",
+          "肝经"
+        ],
+        "keywords": [
+          "菊科",
+          "土木香",
+          "根",
+          "行气止痛",
           "中国药典"
         ]
       }
@@ -20673,6 +21269,66 @@
       }
     },
     {
+      "id": "yuzhizi_001",
+      "book": "中国药典（2025年版）一部",
+      "type": "yaowu",
+      "tier": 1,
+      "category": "zhongyao",
+      "subcategory": "liqi",
+      "path": "library/zhongyao/liqi/yuzhizi/yuzhizi_001.md",
+      "weight": 8,
+      "title": "预知子",
+      "chapter": "理气药",
+      "conditions": {
+        "zhengxing": [
+          "气滞",
+          "瘀血",
+          "虫积"
+        ],
+        "zhifa": [
+          "疏肝理气",
+          "活血止痛",
+          "利尿",
+          "杀虫"
+        ],
+        "bingzheng": [
+          "脘胁胀痛",
+          "经闭痛经",
+          "小便不利",
+          "虫积腹痛"
+        ],
+        "zhengzhuang": [
+          "胁腹胀痛",
+          "经行腹痛"
+        ],
+        "fangming": [],
+        "yaoming": [
+          "预知子"
+        ],
+        "xuewei": [],
+        "jingluo": [],
+        "siqi": [
+          "寒"
+        ],
+        "wuwei": [
+          "苦"
+        ],
+        "guijing": [
+          "肝经",
+          "胆经",
+          "胃经",
+          "膀胱经"
+        ],
+        "keywords": [
+          "木通科",
+          "木通",
+          "近成熟果实",
+          "疏肝理气",
+          "中国药典"
+        ]
+      }
+    },
+    {
       "id": "zhiqiao_001",
       "book": "中国药典（2025年版）一部",
       "type": "yaowu",
@@ -20799,6 +21455,66 @@
           "酸橙",
           "幼果",
           "破气消积",
+          "中国药典"
+        ]
+      }
+    },
+    {
+      "id": "zhizhuxiang_001",
+      "book": "中国药典（2025年版）一部",
+      "type": "yaowu",
+      "tier": 1,
+      "category": "zhongyao",
+      "subcategory": "liqi",
+      "path": "library/zhongyao/liqi/zhizhuxiang/zhizhuxiang_001.md",
+      "weight": 8,
+      "title": "蜘蛛香",
+      "chapter": "理气药",
+      "conditions": {
+        "zhengxing": [
+          "气滞",
+          "食积",
+          "风湿"
+        ],
+        "zhifa": [
+          "理气止痛",
+          "消食止泻",
+          "祛风除湿"
+        ],
+        "bingzheng": [
+          "脘腹胀痛",
+          "食积不化",
+          "腹泻痢疾",
+          "风湿痹痛",
+          "腰膝酸软"
+        ],
+        "zhengzhuang": [
+          "脘腹胀痛",
+          "泻痢"
+        ],
+        "fangming": [],
+        "yaoming": [
+          "蜘蛛香"
+        ],
+        "xuewei": [],
+        "jingluo": [],
+        "siqi": [
+          "温"
+        ],
+        "wuwei": [
+          "微苦",
+          "辛"
+        ],
+        "guijing": [
+          "脾经",
+          "胃经",
+          "肝经"
+        ],
+        "keywords": [
+          "败酱科",
+          "蜘蛛香",
+          "根茎和根",
+          "消食止泻",
           "中国药典"
         ]
       }

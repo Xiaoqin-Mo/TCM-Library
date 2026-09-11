@@ -1,6 +1,6 @@
 # zhongyao · 中药学
 
-> 收录 584 条 · 下级 21 个子类
+> 收录 611 条 · 下级 21 个子类
 
 ## anshen · 安神药
 
@@ -15,7 +15,10 @@
 | zhongyao/anshen/longgu | 1 | [索引](./zhongyao/anshen/longgu/INDEX.md) |
 | zhongyao/anshen/shouwuteng | 1 | [索引](./zhongyao/anshen/shouwuteng/INDEX.md) |
 | zhongyao/anshen/suanzaoren | 1 | [索引](./zhongyao/anshen/suanzaoren/INDEX.md) |
+| zhongyao/anshen/tianxianzi | 1 | [索引](./zhongyao/anshen/tianxianzi/INDEX.md) |
 | zhongyao/anshen/yuanzhi | 1 | [索引](./zhongyao/anshen/yuanzhi/INDEX.md) |
+| zhongyao/anshen/yunzhi | 1 | [索引](./zhongyao/anshen/yunzhi/INDEX.md) |
+| zhongyao/anshen/zhenzhu | 1 | [索引](./zhongyao/anshen/zhenzhu/INDEX.md) |
 | zhongyao/anshen/zhusha | 1 | [索引](./zhongyao/anshen/zhusha/INDEX.md) |
 
 ## badu · 拔毒化腐生肌药
@@ -118,7 +121,9 @@
 | zhongyao/gongdu/chansu | 1 | [索引](./zhongyao/gongdu/chansu/INDEX.md) |
 | zhongyao/gongdu/dasuan | 1 | [索引](./zhongyao/gongdu/dasuan/INDEX.md) |
 | zhongyao/gongdu/fengfang | 1 | [索引](./zhongyao/gongdu/fengfang/INDEX.md) |
+| zhongyao/gongdu/langdu | 1 | [索引](./zhongyao/gongdu/langdu/INDEX.md) |
 | zhongyao/gongdu/liuhuang | 1 | [索引](./zhongyao/gongdu/liuhuang/INDEX.md) |
+| zhongyao/gongdu/mubiezi | 1 | [索引](./zhongyao/gongdu/mubiezi/INDEX.md) |
 | zhongyao/gongdu/shechuangzi | 1 | [索引](./zhongyao/gongdu/shechuangzi/INDEX.md) |
 | zhongyao/gongdu/tujingpi | 1 | [索引](./zhongyao/gongdu/tujingpi/INDEX.md) |
 | zhongyao/gongdu/xionghuang | 1 | [索引](./zhongyao/gongdu/xionghuang/INDEX.md) |
@@ -130,7 +135,9 @@
 | zhongyao/huashi/cangzhu | 1 | [索引](./zhongyao/huashi/cangzhu/INDEX.md) |
 | zhongyao/huashi/caodoukou | 1 | [索引](./zhongyao/huashi/caodoukou/INDEX.md) |
 | zhongyao/huashi/caoguo | 1 | [索引](./zhongyao/huashi/caoguo/INDEX.md) |
+| zhongyao/huashi/dongguapi | 1 | [索引](./zhongyao/huashi/dongguapi/INDEX.md) |
 | zhongyao/huashi/doukou | 1 | [索引](./zhongyao/huashi/doukou/INDEX.md) |
+| zhongyao/huashi/fulingpi | 1 | [索引](./zhongyao/huashi/fulingpi/INDEX.md) |
 | zhongyao/huashi/guanghuoxiang | 1 | [索引](./zhongyao/huashi/guanghuoxiang/INDEX.md) |
 | zhongyao/huashi/houpo | 1 | [索引](./zhongyao/huashi/houpo/INDEX.md) |
 | zhongyao/huashi/peilan | 1 | [索引](./zhongyao/huashi/peilan/INDEX.md) |
@@ -295,10 +302,12 @@
 
 | 书目 | 条目数 | 索引 |
 | --- | --- | --- |
+| zhongyao/kaiqiao/anxixiang | 1 | [索引](./zhongyao/kaiqiao/anxixiang/INDEX.md) |
 | zhongyao/kaiqiao/bingpian | 1 | [索引](./zhongyao/kaiqiao/bingpian/INDEX.md) |
 | zhongyao/kaiqiao/shexiang | 1 | [索引](./zhongyao/kaiqiao/shexiang/INDEX.md) |
 | zhongyao/kaiqiao/shichangpu | 1 | [索引](./zhongyao/kaiqiao/shichangpu/INDEX.md) |
 | zhongyao/kaiqiao/suhexiang | 1 | [索引](./zhongyao/kaiqiao/suhexiang/INDEX.md) |
+| zhongyao/kaiqiao/zangchangpu | 1 | [索引](./zhongyao/kaiqiao/zangchangpu/INDEX.md) |
 
 ## liqi · 理气药
 
@@ -347,16 +356,20 @@
 | zhongyao/lishuishenshi/chuanmutong | 1 | [索引](./zhongyao/lishuishenshi/chuanmutong/INDEX.md) |
 | zhongyao/lishuishenshi/dengxincao | 1 | [索引](./zhongyao/lishuishenshi/dengxincao/INDEX.md) |
 | zhongyao/lishuishenshi/difuzi | 1 | [索引](./zhongyao/lishuishenshi/difuzi/INDEX.md) |
+| zhongyao/lishuishenshi/dongkuiguo | 1 | [索引](./zhongyao/lishuishenshi/dongkuiguo/INDEX.md) |
 | zhongyao/lishuishenshi/fenbixie | 1 | [索引](./zhongyao/lishuishenshi/fenbixie/INDEX.md) |
 | zhongyao/lishuishenshi/fuling | 1 | [索引](./zhongyao/lishuishenshi/fuling/INDEX.md) |
+| zhongyao/lishuishenshi/guangjinqiancao | 1 | [索引](./zhongyao/lishuishenshi/guangjinqiancao/INDEX.md) |
 | zhongyao/lishuishenshi/haijinsha | 1 | [索引](./zhongyao/lishuishenshi/haijinsha/INDEX.md) |
 | zhongyao/lishuishenshi/huashi | 1 | [索引](./zhongyao/lishuishenshi/huashi/INDEX.md) |
 | zhongyao/lishuishenshi/jinqiancao | 1 | [索引](./zhongyao/lishuishenshi/jinqiancao/INDEX.md) |
+| zhongyao/lishuishenshi/lianqiancao | 1 | [索引](./zhongyao/lishuishenshi/lianqiancao/INDEX.md) |
 | zhongyao/lishuishenshi/mianbixie | 1 | [索引](./zhongyao/lishuishenshi/mianbixie/INDEX.md) |
 | zhongyao/lishuishenshi/mutong | 1 | [索引](./zhongyao/lishuishenshi/mutong/INDEX.md) |
 | zhongyao/lishuishenshi/qumai | 1 | [索引](./zhongyao/lishuishenshi/qumai/INDEX.md) |
 | zhongyao/lishuishenshi/shiwei | 1 | [索引](./zhongyao/lishuishenshi/shiwei/INDEX.md) |
 | zhongyao/lishuishenshi/tongcao | 1 | [索引](./zhongyao/lishuishenshi/tongcao/INDEX.md) |
+| zhongyao/lishuishenshi/xiaotongcao | 1 | [索引](./zhongyao/lishuishenshi/xiaotongcao/INDEX.md) |
 | zhongyao/lishuishenshi/yinchen | 1 | [索引](./zhongyao/lishuishenshi/yinchen/INDEX.md) |
 | zhongyao/lishuishenshi/yiyiren | 1 | [索引](./zhongyao/lishuishenshi/yiyiren/INDEX.md) |
 | zhongyao/lishuishenshi/zexie | 1 | [索引](./zhongyao/lishuishenshi/zexie/INDEX.md) |
@@ -380,6 +393,7 @@
 | zhongyao/pingganxifeng/tianma | 1 | [索引](./zhongyao/pingganxifeng/tianma/INDEX.md) |
 | zhongyao/pingganxifeng/wugong | 1 | [索引](./zhongyao/pingganxifeng/wugong/INDEX.md) |
 | zhongyao/pingganxifeng/zhenzhumu | 1 | [索引](./zhongyao/pingganxifeng/zhenzhumu/INDEX.md) |
+| zhongyao/pingganxifeng/zheshi | 1 | [索引](./zhongyao/pingganxifeng/zheshi/INDEX.md) |
 
 ## qingre · 清热药
 
@@ -521,11 +535,14 @@
 | zhongyao/quchong/feizi | 1 | [索引](./zhongyao/quchong/feizi/INDEX.md) |
 | zhongyao/quchong/hecaoya | 1 | [索引](./zhongyao/quchong/hecaoya/INDEX.md) |
 | zhongyao/quchong/heshi | 1 | [索引](./zhongyao/quchong/heshi/INDEX.md) |
+| zhongyao/quchong/ketengzi | 1 | [索引](./zhongyao/quchong/ketengzi/INDEX.md) |
 | zhongyao/quchong/kulianpi | 1 | [索引](./zhongyao/quchong/kulianpi/INDEX.md) |
 | zhongyao/quchong/leiwan | 1 | [索引](./zhongyao/quchong/leiwan/INDEX.md) |
 | zhongyao/quchong/nanguazi | 1 | [索引](./zhongyao/quchong/nanguazi/INDEX.md) |
+| zhongyao/quchong/nanheshi | 1 | [索引](./zhongyao/quchong/nanheshi/INDEX.md) |
 | zhongyao/quchong/shijunzi | 1 | [索引](./zhongyao/quchong/shijunzi/INDEX.md) |
 | zhongyao/quchong/wuyi | 1 | [索引](./zhongyao/quchong/wuyi/INDEX.md) |
+| zhongyao/quchong/ziqiguanzhong | 1 | [索引](./zhongyao/quchong/ziqiguanzhong/INDEX.md) |
 
 ## qufengshi · 祛风湿药
 
@@ -579,6 +596,7 @@
 | zhongyao/shouse/chunpi | 1 | [索引](./zhongyao/shouse/chunpi/INDEX.md) |
 | zhongyao/shouse/fupenzi | 1 | [索引](./zhongyao/shouse/fupenzi/INDEX.md) |
 | zhongyao/shouse/haipiaoxiao | 1 | [索引](./zhongyao/shouse/haipiaoxiao/INDEX.md) |
+| zhongyao/shouse/heye | 1 | [索引](./zhongyao/shouse/heye/INDEX.md) |
 | zhongyao/shouse/hezi | 1 | [索引](./zhongyao/shouse/hezi/INDEX.md) |
 | zhongyao/shouse/jiguanhua | 1 | [索引](./zhongyao/shouse/jiguanhua/INDEX.md) |
 | zhongyao/shouse/jinyingzi | 1 | [索引](./zhongyao/shouse/jinyingzi/INDEX.md) |
@@ -594,14 +612,18 @@
 | zhongyao/shouse/sangpiaoxiao | 1 | [索引](./zhongyao/shouse/sangpiaoxiao/INDEX.md) |
 | zhongyao/shouse/shanzhuyu | 1 | [索引](./zhongyao/shouse/shanzhuyu/INDEX.md) |
 | zhongyao/shouse/shiliupi | 1 | [索引](./zhongyao/shouse/shiliupi/INDEX.md) |
+| zhongyao/shouse/wubeizi | 1 | [索引](./zhongyao/shouse/wubeizi/INDEX.md) |
 | zhongyao/shouse/wumei | 1 | [索引](./zhongyao/shouse/wumei/INDEX.md) |
+| zhongyao/shouse/wuweizi | 1 | [索引](./zhongyao/shouse/wuweizi/INDEX.md) |
 | zhongyao/shouse/xiqingguo | 1 | [索引](./zhongyao/shouse/xiqingguo/INDEX.md) |
+| zhongyao/shouse/yingsuqiao | 1 | [索引](./zhongyao/shouse/yingsuqiao/INDEX.md) |
 | zhongyao/shouse/yuyuliang | 1 | [索引](./zhongyao/shouse/yuyuliang/INDEX.md) |
 
 ## wenli · 温里药
 
 | 书目 | 条目数 | 索引 |
 | --- | --- | --- |
+| zhongyao/wenli/bajiaohuixiang | 1 | [索引](./zhongyao/wenli/bajiaohuixiang/INDEX.md) |
 | zhongyao/wenli/biba | 1 | [索引](./zhongyao/wenli/biba/INDEX.md) |
 | zhongyao/wenli/bichengqie | 1 | [索引](./zhongyao/wenli/bichengqie/INDEX.md) |
 | zhongyao/wenli/dingxiang | 1 | [索引](./zhongyao/wenli/dingxiang/INDEX.md) |
@@ -612,7 +634,9 @@
 | zhongyao/wenli/huajiao | 1 | [索引](./zhongyao/wenli/huajiao/INDEX.md) |
 | zhongyao/wenli/hujiao | 1 | [索引](./zhongyao/wenli/hujiao/INDEX.md) |
 | zhongyao/wenli/lajiao | 1 | [索引](./zhongyao/wenli/lajiao/INDEX.md) |
+| zhongyao/wenli/mudingxiang | 1 | [索引](./zhongyao/wenli/mudingxiang/INDEX.md) |
 | zhongyao/wenli/rougui | 1 | [索引](./zhongyao/wenli/rougui/INDEX.md) |
+| zhongyao/wenli/shannai | 1 | [索引](./zhongyao/wenli/shannai/INDEX.md) |
 | zhongyao/wenli/wuzhuyu | 1 | [索引](./zhongyao/wenli/wuzhuyu/INDEX.md) |
 | zhongyao/wenli/xiaohuixiang | 1 | [索引](./zhongyao/wenli/xiaohuixiang/INDEX.md) |
 
@@ -620,12 +644,15 @@
 
 | 书目 | 条目数 | 索引 |
 | --- | --- | --- |
+| zhongyao/xiaoshi/awei | 1 | [索引](./zhongyao/xiaoshi/awei/INDEX.md) |
+| zhongyao/xiaoshi/buzhaye | 1 | [索引](./zhongyao/xiaoshi/buzhaye/INDEX.md) |
 | zhongyao/xiaoshi/daoya | 1 | [索引](./zhongyao/xiaoshi/daoya/INDEX.md) |
 | zhongyao/xiaoshi/guya | 1 | [索引](./zhongyao/xiaoshi/guya/INDEX.md) |
 | zhongyao/xiaoshi/jineijin | 1 | [索引](./zhongyao/xiaoshi/jineijin/INDEX.md) |
 | zhongyao/xiaoshi/laifuzi | 1 | [索引](./zhongyao/xiaoshi/laifuzi/INDEX.md) |
 | zhongyao/xiaoshi/maiya | 1 | [索引](./zhongyao/xiaoshi/maiya/INDEX.md) |
 | zhongyao/xiaoshi/shanzha | 1 | [索引](./zhongyao/xiaoshi/shanzha/INDEX.md) |
+| zhongyao/xiaoshi/shanzhaye | 1 | [索引](./zhongyao/xiaoshi/shanzhaye/INDEX.md) |
 | zhongyao/xiaoshi/shenqu | 1 | [索引](./zhongyao/xiaoshi/shenqu/INDEX.md) |
 
 ## xiexia · 泻下药

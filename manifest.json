@@ -72,7 +72,7 @@
         "count": 1
       },
       "kaiqiao": {
-        "dir": "zhongyao/kaiqiao/zangchangpu",
+        "dir": "zhongyao/kaiqiao/zhangnao",
         "count": 1
       },
       "liqi": {
@@ -84,7 +84,7 @@
         "count": 1
       },
       "pingganxifeng": {
-        "dir": "zhongyao/pingganxifeng/zheshi",
+        "dir": "zhongyao/pingganxifeng/zibeichi",
         "count": 1
       },
       "qingre": {
@@ -116,7 +116,7 @@
         "count": 1
       },
       "yongtu": {
-        "dir": "zhongyao/yongtu/changshan",
+        "dir": "zhongyao/yongtu/lilu",
         "count": 1
       },
       "zhixue": {
@@ -582,6 +582,14 @@
       "count": 1
     },
     {
+      "dir": "zhongyao/anshen/fushen",
+      "tier": 2,
+      "tier_name": "重要",
+      "category": "zhongyao",
+      "subcategory": "anshen",
+      "count": 1
+    },
+    {
       "dir": "zhongyao/anshen/hehuanhua",
       "tier": 1,
       "tier_name": "核心",
@@ -614,9 +622,25 @@
       "count": 1
     },
     {
+      "dir": "zhongyao/anshen/longchi",
+      "tier": 2,
+      "tier_name": "重要",
+      "category": "zhongyao",
+      "subcategory": "anshen",
+      "count": 1
+    },
+    {
       "dir": "zhongyao/anshen/longgu",
       "tier": 1,
       "tier_name": "核心",
+      "category": "zhongyao",
+      "subcategory": "anshen",
+      "count": 1
+    },
+    {
+      "dir": "zhongyao/anshen/shengtieluo",
+      "tier": 2,
+      "tier_name": "重要",
       "category": "zhongyao",
       "subcategory": "anshen",
       "count": 1
@@ -641,6 +665,14 @@
       "dir": "zhongyao/anshen/tianxianzi",
       "tier": 1,
       "tier_name": "核心",
+      "category": "zhongyao",
+      "subcategory": "anshen",
+      "count": 1
+    },
+    {
+      "dir": "zhongyao/anshen/xiaomai",
+      "tier": 2,
+      "tier_name": "重要",
       "category": "zhongyao",
       "subcategory": "anshen",
       "count": 1
@@ -878,6 +910,14 @@
       "count": 1
     },
     {
+      "dir": "zhongyao/buxu/geshanxiao",
+      "tier": 2,
+      "tier_name": "重要",
+      "category": "zhongyao",
+      "subcategory": "buxu",
+      "count": 1
+    },
+    {
       "dir": "zhongyao/buxu/gouqizi",
       "tier": 1,
       "tier_name": "核心",
@@ -897,6 +937,14 @@
       "dir": "zhongyao/buxu/guijia",
       "tier": 1,
       "tier_name": "核心",
+      "category": "zhongyao",
+      "subcategory": "buxu",
+      "count": 1
+    },
+    {
+      "dir": "zhongyao/buxu/haigoushen",
+      "tier": 2,
+      "tier_name": "重要",
       "category": "zhongyao",
       "subcategory": "buxu",
       "count": 1
@@ -998,6 +1046,14 @@
       "count": 1
     },
     {
+      "dir": "zhongyao/buxu/huangoushen",
+      "tier": 2,
+      "tier_name": "重要",
+      "category": "zhongyao",
+      "subcategory": "buxu",
+      "count": 1
+    },
+    {
       "dir": "zhongyao/buxu/huangqi",
       "tier": 1,
       "tier_name": "核心",
@@ -1009,6 +1065,14 @@
       "dir": "zhongyao/buxu/huluba",
       "tier": 1,
       "tier_name": "核心",
+      "category": "zhongyao",
+      "subcategory": "buxu",
+      "count": 1
+    },
+    {
+      "dir": "zhongyao/buxu/jiaogulan",
+      "tier": 2,
+      "tier_name": "重要",
       "category": "zhongyao",
       "subcategory": "buxu",
       "count": 1
@@ -1246,6 +1310,14 @@
       "count": 1
     },
     {
+      "dir": "zhongyao/buxu/xiongcane",
+      "tier": 2,
+      "tier_name": "重要",
+      "category": "zhongyao",
+      "subcategory": "buxu",
+      "count": 1
+    },
+    {
       "dir": "zhongyao/buxu/xiyangshen",
       "tier": 1,
       "tier_name": "核心",
@@ -1262,9 +1334,25 @@
       "count": 1
     },
     {
+      "dir": "zhongyao/buxu/yangqishi",
+      "tier": 2,
+      "tier_name": "重要",
+      "category": "zhongyao",
+      "subcategory": "buxu",
+      "count": 1
+    },
+    {
       "dir": "zhongyao/buxu/yinyanghuo",
       "tier": 1,
       "tier_name": "核心",
+      "category": "zhongyao",
+      "subcategory": "buxu",
+      "count": 1
+    },
+    {
+      "dir": "zhongyao/buxu/yitang",
+      "tier": 2,
+      "tier_name": "重要",
       "category": "zhongyao",
       "subcategory": "buxu",
       "count": 1
@@ -1342,6 +1430,14 @@
       "count": 1
     },
     {
+      "dir": "zhongyao/gongdu/chanpi",
+      "tier": 2,
+      "tier_name": "重要",
+      "category": "zhongyao",
+      "subcategory": "gongdu",
+      "count": 1
+    },
+    {
       "dir": "zhongyao/gongdu/chansu",
       "tier": 1,
       "tier_name": "核心",
@@ -1390,9 +1486,41 @@
       "count": 1
     },
     {
+      "dir": "zhongyao/gongdu/pengsha",
+      "tier": 2,
+      "tier_name": "重要",
+      "category": "zhongyao",
+      "subcategory": "gongdu",
+      "count": 1
+    },
+    {
+      "dir": "zhongyao/gongdu/pishi",
+      "tier": 2,
+      "tier_name": "重要",
+      "category": "zhongyao",
+      "subcategory": "gongdu",
+      "count": 1
+    },
+    {
+      "dir": "zhongyao/gongdu/qiandan",
+      "tier": 2,
+      "tier_name": "重要",
+      "category": "zhongyao",
+      "subcategory": "gongdu",
+      "count": 1
+    },
+    {
       "dir": "zhongyao/gongdu/shechuangzi",
       "tier": 1,
       "tier_name": "核心",
+      "category": "zhongyao",
+      "subcategory": "gongdu",
+      "count": 1
+    },
+    {
+      "dir": "zhongyao/gongdu/shengyao",
+      "tier": 2,
+      "tier_name": "重要",
       "category": "zhongyao",
       "subcategory": "gongdu",
       "count": 1
@@ -1574,6 +1702,14 @@
       "count": 1
     },
     {
+      "dir": "zhongyao/huatan/dongguazi",
+      "tier": 2,
+      "tier_name": "重要",
+      "category": "zhongyao",
+      "subcategory": "huatan",
+      "count": 1
+    },
+    {
       "dir": "zhongyao/huatan/gejie",
       "tier": 1,
       "tier_name": "核心",
@@ -1614,9 +1750,25 @@
       "count": 1
     },
     {
+      "dir": "zhongyao/huatan/guanbaifu",
+      "tier": 2,
+      "tier_name": "重要",
+      "category": "zhongyao",
+      "subcategory": "huatan",
+      "count": 1
+    },
+    {
       "dir": "zhongyao/huatan/guazijin",
       "tier": 1,
       "tier_name": "核心",
+      "category": "zhongyao",
+      "subcategory": "huatan",
+      "count": 1
+    },
+    {
+      "dir": "zhongyao/huatan/haifushi",
+      "tier": 2,
+      "tier_name": "重要",
       "category": "zhongyao",
       "subcategory": "huatan",
       "count": 1
@@ -1657,6 +1809,14 @@
       "dir": "zhongyao/huatan/hubeibeimu",
       "tier": 1,
       "tier_name": "核心",
+      "category": "zhongyao",
+      "subcategory": "huatan",
+      "count": 1
+    },
+    {
+      "dir": "zhongyao/huatan/jiangyong",
+      "tier": 2,
+      "tier_name": "重要",
       "category": "zhongyao",
       "subcategory": "huatan",
       "count": 1
@@ -1838,6 +1998,14 @@
       "count": 1
     },
     {
+      "dir": "zhongyao/huatan/tianxingren",
+      "tier": 2,
+      "tier_name": "重要",
+      "category": "zhongyao",
+      "subcategory": "huatan",
+      "count": 1
+    },
+    {
       "dir": "zhongyao/huatan/tianzhuhuang",
       "tier": 1,
       "tier_name": "核心",
@@ -2009,6 +2177,14 @@
       "dir": "zhongyao/huoxuehuayu/chuanniuxi",
       "tier": 1,
       "tier_name": "核心",
+      "category": "zhongyao",
+      "subcategory": "huoxuehuayu",
+      "count": 1
+    },
+    {
+      "dir": "zhongyao/huoxuehuayu/chuanshanjia",
+      "tier": 2,
+      "tier_name": "重要",
       "category": "zhongyao",
       "subcategory": "huoxuehuayu",
       "count": 1
@@ -2366,6 +2542,14 @@
       "count": 1
     },
     {
+      "dir": "zhongyao/jiebiao/cangercao",
+      "tier": 2,
+      "tier_name": "重要",
+      "category": "zhongyao",
+      "subcategory": "jiebiao",
+      "count": 1
+    },
+    {
       "dir": "zhongyao/jiebiao/cangerzi",
       "tier": 1,
       "tier_name": "核心",
@@ -2385,6 +2569,14 @@
       "dir": "zhongyao/jiebiao/chantui",
       "tier": 1,
       "tier_name": "核心",
+      "category": "zhongyao",
+      "subcategory": "jiebiao",
+      "count": 1
+    },
+    {
+      "dir": "zhongyao/jiebiao/congbai",
+      "tier": 2,
+      "tier_name": "重要",
       "category": "zhongyao",
       "subcategory": "jiebiao",
       "count": 1
@@ -2465,6 +2657,14 @@
       "dir": "zhongyao/jiebiao/guizhi",
       "tier": 1,
       "tier_name": "核心",
+      "category": "zhongyao",
+      "subcategory": "jiebiao",
+      "count": 1
+    },
+    {
+      "dir": "zhongyao/jiebiao/husui",
+      "tier": 2,
+      "tier_name": "重要",
       "category": "zhongyao",
       "subcategory": "jiebiao",
       "count": 1
@@ -2662,6 +2862,14 @@
       "count": 1
     },
     {
+      "dir": "zhongyao/kaiqiao/zhangnao",
+      "tier": 2,
+      "tier_name": "重要",
+      "category": "zhongyao",
+      "subcategory": "kaiqiao",
+      "count": 1
+    },
+    {
       "dir": "zhongyao/liqi/chenpi",
       "tier": 1,
       "tier_name": "核心",
@@ -2710,6 +2918,14 @@
       "count": 1
     },
     {
+      "dir": "zhongyao/liqi/doukouke",
+      "tier": 2,
+      "tier_name": "重要",
+      "category": "zhongyao",
+      "subcategory": "liqi",
+      "count": 1
+    },
+    {
       "dir": "zhongyao/liqi/foshou",
       "tier": 1,
       "tier_name": "核心",
@@ -2721,6 +2937,14 @@
       "dir": "zhongyao/liqi/gansong",
       "tier": 1,
       "tier_name": "核心",
+      "category": "zhongyao",
+      "subcategory": "liqi",
+      "count": 1
+    },
+    {
+      "dir": "zhongyao/liqi/hegen",
+      "tier": 2,
+      "tier_name": "重要",
       "category": "zhongyao",
       "subcategory": "liqi",
       "count": 1
@@ -2774,6 +2998,22 @@
       "count": 1
     },
     {
+      "dir": "zhongyao/liqi/juliuo",
+      "tier": 2,
+      "tier_name": "重要",
+      "category": "zhongyao",
+      "subcategory": "liqi",
+      "count": 1
+    },
+    {
+      "dir": "zhongyao/liqi/juye",
+      "tier": 2,
+      "tier_name": "重要",
+      "category": "zhongyao",
+      "subcategory": "liqi",
+      "count": 1
+    },
+    {
       "dir": "zhongyao/liqi/lizhihe",
       "tier": 1,
       "tier_name": "核心",
@@ -2809,6 +3049,14 @@
       "dir": "zhongyao/liqi/qingpi",
       "tier": 1,
       "tier_name": "核心",
+      "category": "zhongyao",
+      "subcategory": "liqi",
+      "count": 1
+    },
+    {
+      "dir": "zhongyao/liqi/sharenke",
+      "tier": 2,
+      "tier_name": "重要",
       "category": "zhongyao",
       "subcategory": "liqi",
       "count": 1
@@ -3006,9 +3254,25 @@
       "count": 1
     },
     {
+      "dir": "zhongyao/lishuishenshi/haijinshateng",
+      "tier": 2,
+      "tier_name": "重要",
+      "category": "zhongyao",
+      "subcategory": "lishuishenshi",
+      "count": 1
+    },
+    {
       "dir": "zhongyao/lishuishenshi/huashi",
       "tier": 1,
       "tier_name": "核心",
+      "category": "zhongyao",
+      "subcategory": "lishuishenshi",
+      "count": 1
+    },
+    {
+      "dir": "zhongyao/lishuishenshi/hulu",
+      "tier": 2,
+      "tier_name": "重要",
       "category": "zhongyao",
       "subcategory": "lishuishenshi",
       "count": 1
@@ -3025,6 +3289,14 @@
       "dir": "zhongyao/lishuishenshi/lianqiancao",
       "tier": 1,
       "tier_name": "核心",
+      "category": "zhongyao",
+      "subcategory": "lishuishenshi",
+      "count": 1
+    },
+    {
+      "dir": "zhongyao/lishuishenshi/lougu",
+      "tier": 2,
+      "tier_name": "重要",
       "category": "zhongyao",
       "subcategory": "lishuishenshi",
       "count": 1
@@ -3089,6 +3361,22 @@
       "dir": "zhongyao/lishuishenshi/yiyiren",
       "tier": 1,
       "tier_name": "核心",
+      "category": "zhongyao",
+      "subcategory": "lishuishenshi",
+      "count": 1
+    },
+    {
+      "dir": "zhongyao/lishuishenshi/yumixu",
+      "tier": 2,
+      "tier_name": "重要",
+      "category": "zhongyao",
+      "subcategory": "lishuishenshi",
+      "count": 1
+    },
+    {
+      "dir": "zhongyao/lishuishenshi/zeqi",
+      "tier": 2,
+      "tier_name": "重要",
       "category": "zhongyao",
       "subcategory": "lishuishenshi",
       "count": 1
@@ -3190,6 +3478,14 @@
       "count": 1
     },
     {
+      "dir": "zhongyao/pingganxifeng/shanyangjiao",
+      "tier": 2,
+      "tier_name": "重要",
+      "category": "zhongyao",
+      "subcategory": "pingganxifeng",
+      "count": 1
+    },
+    {
       "dir": "zhongyao/pingganxifeng/shijueming",
       "tier": 1,
       "tier_name": "核心",
@@ -3225,6 +3521,14 @@
       "dir": "zhongyao/pingganxifeng/zheshi",
       "tier": 1,
       "tier_name": "核心",
+      "category": "zhongyao",
+      "subcategory": "pingganxifeng",
+      "count": 1
+    },
+    {
+      "dir": "zhongyao/pingganxifeng/zibeichi",
+      "tier": 2,
+      "tier_name": "重要",
       "category": "zhongyao",
       "subcategory": "pingganxifeng",
       "count": 1
@@ -3414,6 +3718,14 @@
       "count": 1
     },
     {
+      "dir": "zhongyao/qingre/diercao",
+      "tier": 2,
+      "tier_name": "重要",
+      "category": "zhongyao",
+      "subcategory": "qingre",
+      "count": 1
+    },
+    {
       "dir": "zhongyao/qingre/digupi",
       "tier": 1,
       "tier_name": "核心",
@@ -3478,6 +3790,14 @@
       "count": 1
     },
     {
+      "dir": "zhongyao/qingre/gehua",
+      "tier": 2,
+      "tier_name": "重要",
+      "category": "zhongyao",
+      "subcategory": "qingre",
+      "count": 1
+    },
+    {
       "dir": "zhongyao/qingre/gonglaomu",
       "tier": 1,
       "tier_name": "核心",
@@ -3513,6 +3833,14 @@
       "dir": "zhongyao/qingre/gujingcao",
       "tier": 1,
       "tier_name": "核心",
+      "category": "zhongyao",
+      "subcategory": "qingre",
+      "count": 1
+    },
+    {
+      "dir": "zhongyao/qingre/hanshuishi",
+      "tier": 2,
+      "tier_name": "重要",
       "category": "zhongyao",
       "subcategory": "qingre",
       "count": 1
@@ -3750,6 +4078,22 @@
       "count": 1
     },
     {
+      "dir": "zhongyao/qingre/lvdou",
+      "tier": 2,
+      "tier_name": "重要",
+      "category": "zhongyao",
+      "subcategory": "qingre",
+      "count": 1
+    },
+    {
+      "dir": "zhongyao/qingre/lvdouyi",
+      "tier": 2,
+      "tier_name": "重要",
+      "category": "zhongyao",
+      "subcategory": "qingre",
+      "count": 1
+    },
+    {
       "dir": "zhongyao/qingre/mabiancao",
       "tier": 1,
       "tier_name": "核心",
@@ -3817,6 +4161,14 @@
       "dir": "zhongyao/qingre/mumianrongye",
       "tier": 1,
       "tier_name": "核心",
+      "category": "zhongyao",
+      "subcategory": "qingre",
+      "count": 1
+    },
+    {
+      "dir": "zhongyao/qingre/mutouhui",
+      "tier": 2,
+      "tier_name": "重要",
       "category": "zhongyao",
       "subcategory": "qingre",
       "count": 1
@@ -4102,6 +4454,14 @@
       "count": 1
     },
     {
+      "dir": "zhongyao/qingre/xihuangcao",
+      "tier": 2,
+      "tier_name": "重要",
+      "category": "zhongyao",
+      "subcategory": "qingre",
+      "count": 1
+    },
+    {
       "dir": "zhongyao/qingre/xingmi",
       "tier": 1,
       "tier_name": "核心",
@@ -4230,6 +4590,14 @@
       "count": 1
     },
     {
+      "dir": "zhongyao/qingre/zhuye",
+      "tier": 2,
+      "tier_name": "重要",
+      "category": "zhongyao",
+      "subcategory": "qingre",
+      "count": 1
+    },
+    {
       "dir": "zhongyao/qingre/zicao",
       "tier": 1,
       "tier_name": "核心",
@@ -4342,9 +4710,25 @@
       "count": 1
     },
     {
+      "dir": "zhongyao/qufengshi/cansha",
+      "tier": 2,
+      "tier_name": "重要",
+      "category": "zhongyao",
+      "subcategory": "qufengshi",
+      "count": 1
+    },
+    {
       "dir": "zhongyao/qufengshi/caowu",
       "tier": 1,
       "tier_name": "核心",
+      "category": "zhongyao",
+      "subcategory": "qufengshi",
+      "count": 1
+    },
+    {
+      "dir": "zhongyao/qufengshi/chouwutong",
+      "tier": 2,
+      "tier_name": "重要",
       "category": "zhongyao",
       "subcategory": "qufengshi",
       "count": 1
@@ -4401,6 +4785,14 @@
       "dir": "zhongyao/qufengshi/haifengteng",
       "tier": 1,
       "tier_name": "核心",
+      "category": "zhongyao",
+      "subcategory": "qufengshi",
+      "count": 1
+    },
+    {
+      "dir": "zhongyao/qufengshi/haitongpi",
+      "tier": 2,
+      "tier_name": "重要",
       "category": "zhongyao",
       "subcategory": "qufengshi",
       "count": 1
@@ -4630,6 +5022,30 @@
       "count": 1
     },
     {
+      "dir": "zhongyao/qufengshi/xuelianhua",
+      "tier": 2,
+      "tier_name": "重要",
+      "category": "zhongyao",
+      "subcategory": "qufengshi",
+      "count": 1
+    },
+    {
+      "dir": "zhongyao/qufengshi/xueshangyizhihao",
+      "tier": 2,
+      "tier_name": "重要",
+      "category": "zhongyao",
+      "subcategory": "qufengshi",
+      "count": 1
+    },
+    {
+      "dir": "zhongyao/qufengshi/xungufeng",
+      "tier": 2,
+      "tier_name": "重要",
+      "category": "zhongyao",
+      "subcategory": "qufengshi",
+      "count": 1
+    },
+    {
       "dir": "zhongyao/qufengshi/yanunu",
       "tier": 1,
       "tier_name": "核心",
@@ -4673,6 +5089,14 @@
       "dir": "zhongyao/shouse/fupenzi",
       "tier": 1,
       "tier_name": "核心",
+      "category": "zhongyao",
+      "subcategory": "shouse",
+      "count": 1
+    },
+    {
+      "dir": "zhongyao/shouse/fuxiaomai",
+      "tier": 2,
+      "tier_name": "重要",
       "category": "zhongyao",
       "subcategory": "shouse",
       "count": 1
@@ -4769,6 +5193,14 @@
       "dir": "zhongyao/shouse/nanwuweizi",
       "tier": 1,
       "tier_name": "核心",
+      "category": "zhongyao",
+      "subcategory": "shouse",
+      "count": 1
+    },
+    {
+      "dir": "zhongyao/shouse/nuodaogenxu",
+      "tier": 2,
+      "tier_name": "重要",
       "category": "zhongyao",
       "subcategory": "shouse",
       "count": 1
@@ -5030,6 +5462,14 @@
       "count": 1
     },
     {
+      "dir": "zhongyao/xiaoshi/jishiteng",
+      "tier": 2,
+      "tier_name": "重要",
+      "category": "zhongyao",
+      "subcategory": "xiaoshi",
+      "count": 1
+    },
+    {
       "dir": "zhongyao/xiaoshi/laifuzi",
       "tier": 1,
       "tier_name": "核心",
@@ -5182,6 +5622,14 @@
       "count": 1
     },
     {
+      "dir": "zhongyao/xiexia/songziren",
+      "tier": 2,
+      "tier_name": "重要",
+      "category": "zhongyao",
+      "subcategory": "xiexia",
+      "count": 1
+    },
+    {
       "dir": "zhongyao/xiexia/yamazi",
       "tier": 1,
       "tier_name": "核心",
@@ -5215,6 +5663,30 @@
     },
     {
       "dir": "zhongyao/yongtu/changshan",
+      "tier": 2,
+      "tier_name": "重要",
+      "category": "zhongyao",
+      "subcategory": "yongtu",
+      "count": 1
+    },
+    {
+      "dir": "zhongyao/yongtu/danfan",
+      "tier": 2,
+      "tier_name": "重要",
+      "category": "zhongyao",
+      "subcategory": "yongtu",
+      "count": 1
+    },
+    {
+      "dir": "zhongyao/yongtu/guadi",
+      "tier": 2,
+      "tier_name": "重要",
+      "category": "zhongyao",
+      "subcategory": "yongtu",
+      "count": 1
+    },
+    {
+      "dir": "zhongyao/yongtu/lilu",
       "tier": 2,
       "tier_name": "重要",
       "category": "zhongyao",
@@ -5334,6 +5806,22 @@
       "count": 1
     },
     {
+      "dir": "zhongyao/zhixue/jicai",
+      "tier": 2,
+      "tier_name": "重要",
+      "category": "zhongyao",
+      "subcategory": "zhixue",
+      "count": 1
+    },
+    {
+      "dir": "zhongyao/zhixue/jimu",
+      "tier": 2,
+      "tier_name": "重要",
+      "category": "zhongyao",
+      "subcategory": "zhixue",
+      "count": 1
+    },
+    {
       "dir": "zhongyao/zhixue/luohuazizhu",
       "tier": 1,
       "tier_name": "核心",
@@ -5430,6 +5918,30 @@
       "count": 1
     },
     {
+      "dir": "zhongyao/zhixue/yangti",
+      "tier": 2,
+      "tier_name": "重要",
+      "category": "zhongyao",
+      "subcategory": "zhixue",
+      "count": 1
+    },
+    {
+      "dir": "zhongyao/zhixue/zaoxintu",
+      "tier": 2,
+      "tier_name": "重要",
+      "category": "zhongyao",
+      "subcategory": "zhixue",
+      "count": 1
+    },
+    {
+      "dir": "zhongyao/zhixue/zhumagen",
+      "tier": 2,
+      "tier_name": "重要",
+      "category": "zhongyao",
+      "subcategory": "zhixue",
+      "count": 1
+    },
+    {
       "dir": "zhongyao/zhixue/zizhuye",
       "tier": 1,
       "tier_name": "核心",
@@ -5454,7 +5966,7 @@
       "count": 1
     }
   ],
-  "total": 615,
+  "total": 679,
   "entries": [
     {
       "id": "guizhitang_001",
@@ -5760,6 +6272,59 @@
       }
     },
     {
+      "id": "fushen_001",
+      "book": "《中药学》（清华社）· 药典外品种",
+      "type": "yaowu",
+      "tier": 2,
+      "category": "zhongyao",
+      "subcategory": "anshen",
+      "path": "library/zhongyao/anshen/fushen/fushen_001.md",
+      "weight": 7,
+      "title": "茯神",
+      "chapter": "安神药",
+      "conditions": {
+        "zhengxing": [
+          "心神不宁"
+        ],
+        "zhifa": [
+          "宁心安神",
+          "利水"
+        ],
+        "bingzheng": [
+          "心悸怔忡",
+          "失眠健忘",
+          "小便不利"
+        ],
+        "zhengzhuang": [
+          "心悸失眠"
+        ],
+        "fangming": [],
+        "yaoming": [
+          "茯神"
+        ],
+        "xuewei": [],
+        "jingluo": [],
+        "siqi": [
+          "平"
+        ],
+        "wuwei": [
+          "甘",
+          "淡"
+        ],
+        "guijing": [
+          "心经",
+          "脾经"
+        ],
+        "keywords": [
+          "多孔菌科",
+          "茯苓",
+          "菌核中抱有松根的白色部分",
+          "宁心安神",
+          "教材品种"
+        ]
+      }
+    },
+    {
       "id": "hehuanhua_001",
       "book": "中国药典（2025年版）一部",
       "type": "yaowu",
@@ -5999,6 +6564,61 @@
       }
     },
     {
+      "id": "longchi_001",
+      "book": "《中药学》（清华社）· 药典外品种",
+      "type": "yaowu",
+      "tier": 2,
+      "category": "zhongyao",
+      "subcategory": "anshen",
+      "path": "library/zhongyao/anshen/longchi/longchi_001.md",
+      "weight": 7,
+      "title": "龙齿",
+      "chapter": "安神药",
+      "conditions": {
+        "zhengxing": [
+          "心神不宁",
+          "惊痫"
+        ],
+        "zhifa": [
+          "镇惊安神",
+          "平肝潜阳"
+        ],
+        "bingzheng": [
+          "心悸易惊",
+          "失眠多梦",
+          "癫狂",
+          "惊痫"
+        ],
+        "zhengzhuang": [
+          "惊悸失眠"
+        ],
+        "fangming": [],
+        "yaoming": [
+          "龙齿"
+        ],
+        "xuewei": [],
+        "jingluo": [],
+        "siqi": [
+          "凉"
+        ],
+        "wuwei": [
+          "甘",
+          "涩"
+        ],
+        "guijing": [
+          "心经",
+          "肝经"
+        ],
+        "keywords": [
+          "古代哺乳动物",
+          "三趾马等",
+          "牙齿化石",
+          "镇惊安神",
+          "教材品种"
+        ]
+      }
+    },
+    {
       "id": "longgu_001",
       "book": "中国药典（2025年版）一部",
       "type": "yaowu",
@@ -6063,6 +6683,61 @@
           "先煎",
           "收敛固涩",
           "中国药典"
+        ]
+      }
+    },
+    {
+      "id": "shengtieluo_001",
+      "book": "《中药学》（清华社）· 药典外品种",
+      "type": "yaowu",
+      "tier": 2,
+      "category": "zhongyao",
+      "subcategory": "anshen",
+      "path": "library/zhongyao/anshen/shengtieluo/shengtieluo_001.md",
+      "weight": 7,
+      "title": "生铁落",
+      "chapter": "安神药",
+      "conditions": {
+        "zhengxing": [
+          "痰火",
+          "惊狂"
+        ],
+        "zhifa": [
+          "镇心安神",
+          "平肝镇惊"
+        ],
+        "bingzheng": [
+          "癫狂",
+          "惊痫",
+          "易惊善怒",
+          "心悸失眠"
+        ],
+        "zhengzhuang": [
+          "狂躁不宁"
+        ],
+        "fangming": [
+          "生铁落饮"
+        ],
+        "yaoming": [
+          "生铁落"
+        ],
+        "xuewei": [],
+        "jingluo": [],
+        "siqi": [
+          "凉"
+        ],
+        "wuwei": [
+          "辛"
+        ],
+        "guijing": [
+          "肝经",
+          "心经"
+        ],
+        "keywords": [
+          "铁矿石冶炼副产品",
+          "铁落",
+          "镇心安神",
+          "教材品种"
         ]
       }
     },
@@ -6243,6 +6918,63 @@
           "成熟种子",
           "大毒",
           "解痉止痛"
+        ]
+      }
+    },
+    {
+      "id": "xiaomai_001",
+      "book": "《中药学》（清华社）· 药典外品种",
+      "type": "yaowu",
+      "tier": 2,
+      "category": "zhongyao",
+      "subcategory": "anshen",
+      "path": "library/zhongyao/anshen/xiaomai/xiaomai_001.md",
+      "weight": 7,
+      "title": "小麦",
+      "chapter": "安神药",
+      "conditions": {
+        "zhengxing": [
+          "心神不宁",
+          "虚热"
+        ],
+        "zhifa": [
+          "养心除烦",
+          "益肾"
+        ],
+        "bingzheng": [
+          "脏躁",
+          "心烦不宁",
+          "失眠",
+          "妇人脏躁"
+        ],
+        "zhengzhuang": [
+          "心烦失眠"
+        ],
+        "fangming": [
+          "甘麦大枣汤"
+        ],
+        "yaoming": [
+          "小麦"
+        ],
+        "xuewei": [],
+        "jingluo": [],
+        "siqi": [
+          "凉"
+        ],
+        "wuwei": [
+          "甘"
+        ],
+        "guijing": [
+          "心经",
+          "脾经",
+          "肾经"
+        ],
+        "keywords": [
+          "禾本科",
+          "小麦",
+          "成熟果实",
+          "养心除烦",
+          "教材品种"
         ]
       }
     },
@@ -8064,6 +8796,61 @@
       }
     },
     {
+      "id": "geshanxiao_001",
+      "book": "《中药学》（清华社）· 药典外品种",
+      "type": "yaowu",
+      "tier": 2,
+      "category": "zhongyao",
+      "subcategory": "buxu",
+      "path": "library/zhongyao/buxu/geshanxiao/geshanxiao_001.md",
+      "weight": 7,
+      "title": "隔山消",
+      "chapter": "补虚药",
+      "conditions": {
+        "zhengxing": [
+          "食积",
+          "气滞"
+        ],
+        "zhifa": [
+          "消食健胃",
+          "理气止痛"
+        ],
+        "bingzheng": [
+          "食积不化",
+          "脘腹胀痛",
+          "胁痛"
+        ],
+        "zhengzhuang": [
+          "脘腹胀满"
+        ],
+        "fangming": [],
+        "yaoming": [
+          "隔山消"
+        ],
+        "xuewei": [],
+        "jingluo": [],
+        "siqi": [
+          "平"
+        ],
+        "wuwei": [
+          "甘",
+          "苦"
+        ],
+        "guijing": [
+          "脾经",
+          "胃经",
+          "肝经"
+        ],
+        "keywords": [
+          "萝藦科",
+          "隔山消",
+          "块根",
+          "消食健胃",
+          "教材品种"
+        ]
+      }
+    },
+    {
       "id": "gouqizi_001",
       "book": "中国药典（2025年版）一部",
       "type": "yaowu",
@@ -8249,6 +9036,58 @@
           "先煎",
           "滋阴潜阳",
           "中国药典"
+        ]
+      }
+    },
+    {
+      "id": "haigoushen_001",
+      "book": "《中药学》（清华社）· 药典外品种",
+      "type": "yaowu",
+      "tier": 2,
+      "category": "zhongyao",
+      "subcategory": "buxu",
+      "path": "library/zhongyao/buxu/haigoushen/haigoushen_001.md",
+      "weight": 7,
+      "title": "海狗肾",
+      "chapter": "补虚药",
+      "conditions": {
+        "zhengxing": [
+          "肾阳不足"
+        ],
+        "zhifa": [
+          "温肾壮阳",
+          "益精补髓"
+        ],
+        "bingzheng": [
+          "阳痿精冷",
+          "腰膝酸软",
+          "精少不育"
+        ],
+        "zhengzhuang": [
+          "畏寒肢冷",
+          "腰膝酸软"
+        ],
+        "fangming": [],
+        "yaoming": [
+          "海狗肾"
+        ],
+        "xuewei": [],
+        "jingluo": [],
+        "siqi": [
+          "热"
+        ],
+        "wuwei": [
+          "咸"
+        ],
+        "guijing": [
+          "肾经"
+        ],
+        "keywords": [
+          "海狗科",
+          "海狗",
+          "阴茎和睾丸",
+          "温肾壮阳",
+          "教材品种"
         ]
       }
     },
@@ -8978,6 +9817,57 @@
       }
     },
     {
+      "id": "huangoushen_001",
+      "book": "《中药学》（清华社）· 药典外品种",
+      "type": "yaowu",
+      "tier": 2,
+      "category": "zhongyao",
+      "subcategory": "buxu",
+      "path": "library/zhongyao/buxu/huangoushen/huangoushen_001.md",
+      "weight": 7,
+      "title": "黄狗肾",
+      "chapter": "补虚药",
+      "conditions": {
+        "zhengxing": [
+          "肾阳不足"
+        ],
+        "zhifa": [
+          "补肾壮阳"
+        ],
+        "bingzheng": [
+          "阳痿",
+          "腰膝酸软",
+          "畏寒肢冷"
+        ],
+        "zhengzhuang": [
+          "腰膝酸软",
+          "畏寒"
+        ],
+        "fangming": [],
+        "yaoming": [
+          "黄狗肾"
+        ],
+        "xuewei": [],
+        "jingluo": [],
+        "siqi": [
+          "温"
+        ],
+        "wuwei": [
+          "咸"
+        ],
+        "guijing": [
+          "肾经"
+        ],
+        "keywords": [
+          "犬科",
+          "犬",
+          "雄性外生殖器",
+          "补肾壮阳",
+          "教材品种"
+        ]
+      }
+    },
+    {
       "id": "huangqi_001",
       "book": "中国药典（2025年版）一部",
       "type": "yaowu",
@@ -9108,6 +9998,65 @@
           "成熟种子",
           "温肾散寒",
           "中国药典"
+        ]
+      }
+    },
+    {
+      "id": "jiaogulan_001",
+      "book": "《中药学》（清华社）· 药典外品种",
+      "type": "yaowu",
+      "tier": 2,
+      "category": "zhongyao",
+      "subcategory": "buxu",
+      "path": "library/zhongyao/buxu/jiaogulan/jiaogulan_001.md",
+      "weight": 7,
+      "title": "绞股蓝",
+      "chapter": "补虚药",
+      "conditions": {
+        "zhengxing": [
+          "气虚",
+          "痰热"
+        ],
+        "zhifa": [
+          "益气健脾",
+          "化痰止咳",
+          "清热解毒"
+        ],
+        "bingzheng": [
+          "体虚乏力",
+          "虚劳咳嗽",
+          "高脂血症",
+          "病毒性肝炎"
+        ],
+        "zhengzhuang": [
+          "乏力",
+          "咳痰"
+        ],
+        "fangming": [
+          "绞股蓝茶"
+        ],
+        "yaoming": [
+          "绞股蓝"
+        ],
+        "xuewei": [],
+        "jingluo": [],
+        "siqi": [
+          "寒"
+        ],
+        "wuwei": [
+          "甘",
+          "苦"
+        ],
+        "guijing": [
+          "脾经",
+          "肺经"
+        ],
+        "keywords": [
+          "葫芦科",
+          "绞股蓝",
+          "全草",
+          "益气健脾",
+          "教材品种"
         ]
       }
     },
@@ -10914,6 +11863,59 @@
       }
     },
     {
+      "id": "xiongcane_001",
+      "book": "《中药学》（清华社）· 药典外品种",
+      "type": "yaowu",
+      "tier": 2,
+      "category": "zhongyao",
+      "subcategory": "buxu",
+      "path": "library/zhongyao/buxu/xiongcane/xiongcane_001.md",
+      "weight": 7,
+      "title": "雄蚕蛾",
+      "chapter": "补虚药",
+      "conditions": {
+        "zhengxing": [
+          "肾阳不足"
+        ],
+        "zhifa": [
+          "补肝益肾",
+          "壮阳涩精"
+        ],
+        "bingzheng": [
+          "阳痿遗精",
+          "腰膝酸软",
+          "尿频"
+        ],
+        "zhengzhuang": [
+          "腰膝酸软",
+          "遗精"
+        ],
+        "fangming": [],
+        "yaoming": [
+          "雄蚕蛾"
+        ],
+        "xuewei": [],
+        "jingluo": [],
+        "siqi": [
+          "温"
+        ],
+        "wuwei": [
+          "咸"
+        ],
+        "guijing": [
+          "肝经",
+          "肾经"
+        ],
+        "keywords": [
+          "蚕蛾科",
+          "家蚕",
+          "雄性成虫",
+          "壮阳涩精",
+          "教材品种"
+        ]
+      }
+    },
+    {
       "id": "xiyangshen_001",
       "book": "中国药典（2025年版）一部",
       "type": "yaowu",
@@ -11039,6 +12041,56 @@
       }
     },
     {
+      "id": "yangqishi_001",
+      "book": "《中药学》（清华社）· 药典外品种",
+      "type": "yaowu",
+      "tier": 2,
+      "category": "zhongyao",
+      "subcategory": "buxu",
+      "path": "library/zhongyao/buxu/yangqishi/yangqishi_001.md",
+      "weight": 7,
+      "title": "阳起石",
+      "chapter": "补虚药",
+      "conditions": {
+        "zhengxing": [
+          "肾阳不足"
+        ],
+        "zhifa": [
+          "温肾壮阳"
+        ],
+        "bingzheng": [
+          "阳痿",
+          "宫冷不孕",
+          "腰膝冷痹"
+        ],
+        "zhengzhuang": [
+          "畏寒肢冷"
+        ],
+        "fangming": [],
+        "yaoming": [
+          "阳起石"
+        ],
+        "xuewei": [],
+        "jingluo": [],
+        "siqi": [
+          "温"
+        ],
+        "wuwei": [
+          "咸"
+        ],
+        "guijing": [
+          "肾经"
+        ],
+        "keywords": [
+          "硅酸盐矿物",
+          "阳起石",
+          "矿石",
+          "温肾壮阳",
+          "教材品种"
+        ]
+      }
+    },
+    {
       "id": "yinyanghuo_001",
       "book": "中国药典（2025年版）一部",
       "type": "yaowu",
@@ -11096,6 +12148,63 @@
           "叶",
           "补肾壮阳",
           "中国药典"
+        ]
+      }
+    },
+    {
+      "id": "yitang_001",
+      "book": "《中药学》（清华社）· 药典外品种",
+      "type": "yaowu",
+      "tier": 2,
+      "category": "zhongyao",
+      "subcategory": "buxu",
+      "path": "library/zhongyao/buxu/yitang/yitang_001.md",
+      "weight": 7,
+      "title": "饴糖",
+      "chapter": "补虚药",
+      "conditions": {
+        "zhengxing": [
+          "脾虚",
+          "里急"
+        ],
+        "zhifa": [
+          "补脾益气",
+          "缓急止痛",
+          "润肺止咳"
+        ],
+        "bingzheng": [
+          "脾胃虚弱",
+          "里急腹痛",
+          "肺燥咳嗽"
+        ],
+        "zhengzhuang": [
+          "脘腹拘急",
+          "干咳"
+        ],
+        "fangming": [
+          "小建中汤"
+        ],
+        "yaoming": [
+          "饴糖"
+        ],
+        "xuewei": [],
+        "jingluo": [],
+        "siqi": [
+          "温"
+        ],
+        "wuwei": [
+          "甘"
+        ],
+        "guijing": [
+          "脾经",
+          "胃经",
+          "肺经"
+        ],
+        "keywords": [
+          "淀粉加工品",
+          "麦芽糖类",
+          "补脾益气",
+          "教材品种"
         ]
       }
     },
@@ -11643,6 +12752,63 @@
       }
     },
     {
+      "id": "chanpi_001",
+      "book": "《中药学》（清华社）· 药典外品种",
+      "type": "yaowu",
+      "tier": 2,
+      "category": "zhongyao",
+      "subcategory": "gongdu",
+      "path": "library/zhongyao/gongdu/chanpi/chanpi_001.md",
+      "weight": 7,
+      "title": "蟾皮",
+      "chapter": "攻毒杀虫止痒药",
+      "conditions": {
+        "zhengxing": [
+          "热毒",
+          "水湿"
+        ],
+        "zhifa": [
+          "清热解毒",
+          "利水消肿"
+        ],
+        "bingzheng": [
+          "痈肿疮毒",
+          "咽喉肿痛",
+          "瘰疬",
+          "水肿"
+        ],
+        "zhengzhuang": [
+          "疮肿",
+          "咽痛"
+        ],
+        "fangming": [
+          "蟾皮胶囊"
+        ],
+        "yaoming": [
+          "蟾皮"
+        ],
+        "xuewei": [],
+        "jingluo": [],
+        "siqi": [
+          "凉"
+        ],
+        "wuwei": [
+          "辛"
+        ],
+        "guijing": [
+          "肝经",
+          "脾经"
+        ],
+        "keywords": [
+          "蟾蜍科",
+          "中华大蟾蜍",
+          "干燥外皮",
+          "有毒",
+          "清热解毒"
+        ]
+      }
+    },
+    {
       "id": "chansu_001",
       "book": "中国药典（2025年版）一部",
       "type": "yaowu",
@@ -11999,6 +13165,176 @@
       }
     },
     {
+      "id": "pengsha_001",
+      "book": "《中药学》（清华社）· 药典外品种",
+      "type": "yaowu",
+      "tier": 2,
+      "category": "zhongyao",
+      "subcategory": "gongdu",
+      "path": "library/zhongyao/gongdu/pengsha/pengsha_001.md",
+      "weight": 7,
+      "title": "硼砂",
+      "chapter": "攻毒杀虫止痒药",
+      "conditions": {
+        "zhengxing": [
+          "热毒",
+          "痰热"
+        ],
+        "zhifa": [
+          "清热解毒",
+          "清肺化痰"
+        ],
+        "bingzheng": [
+          "咽喉肿痛",
+          "口疮",
+          "目赤翳障",
+          "痰热咳嗽"
+        ],
+        "zhengzhuang": [
+          "咽痛",
+          "目赤"
+        ],
+        "fangming": [
+          "冰硼散"
+        ],
+        "yaoming": [
+          "硼砂"
+        ],
+        "xuewei": [],
+        "jingluo": [],
+        "siqi": [
+          "凉"
+        ],
+        "wuwei": [
+          "甘",
+          "咸"
+        ],
+        "guijing": [
+          "肺经",
+          "胃经"
+        ],
+        "keywords": [
+          "硼酸盐矿物",
+          "硼砂",
+          "矿石加工品",
+          "外用清热解毒",
+          "教材品种"
+        ]
+      }
+    },
+    {
+      "id": "pishi_001",
+      "book": "《中药学》（清华社）· 药典外品种",
+      "type": "yaowu",
+      "tier": 2,
+      "category": "zhongyao",
+      "subcategory": "gongdu",
+      "path": "library/zhongyao/gongdu/pishi/pishi_001.md",
+      "weight": 7,
+      "title": "砒石",
+      "chapter": "攻毒杀虫止痒药",
+      "conditions": {
+        "zhengxing": [
+          "疮疡",
+          "痰喘",
+          "疟疾"
+        ],
+        "zhifa": [
+          "蚀疮去腐",
+          "平喘化痰",
+          "截疟"
+        ],
+        "bingzheng": [
+          "痈疽恶疮",
+          "瘰疬",
+          "痔疮",
+          "寒痰哮喘",
+          "疟疾"
+        ],
+        "zhengzhuang": [
+          "疮疡不敛"
+        ],
+        "fangming": [],
+        "yaoming": [
+          "砒石"
+        ],
+        "xuewei": [],
+        "jingluo": [],
+        "siqi": [
+          "热"
+        ],
+        "wuwei": [
+          "辛"
+        ],
+        "guijing": [
+          "肺经",
+          "脾经",
+          "肝经"
+        ],
+        "keywords": [
+          "砷华矿石",
+          "砒石",
+          "矿石",
+          "大毒",
+          "蚀疮去腐"
+        ]
+      }
+    },
+    {
+      "id": "qiandan_001",
+      "book": "《中药学》（清华社）· 药典外品种",
+      "type": "yaowu",
+      "tier": 2,
+      "category": "zhongyao",
+      "subcategory": "gongdu",
+      "path": "library/zhongyao/gongdu/qiandan/qiandan_001.md",
+      "weight": 7,
+      "title": "铅丹",
+      "chapter": "攻毒杀虫止痒药",
+      "conditions": {
+        "zhengxing": [
+          "疮疡",
+          "虫积"
+        ],
+        "zhifa": [
+          "拔毒生肌",
+          "杀虫止痒"
+        ],
+        "bingzheng": [
+          "疮疡溃烂",
+          "湿疹",
+          "疥癣"
+        ],
+        "zhengzhuang": [
+          "疮烂",
+          "瘙痒"
+        ],
+        "fangming": [],
+        "yaoming": [
+          "铅丹"
+        ],
+        "xuewei": [],
+        "jingluo": [],
+        "siqi": [
+          "微寒"
+        ],
+        "wuwei": [
+          "辛"
+        ],
+        "guijing": [
+          "心经",
+          "肝经"
+        ],
+        "keywords": [
+          "铅加工品",
+          "四氧化三铅",
+          "外用",
+          "有毒",
+          "拔毒生肌"
+        ]
+      }
+    },
+    {
       "id": "shechuangzi_001",
       "book": "中国药典（2025年版）一部",
       "type": "yaowu",
@@ -12056,6 +13392,59 @@
           "成熟果实",
           "杀虫止痒",
           "中国药典"
+        ]
+      }
+    },
+    {
+      "id": "shengyao_001",
+      "book": "《中药学》（清华社）· 药典外品种",
+      "type": "yaowu",
+      "tier": 2,
+      "category": "zhongyao",
+      "subcategory": "gongdu",
+      "path": "library/zhongyao/gongdu/shengyao/shengyao_001.md",
+      "weight": 7,
+      "title": "升药",
+      "chapter": "攻毒杀虫止痒药",
+      "conditions": {
+        "zhengxing": [
+          "疮疡脓腐"
+        ],
+        "zhifa": [
+          "拔毒",
+          "去腐",
+          "生肌"
+        ],
+        "bingzheng": [
+          "痈疽溃后脓出不畅",
+          "腐肉不去",
+          "新肉难生"
+        ],
+        "zhengzhuang": [
+          "疮口脓腐"
+        ],
+        "fangming": [],
+        "yaoming": [
+          "升药"
+        ],
+        "xuewei": [],
+        "jingluo": [],
+        "siqi": [
+          "温"
+        ],
+        "wuwei": [
+          "辛"
+        ],
+        "guijing": [
+          "肺经",
+          "脾经"
+        ],
+        "keywords": [
+          "汞制剂",
+          "粗制氧化汞",
+          "外用",
+          "拔毒去腐",
+          "有大毒"
         ]
       }
     },
@@ -13402,6 +14791,65 @@
       }
     },
     {
+      "id": "dongguazi_001",
+      "book": "《中药学》（清华社）· 药典外品种",
+      "type": "yaowu",
+      "tier": 2,
+      "category": "zhongyao",
+      "subcategory": "huatan",
+      "path": "library/zhongyao/huatan/dongguazi/dongguazi_001.md",
+      "weight": 7,
+      "title": "冬瓜子",
+      "chapter": "化痰止咳平喘药",
+      "conditions": {
+        "zhengxing": [
+          "痰热",
+          "湿热"
+        ],
+        "zhifa": [
+          "清热化痰",
+          "排脓利湿"
+        ],
+        "bingzheng": [
+          "肺热咳嗽",
+          "肺痈",
+          "肠痈",
+          "带下"
+        ],
+        "zhengzhuang": [
+          "咳嗽痰黄",
+          "脓痰"
+        ],
+        "fangming": [
+          "苇茎汤",
+          "大黄牡丹汤"
+        ],
+        "yaoming": [
+          "冬瓜子"
+        ],
+        "xuewei": [],
+        "jingluo": [],
+        "siqi": [
+          "凉"
+        ],
+        "wuwei": [
+          "甘"
+        ],
+        "guijing": [
+          "肺经",
+          "大肠经",
+          "小肠经"
+        ],
+        "keywords": [
+          "葫芦科",
+          "冬瓜",
+          "成熟种子",
+          "清热排脓",
+          "教材品种"
+        ]
+      }
+    },
+    {
       "id": "gejie_001",
       "book": "中国药典（2025年版）一部",
       "type": "yaowu",
@@ -13703,6 +15151,66 @@
       }
     },
     {
+      "id": "guanbaifu_001",
+      "book": "《中药学》（清华社）· 药典外品种",
+      "type": "yaowu",
+      "tier": 2,
+      "category": "zhongyao",
+      "subcategory": "huatan",
+      "path": "library/zhongyao/huatan/guanbaifu/guanbaifu_001.md",
+      "weight": 7,
+      "title": "关白附",
+      "chapter": "化痰止咳平喘药",
+      "conditions": {
+        "zhengxing": [
+          "风痰",
+          "寒湿"
+        ],
+        "zhifa": [
+          "祛风痰",
+          "定惊痫",
+          "散寒止痛"
+        ],
+        "bingzheng": [
+          "中风痰壅",
+          "口眼㖞斜",
+          "癫痫",
+          "偏正头痛",
+          "寒湿痹痛"
+        ],
+        "zhengzhuang": [
+          "痰壅",
+          "头痛"
+        ],
+        "fangming": [
+          "玉真散"
+        ],
+        "yaoming": [
+          "关白附"
+        ],
+        "xuewei": [],
+        "jingluo": [],
+        "siqi": [
+          "温"
+        ],
+        "wuwei": [
+          "辛",
+          "甘"
+        ],
+        "guijing": [
+          "胃经",
+          "肝经"
+        ],
+        "keywords": [
+          "毛茛科",
+          "黄花乌头",
+          "块根",
+          "有毒",
+          "祛风痰"
+        ]
+      }
+    },
+    {
       "id": "guazijin_001",
       "book": "中国药典（2025年版）一部",
       "type": "yaowu",
@@ -13756,6 +15264,60 @@
           "全草",
           "祛痰安神",
           "中国药典"
+        ]
+      }
+    },
+    {
+      "id": "haifushi_001",
+      "book": "《中药学》（清华社）· 药典外品种",
+      "type": "yaowu",
+      "tier": 2,
+      "category": "zhongyao",
+      "subcategory": "huatan",
+      "path": "library/zhongyao/huatan/haifushi/haifushi_001.md",
+      "weight": 7,
+      "title": "海浮石",
+      "chapter": "化痰止咳平喘药",
+      "conditions": {
+        "zhengxing": [
+          "痰热",
+          "肺热"
+        ],
+        "zhifa": [
+          "清肺化痰",
+          "软坚散结"
+        ],
+        "bingzheng": [
+          "痰热咳嗽",
+          "咯血",
+          "瘰疬",
+          "瘿瘤"
+        ],
+        "zhengzhuang": [
+          "咳嗽痰黄"
+        ],
+        "fangming": [],
+        "yaoming": [
+          "海浮石"
+        ],
+        "xuewei": [],
+        "jingluo": [],
+        "siqi": [
+          "寒"
+        ],
+        "wuwei": [
+          "咸"
+        ],
+        "guijing": [
+          "肺经",
+          "肾经"
+        ],
+        "keywords": [
+          "胞孔科",
+          "脊突苔虫",
+          "骨骼或火山岩",
+          "清肺化痰",
+          "教材品种"
         ]
       }
     },
@@ -14058,6 +15620,62 @@
           "鳞茎",
           "清热化痰",
           "中国药典"
+        ]
+      }
+    },
+    {
+      "id": "jiangyong_001",
+      "book": "《中药学》（清华社）· 药典外品种",
+      "type": "yaowu",
+      "tier": 2,
+      "category": "zhongyao",
+      "subcategory": "huatan",
+      "path": "library/zhongyao/huatan/jiangyong/jiangyong_001.md",
+      "weight": 7,
+      "title": "僵蛹",
+      "chapter": "化痰止咳平喘药",
+      "conditions": {
+        "zhengxing": [
+          "痰热",
+          "惊风"
+        ],
+        "zhifa": [
+          "息风止痉",
+          "化痰退热"
+        ],
+        "bingzheng": [
+          "小儿惊风",
+          "高热抽搐",
+          "癫痫",
+          "痰热咳喘"
+        ],
+        "zhengzhuang": [
+          "抽搐",
+          "发热"
+        ],
+        "fangming": [],
+        "yaoming": [
+          "僵蛹"
+        ],
+        "xuewei": [],
+        "jingluo": [],
+        "siqi": [
+          "平"
+        ],
+        "wuwei": [
+          "咸",
+          "辛"
+        ],
+        "guijing": [
+          "肝经",
+          "肺经"
+        ],
+        "keywords": [
+          "蚕蛾科",
+          "家蚕",
+          "蛹体加工品",
+          "息风止痉",
+          "教材品种"
         ]
       }
     },
@@ -15356,6 +16974,60 @@
           "块茎",
           "有毒",
           "中国药典"
+        ]
+      }
+    },
+    {
+      "id": "tianxingren_001",
+      "book": "《中药学》（清华社）· 药典外品种",
+      "type": "yaowu",
+      "tier": 2,
+      "category": "zhongyao",
+      "subcategory": "huatan",
+      "path": "library/zhongyao/huatan/tianxingren/tianxingren_001.md",
+      "weight": 7,
+      "title": "甜杏仁",
+      "chapter": "化痰止咳平喘药",
+      "conditions": {
+        "zhengxing": [
+          "肺虚",
+          "肠燥"
+        ],
+        "zhifa": [
+          "润肺止咳",
+          "润肠通便"
+        ],
+        "bingzheng": [
+          "虚劳咳嗽",
+          "气喘",
+          "肠燥便秘"
+        ],
+        "zhengzhuang": [
+          "干咳少痰",
+          "大便干结"
+        ],
+        "fangming": [],
+        "yaoming": [
+          "甜杏仁"
+        ],
+        "xuewei": [],
+        "jingluo": [],
+        "siqi": [
+          "平"
+        ],
+        "wuwei": [
+          "甘"
+        ],
+        "guijing": [
+          "肺经",
+          "大肠经"
+        ],
+        "keywords": [
+          "蔷薇科",
+          "杏",
+          "栽培品种成熟种子",
+          "润肺通便",
+          "教材品种"
         ]
       }
     },
@@ -16662,6 +18334,65 @@
           "根",
           "逐瘀通利关节",
           "中国药典"
+        ]
+      }
+    },
+    {
+      "id": "chuanshanjia_001",
+      "book": "《中药学》（清华社）· 药典外品种",
+      "type": "yaowu",
+      "tier": 2,
+      "category": "zhongyao",
+      "subcategory": "huoxuehuayu",
+      "path": "library/zhongyao/huoxuehuayu/chuanshanjia/chuanshanjia_001.md",
+      "weight": 7,
+      "title": "穿山甲",
+      "chapter": "活血化瘀药",
+      "conditions": {
+        "zhengxing": [
+          "瘀血",
+          "乳汁不下",
+          "疮疡"
+        ],
+        "zhifa": [
+          "活血消癥",
+          "通经下乳",
+          "消肿排脓"
+        ],
+        "bingzheng": [
+          "癥瘕经闭",
+          "产后乳汁不下",
+          "痈肿疮毒",
+          "瘰疬"
+        ],
+        "zhengzhuang": [
+          "经闭",
+          "乳少"
+        ],
+        "fangming": [
+          "仙方活命饮"
+        ],
+        "yaoming": [
+          "穿山甲"
+        ],
+        "xuewei": [],
+        "jingluo": [],
+        "siqi": [
+          "微寒"
+        ],
+        "wuwei": [
+          "咸"
+        ],
+        "guijing": [
+          "肝经",
+          "胃经"
+        ],
+        "keywords": [
+          "鲮鲤科",
+          "穿山甲",
+          "鳞甲",
+          "保护动物禁药",
+          "教材品种"
         ]
       }
     },
@@ -19323,6 +21054,63 @@
       }
     },
     {
+      "id": "cangercao_001",
+      "book": "《中药学》（清华社）· 药典外品种",
+      "type": "yaowu",
+      "tier": 2,
+      "category": "zhongyao",
+      "subcategory": "jiebiao",
+      "path": "library/zhongyao/jiebiao/cangercao/cangercao_001.md",
+      "weight": 7,
+      "title": "苍耳草",
+      "chapter": "解表药",
+      "conditions": {
+        "zhengxing": [
+          "风寒",
+          "风湿",
+          "热毒"
+        ],
+        "zhifa": [
+          "祛风散热",
+          "除湿解毒"
+        ],
+        "bingzheng": [
+          "感冒头痛",
+          "风湿痹痛",
+          "疮疡肿毒",
+          "皮肤瘙痒"
+        ],
+        "zhengzhuang": [
+          "头身疼痛",
+          "疮痒"
+        ],
+        "fangming": [],
+        "yaoming": [
+          "苍耳草"
+        ],
+        "xuewei": [],
+        "jingluo": [],
+        "siqi": [
+          "凉"
+        ],
+        "wuwei": [
+          "苦",
+          "辛"
+        ],
+        "guijing": [
+          "肺经",
+          "肝经"
+        ],
+        "keywords": [
+          "菊科",
+          "苍耳",
+          "全草",
+          "有小毒",
+          "祛风除湿"
+        ]
+      }
+    },
+    {
       "id": "cangerzi_001",
       "book": "中国药典（2025年版）一部",
       "type": "yaowu",
@@ -19514,6 +21302,63 @@
           "若虫皮壳",
           "退翳",
           "中国药典"
+        ]
+      }
+    },
+    {
+      "id": "congbai_001",
+      "book": "《中药学》（清华社）· 药典外品种",
+      "type": "yaowu",
+      "tier": 2,
+      "category": "zhongyao",
+      "subcategory": "jiebiao",
+      "path": "library/zhongyao/jiebiao/congbai/congbai_001.md",
+      "weight": 7,
+      "title": "葱白",
+      "chapter": "解表药",
+      "conditions": {
+        "zhengxing": [
+          "风寒",
+          "寒凝"
+        ],
+        "zhifa": [
+          "发汗解表",
+          "散寒通阳"
+        ],
+        "bingzheng": [
+          "风寒感冒",
+          "阴盛格阳",
+          "腹痛下利",
+          "小便不利"
+        ],
+        "zhengzhuang": [
+          "恶寒发热",
+          "腹痛"
+        ],
+        "fangming": [
+          "葱豉汤"
+        ],
+        "yaoming": [
+          "葱白"
+        ],
+        "xuewei": [],
+        "jingluo": [],
+        "siqi": [
+          "温"
+        ],
+        "wuwei": [
+          "辛"
+        ],
+        "guijing": [
+          "肺经",
+          "胃经"
+        ],
+        "keywords": [
+          "百合科",
+          "葱",
+          "鳞茎",
+          "发汗解表",
+          "教材品种"
         ]
       }
     },
@@ -20121,6 +21966,59 @@
           "肉桂",
           "嫩枝",
           "中国药典"
+        ]
+      }
+    },
+    {
+      "id": "husui_001",
+      "book": "《中药学》（清华社）· 药典外品种",
+      "type": "yaowu",
+      "tier": 2,
+      "category": "zhongyao",
+      "subcategory": "jiebiao",
+      "path": "library/zhongyao/jiebiao/husui/husui_001.md",
+      "weight": 7,
+      "title": "胡荽",
+      "chapter": "解表药",
+      "conditions": {
+        "zhengxing": [
+          "外感",
+          "疹出不透"
+        ],
+        "zhifa": [
+          "发表透疹",
+          "开胃消食"
+        ],
+        "bingzheng": [
+          "麻疹不透",
+          "感冒无汗",
+          "食积纳呆"
+        ],
+        "zhengzhuang": [
+          "疹出不畅"
+        ],
+        "fangming": [],
+        "yaoming": [
+          "胡荽"
+        ],
+        "xuewei": [],
+        "jingluo": [],
+        "siqi": [
+          "温"
+        ],
+        "wuwei": [
+          "辛"
+        ],
+        "guijing": [
+          "肺经",
+          "胃经"
+        ],
+        "keywords": [
+          "伞形科",
+          "芫荽",
+          "带根全草",
+          "发表透疹",
+          "教材品种"
         ]
       }
     },
@@ -21602,6 +23500,64 @@
       }
     },
     {
+      "id": "zhangnao_001",
+      "book": "《中药学》（清华社）· 药典外品种",
+      "type": "yaowu",
+      "tier": 2,
+      "category": "zhongyao",
+      "subcategory": "kaiqiao",
+      "path": "library/zhongyao/kaiqiao/zhangnao/zhangnao_001.md",
+      "weight": 7,
+      "title": "樟脑",
+      "chapter": "开窍药",
+      "conditions": {
+        "zhengxing": [
+          "寒湿",
+          "热毒"
+        ],
+        "zhifa": [
+          "开窍辟秽",
+          "除湿杀虫",
+          "温散止痛"
+        ],
+        "bingzheng": [
+          "痧胀腹痛",
+          "寒湿脚气",
+          "疥癣",
+          "跌打瘀痛"
+        ],
+        "zhengzhuang": [
+          "腹痛",
+          "疮痒"
+        ],
+        "fangming": [
+          "十滴水"
+        ],
+        "yaoming": [
+          "樟脑"
+        ],
+        "xuewei": [],
+        "jingluo": [],
+        "siqi": [
+          "热"
+        ],
+        "wuwei": [
+          "辛"
+        ],
+        "guijing": [
+          "心经",
+          "脾经"
+        ],
+        "keywords": [
+          "樟科",
+          "樟",
+          "提取加工品",
+          "有毒",
+          "开窍辟秽"
+        ]
+      }
+    },
+    {
       "id": "chenpi_001",
       "book": "中国药典（2025年版）一部",
       "type": "yaowu",
@@ -21961,6 +23917,60 @@
       }
     },
     {
+      "id": "doukouke_001",
+      "book": "《中药学》（清华社）· 药典外品种",
+      "type": "yaowu",
+      "tier": 2,
+      "category": "zhongyao",
+      "subcategory": "liqi",
+      "path": "library/zhongyao/liqi/doukouke/doukouke_001.md",
+      "weight": 7,
+      "title": "豆蔻壳",
+      "chapter": "理气药",
+      "conditions": {
+        "zhengxing": [
+          "湿阻",
+          "气滞"
+        ],
+        "zhifa": [
+          "化湿行气",
+          "温中止呕"
+        ],
+        "bingzheng": [
+          "湿阻中焦",
+          "脘腹胀满",
+          "恶心呕吐"
+        ],
+        "zhengzhuang": [
+          "脘腹胀闷",
+          "呕恶"
+        ],
+        "fangming": [],
+        "yaoming": [
+          "豆蔻壳"
+        ],
+        "xuewei": [],
+        "jingluo": [],
+        "siqi": [
+          "温"
+        ],
+        "wuwei": [
+          "辛"
+        ],
+        "guijing": [
+          "脾经",
+          "胃经"
+        ],
+        "keywords": [
+          "姜科",
+          "白豆蔻",
+          "果壳",
+          "化湿行气",
+          "教材品种"
+        ]
+      }
+    },
+    {
       "id": "foshou_001",
       "book": "中国药典（2025年版）一部",
       "type": "yaowu",
@@ -22077,6 +24087,61 @@
           "根及根茎",
           "开郁醒脾",
           "中国药典"
+        ]
+      }
+    },
+    {
+      "id": "hegen_001",
+      "book": "《中药学》（清华社）· 药典外品种",
+      "type": "yaowu",
+      "tier": 2,
+      "category": "zhongyao",
+      "subcategory": "liqi",
+      "path": "library/zhongyao/liqi/hegen/hegen_001.md",
+      "weight": 7,
+      "title": "荷梗",
+      "chapter": "理气药",
+      "conditions": {
+        "zhengxing": [
+          "暑湿",
+          "气滞"
+        ],
+        "zhifa": [
+          "解暑清热",
+          "理气化湿"
+        ],
+        "bingzheng": [
+          "暑湿胸闷",
+          "泄泻",
+          "痢疾",
+          "带下"
+        ],
+        "zhengzhuang": [
+          "胸闷",
+          "泄泻"
+        ],
+        "fangming": [],
+        "yaoming": [
+          "荷梗"
+        ],
+        "xuewei": [],
+        "jingluo": [],
+        "siqi": [
+          "平"
+        ],
+        "wuwei": [
+          "苦"
+        ],
+        "guijing": [
+          "脾经",
+          "胃经"
+        ],
+        "keywords": [
+          "睡莲科",
+          "莲",
+          "叶柄及花柄",
+          "解暑化湿",
+          "教材品种"
         ]
       }
     },
@@ -22424,6 +24489,114 @@
       }
     },
     {
+      "id": "juliuo_001",
+      "book": "《中药学》（清华社）· 药典外品种",
+      "type": "yaowu",
+      "tier": 2,
+      "category": "zhongyao",
+      "subcategory": "liqi",
+      "path": "library/zhongyao/liqi/juliuo/juliuo_001.md",
+      "weight": 7,
+      "title": "橘络",
+      "chapter": "理气药",
+      "conditions": {
+        "zhengxing": [
+          "气滞",
+          "痰阻"
+        ],
+        "zhifa": [
+          "行气通络",
+          "化痰止咳"
+        ],
+        "bingzheng": [
+          "痰滞经络",
+          "咳嗽胸痛",
+          "痰中带血"
+        ],
+        "zhengzhuang": [
+          "胸胁闷痛"
+        ],
+        "fangming": [],
+        "yaoming": [
+          "橘络"
+        ],
+        "xuewei": [],
+        "jingluo": [],
+        "siqi": [
+          "平"
+        ],
+        "wuwei": [
+          "甘",
+          "苦"
+        ],
+        "guijing": [
+          "肝经",
+          "肺经"
+        ],
+        "keywords": [
+          "芸香科",
+          "橘",
+          "果皮内维管束",
+          "行气通络",
+          "教材品种"
+        ]
+      }
+    },
+    {
+      "id": "juye_001",
+      "book": "《中药学》（清华社）· 药典外品种",
+      "type": "yaowu",
+      "tier": 2,
+      "category": "zhongyao",
+      "subcategory": "liqi",
+      "path": "library/zhongyao/liqi/juye/juye_001.md",
+      "weight": 7,
+      "title": "橘叶",
+      "chapter": "理气药",
+      "conditions": {
+        "zhengxing": [
+          "肝郁气滞"
+        ],
+        "zhifa": [
+          "疏肝行气",
+          "散结消肿"
+        ],
+        "bingzheng": [
+          "胁肋胀痛",
+          "乳痈",
+          "乳房结块",
+          "疝气"
+        ],
+        "zhengzhuang": [
+          "胁痛",
+          "乳癖"
+        ],
+        "fangming": [],
+        "yaoming": [
+          "橘叶"
+        ],
+        "xuewei": [],
+        "jingluo": [],
+        "siqi": [
+          "平"
+        ],
+        "wuwei": [
+          "苦",
+          "辛"
+        ],
+        "guijing": [
+          "肝经"
+        ],
+        "keywords": [
+          "芸香科",
+          "橘",
+          "叶",
+          "疏肝行气",
+          "教材品种"
+        ]
+      }
+    },
+    {
       "id": "lizhihe_001",
       "book": "中国药典（2025年版）一部",
       "type": "yaowu",
@@ -22724,6 +24897,59 @@
           "幼果或未成熟果皮",
           "破气散结",
           "中国药典"
+        ]
+      }
+    },
+    {
+      "id": "sharenke_001",
+      "book": "《中药学》（清华社）· 药典外品种",
+      "type": "yaowu",
+      "tier": 2,
+      "category": "zhongyao",
+      "subcategory": "liqi",
+      "path": "library/zhongyao/liqi/sharenke/sharenke_001.md",
+      "weight": 7,
+      "title": "砂仁壳",
+      "chapter": "理气药",
+      "conditions": {
+        "zhengxing": [
+          "气滞",
+          "湿阻"
+        ],
+        "zhifa": [
+          "行气和中",
+          "开胃消食"
+        ],
+        "bingzheng": [
+          "脘腹胀痛",
+          "食积不化",
+          "嗳气"
+        ],
+        "zhengzhuang": [
+          "脘腹胀闷"
+        ],
+        "fangming": [],
+        "yaoming": [
+          "砂仁壳"
+        ],
+        "xuewei": [],
+        "jingluo": [],
+        "siqi": [
+          "温"
+        ],
+        "wuwei": [
+          "辛"
+        ],
+        "guijing": [
+          "脾经",
+          "胃经"
+        ],
+        "keywords": [
+          "姜科",
+          "阳春砂",
+          "果壳",
+          "行气和中",
+          "教材品种"
         ]
       }
     },
@@ -24198,6 +26424,61 @@
       }
     },
     {
+      "id": "haijinshateng_001",
+      "book": "《中药学》（清华社）· 药典外品种",
+      "type": "yaowu",
+      "tier": 2,
+      "category": "zhongyao",
+      "subcategory": "lishuishenshi",
+      "path": "library/zhongyao/lishuishenshi/haijinshateng/haijinshateng_001.md",
+      "weight": 7,
+      "title": "海金沙藤",
+      "chapter": "利水渗湿药",
+      "conditions": {
+        "zhengxing": [
+          "湿热",
+          "淋证"
+        ],
+        "zhifa": [
+          "清热解毒",
+          "利尿通淋"
+        ],
+        "bingzheng": [
+          "热淋",
+          "石淋",
+          "血淋",
+          "膏淋",
+          "湿热黄疸"
+        ],
+        "zhengzhuang": [
+          "尿赤涩痛"
+        ],
+        "fangming": [],
+        "yaoming": [
+          "海金沙藤"
+        ],
+        "xuewei": [],
+        "jingluo": [],
+        "siqi": [
+          "寒"
+        ],
+        "wuwei": [
+          "甘"
+        ],
+        "guijing": [
+          "膀胱经",
+          "小肠经"
+        ],
+        "keywords": [
+          "海金沙科",
+          "海金沙",
+          "藤茎及叶",
+          "利尿通淋",
+          "教材品种"
+        ]
+      }
+    },
+    {
       "id": "huashi_001",
       "book": "中国药典（2025年版）一部",
       "type": "yaowu",
@@ -24259,6 +26540,58 @@
           "含水硅酸镁",
           "包煎",
           "中国药典"
+        ]
+      }
+    },
+    {
+      "id": "hulu_001",
+      "book": "《中药学》（清华社）· 药典外品种",
+      "type": "yaowu",
+      "tier": 2,
+      "category": "zhongyao",
+      "subcategory": "lishuishenshi",
+      "path": "library/zhongyao/lishuishenshi/hulu/hulu_001.md",
+      "weight": 7,
+      "title": "葫芦",
+      "chapter": "利水渗湿药",
+      "conditions": {
+        "zhengxing": [
+          "水湿"
+        ],
+        "zhifa": [
+          "利水消肿"
+        ],
+        "bingzheng": [
+          "水肿",
+          "腹水",
+          "小便不利"
+        ],
+        "zhengzhuang": [
+          "水肿",
+          "尿少"
+        ],
+        "fangming": [],
+        "yaoming": [
+          "葫芦"
+        ],
+        "xuewei": [],
+        "jingluo": [],
+        "siqi": [
+          "平"
+        ],
+        "wuwei": [
+          "甘"
+        ],
+        "guijing": [
+          "肺经",
+          "肾经"
+        ],
+        "keywords": [
+          "葫芦科",
+          "葫芦",
+          "成熟果壳",
+          "利水消肿",
+          "教材品种"
         ]
       }
     },
@@ -24384,6 +26717,63 @@
           "地上部分",
           "利湿通淋",
           "中国药典"
+        ]
+      }
+    },
+    {
+      "id": "lougu_001",
+      "book": "《中药学》（清华社）· 药典外品种",
+      "type": "yaowu",
+      "tier": 2,
+      "category": "zhongyao",
+      "subcategory": "lishuishenshi",
+      "path": "library/zhongyao/lishuishenshi/lougu/lougu_001.md",
+      "weight": 7,
+      "title": "蝼蛄",
+      "chapter": "利水渗湿药",
+      "conditions": {
+        "zhengxing": [
+          "水湿",
+          "癃闭"
+        ],
+        "zhifa": [
+          "利水消肿",
+          "通淋"
+        ],
+        "bingzheng": [
+          "水肿",
+          "腹水",
+          "小便不利",
+          "石淋",
+          "瘰疬"
+        ],
+        "zhengzhuang": [
+          "水肿",
+          "尿闭"
+        ],
+        "fangming": [],
+        "yaoming": [
+          "蝼蛄"
+        ],
+        "xuewei": [],
+        "jingluo": [],
+        "siqi": [
+          "寒"
+        ],
+        "wuwei": [
+          "咸"
+        ],
+        "guijing": [
+          "膀胱经",
+          "大肠经",
+          "小肠经"
+        ],
+        "keywords": [
+          "蝼蛄科",
+          "蝼蛄",
+          "虫体",
+          "利水消肿",
+          "教材品种"
         ]
       }
     },
@@ -24866,6 +27256,124 @@
           "成熟种仁",
           "药食两用",
           "中国药典"
+        ]
+      }
+    },
+    {
+      "id": "yumixu_001",
+      "book": "《中药学》（清华社）· 药典外品种",
+      "type": "yaowu",
+      "tier": 2,
+      "category": "zhongyao",
+      "subcategory": "lishuishenshi",
+      "path": "library/zhongyao/lishuishenshi/yumixu/yumixu_001.md",
+      "weight": 7,
+      "title": "玉米须",
+      "chapter": "利水渗湿药",
+      "conditions": {
+        "zhengxing": [
+          "湿热",
+          "水肿"
+        ],
+        "zhifa": [
+          "利水消肿",
+          "利湿退黄"
+        ],
+        "bingzheng": [
+          "水肿",
+          "小便不利",
+          "湿热黄疸",
+          "高血压"
+        ],
+        "zhengzhuang": [
+          "水肿",
+          "尿少"
+        ],
+        "fangming": [
+          "玉米须茶"
+        ],
+        "yaoming": [
+          "玉米须"
+        ],
+        "xuewei": [],
+        "jingluo": [],
+        "siqi": [
+          "平"
+        ],
+        "wuwei": [
+          "甘"
+        ],
+        "guijing": [
+          "膀胱经",
+          "肝经",
+          "胆经"
+        ],
+        "keywords": [
+          "禾本科",
+          "玉蜀黍",
+          "花柱和柱头",
+          "利水消肿",
+          "教材品种"
+        ]
+      }
+    },
+    {
+      "id": "zeqi_001",
+      "book": "《中药学》（清华社）· 药典外品种",
+      "type": "yaowu",
+      "tier": 2,
+      "category": "zhongyao",
+      "subcategory": "lishuishenshi",
+      "path": "library/zhongyao/lishuishenshi/zeqi/zeqi_001.md",
+      "weight": 7,
+      "title": "泽漆",
+      "chapter": "利水渗湿药",
+      "conditions": {
+        "zhengxing": [
+          "水湿",
+          "痰饮",
+          "热毒"
+        ],
+        "zhifa": [
+          "利水消肿",
+          "化痰散结",
+          "杀虫"
+        ],
+        "bingzheng": [
+          "水肿",
+          "腹水",
+          "痰饮喘咳",
+          "瘰疬",
+          "癣疮"
+        ],
+        "zhengzhuang": [
+          "水肿",
+          "喘咳"
+        ],
+        "fangming": [],
+        "yaoming": [
+          "泽漆"
+        ],
+        "xuewei": [],
+        "jingluo": [],
+        "siqi": [
+          "微寒"
+        ],
+        "wuwei": [
+          "辛",
+          "苦"
+        ],
+        "guijing": [
+          "肺经",
+          "脾经",
+          "肾经"
+        ],
+        "keywords": [
+          "大戟科",
+          "泽漆",
+          "全草",
+          "有毒",
+          "利水消肿"
         ]
       }
     },
@@ -25649,6 +28157,62 @@
       }
     },
     {
+      "id": "shanyangjiao_001",
+      "book": "《中药学》（清华社）· 药典外品种",
+      "type": "yaowu",
+      "tier": 2,
+      "category": "zhongyao",
+      "subcategory": "pingganxifeng",
+      "path": "library/zhongyao/pingganxifeng/shanyangjiao/shanyangjiao_001.md",
+      "weight": 7,
+      "title": "山羊角",
+      "chapter": "平肝息风药",
+      "conditions": {
+        "zhengxing": [
+          "肝阳上亢",
+          "肝热"
+        ],
+        "zhifa": [
+          "平肝息风",
+          "清肝明目",
+          "凉血解毒"
+        ],
+        "bingzheng": [
+          "肝阳上亢",
+          "头痛眩晕",
+          "惊痫抽搐",
+          "目赤肿痛",
+          "温热发斑"
+        ],
+        "zhengzhuang": [
+          "头晕目眩",
+          "抽搐"
+        ],
+        "fangming": [],
+        "yaoming": [
+          "山羊角"
+        ],
+        "xuewei": [],
+        "jingluo": [],
+        "siqi": [
+          "寒"
+        ],
+        "wuwei": [
+          "咸"
+        ],
+        "guijing": [
+          "肝经"
+        ],
+        "keywords": [
+          "牛科",
+          "山羊",
+          "角",
+          "平肝息风",
+          "教材品种"
+        ]
+      }
+    },
+    {
       "id": "shijueming_001",
       "book": "中国药典（2025年版）一部",
       "type": "yaowu",
@@ -25953,6 +28517,62 @@
           "矿石",
           "平肝潜阳",
           "中国药典"
+        ]
+      }
+    },
+    {
+      "id": "zibeichi_001",
+      "book": "《中药学》（清华社）· 药典外品种",
+      "type": "yaowu",
+      "tier": 2,
+      "category": "zhongyao",
+      "subcategory": "pingganxifeng",
+      "path": "library/zhongyao/pingganxifeng/zibeichi/zibeichi_001.md",
+      "weight": 7,
+      "title": "紫贝齿",
+      "chapter": "平肝息风药",
+      "conditions": {
+        "zhengxing": [
+          "肝阳上亢",
+          "肝热"
+        ],
+        "zhifa": [
+          "平肝潜阳",
+          "镇惊安神",
+          "清肝明目"
+        ],
+        "bingzheng": [
+          "肝阳上亢",
+          "头晕目眩",
+          "惊悸失眠",
+          "目赤翳障"
+        ],
+        "zhengzhuang": [
+          "头晕目眩",
+          "心悸"
+        ],
+        "fangming": [],
+        "yaoming": [
+          "紫贝齿"
+        ],
+        "xuewei": [],
+        "jingluo": [],
+        "siqi": [
+          "平"
+        ],
+        "wuwei": [
+          "咸"
+        ],
+        "guijing": [
+          "肝经",
+          "心经"
+        ],
+        "keywords": [
+          "宝贝科",
+          "蛇首眼球贝",
+          "贝壳",
+          "平肝潜阳",
+          "教材品种"
         ]
       }
     },
@@ -27322,6 +29942,63 @@
       }
     },
     {
+      "id": "diercao_001",
+      "book": "《中药学》（清华社）· 药典外品种",
+      "type": "yaowu",
+      "tier": 2,
+      "category": "zhongyao",
+      "subcategory": "qingre",
+      "path": "library/zhongyao/qingre/diercao/diercao_001.md",
+      "weight": 7,
+      "title": "地耳草",
+      "chapter": "清热药",
+      "conditions": {
+        "zhengxing": [
+          "湿热",
+          "瘀血",
+          "热毒"
+        ],
+        "zhifa": [
+          "利湿退黄",
+          "清热解毒",
+          "活血消肿"
+        ],
+        "bingzheng": [
+          "湿热黄疸",
+          "痈疮肿毒",
+          "跌打损伤"
+        ],
+        "zhengzhuang": [
+          "身目发黄"
+        ],
+        "fangming": [],
+        "yaoming": [
+          "地耳草"
+        ],
+        "xuewei": [],
+        "jingluo": [],
+        "siqi": [
+          "凉"
+        ],
+        "wuwei": [
+          "苦",
+          "甘"
+        ],
+        "guijing": [
+          "肝经",
+          "胆经",
+          "脾经"
+        ],
+        "keywords": [
+          "藤黄科",
+          "地耳草",
+          "全草",
+          "利湿退黄",
+          "教材品种"
+        ]
+      }
+    },
+    {
       "id": "digupi_001",
       "book": "中国药典（2025年版）一部",
       "type": "yaowu",
@@ -27815,6 +30492,62 @@
       }
     },
     {
+      "id": "gehua_001",
+      "book": "《中药学》（清华社）· 药典外品种",
+      "type": "yaowu",
+      "tier": 2,
+      "category": "zhongyao",
+      "subcategory": "qingre",
+      "path": "library/zhongyao/qingre/gehua/gehua_001.md",
+      "weight": 7,
+      "title": "葛花",
+      "chapter": "清热药",
+      "conditions": {
+        "zhengxing": [
+          "酒毒",
+          "湿热"
+        ],
+        "zhifa": [
+          "解酒毒",
+          "醒脾和胃"
+        ],
+        "bingzheng": [
+          "饮酒过度",
+          "头痛头晕",
+          "烦渴呕吐",
+          "胸膈饱胀"
+        ],
+        "zhengzhuang": [
+          "酒醉烦渴",
+          "呕吐"
+        ],
+        "fangming": [
+          "葛花解酲汤"
+        ],
+        "yaoming": [
+          "葛花"
+        ],
+        "xuewei": [],
+        "jingluo": [],
+        "siqi": [
+          "凉"
+        ],
+        "wuwei": [
+          "甘"
+        ],
+        "guijing": [
+          "胃经"
+        ],
+        "keywords": [
+          "豆科",
+          "野葛",
+          "花",
+          "解酒毒",
+          "教材品种"
+        ]
+      }
+    },
+    {
       "id": "gonglaomu_001",
       "book": "中国药典（2025年版）一部",
       "type": "yaowu",
@@ -28107,6 +30840,62 @@
           "带花茎的头状花序",
           "退翳",
           "中国药典"
+        ]
+      }
+    },
+    {
+      "id": "hanshuishi_001",
+      "book": "《中药学》（清华社）· 药典外品种",
+      "type": "yaowu",
+      "tier": 2,
+      "category": "zhongyao",
+      "subcategory": "qingre",
+      "path": "library/zhongyao/qingre/hanshuishi/hanshuishi_001.md",
+      "weight": 7,
+      "title": "寒水石",
+      "chapter": "清热药",
+      "conditions": {
+        "zhengxing": [
+          "热盛",
+          "暑热"
+        ],
+        "zhifa": [
+          "清热泻火",
+          "除烦止渴"
+        ],
+        "bingzheng": [
+          "热病烦渴",
+          "癫狂",
+          "口疮",
+          "热毒疮肿"
+        ],
+        "zhengzhuang": [
+          "烦热口渴"
+        ],
+        "fangming": [],
+        "yaoming": [
+          "寒水石"
+        ],
+        "xuewei": [],
+        "jingluo": [],
+        "siqi": [
+          "寒"
+        ],
+        "wuwei": [
+          "辛",
+          "咸"
+        ],
+        "guijing": [
+          "心经",
+          "胃经",
+          "肾经"
+        ],
+        "keywords": [
+          "硫酸盐矿物",
+          "红石膏或方解石",
+          "矿石",
+          "清热泻火",
+          "教材品种"
         ]
       }
     },
@@ -29874,6 +32663,115 @@
       }
     },
     {
+      "id": "lvdou_001",
+      "book": "《中药学》（清华社）· 药典外品种",
+      "type": "yaowu",
+      "tier": 2,
+      "category": "zhongyao",
+      "subcategory": "qingre",
+      "path": "library/zhongyao/qingre/lvdou/lvdou_001.md",
+      "weight": 7,
+      "title": "绿豆",
+      "chapter": "清热药",
+      "conditions": {
+        "zhengxing": [
+          "暑热",
+          "热毒"
+        ],
+        "zhifa": [
+          "清热解毒",
+          "消暑",
+          "利水"
+        ],
+        "bingzheng": [
+          "暑热烦渴",
+          "痈肿疮毒",
+          "药物及食物中毒"
+        ],
+        "zhengzhuang": [
+          "烦渴",
+          "疮肿"
+        ],
+        "fangming": [],
+        "yaoming": [
+          "绿豆"
+        ],
+        "xuewei": [],
+        "jingluo": [],
+        "siqi": [
+          "寒"
+        ],
+        "wuwei": [
+          "甘"
+        ],
+        "guijing": [
+          "心经",
+          "胃经"
+        ],
+        "keywords": [
+          "豆科",
+          "绿豆",
+          "成熟种子",
+          "清热解毒",
+          "教材品种"
+        ]
+      }
+    },
+    {
+      "id": "lvdouyi_001",
+      "book": "《中药学》（清华社）· 药典外品种",
+      "type": "yaowu",
+      "tier": 2,
+      "category": "zhongyao",
+      "subcategory": "qingre",
+      "path": "library/zhongyao/qingre/lvdouyi/lvdouyi_001.md",
+      "weight": 7,
+      "title": "绿豆衣",
+      "chapter": "清热药",
+      "conditions": {
+        "zhengxing": [
+          "暑热",
+          "热毒"
+        ],
+        "zhifa": [
+          "清热解毒",
+          "消暑"
+        ],
+        "bingzheng": [
+          "暑热烦渴",
+          "痈肿疮毒",
+          "目翳"
+        ],
+        "zhengzhuang": [
+          "烦渴",
+          "疮肿"
+        ],
+        "fangming": [],
+        "yaoming": [
+          "绿豆衣"
+        ],
+        "xuewei": [],
+        "jingluo": [],
+        "siqi": [
+          "寒"
+        ],
+        "wuwei": [
+          "甘"
+        ],
+        "guijing": [
+          "心经",
+          "胃经"
+        ],
+        "keywords": [
+          "豆科",
+          "绿豆",
+          "种皮",
+          "清热解毒",
+          "教材品种"
+        ]
+      }
+    },
+    {
       "id": "mabiancao_001",
       "book": "中国药典（2025年版）一部",
       "type": "yaowu",
@@ -30412,6 +33310,62 @@
           "叶",
           "凉血消肿",
           "中国药典"
+        ]
+      }
+    },
+    {
+      "id": "mutouhui_001",
+      "book": "《中药学》（清华社）· 药典外品种",
+      "type": "yaowu",
+      "tier": 2,
+      "category": "zhongyao",
+      "subcategory": "qingre",
+      "path": "library/zhongyao/qingre/mutouhui/mutouhui_001.md",
+      "weight": 7,
+      "title": "墓头回",
+      "chapter": "清热药",
+      "conditions": {
+        "zhengxing": [
+          "湿热",
+          "瘀血"
+        ],
+        "zhifa": [
+          "清热燥湿",
+          "止血止带",
+          "祛瘀"
+        ],
+        "bingzheng": [
+          "湿热下注",
+          "赤白带下",
+          "崩漏",
+          "痢疾"
+        ],
+        "zhengzhuang": [
+          "带下色黄"
+        ],
+        "fangming": [],
+        "yaoming": [
+          "墓头回"
+        ],
+        "xuewei": [],
+        "jingluo": [],
+        "siqi": [
+          "微寒"
+        ],
+        "wuwei": [
+          "苦",
+          "辛"
+        ],
+        "guijing": [
+          "肝经",
+          "大肠经"
+        ],
+        "keywords": [
+          "败酱科",
+          "异叶败酱",
+          "根",
+          "清热止带",
+          "教材品种"
         ]
       }
     },
@@ -32491,6 +35445,63 @@
       }
     },
     {
+      "id": "xihuangcao_001",
+      "book": "《中药学》（清华社）· 药典外品种",
+      "type": "yaowu",
+      "tier": 2,
+      "category": "zhongyao",
+      "subcategory": "qingre",
+      "path": "library/zhongyao/qingre/xihuangcao/xihuangcao_001.md",
+      "weight": 7,
+      "title": "溪黄草",
+      "chapter": "清热药",
+      "conditions": {
+        "zhengxing": [
+          "湿热"
+        ],
+        "zhifa": [
+          "清热利湿",
+          "退黄"
+        ],
+        "bingzheng": [
+          "湿热黄疸",
+          "胆囊炎",
+          "肝炎",
+          "泄泻"
+        ],
+        "zhengzhuang": [
+          "身目发黄",
+          "胁痛"
+        ],
+        "fangming": [
+          "溪黄草冲剂"
+        ],
+        "yaoming": [
+          "溪黄草"
+        ],
+        "xuewei": [],
+        "jingluo": [],
+        "siqi": [
+          "凉"
+        ],
+        "wuwei": [
+          "苦"
+        ],
+        "guijing": [
+          "肝经",
+          "胆经",
+          "大肠经"
+        ],
+        "keywords": [
+          "唇形科",
+          "溪黄草",
+          "全草",
+          "清热利湿",
+          "教材品种"
+        ]
+      }
+    },
+    {
       "id": "xingmi_001",
       "book": "中国药典（2025年版）一部",
       "type": "yaowu",
@@ -33443,6 +36454,64 @@
       }
     },
     {
+      "id": "zhuye_001",
+      "book": "《中药学》（清华社）· 药典外品种",
+      "type": "yaowu",
+      "tier": 2,
+      "category": "zhongyao",
+      "subcategory": "qingre",
+      "path": "library/zhongyao/qingre/zhuye/zhuye_001.md",
+      "weight": 7,
+      "title": "竹叶",
+      "chapter": "清热药",
+      "conditions": {
+        "zhengxing": [
+          "心火",
+          "胃热"
+        ],
+        "zhifa": [
+          "清热除烦",
+          "生津利尿"
+        ],
+        "bingzheng": [
+          "热病烦渴",
+          "口疮尿赤",
+          "小便不利"
+        ],
+        "zhengzhuang": [
+          "心烦口渴",
+          "尿赤"
+        ],
+        "fangming": [
+          "竹叶石膏汤"
+        ],
+        "yaoming": [
+          "竹叶"
+        ],
+        "xuewei": [],
+        "jingluo": [],
+        "siqi": [
+          "寒"
+        ],
+        "wuwei": [
+          "甘",
+          "淡"
+        ],
+        "guijing": [
+          "心经",
+          "胃经",
+          "小肠经"
+        ],
+        "keywords": [
+          "禾本科",
+          "淡竹",
+          "叶",
+          "清热除烦",
+          "教材品种"
+        ]
+      }
+    },
+    {
       "id": "zicao_001",
       "book": "中国药典（2025年版）一部",
       "type": "yaowu",
@@ -34251,6 +37320,65 @@
       }
     },
     {
+      "id": "cansha_001",
+      "book": "《中药学》（清华社）· 药典外品种",
+      "type": "yaowu",
+      "tier": 2,
+      "category": "zhongyao",
+      "subcategory": "qufengshi",
+      "path": "library/zhongyao/qufengshi/cansha/cansha_001.md",
+      "weight": 7,
+      "title": "蚕沙",
+      "chapter": "祛风湿药",
+      "conditions": {
+        "zhengxing": [
+          "风湿",
+          "湿浊"
+        ],
+        "zhifa": [
+          "祛风除湿",
+          "和胃化浊"
+        ],
+        "bingzheng": [
+          "风湿痹痛",
+          "肢体不遂",
+          "湿疹瘙痒",
+          "吐泻转筋"
+        ],
+        "zhengzhuang": [
+          "关节疼痛",
+          "吐泻"
+        ],
+        "fangming": [
+          "蚕矢汤"
+        ],
+        "yaoming": [
+          "蚕沙"
+        ],
+        "xuewei": [],
+        "jingluo": [],
+        "siqi": [
+          "温"
+        ],
+        "wuwei": [
+          "甘",
+          "辛"
+        ],
+        "guijing": [
+          "肝经",
+          "脾经",
+          "胃经"
+        ],
+        "keywords": [
+          "蚕蛾科",
+          "家蚕",
+          "粪便",
+          "祛风除湿",
+          "教材品种"
+        ]
+      }
+    },
+    {
       "id": "caowu_001",
       "book": "中国药典（2025年版）一部",
       "type": "yaowu",
@@ -34307,6 +37435,61 @@
           "块根",
           "大毒",
           "中国药典"
+        ]
+      }
+    },
+    {
+      "id": "chouwutong_001",
+      "book": "《中药学》（清华社）· 药典外品种",
+      "type": "yaowu",
+      "tier": 2,
+      "category": "zhongyao",
+      "subcategory": "qufengshi",
+      "path": "library/zhongyao/qufengshi/chouwutong/chouwutong_001.md",
+      "weight": 7,
+      "title": "臭梧桐",
+      "chapter": "祛风湿药",
+      "conditions": {
+        "zhengxing": [
+          "风湿",
+          "肝阳上亢"
+        ],
+        "zhifa": [
+          "祛风除湿",
+          "平肝降压"
+        ],
+        "bingzheng": [
+          "风湿痹痛",
+          "肢体麻木",
+          "高血压"
+        ],
+        "zhengzhuang": [
+          "关节疼痛",
+          "头晕"
+        ],
+        "fangming": [],
+        "yaoming": [
+          "臭梧桐"
+        ],
+        "xuewei": [],
+        "jingluo": [],
+        "siqi": [
+          "凉"
+        ],
+        "wuwei": [
+          "辛",
+          "苦",
+          "甘"
+        ],
+        "guijing": [
+          "肝经"
+        ],
+        "keywords": [
+          "马鞭草科",
+          "海州常山",
+          "嫩枝及叶",
+          "祛风降压",
+          "教材品种"
         ]
       }
     },
@@ -34721,6 +37904,62 @@
           "藤茎",
           "通络",
           "中国药典"
+        ]
+      }
+    },
+    {
+      "id": "haitongpi_001",
+      "book": "《中药学》（清华社）· 药典外品种",
+      "type": "yaowu",
+      "tier": 2,
+      "category": "zhongyao",
+      "subcategory": "qufengshi",
+      "path": "library/zhongyao/qufengshi/haitongpi/haitongpi_001.md",
+      "weight": 7,
+      "title": "海桐皮",
+      "chapter": "祛风湿药",
+      "conditions": {
+        "zhengxing": [
+          "风湿",
+          "湿热"
+        ],
+        "zhifa": [
+          "祛风湿",
+          "通络止痛",
+          "杀虫止痒"
+        ],
+        "bingzheng": [
+          "风湿痹痛",
+          "四肢拘挛",
+          "腰膝疼痛",
+          "疥癣"
+        ],
+        "zhengzhuang": [
+          "关节疼痛"
+        ],
+        "fangming": [],
+        "yaoming": [
+          "海桐皮"
+        ],
+        "xuewei": [],
+        "jingluo": [],
+        "siqi": [
+          "平"
+        ],
+        "wuwei": [
+          "苦",
+          "辛"
+        ],
+        "guijing": [
+          "肝经",
+          "肾经"
+        ],
+        "keywords": [
+          "豆科",
+          "刺桐",
+          "树皮",
+          "祛风通络",
+          "教材品种"
         ]
       }
     },
@@ -36380,6 +39619,171 @@
       }
     },
     {
+      "id": "xuelianhua_001",
+      "book": "《中药学》（清华社）· 药典外品种",
+      "type": "yaowu",
+      "tier": 2,
+      "category": "zhongyao",
+      "subcategory": "qufengshi",
+      "path": "library/zhongyao/qufengshi/xuelianhua/xuelianhua_001.md",
+      "weight": 7,
+      "title": "雪莲花",
+      "chapter": "祛风湿药",
+      "conditions": {
+        "zhengxing": [
+          "风寒湿痹",
+          "肾阳不足"
+        ],
+        "zhifa": [
+          "祛风湿",
+          "强筋骨",
+          "温肾壮阳"
+        ],
+        "bingzheng": [
+          "风寒湿痹",
+          "腰膝酸软",
+          "阳痿",
+          "月经不调"
+        ],
+        "zhengzhuang": [
+          "关节冷痛",
+          "腰膝无力"
+        ],
+        "fangming": [],
+        "yaoming": [
+          "雪莲花"
+        ],
+        "xuewei": [],
+        "jingluo": [],
+        "siqi": [
+          "温"
+        ],
+        "wuwei": [
+          "甘",
+          "微苦"
+        ],
+        "guijing": [
+          "肝经",
+          "肾经"
+        ],
+        "keywords": [
+          "菊科",
+          "绵头雪莲花",
+          "带花全株",
+          "祛风强筋骨",
+          "教材品种"
+        ]
+      }
+    },
+    {
+      "id": "xueshangyizhihao_001",
+      "book": "《中药学》（清华社）· 药典外品种",
+      "type": "yaowu",
+      "tier": 2,
+      "category": "zhongyao",
+      "subcategory": "qufengshi",
+      "path": "library/zhongyao/qufengshi/xueshangyizhihao/xueshangyizhihao_001.md",
+      "weight": 7,
+      "title": "雪上一枝蒿",
+      "chapter": "祛风湿药",
+      "conditions": {
+        "zhengxing": [
+          "风湿",
+          "瘀血"
+        ],
+        "zhifa": [
+          "祛风除湿",
+          "活血止痛",
+          "散瘀消肿"
+        ],
+        "bingzheng": [
+          "风湿痹痛",
+          "跌打损伤",
+          "骨折肿痛",
+          "疮疡肿毒"
+        ],
+        "zhengzhuang": [
+          "关节剧痛",
+          "瘀肿疼痛"
+        ],
+        "fangming": [],
+        "yaoming": [
+          "雪上一枝蒿"
+        ],
+        "xuewei": [],
+        "jingluo": [],
+        "siqi": [
+          "温"
+        ],
+        "wuwei": [
+          "苦",
+          "辛"
+        ],
+        "guijing": [
+          "肝经"
+        ],
+        "keywords": [
+          "毛茛科",
+          "短柄乌头",
+          "块根",
+          "大毒",
+          "祛风止痛"
+        ]
+      }
+    },
+    {
+      "id": "xungufeng_001",
+      "book": "《中药学》（清华社）· 药典外品种",
+      "type": "yaowu",
+      "tier": 2,
+      "category": "zhongyao",
+      "subcategory": "qufengshi",
+      "path": "library/zhongyao/qufengshi/xungufeng/xungufeng_001.md",
+      "weight": 7,
+      "title": "寻骨风",
+      "chapter": "祛风湿药",
+      "conditions": {
+        "zhengxing": [
+          "风湿"
+        ],
+        "zhifa": [
+          "祛风通络",
+          "止痛"
+        ],
+        "bingzheng": [
+          "风湿痹痛",
+          "肢体麻木",
+          "筋骨拘挛"
+        ],
+        "zhengzhuang": [
+          "关节疼痛"
+        ],
+        "fangming": [],
+        "yaoming": [
+          "寻骨风"
+        ],
+        "xuewei": [],
+        "jingluo": [],
+        "siqi": [
+          "平"
+        ],
+        "wuwei": [
+          "辛",
+          "苦"
+        ],
+        "guijing": [
+          "肝经"
+        ],
+        "keywords": [
+          "马兜铃科",
+          "绵毛马兜铃",
+          "根或全草",
+          "含马兜铃酸",
+          "慎用"
+        ]
+      }
+    },
+    {
       "id": "yanunu_001",
       "book": "中国药典（2025年版）一部",
       "type": "yaowu",
@@ -36728,6 +40132,61 @@
           "果实",
           "固精缩尿",
           "中国药典"
+        ]
+      }
+    },
+    {
+      "id": "fuxiaomai_001",
+      "book": "《中药学》（清华社）· 药典外品种",
+      "type": "yaowu",
+      "tier": 2,
+      "category": "zhongyao",
+      "subcategory": "shouse",
+      "path": "library/zhongyao/shouse/fuxiaomai/fuxiaomai_001.md",
+      "weight": 7,
+      "title": "浮小麦",
+      "chapter": "收涩药",
+      "conditions": {
+        "zhengxing": [
+          "气虚",
+          "阴虚"
+        ],
+        "zhifa": [
+          "固表止汗",
+          "益气除热"
+        ],
+        "bingzheng": [
+          "自汗",
+          "盗汗",
+          "骨蒸劳热",
+          "虚热"
+        ],
+        "zhengzhuang": [
+          "汗多"
+        ],
+        "fangming": [
+          "牡蛎散"
+        ],
+        "yaoming": [
+          "浮小麦"
+        ],
+        "xuewei": [],
+        "jingluo": [],
+        "siqi": [
+          "凉"
+        ],
+        "wuwei": [
+          "甘"
+        ],
+        "guijing": [
+          "心经"
+        ],
+        "keywords": [
+          "禾本科",
+          "小麦",
+          "干瘪轻浮果实",
+          "固表止汗",
+          "教材品种"
         ]
       }
     },
@@ -37463,6 +40922,62 @@
           "成熟果实",
           "敛肺滋肾",
           "中国药典"
+        ]
+      }
+    },
+    {
+      "id": "nuodaogenxu_001",
+      "book": "《中药学》（清华社）· 药典外品种",
+      "type": "yaowu",
+      "tier": 2,
+      "category": "zhongyao",
+      "subcategory": "shouse",
+      "path": "library/zhongyao/shouse/nuodaogenxu/nuodaogenxu_001.md",
+      "weight": 7,
+      "title": "糯稻根须",
+      "chapter": "收涩药",
+      "conditions": {
+        "zhengxing": [
+          "气虚",
+          "阴虚"
+        ],
+        "zhifa": [
+          "固表止汗",
+          "益胃生津",
+          "退虚热"
+        ],
+        "bingzheng": [
+          "自汗",
+          "盗汗",
+          "虚汗不止",
+          "阴虚口渴"
+        ],
+        "zhengzhuang": [
+          "汗多"
+        ],
+        "fangming": [],
+        "yaoming": [
+          "糯稻根须"
+        ],
+        "xuewei": [],
+        "jingluo": [],
+        "siqi": [
+          "平"
+        ],
+        "wuwei": [
+          "甘"
+        ],
+        "guijing": [
+          "心经",
+          "肝经",
+          "肺经"
+        ],
+        "keywords": [
+          "禾本科",
+          "糯稻",
+          "根茎及根",
+          "固表止汗",
+          "教材品种"
         ]
       }
     },
@@ -39408,6 +42923,66 @@
       }
     },
     {
+      "id": "jishiteng_001",
+      "book": "《中药学》（清华社）· 药典外品种",
+      "type": "yaowu",
+      "tier": 2,
+      "category": "zhongyao",
+      "subcategory": "xiaoshi",
+      "path": "library/zhongyao/xiaoshi/jishiteng/jishiteng_001.md",
+      "weight": 7,
+      "title": "鸡矢藤",
+      "chapter": "消食药",
+      "conditions": {
+        "zhengxing": [
+          "食积",
+          "气滞",
+          "痰热"
+        ],
+        "zhifa": [
+          "消食化积",
+          "止痛",
+          "解毒消肿"
+        ],
+        "bingzheng": [
+          "食积腹胀",
+          "小儿疳积",
+          "脘腹疼痛",
+          "跌打损伤",
+          "湿疹"
+        ],
+        "zhengzhuang": [
+          "脘腹胀痛",
+          "食少"
+        ],
+        "fangming": [],
+        "yaoming": [
+          "鸡矢藤"
+        ],
+        "xuewei": [],
+        "jingluo": [],
+        "siqi": [
+          "平"
+        ],
+        "wuwei": [
+          "甘",
+          "苦"
+        ],
+        "guijing": [
+          "脾经",
+          "胃经",
+          "肝经"
+        ],
+        "keywords": [
+          "茜草科",
+          "鸡矢藤",
+          "地上部分",
+          "消食化积",
+          "教材品种"
+        ]
+      }
+    },
+    {
       "id": "laifuzi_001",
       "book": "中国药典（2025年版）一部",
       "type": "yaowu",
@@ -40571,6 +44146,59 @@
       }
     },
     {
+      "id": "songziren_001",
+      "book": "《中药学》（清华社）· 药典外品种",
+      "type": "yaowu",
+      "tier": 2,
+      "category": "zhongyao",
+      "subcategory": "xiexia",
+      "path": "library/zhongyao/xiexia/songziren/songziren_001.md",
+      "weight": 7,
+      "title": "松子仁",
+      "chapter": "泻下药",
+      "conditions": {
+        "zhengxing": [
+          "肠燥",
+          "肺燥"
+        ],
+        "zhifa": [
+          "润肠通便",
+          "润肺止咳"
+        ],
+        "bingzheng": [
+          "肠燥便秘",
+          "肺燥干咳"
+        ],
+        "zhengzhuang": [
+          "大便干结",
+          "干咳"
+        ],
+        "fangming": [],
+        "yaoming": [
+          "松子仁"
+        ],
+        "xuewei": [],
+        "jingluo": [],
+        "siqi": [
+          "温"
+        ],
+        "wuwei": [
+          "甘"
+        ],
+        "guijing": [
+          "肺经",
+          "大肠经"
+        ],
+        "keywords": [
+          "松科",
+          "红松",
+          "成熟种仁",
+          "润肠通便",
+          "教材品种"
+        ]
+      }
+    },
+    {
       "id": "yamazi_001",
       "book": "中国药典（2025年版）一部",
       "type": "yaowu",
@@ -40864,6 +44492,182 @@
           "有毒",
           "截疟",
           "中国药典"
+        ]
+      }
+    },
+    {
+      "id": "danfan_001",
+      "book": "《中药学》（清华社）· 药典外品种",
+      "type": "yaowu",
+      "tier": 2,
+      "category": "zhongyao",
+      "subcategory": "yongtu",
+      "path": "library/zhongyao/yongtu/danfan/danfan_001.md",
+      "weight": 7,
+      "title": "胆矾",
+      "chapter": "涌吐药",
+      "conditions": {
+        "zhengxing": [
+          "风痰",
+          "热毒",
+          "湿疮"
+        ],
+        "zhifa": [
+          "涌吐风痰",
+          "解毒收湿",
+          "蚀疮去腐"
+        ],
+        "bingzheng": [
+          "风痰壅塞",
+          "喉痹",
+          "癫痫",
+          "口疮",
+          "风眼赤烂",
+          "疮疡"
+        ],
+        "zhengzhuang": [
+          "痰壅",
+          "喉痹"
+        ],
+        "fangming": [],
+        "yaoming": [
+          "胆矾"
+        ],
+        "xuewei": [],
+        "jingluo": [],
+        "siqi": [
+          "寒"
+        ],
+        "wuwei": [
+          "酸",
+          "涩",
+          "辛"
+        ],
+        "guijing": [
+          "肝经",
+          "胆经"
+        ],
+        "keywords": [
+          "硫酸盐矿物",
+          "胆矾",
+          "矿石加工品",
+          "有毒",
+          "涌吐风痰"
+        ]
+      }
+    },
+    {
+      "id": "guadi_001",
+      "book": "《中药学》（清华社）· 药典外品种",
+      "type": "yaowu",
+      "tier": 2,
+      "category": "zhongyao",
+      "subcategory": "yongtu",
+      "path": "library/zhongyao/yongtu/guadi/guadi_001.md",
+      "weight": 7,
+      "title": "瓜蒂",
+      "chapter": "涌吐药",
+      "conditions": {
+        "zhengxing": [
+          "痰涎",
+          "宿食"
+        ],
+        "zhifa": [
+          "涌吐痰食",
+          "祛湿退黄"
+        ],
+        "bingzheng": [
+          "痰涎壅盛",
+          "癫痫",
+          "宿食停滞",
+          "湿热黄疸"
+        ],
+        "zhengzhuang": [
+          "痰壅",
+          "脘闷"
+        ],
+        "fangming": [
+          "瓜蒂散"
+        ],
+        "yaoming": [
+          "瓜蒂"
+        ],
+        "xuewei": [],
+        "jingluo": [],
+        "siqi": [
+          "寒"
+        ],
+        "wuwei": [
+          "苦"
+        ],
+        "guijing": [
+          "胃经",
+          "脾经",
+          "肝经"
+        ],
+        "keywords": [
+          "葫芦科",
+          "甜瓜",
+          "果蒂",
+          "有毒",
+          "涌吐痰食"
+        ]
+      }
+    },
+    {
+      "id": "lilu_001",
+      "book": "《中药学》（清华社）· 药典外品种",
+      "type": "yaowu",
+      "tier": 2,
+      "category": "zhongyao",
+      "subcategory": "yongtu",
+      "path": "library/zhongyao/yongtu/lilu/lilu_001.md",
+      "weight": 7,
+      "title": "藜芦",
+      "chapter": "涌吐药",
+      "conditions": {
+        "zhengxing": [
+          "痰涎",
+          "风痰",
+          "虫积"
+        ],
+        "zhifa": [
+          "涌吐风痰",
+          "杀虫"
+        ],
+        "bingzheng": [
+          "中风痰壅",
+          "癫痫",
+          "喉痹",
+          "疥癣"
+        ],
+        "zhengzhuang": [
+          "痰涎壅盛"
+        ],
+        "fangming": [],
+        "yaoming": [
+          "藜芦"
+        ],
+        "xuewei": [],
+        "jingluo": [],
+        "siqi": [
+          "寒"
+        ],
+        "wuwei": [
+          "苦",
+          "辛"
+        ],
+        "guijing": [
+          "肺经",
+          "胃经",
+          "肝经"
+        ],
+        "keywords": [
+          "百合科",
+          "藜芦",
+          "根茎",
+          "有毒",
+          "涌吐风痰"
         ]
       }
     },
@@ -41715,6 +45519,120 @@
       }
     },
     {
+      "id": "jicai_001",
+      "book": "《中药学》（清华社）· 药典外品种",
+      "type": "yaowu",
+      "tier": 2,
+      "category": "zhongyao",
+      "subcategory": "zhixue",
+      "path": "library/zhongyao/zhixue/jicai/jicai_001.md",
+      "weight": 7,
+      "title": "荠菜",
+      "chapter": "止血药",
+      "conditions": {
+        "zhengxing": [
+          "血热",
+          "湿热"
+        ],
+        "zhifa": [
+          "凉血止血",
+          "清热利水"
+        ],
+        "bingzheng": [
+          "吐血",
+          "便血",
+          "崩漏",
+          "月经过多",
+          "水肿",
+          "泄泻"
+        ],
+        "zhengzhuang": [
+          "出血"
+        ],
+        "fangming": [],
+        "yaoming": [
+          "荠菜"
+        ],
+        "xuewei": [],
+        "jingluo": [],
+        "siqi": [
+          "凉"
+        ],
+        "wuwei": [
+          "甘"
+        ],
+        "guijing": [
+          "肝经",
+          "胃经",
+          "膀胱经"
+        ],
+        "keywords": [
+          "十字花科",
+          "荠菜",
+          "全草",
+          "凉血止血",
+          "教材品种"
+        ]
+      }
+    },
+    {
+      "id": "jimu_001",
+      "book": "《中药学》（清华社）· 药典外品种",
+      "type": "yaowu",
+      "tier": 2,
+      "category": "zhongyao",
+      "subcategory": "zhixue",
+      "path": "library/zhongyao/zhixue/jimu/jimu_001.md",
+      "weight": 7,
+      "title": "檵木",
+      "chapter": "止血药",
+      "conditions": {
+        "zhengxing": [
+          "血热",
+          "瘀血"
+        ],
+        "zhifa": [
+          "收敛止血",
+          "清热解毒"
+        ],
+        "bingzheng": [
+          "咯血",
+          "吐血",
+          "便血",
+          "崩漏",
+          "外伤出血",
+          "水火烫伤"
+        ],
+        "zhengzhuang": [
+          "出血"
+        ],
+        "fangming": [],
+        "yaoming": [
+          "檵木"
+        ],
+        "xuewei": [],
+        "jingluo": [],
+        "siqi": [
+          "平"
+        ],
+        "wuwei": [
+          "苦",
+          "涩"
+        ],
+        "guijing": [
+          "肝经",
+          "肺经"
+        ],
+        "keywords": [
+          "金缕梅科",
+          "檵木",
+          "叶或花",
+          "收敛止血",
+          "教材品种"
+        ]
+      }
+    },
+    {
       "id": "luohuazizhu_001",
       "book": "中国药典（2025年版）一部",
       "type": "yaowu",
@@ -42430,6 +46348,184 @@
           "收敛止血",
           "化瘀利尿",
           "中国药典"
+        ]
+      }
+    },
+    {
+      "id": "yangti_001",
+      "book": "《中药学》（清华社）· 药典外品种",
+      "type": "yaowu",
+      "tier": 2,
+      "category": "zhongyao",
+      "subcategory": "zhixue",
+      "path": "library/zhongyao/zhixue/yangti/yangti_001.md",
+      "weight": 7,
+      "title": "羊蹄",
+      "chapter": "止血药",
+      "conditions": {
+        "zhengxing": [
+          "血热",
+          "湿热",
+          "疥癣"
+        ],
+        "zhifa": [
+          "凉血止血",
+          "解毒杀虫",
+          "泻下"
+        ],
+        "bingzheng": [
+          "吐血",
+          "衄血",
+          "便血",
+          "崩漏",
+          "疥癣",
+          "疮疡"
+        ],
+        "zhengzhuang": [
+          "出血",
+          "皮肤瘙痒"
+        ],
+        "fangming": [],
+        "yaoming": [
+          "羊蹄"
+        ],
+        "xuewei": [],
+        "jingluo": [],
+        "siqi": [
+          "凉"
+        ],
+        "wuwei": [
+          "苦",
+          "涩"
+        ],
+        "guijing": [
+          "心经",
+          "肝经",
+          "大肠经"
+        ],
+        "keywords": [
+          "蓼科",
+          "羊蹄",
+          "根",
+          "凉血止血",
+          "教材品种"
+        ]
+      }
+    },
+    {
+      "id": "zaoxintu_001",
+      "book": "《中药学》（清华社）· 药典外品种",
+      "type": "yaowu",
+      "tier": 2,
+      "category": "zhongyao",
+      "subcategory": "zhixue",
+      "path": "library/zhongyao/zhixue/zaoxintu/zaoxintu_001.md",
+      "weight": 7,
+      "title": "灶心土",
+      "chapter": "止血药",
+      "conditions": {
+        "zhengxing": [
+          "虚寒",
+          "脾虚"
+        ],
+        "zhifa": [
+          "温中止血",
+          "止呕",
+          "止泻"
+        ],
+        "bingzheng": [
+          "吐血",
+          "衄血",
+          "便血",
+          "崩漏",
+          "虚寒呕吐",
+          "妊娠恶阻",
+          "脾虚久泻"
+        ],
+        "zhengzhuang": [
+          "出血",
+          "呕吐"
+        ],
+        "fangming": [
+          "黄土汤"
+        ],
+        "yaoming": [
+          "灶心土"
+        ],
+        "xuewei": [],
+        "jingluo": [],
+        "siqi": [
+          "温"
+        ],
+        "wuwei": [
+          "辛"
+        ],
+        "guijing": [
+          "脾经",
+          "胃经"
+        ],
+        "keywords": [
+          "烧柴草灶内焦土",
+          "灶心土",
+          "温中止血",
+          "教材品种"
+        ]
+      }
+    },
+    {
+      "id": "zhumagen_001",
+      "book": "《中药学》（清华社）· 药典外品种",
+      "type": "yaowu",
+      "tier": 2,
+      "category": "zhongyao",
+      "subcategory": "zhixue",
+      "path": "library/zhongyao/zhixue/zhumagen/zhumagen_001.md",
+      "weight": 7,
+      "title": "苎麻根",
+      "chapter": "止血药",
+      "conditions": {
+        "zhengxing": [
+          "血热",
+          "胎热"
+        ],
+        "zhifa": [
+          "凉血止血",
+          "安胎",
+          "清热解毒"
+        ],
+        "bingzheng": [
+          "血热出血",
+          "胎动不安",
+          "胎漏下血",
+          "痈肿"
+        ],
+        "zhengzhuang": [
+          "出血",
+          "胎动"
+        ],
+        "fangming": [],
+        "yaoming": [
+          "苎麻根"
+        ],
+        "xuewei": [],
+        "jingluo": [],
+        "siqi": [
+          "寒"
+        ],
+        "wuwei": [
+          "甘"
+        ],
+        "guijing": [
+          "肝经",
+          "心经",
+          "膀胱经"
+        ],
+        "keywords": [
+          "荨麻科",
+          "苎麻",
+          "根",
+          "凉血安胎",
+          "教材品种"
         ]
       }
     },

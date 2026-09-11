@@ -1,6 +1,6 @@
 # zhongyao · 中药学
 
-> 收录 502 条 · 下级 21 个子类
+> 收录 516 条 · 下级 21 个子类
 
 ## anshen · 安神药
 
@@ -48,6 +48,8 @@
 | zhongyao/buxu/duzhong | 1 | [索引](./zhongyao/buxu/duzhong/INDEX.md) |
 | zhongyao/buxu/duzhongye | 1 | [索引](./zhongyao/buxu/duzhongye/INDEX.md) |
 | zhongyao/buxu/ejiao | 1 | [索引](./zhongyao/buxu/ejiao/INDEX.md) |
+| zhongyao/buxu/fengjiao | 1 | [索引](./zhongyao/buxu/fengjiao/INDEX.md) |
+| zhongyao/buxu/fengla | 1 | [索引](./zhongyao/buxu/fengla/INDEX.md) |
 | zhongyao/buxu/fengmi | 1 | [索引](./zhongyao/buxu/fengmi/INDEX.md) |
 | zhongyao/buxu/gancao | 1 | [索引](./zhongyao/buxu/gancao/INDEX.md) |
 | zhongyao/buxu/gouqizi | 1 | [索引](./zhongyao/buxu/gouqizi/INDEX.md) |
@@ -56,13 +58,21 @@
 | zhongyao/buxu/hailong | 1 | [索引](./zhongyao/buxu/hailong/INDEX.md) |
 | zhongyao/buxu/haima | 1 | [索引](./zhongyao/buxu/haima/INDEX.md) |
 | zhongyao/buxu/hamayou | 1 | [索引](./zhongyao/buxu/hamayou/INDEX.md) |
+| zhongyao/buxu/heidou | 1 | [索引](./zhongyao/buxu/heidou/INDEX.md) |
+| zhongyao/buxu/heizhima | 1 | [索引](./zhongyao/buxu/heizhima/INDEX.md) |
+| zhongyao/buxu/heizhongcaozi | 1 | [索引](./zhongyao/buxu/heizhongcaozi/INDEX.md) |
 | zhongyao/buxu/heshouwu | 1 | [索引](./zhongyao/buxu/heshouwu/INDEX.md) |
 | zhongyao/buxu/hetaoren | 1 | [索引](./zhongyao/buxu/hetaoren/INDEX.md) |
 | zhongyao/buxu/hongjingtian | 1 | [索引](./zhongyao/buxu/hongjingtian/INDEX.md) |
+| zhongyao/buxu/hongqi | 1 | [索引](./zhongyao/buxu/hongqi/INDEX.md) |
+| zhongyao/buxu/hongshen | 1 | [索引](./zhongyao/buxu/hongshen/INDEX.md) |
 | zhongyao/buxu/huangjing | 1 | [索引](./zhongyao/buxu/huangjing/INDEX.md) |
 | zhongyao/buxu/huangqi | 1 | [索引](./zhongyao/buxu/huangqi/INDEX.md) |
+| zhongyao/buxu/huluba | 1 | [索引](./zhongyao/buxu/huluba/INDEX.md) |
+| zhongyao/buxu/jiucaizi | 1 | [索引](./zhongyao/buxu/jiucaizi/INDEX.md) |
 | zhongyao/buxu/lanbuzheng | 1 | [索引](./zhongyao/buxu/lanbuzheng/INDEX.md) |
 | zhongyao/buxu/longyanrou | 1 | [索引](./zhongyao/buxu/longyanrou/INDEX.md) |
+| zhongyao/buxu/lujiao | 1 | [索引](./zhongyao/buxu/lujiao/INDEX.md) |
 | zhongyao/buxu/lujiaojiao | 1 | [索引](./zhongyao/buxu/lujiaojiao/INDEX.md) |
 | zhongyao/buxu/lurong | 1 | [索引](./zhongyao/buxu/lurong/INDEX.md) |
 | zhongyao/buxu/maidong | 1 | [索引](./zhongyao/buxu/maidong/INDEX.md) |
@@ -84,6 +94,7 @@
 | zhongyao/buxu/taizishen | 1 | [索引](./zhongyao/buxu/taizishen/INDEX.md) |
 | zhongyao/buxu/tiandong | 1 | [索引](./zhongyao/buxu/tiandong/INDEX.md) |
 | zhongyao/buxu/tianshanxuelian | 1 | [索引](./zhongyao/buxu/tianshanxuelian/INDEX.md) |
+| zhongyao/buxu/tieshipishihu | 1 | [索引](./zhongyao/buxu/tieshipishihu/INDEX.md) |
 | zhongyao/buxu/tusizi | 1 | [索引](./zhongyao/buxu/tusizi/INDEX.md) |
 | zhongyao/buxu/wushanyinyanghuo | 1 | [索引](./zhongyao/buxu/wushanyinyanghuo/INDEX.md) |
 | zhongyao/buxu/xianmao | 1 | [索引](./zhongyao/buxu/xianmao/INDEX.md) |
@@ -93,8 +104,11 @@
 | zhongyao/buxu/yizhi | 1 | [索引](./zhongyao/buxu/yizhi/INDEX.md) |
 | zhongyao/buxu/yizhiren | 1 | [索引](./zhongyao/buxu/yizhiren/INDEX.md) |
 | zhongyao/buxu/yuzhu | 1 | [索引](./zhongyao/buxu/yuzhu/INDEX.md) |
+| zhongyao/buxu/zhongrushi | 1 | [索引](./zhongyao/buxu/zhongrushi/INDEX.md) |
+| zhongyao/buxu/zhujieshen | 1 | [索引](./zhongyao/buxu/zhujieshen/INDEX.md) |
 | zhongyao/buxu/zhuzishen | 1 | [索引](./zhongyao/buxu/zhuzishen/INDEX.md) |
 | zhongyao/buxu/ziheche | 1 | [索引](./zhongyao/buxu/ziheche/INDEX.md) |
+| zhongyao/buxu/zishiying | 1 | [索引](./zhongyao/buxu/zishiying/INDEX.md) |
 
 ## gongdu · 攻毒杀虫止痒药
 

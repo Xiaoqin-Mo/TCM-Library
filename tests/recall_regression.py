@@ -38,7 +38,7 @@ def main() -> None:
                          ids({"zhifa": ["解表散寒"]}),
                          ["baizhi_001", "qianghuo_001", "shengjiang_001", "xixin_001", "zisuye_001"]))
     results.append(check("按治法 发汗解表",
-                         ids({"zhifa": ["发汗解表"]}), ["mahuang_001", "xiangru_001"]))
+                         ids({"zhifa": ["发汗解表"]}), ["congbai_001", "mahuang_001", "xiangru_001"]))
     results.append(check("按方名 桂枝汤",
                          ids({"fangming": ["桂枝汤"]}), ["guizhi_001", "guizhitang_001"]))
     results.append(check("按药名 桂枝",
@@ -93,7 +93,7 @@ def main() -> None:
     # 空查询静默（不返回全部）
     results.append(check("空查询静默", ids({}), []))
     # 结构完整性
-    results.append(check("manifest 非空", [str(MANIFEST["total"])], ["647"]))
+    results.append(check("manifest 非空", [str(MANIFEST["total"])], ["679"]))
     results.append(check("match_fields 齐全",
                          MANIFEST["match_fields"],
                          ["zhengxing", "zhifa", "bingzheng", "zhengzhuang",

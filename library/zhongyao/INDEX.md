@@ -1,6 +1,6 @@
 # zhongyao · 中药学
 
-> 收录 554 条 · 下级 21 个子类
+> 收录 566 条 · 下级 21 个子类
 
 ## anshen · 安神药
 
@@ -151,16 +151,21 @@
 | zhongyao/huatan/chuanbeimu | 1 | [索引](./zhongyao/huatan/chuanbeimu/INDEX.md) |
 | zhongyao/huatan/dannanxing | 1 | [索引](./zhongyao/huatan/dannanxing/INDEX.md) |
 | zhongyao/huatan/gejie | 1 | [索引](./zhongyao/huatan/gejie/INDEX.md) |
+| zhongyao/huatan/geqiao | 1 | [索引](./zhongyao/huatan/geqiao/INDEX.md) |
 | zhongyao/huatan/gualou | 1 | [索引](./zhongyao/huatan/gualou/INDEX.md) |
+| zhongyao/huatan/gualoupi | 1 | [索引](./zhongyao/huatan/gualoupi/INDEX.md) |
+| zhongyao/huatan/gualouzi | 1 | [索引](./zhongyao/huatan/gualouzi/INDEX.md) |
 | zhongyao/huatan/guazijin | 1 | [索引](./zhongyao/huatan/guazijin/INDEX.md) |
 | zhongyao/huatan/haigeqiao | 1 | [索引](./zhongyao/huatan/haigeqiao/INDEX.md) |
 | zhongyao/huatan/haizao | 1 | [索引](./zhongyao/huatan/haizao/INDEX.md) |
 | zhongyao/huatan/huangyaozi | 1 | [索引](./zhongyao/huatan/huangyaozi/INDEX.md) |
 | zhongyao/huatan/huashenshen | 1 | [索引](./zhongyao/huatan/huashenshen/INDEX.md) |
+| zhongyao/huatan/hubeibeimu | 1 | [索引](./zhongyao/huatan/hubeibeimu/INDEX.md) |
 | zhongyao/huatan/jiegeng | 1 | [索引](./zhongyao/huatan/jiegeng/INDEX.md) |
 | zhongyao/huatan/jiezi | 1 | [索引](./zhongyao/huatan/jiezi/INDEX.md) |
 | zhongyao/huatan/jinfeicao | 1 | [索引](./zhongyao/huatan/jinfeicao/INDEX.md) |
 | zhongyao/huatan/jinlongdancao | 1 | [索引](./zhongyao/huatan/jinlongdancao/INDEX.md) |
+| zhongyao/huatan/jinmengshi | 1 | [索引](./zhongyao/huatan/jinmengshi/INDEX.md) |
 | zhongyao/huatan/kuandonghua | 1 | [索引](./zhongyao/huatan/kuandonghua/INDEX.md) |
 | zhongyao/huatan/kunbu | 1 | [索引](./zhongyao/huatan/kunbu/INDEX.md) |
 | zhongyao/huatan/kuxingren | 1 | [索引](./zhongyao/huatan/kuxingren/INDEX.md) |
@@ -168,23 +173,30 @@
 | zhongyao/huatan/luohanguo | 1 | [索引](./zhongyao/huatan/luohanguo/INDEX.md) |
 | zhongyao/huatan/madouling | 1 | [索引](./zhongyao/huatan/madouling/INDEX.md) |
 | zhongyao/huatan/manshanhong | 1 | [索引](./zhongyao/huatan/manshanhong/INDEX.md) |
+| zhongyao/huatan/maozhuacao | 1 | [索引](./zhongyao/huatan/maozhuacao/INDEX.md) |
 | zhongyao/huatan/mengshi | 1 | [索引](./zhongyao/huatan/mengshi/INDEX.md) |
+| zhongyao/huatan/mujingye | 1 | [索引](./zhongyao/huatan/mujingye/INDEX.md) |
 | zhongyao/huatan/pangdahai | 1 | [索引](./zhongyao/huatan/pangdahai/INDEX.md) |
 | zhongyao/huatan/pingbeimu | 1 | [索引](./zhongyao/huatan/pingbeimu/INDEX.md) |
 | zhongyao/huatan/pipaye | 1 | [索引](./zhongyao/huatan/pipaye/INDEX.md) |
 | zhongyao/huatan/qianhu | 1 | [索引](./zhongyao/huatan/qianhu/INDEX.md) |
+| zhongyao/huatan/qingmengshi | 1 | [索引](./zhongyao/huatan/qingmengshi/INDEX.md) |
 | zhongyao/huatan/sangbaipi | 1 | [索引](./zhongyao/huatan/sangbaipi/INDEX.md) |
 | zhongyao/huatan/tiannanxing | 1 | [索引](./zhongyao/huatan/tiannanxing/INDEX.md) |
 | zhongyao/huatan/tianzhuhuang | 1 | [索引](./zhongyao/huatan/tianzhuhuang/INDEX.md) |
 | zhongyao/huatan/tinglizi | 1 | [索引](./zhongyao/huatan/tinglizi/INDEX.md) |
+| zhongyao/huatan/tongguanteng | 1 | [索引](./zhongyao/huatan/tongguanteng/INDEX.md) |
 | zhongyao/huatan/walengzi | 1 | [索引](./zhongyao/huatan/walengzi/INDEX.md) |
 | zhongyao/huatan/xuanfuhua | 1 | [索引](./zhongyao/huatan/xuanfuhua/INDEX.md) |
 | zhongyao/huatan/yanbaicai | 1 | [索引](./zhongyao/huatan/yanbaicai/INDEX.md) |
 | zhongyao/huatan/yangjinhua | 1 | [索引](./zhongyao/huatan/yangjinhua/INDEX.md) |
+| zhongyao/huatan/yibeimu | 1 | [索引](./zhongyao/huatan/yibeimu/INDEX.md) |
 | zhongyao/huatan/zaojia | 1 | [索引](./zhongyao/huatan/zaojia/INDEX.md) |
 | zhongyao/huatan/zhebeimu | 1 | [索引](./zhongyao/huatan/zhebeimu/INDEX.md) |
+| zhongyao/huatan/zhudanfen | 1 | [索引](./zhongyao/huatan/zhudanfen/INDEX.md) |
 | zhongyao/huatan/zhuli | 1 | [索引](./zhongyao/huatan/zhuli/INDEX.md) |
 | zhongyao/huatan/zhuru | 1 | [索引](./zhongyao/huatan/zhuru/INDEX.md) |
+| zhongyao/huatan/zihuaqianhu | 1 | [索引](./zhongyao/huatan/zihuaqianhu/INDEX.md) |
 | zhongyao/huatan/zisuzi | 1 | [索引](./zhongyao/huatan/zisuzi/INDEX.md) |
 | zhongyao/huatan/ziwan | 1 | [索引](./zhongyao/huatan/ziwan/INDEX.md) |
 

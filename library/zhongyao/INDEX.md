@@ -1,6 +1,6 @@
 # zhongyao · 中药学
 
-> 收录 532 条 · 下级 21 个子类
+> 收录 543 条 · 下级 21 个子类
 
 ## anshen · 安神药
 
@@ -506,16 +506,23 @@
 | zhongyao/qufengshi/caowu | 1 | [索引](./zhongyao/qufengshi/caowu/INDEX.md) |
 | zhongyao/qufengshi/chuanshanlong | 1 | [索引](./zhongyao/qufengshi/chuanshanlong/INDEX.md) |
 | zhongyao/qufengshi/chuanwu | 1 | [索引](./zhongyao/qufengshi/chuanwu/INDEX.md) |
+| zhongyao/qufengshi/difengpi | 1 | [索引](./zhongyao/qufengshi/difengpi/INDEX.md) |
 | zhongyao/qufengshi/duhuo | 1 | [索引](./zhongyao/qufengshi/duhuo/INDEX.md) |
 | zhongyao/qufengshi/fangji | 1 | [索引](./zhongyao/qufengshi/fangji/INDEX.md) |
 | zhongyao/qufengshi/gouji | 1 | [索引](./zhongyao/qufengshi/gouji/INDEX.md) |
 | zhongyao/qufengshi/haifengteng | 1 | [索引](./zhongyao/qufengshi/haifengteng/INDEX.md) |
+| zhongyao/qufengshi/hujisheng | 1 | [索引](./zhongyao/qufengshi/hujisheng/INDEX.md) |
+| zhongyao/qufengshi/jinqianbaihuashe | 1 | [索引](./zhongyao/qufengshi/jinqianbaihuashe/INDEX.md) |
 | zhongyao/qufengshi/jintiesuo | 1 | [索引](./zhongyao/qufengshi/jintiesuo/INDEX.md) |
 | zhongyao/qufengshi/laoguancao | 1 | [索引](./zhongyao/qufengshi/laoguancao/INDEX.md) |
 | zhongyao/qufengshi/leigongteng | 1 | [索引](./zhongyao/qufengshi/leigongteng/INDEX.md) |
+| zhongyao/qufengshi/liangmianzhen | 1 | [索引](./zhongyao/qufengshi/liangmianzhen/INDEX.md) |
+| zhongyao/qufengshi/liangtoujian | 1 | [索引](./zhongyao/qufengshi/liangtoujian/INDEX.md) |
 | zhongyao/qufengshi/lulutong | 1 | [索引](./zhongyao/qufengshi/lulutong/INDEX.md) |
 | zhongyao/qufengshi/luoshiteng | 1 | [索引](./zhongyao/qufengshi/luoshiteng/INDEX.md) |
+| zhongyao/qufengshi/luxiancao | 1 | [索引](./zhongyao/qufengshi/luxiancao/INDEX.md) |
 | zhongyao/qufengshi/mugua | 1 | [索引](./zhongyao/qufengshi/mugua/INDEX.md) |
+| zhongyao/qufengshi/naoyanghua | 1 | [索引](./zhongyao/qufengshi/naoyanghua/INDEX.md) |
 | zhongyao/qufengshi/qiannianjian | 1 | [索引](./zhongyao/qufengshi/qiannianjian/INDEX.md) |
 | zhongyao/qufengshi/qingfengteng | 1 | [索引](./zhongyao/qufengshi/qingfengteng/INDEX.md) |
 | zhongyao/qufengshi/qinjiao | 1 | [索引](./zhongyao/qufengshi/qinjiao/INDEX.md) |
@@ -528,9 +535,13 @@
 | zhongyao/qufengshi/weilingxian | 1 | [索引](./zhongyao/qufengshi/weilingxian/INDEX.md) |
 | zhongyao/qufengshi/wujiapi | 1 | [索引](./zhongyao/qufengshi/wujiapi/INDEX.md) |
 | zhongyao/qufengshi/wushaoshe | 1 | [索引](./zhongyao/qufengshi/wushaoshe/INDEX.md) |
+| zhongyao/qufengshi/xiangjiapi | 1 | [索引](./zhongyao/qufengshi/xiangjiapi/INDEX.md) |
+| zhongyao/qufengshi/xiaobogu | 1 | [索引](./zhongyao/qufengshi/xiaobogu/INDEX.md) |
 | zhongyao/qufengshi/xixiancao | 1 | [索引](./zhongyao/qufengshi/xixiancao/INDEX.md) |
 | zhongyao/qufengshi/xuchangqing | 1 | [索引](./zhongyao/qufengshi/xuchangqing/INDEX.md) |
+| zhongyao/qufengshi/yanunu | 1 | [索引](./zhongyao/qufengshi/yanunu/INDEX.md) |
 | zhongyao/qufengshi/yemugua | 1 | [索引](./zhongyao/qufengshi/yemugua/INDEX.md) |
+| zhongyao/qufengshi/yousongjie | 1 | [索引](./zhongyao/qufengshi/yousongjie/INDEX.md) |
 
 ## shouse · 收涩药
 

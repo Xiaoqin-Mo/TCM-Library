@@ -1,6 +1,6 @@
 # zhongyao · 中药学
 
-> 收录 566 条 · 下级 21 个子类
+> 收录 584 条 · 下级 21 个子类
 
 ## anshen · 安神药
 
@@ -262,14 +262,18 @@
 | zhongyao/jiebiao/cangerzi | 1 | [索引](./zhongyao/jiebiao/cangerzi/INDEX.md) |
 | zhongyao/jiebiao/chaihu | 1 | [索引](./zhongyao/jiebiao/chaihu/INDEX.md) |
 | zhongyao/jiebiao/chantui | 1 | [索引](./zhongyao/jiebiao/chantui/INDEX.md) |
+| zhongyao/jiebiao/dadouhuangjuan | 1 | [索引](./zhongyao/jiebiao/dadouhuangjuan/INDEX.md) |
 | zhongyao/jiebiao/dandouchi | 1 | [索引](./zhongyao/jiebiao/dandouchi/INDEX.md) |
+| zhongyao/jiebiao/dinggongteng | 1 | [索引](./zhongyao/jiebiao/dinggongteng/INDEX.md) |
 | zhongyao/jiebiao/ebushicao | 1 | [索引](./zhongyao/jiebiao/ebushicao/INDEX.md) |
 | zhongyao/jiebiao/fangfeng | 1 | [索引](./zhongyao/jiebiao/fangfeng/INDEX.md) |
+| zhongyao/jiebiao/fenge | 1 | [索引](./zhongyao/jiebiao/fenge/INDEX.md) |
 | zhongyao/jiebiao/fuping | 1 | [索引](./zhongyao/jiebiao/fuping/INDEX.md) |
 | zhongyao/jiebiao/gaoben | 1 | [索引](./zhongyao/jiebiao/gaoben/INDEX.md) |
 | zhongyao/jiebiao/gegen | 1 | [索引](./zhongyao/jiebiao/gegen/INDEX.md) |
 | zhongyao/jiebiao/guizhi | 1 | [索引](./zhongyao/jiebiao/guizhi/INDEX.md) |
 | zhongyao/jiebiao/jingjie | 1 | [索引](./zhongyao/jiebiao/jingjie/INDEX.md) |
+| zhongyao/jiebiao/jingjiesui | 1 | [索引](./zhongyao/jiebiao/jingjiesui/INDEX.md) |
 | zhongyao/jiebiao/juhua | 1 | [索引](./zhongyao/jiebiao/juhua/INDEX.md) |
 | zhongyao/jiebiao/mahuang | 1 | [索引](./zhongyao/jiebiao/mahuang/INDEX.md) |
 | zhongyao/jiebiao/manjingzi | 1 | [索引](./zhongyao/jiebiao/manjingzi/INDEX.md) |
@@ -283,6 +287,7 @@
 | zhongyao/jiebiao/xiheliu | 1 | [索引](./zhongyao/jiebiao/xiheliu/INDEX.md) |
 | zhongyao/jiebiao/xinyi | 1 | [索引](./zhongyao/jiebiao/xinyi/INDEX.md) |
 | zhongyao/jiebiao/xixin | 1 | [索引](./zhongyao/jiebiao/xixin/INDEX.md) |
+| zhongyao/jiebiao/yizhihuanghua | 1 | [索引](./zhongyao/jiebiao/yizhihuanghua/INDEX.md) |
 | zhongyao/jiebiao/zisugeng | 1 | [索引](./zhongyao/jiebiao/zisugeng/INDEX.md) |
 | zhongyao/jiebiao/zisuye | 1 | [索引](./zhongyao/jiebiao/zisuye/INDEX.md) |
 
@@ -628,7 +633,9 @@
 | 书目 | 条目数 | 索引 |
 | --- | --- | --- |
 | zhongyao/xiexia/badou | 1 | [索引](./zhongyao/xiexia/badou/INDEX.md) |
+| zhongyao/xiexia/bimazi | 1 | [索引](./zhongyao/xiexia/bimazi/INDEX.md) |
 | zhongyao/xiexia/dahuang | 1 | [索引](./zhongyao/xiexia/dahuang/INDEX.md) |
+| zhongyao/xiexia/dazaijiao | 1 | [索引](./zhongyao/xiexia/dazaijiao/INDEX.md) |
 | zhongyao/xiexia/fanxieye | 1 | [索引](./zhongyao/xiexia/fanxieye/INDEX.md) |
 | zhongyao/xiexia/gansui | 1 | [索引](./zhongyao/xiexia/gansui/INDEX.md) |
 | zhongyao/xiexia/hongdaji | 1 | [索引](./zhongyao/xiexia/hongdaji/INDEX.md) |
@@ -639,8 +646,10 @@
 | zhongyao/xiexia/qianjinzi | 1 | [索引](./zhongyao/xiexia/qianjinzi/INDEX.md) |
 | zhongyao/xiexia/qianniuzi | 1 | [索引](./zhongyao/xiexia/qianniuzi/INDEX.md) |
 | zhongyao/xiexia/shanglu | 1 | [索引](./zhongyao/xiexia/shanglu/INDEX.md) |
+| zhongyao/xiexia/yamazi | 1 | [索引](./zhongyao/xiexia/yamazi/INDEX.md) |
 | zhongyao/xiexia/yuanhua | 1 | [索引](./zhongyao/xiexia/yuanhua/INDEX.md) |
 | zhongyao/xiexia/yuliren | 1 | [索引](./zhongyao/xiexia/yuliren/INDEX.md) |
+| zhongyao/xiexia/zhuyazao | 1 | [索引](./zhongyao/xiexia/zhuyazao/INDEX.md) |
 
 ## yongtu · 涌吐药
 
@@ -657,20 +666,29 @@
 | zhongyao/zhixue/baimaogen | 1 | [索引](./zhongyao/zhixue/baimaogen/INDEX.md) |
 | zhongyao/zhixue/cebaiye | 1 | [索引](./zhongyao/zhixue/cebaiye/INDEX.md) |
 | zhongyao/zhixue/daji | 1 | [索引](./zhongyao/zhixue/daji/INDEX.md) |
+| zhongyao/zhixue/dayezizhu | 1 | [索引](./zhongyao/zhixue/dayezizhu/INDEX.md) |
 | zhongyao/zhixue/diyu | 1 | [索引](./zhongyao/zhixue/diyu/INDEX.md) |
+| zhongyao/zhixue/duanxueliu | 1 | [索引](./zhongyao/zhixue/duanxueliu/INDEX.md) |
 | zhongyao/zhixue/duyiwei | 1 | [索引](./zhongyao/zhixue/duyiwei/INDEX.md) |
+| zhongyao/zhixue/guangdongzizhu | 1 | [索引](./zhongyao/zhixue/guangdongzizhu/INDEX.md) |
 | zhongyao/zhixue/huaihua | 1 | [索引](./zhongyao/zhixue/huaihua/INDEX.md) |
+| zhongyao/zhixue/huaijiao | 1 | [索引](./zhongyao/zhixue/huaijiao/INDEX.md) |
 | zhongyao/zhixue/huaruishi | 1 | [索引](./zhongyao/zhixue/huaruishi/INDEX.md) |
 | zhongyao/zhixue/jiangxiang | 1 | [索引](./zhongyao/zhixue/jiangxiang/INDEX.md) |
+| zhongyao/zhixue/luohuazizhu | 1 | [索引](./zhongyao/zhixue/luohuazizhu/INDEX.md) |
 | zhongyao/zhixue/oujie | 1 | [索引](./zhongyao/zhixue/oujie/INDEX.md) |
 | zhongyao/zhixue/paojiang | 1 | [索引](./zhongyao/zhixue/paojiang/INDEX.md) |
 | zhongyao/zhixue/puhuang | 1 | [索引](./zhongyao/zhixue/puhuang/INDEX.md) |
 | zhongyao/zhixue/qiancao | 1 | [索引](./zhongyao/zhixue/qiancao/INDEX.md) |
 | zhongyao/zhixue/sanqi | 1 | [索引](./zhongyao/zhixue/sanqi/INDEX.md) |
+| zhongyao/zhixue/songhuafen | 1 | [索引](./zhongyao/zhixue/songhuafen/INDEX.md) |
+| zhongyao/zhixue/taozhi | 1 | [索引](./zhongyao/zhixue/taozhi/INDEX.md) |
+| zhongyao/zhixue/wasong | 1 | [索引](./zhongyao/zhixue/wasong/INDEX.md) |
 | zhongyao/zhixue/xianhecao | 1 | [索引](./zhongyao/zhixue/xianhecao/INDEX.md) |
 | zhongyao/zhixue/xiaoji | 1 | [索引](./zhongyao/zhixue/xiaoji/INDEX.md) |
 | zhongyao/zhixue/xueyutan | 1 | [索引](./zhongyao/zhixue/xueyutan/INDEX.md) |
 | zhongyao/zhixue/zizhuye | 1 | [索引](./zhongyao/zhixue/zizhuye/INDEX.md) |
 | zhongyao/zhixue/zonglutan | 1 | [索引](./zhongyao/zhixue/zonglutan/INDEX.md) |
+| zhongyao/zhixue/zonglv | 1 | [索引](./zhongyao/zhixue/zonglv/INDEX.md) |
 
 [返回总索引](../INDEX.md)

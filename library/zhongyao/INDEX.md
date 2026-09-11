@@ -1,6 +1,6 @@
 # zhongyao · 中药学
 
-> 收录 448 条 · 下级 21 个子类
+> 收录 472 条 · 下级 21 个子类
 
 ## anshen · 安神药
 
@@ -114,21 +114,26 @@
 | zhongyao/huatan/baibu | 1 | [索引](./zhongyao/huatan/baibu/INDEX.md) |
 | zhongyao/huatan/baifuzi | 1 | [索引](./zhongyao/huatan/baifuzi/INDEX.md) |
 | zhongyao/huatan/baiguo | 1 | [索引](./zhongyao/huatan/baiguo/INDEX.md) |
+| zhongyao/huatan/baiqucai | 1 | [索引](./zhongyao/huatan/baiqucai/INDEX.md) |
 | zhongyao/huatan/baizhiqian | 1 | [索引](./zhongyao/huatan/baizhiqian/INDEX.md) |
 | zhongyao/huatan/banxia | 1 | [索引](./zhongyao/huatan/banxia/INDEX.md) |
+| zhongyao/huatan/baomazipi | 1 | [索引](./zhongyao/huatan/baomazipi/INDEX.md) |
 | zhongyao/huatan/chuanbeimu | 1 | [索引](./zhongyao/huatan/chuanbeimu/INDEX.md) |
 | zhongyao/huatan/dannanxing | 1 | [索引](./zhongyao/huatan/dannanxing/INDEX.md) |
 | zhongyao/huatan/gejie | 1 | [索引](./zhongyao/huatan/gejie/INDEX.md) |
 | zhongyao/huatan/gualou | 1 | [索引](./zhongyao/huatan/gualou/INDEX.md) |
+| zhongyao/huatan/guazijin | 1 | [索引](./zhongyao/huatan/guazijin/INDEX.md) |
 | zhongyao/huatan/haigeqiao | 1 | [索引](./zhongyao/huatan/haigeqiao/INDEX.md) |
 | zhongyao/huatan/haizao | 1 | [索引](./zhongyao/huatan/haizao/INDEX.md) |
 | zhongyao/huatan/huangyaozi | 1 | [索引](./zhongyao/huatan/huangyaozi/INDEX.md) |
 | zhongyao/huatan/huashenshen | 1 | [索引](./zhongyao/huatan/huashenshen/INDEX.md) |
 | zhongyao/huatan/jiegeng | 1 | [索引](./zhongyao/huatan/jiegeng/INDEX.md) |
 | zhongyao/huatan/jiezi | 1 | [索引](./zhongyao/huatan/jiezi/INDEX.md) |
+| zhongyao/huatan/jinfeicao | 1 | [索引](./zhongyao/huatan/jinfeicao/INDEX.md) |
 | zhongyao/huatan/kuandonghua | 1 | [索引](./zhongyao/huatan/kuandonghua/INDEX.md) |
 | zhongyao/huatan/kunbu | 1 | [索引](./zhongyao/huatan/kunbu/INDEX.md) |
 | zhongyao/huatan/kuxingren | 1 | [索引](./zhongyao/huatan/kuxingren/INDEX.md) |
+| zhongyao/huatan/longliye | 1 | [索引](./zhongyao/huatan/longliye/INDEX.md) |
 | zhongyao/huatan/luohanguo | 1 | [索引](./zhongyao/huatan/luohanguo/INDEX.md) |
 | zhongyao/huatan/madouling | 1 | [索引](./zhongyao/huatan/madouling/INDEX.md) |
 | zhongyao/huatan/manshanhong | 1 | [索引](./zhongyao/huatan/manshanhong/INDEX.md) |
@@ -143,6 +148,7 @@
 | zhongyao/huatan/tinglizi | 1 | [索引](./zhongyao/huatan/tinglizi/INDEX.md) |
 | zhongyao/huatan/walengzi | 1 | [索引](./zhongyao/huatan/walengzi/INDEX.md) |
 | zhongyao/huatan/xuanfuhua | 1 | [索引](./zhongyao/huatan/xuanfuhua/INDEX.md) |
+| zhongyao/huatan/yanbaicai | 1 | [索引](./zhongyao/huatan/yanbaicai/INDEX.md) |
 | zhongyao/huatan/yangjinhua | 1 | [索引](./zhongyao/huatan/yangjinhua/INDEX.md) |
 | zhongyao/huatan/zaojia | 1 | [索引](./zhongyao/huatan/zaojia/INDEX.md) |
 | zhongyao/huatan/zhebeimu | 1 | [索引](./zhongyao/huatan/zhebeimu/INDEX.md) |
@@ -317,31 +323,39 @@
 | zhongyao/qingre/chuanshegan | 1 | [索引](./zhongyao/qingre/chuanshegan/INDEX.md) |
 | zhongyao/qingre/chuanxinlian | 1 | [索引](./zhongyao/qingre/chuanxinlian/INDEX.md) |
 | zhongyao/qingre/chuipencao | 1 | [索引](./zhongyao/qingre/chuipencao/INDEX.md) |
+| zhongyao/qingre/dangyao | 1 | [索引](./zhongyao/qingre/dangyao/INDEX.md) |
 | zhongyao/qingre/danzhuye | 1 | [索引](./zhongyao/qingre/danzhuye/INDEX.md) |
 | zhongyao/qingre/daqingye | 1 | [索引](./zhongyao/qingre/daqingye/INDEX.md) |
 | zhongyao/qingre/daxueteng | 1 | [索引](./zhongyao/qingre/daxueteng/INDEX.md) |
+| zhongyao/qingre/diangiecao | 1 | [索引](./zhongyao/qingre/diangiecao/INDEX.md) |
 | zhongyao/qingre/digupi | 1 | [索引](./zhongyao/qingre/digupi/INDEX.md) |
 | zhongyao/qingre/dihuang | 1 | [索引](./zhongyao/qingre/dihuang/INDEX.md) |
 | zhongyao/qingre/dijincao | 1 | [索引](./zhongyao/qingre/dijincao/INDEX.md) |
 | zhongyao/qingre/donglingcao | 1 | [索引](./zhongyao/qingre/donglingcao/INDEX.md) |
 | zhongyao/qingre/fanbaicao | 1 | [索引](./zhongyao/qingre/fanbaicao/INDEX.md) |
+| zhongyao/qingre/feiyangcao | 1 | [索引](./zhongyao/qingre/feiyangcao/INDEX.md) |
 | zhongyao/qingre/gangbangui | 1 | [索引](./zhongyao/qingre/gangbangui/INDEX.md) |
 | zhongyao/qingre/gonglaomu | 1 | [索引](./zhongyao/qingre/gonglaomu/INDEX.md) |
 | zhongyao/qingre/gouguye | 1 | [索引](./zhongyao/qingre/gouguye/INDEX.md) |
 | zhongyao/qingre/guanhuangbai | 1 | [索引](./zhongyao/qingre/guanhuangbai/INDEX.md) |
 | zhongyao/qingre/guanjiejinsitao | 1 | [索引](./zhongyao/qingre/guanjiejinsitao/INDEX.md) |
 | zhongyao/qingre/gujingcao | 1 | [索引](./zhongyao/qingre/gujingcao/INDEX.md) |
+| zhongyao/qingre/honghualongdan | 1 | [索引](./zhongyao/qingre/honghualongdan/INDEX.md) |
 | zhongyao/qingre/huangbai | 1 | [索引](./zhongyao/qingre/huangbai/INDEX.md) |
 | zhongyao/qingre/huanglian | 1 | [索引](./zhongyao/qingre/huanglian/INDEX.md) |
 | zhongyao/qingre/huangqin | 1 | [索引](./zhongyao/qingre/huangqin/INDEX.md) |
+| zhongyao/qingre/huangshukuihua | 1 | [索引](./zhongyao/qingre/huangshukuihua/INDEX.md) |
+| zhongyao/qingre/huangteng | 1 | [索引](./zhongyao/qingre/huangteng/INDEX.md) |
 | zhongyao/qingre/huhuanglian | 1 | [索引](./zhongyao/qingre/huhuanglian/INDEX.md) |
 | zhongyao/qingre/huzhang | 1 | [索引](./zhongyao/qingre/huzhang/INDEX.md) |
 | zhongyao/qingre/jigucao | 1 | [索引](./zhongyao/qingre/jigucao/INDEX.md) |
+| zhongyao/qingre/jindenglong | 1 | [索引](./zhongyao/qingre/jindenglong/INDEX.md) |
 | zhongyao/qingre/jingucao | 1 | [索引](./zhongyao/qingre/jingucao/INDEX.md) |
 | zhongyao/qingre/jinguolan | 1 | [索引](./zhongyao/qingre/jinguolan/INDEX.md) |
 | zhongyao/qingre/jinqiaomai | 1 | [索引](./zhongyao/qingre/jinqiaomai/INDEX.md) |
 | zhongyao/qingre/jinyinhua | 1 | [索引](./zhongyao/qingre/jinyinhua/INDEX.md) |
 | zhongyao/qingre/jiubiying | 1 | [索引](./zhongyao/qingre/jiubiying/INDEX.md) |
+| zhongyao/qingre/jiulixiang | 1 | [索引](./zhongyao/qingre/jiulixiang/INDEX.md) |
 | zhongyao/qingre/jixuecao | 1 | [索引](./zhongyao/qingre/jixuecao/INDEX.md) |
 | zhongyao/qingre/juemingzi | 1 | [索引](./zhongyao/qingre/juemingzi/INDEX.md) |
 | zhongyao/qingre/jvju | 1 | [索引](./zhongyao/qingre/jvju/INDEX.md) |
@@ -350,6 +364,7 @@
 | zhongyao/qingre/kushen | 1 | [索引](./zhongyao/qingre/kushen/INDEX.md) |
 | zhongyao/qingre/kuxuanshen | 1 | [索引](./zhongyao/qingre/kuxuanshen/INDEX.md) |
 | zhongyao/qingre/lianqiao | 1 | [索引](./zhongyao/qingre/lianqiao/INDEX.md) |
+| zhongyao/qingre/liaodaqingye | 1 | [索引](./zhongyao/qingre/liaodaqingye/INDEX.md) |
 | zhongyao/qingre/longdan | 1 | [索引](./zhongyao/qingre/longdan/INDEX.md) |
 | zhongyao/qingre/loulu | 1 | [索引](./zhongyao/qingre/loulu/INDEX.md) |
 | zhongyao/qingre/lugen | 1 | [索引](./zhongyao/qingre/lugen/INDEX.md) |
@@ -360,13 +375,17 @@
 | zhongyao/qingre/mimenghua | 1 | [索引](./zhongyao/qingre/mimenghua/INDEX.md) |
 | zhongyao/qingre/mudanpi | 1 | [索引](./zhongyao/qingre/mudanpi/INDEX.md) |
 | zhongyao/qingre/muhudie | 1 | [索引](./zhongyao/qingre/muhudie/INDEX.md) |
+| zhongyao/qingre/mumianhua | 1 | [索引](./zhongyao/qingre/mumianhua/INDEX.md) |
+| zhongyao/qingre/mumianrongye | 1 | [索引](./zhongyao/qingre/mumianrongye/INDEX.md) |
 | zhongyao/qingre/nanbanlangen | 1 | [索引](./zhongyao/qingre/nanbanlangen/INDEX.md) |
 | zhongyao/qingre/pugongying | 1 | [索引](./zhongyao/qingre/pugongying/INDEX.md) |
 | zhongyao/qingre/qianliguang | 1 | [索引](./zhongyao/qingre/qianliguang/INDEX.md) |
 | zhongyao/qingre/qingdai | 1 | [索引](./zhongyao/qingre/qingdai/INDEX.md) |
 | zhongyao/qingre/qingguo | 1 | [索引](./zhongyao/qingre/qingguo/INDEX.md) |
 | zhongyao/qingre/qinghao | 1 | [索引](./zhongyao/qingre/qinghao/INDEX.md) |
+| zhongyao/qingre/qingmazi | 1 | [索引](./zhongyao/qingre/qingmazi/INDEX.md) |
 | zhongyao/qingre/qingxiangzi | 1 | [索引](./zhongyao/qingre/qingxiangzi/INDEX.md) |
+| zhongyao/qingre/qingyedan | 1 | [索引](./zhongyao/qingre/qingyedan/INDEX.md) |
 | zhongyao/qingre/qinpi | 1 | [索引](./zhongyao/qingre/qinpi/INDEX.md) |
 | zhongyao/qingre/quanshen | 1 | [索引](./zhongyao/qingre/quanshen/INDEX.md) |
 | zhongyao/qingre/rendongteng | 1 | [索引](./zhongyao/qingre/rendongteng/INDEX.md) |
@@ -382,6 +401,7 @@
 | zhongyao/qingre/shuifeiji | 1 | [索引](./zhongyao/qingre/shuifeiji/INDEX.md) |
 | zhongyao/qingre/shuiniujiao | 1 | [索引](./zhongyao/qingre/shuiniujiao/INDEX.md) |
 | zhongyao/qingre/sijiqing | 1 | [索引](./zhongyao/qingre/sijiqing/INDEX.md) |
+| zhongyao/qingre/tianguazi | 1 | [索引](./zhongyao/qingre/tianguazi/INDEX.md) |
 | zhongyao/qingre/tianhuafen | 1 | [索引](./zhongyao/qingre/tianhuafen/INDEX.md) |
 | zhongyao/qingre/tiankuizi | 1 | [索引](./zhongyao/qingre/tiankuizi/INDEX.md) |
 | zhongyao/qingre/tiwaibeiyuniuhuang | 1 | [索引](./zhongyao/qingre/tiwaibeiyuniuhuang/INDEX.md) |
@@ -389,6 +409,7 @@
 | zhongyao/qingre/tufuling | 1 | [索引](./zhongyao/qingre/tufuling/INDEX.md) |
 | zhongyao/qingre/weilingcai | 1 | [索引](./zhongyao/qingre/weilingcai/INDEX.md) |
 | zhongyao/qingre/xiakucao | 1 | [索引](./zhongyao/qingre/xiakucao/INDEX.md) |
+| zhongyao/qingre/xingmi | 1 | [索引](./zhongyao/qingre/xingmi/INDEX.md) |
 | zhongyao/qingre/xiongdanfen | 1 | [索引](./zhongyao/qingre/xiongdanfen/INDEX.md) |
 | zhongyao/qingre/xuanshen | 1 | [索引](./zhongyao/qingre/xuanshen/INDEX.md) |
 | zhongyao/qingre/yadanzi | 1 | [索引](./zhongyao/qingre/yadanzi/INDEX.md) |
@@ -431,6 +452,7 @@
 | zhongyao/qufengshi/fangji | 1 | [索引](./zhongyao/qufengshi/fangji/INDEX.md) |
 | zhongyao/qufengshi/gouji | 1 | [索引](./zhongyao/qufengshi/gouji/INDEX.md) |
 | zhongyao/qufengshi/haifengteng | 1 | [索引](./zhongyao/qufengshi/haifengteng/INDEX.md) |
+| zhongyao/qufengshi/jintiesuo | 1 | [索引](./zhongyao/qufengshi/jintiesuo/INDEX.md) |
 | zhongyao/qufengshi/laoguancao | 1 | [索引](./zhongyao/qufengshi/laoguancao/INDEX.md) |
 | zhongyao/qufengshi/leigongteng | 1 | [索引](./zhongyao/qufengshi/leigongteng/INDEX.md) |
 | zhongyao/qufengshi/lulutong | 1 | [索引](./zhongyao/qufengshi/lulutong/INDEX.md) |
@@ -443,12 +465,14 @@
 | zhongyao/qufengshi/sangjisheng | 1 | [索引](./zhongyao/qufengshi/sangjisheng/INDEX.md) |
 | zhongyao/qufengshi/sangzhi | 1 | [索引](./zhongyao/qufengshi/sangzhi/INDEX.md) |
 | zhongyao/qufengshi/shenjincao | 1 | [索引](./zhongyao/qufengshi/shenjincao/INDEX.md) |
+| zhongyao/qufengshi/shetui | 1 | [索引](./zhongyao/qufengshi/shetui/INDEX.md) |
 | zhongyao/qufengshi/sigualuo | 1 | [索引](./zhongyao/qufengshi/sigualuo/INDEX.md) |
 | zhongyao/qufengshi/weilingxian | 1 | [索引](./zhongyao/qufengshi/weilingxian/INDEX.md) |
 | zhongyao/qufengshi/wujiapi | 1 | [索引](./zhongyao/qufengshi/wujiapi/INDEX.md) |
 | zhongyao/qufengshi/wushaoshe | 1 | [索引](./zhongyao/qufengshi/wushaoshe/INDEX.md) |
 | zhongyao/qufengshi/xixiancao | 1 | [索引](./zhongyao/qufengshi/xixiancao/INDEX.md) |
 | zhongyao/qufengshi/xuchangqing | 1 | [索引](./zhongyao/qufengshi/xuchangqing/INDEX.md) |
+| zhongyao/qufengshi/yemugua | 1 | [索引](./zhongyao/qufengshi/yemugua/INDEX.md) |
 
 ## shouse · 收涩药
 

@@ -1,0 +1,37 @@
+---
+id: "shanghan_483"
+book: "伤寒论"
+chapter: "平脉法"
+chapter_num: 2
+section_title: "问曰（第483条）"
+source_version: "宋本·明赵开美翻刻通行本"
+author: "张仲景"
+dynasty: "汉"
+type: "tiaomu"
+conditions:
+  zhengxing: []
+  zhifa: []
+  bingzheng: []
+  zhengzhuang: ["脉微", "脉滑", "汗出"]
+  fangming: []
+  yaoming: []
+  xuewei: []
+  jingluo: []
+  siqi: []
+  wuwei: []
+  guijing: []
+  keywords: ["伤寒论条文", "脉诊", "脉微"]
+weight: 10
+tags: ["经典医籍", "伤寒论", "脉诊"]
+---
+
+### 问曰（第483条）
+
+**【原文】**
+问曰：翕奄沉，名曰滑，何谓也？沉为纯阴，翕为正阳，阴阳和合，故令脉滑。关尺自平，阳明脉微沉，食饮自可。少阴脉微滑，滑者紧之浮名也，此为阴实，其人必股内汗出，阴下湿也。
+
+**【古注】**
+成无己《注解伤寒论》：本条辨脉诊脉证，示人观脉察证、随证治之之要。
+
+**【白话提要】**
+本条论述脉诊之脉证。症见脉微、脉滑、汗出。当审其表里寒热、虚实传变而施治。

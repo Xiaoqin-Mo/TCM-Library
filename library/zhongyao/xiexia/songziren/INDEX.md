@@ -1,4 +1,4 @@
-# zhongyao\xiexia\songziren · 索引
+# zhongyao/xiexia/songziren · 索引
 
 > 中药学 / 泻下药 · 条目数 1
 

@@ -1,4 +1,4 @@
-# zhongyao\qufengshi\zhicaowu · 索引
+# zhongyao/qufengshi/zhicaowu · 索引
 
 > 中药学 / 祛风湿药 · 条目数 1
 

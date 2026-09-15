@@ -1,4 +1,4 @@
-# zhenjiu\shuxue\shangqu · 索引
+# zhenjiu/shuxue/shangqu · 索引
 
 > 针灸推拿 / 腧穴 · 条目数 1
 

@@ -1,4 +1,4 @@
-# zhenjiu\cijiu\zhenjiudacheng\ziwuliuzhunajiafa · 索引
+# zhenjiu/cijiu/zhenjiudacheng/ziwuliuzhunajiafa · 索引
 
 > 针灸推拿 / 刺法灸法 · 条目数 1
 

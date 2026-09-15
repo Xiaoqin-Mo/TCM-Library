@@ -1,4 +1,4 @@
-# jingdian\shanghan · 索引
+# jingdian/shanghan · 索引
 
 > 经典医籍 / 伤寒论 · 条目数 659
 

@@ -1,4 +1,4 @@
-# fangji\jingfang\danguisinitang · 索引
+# fangji/jingfang/danguisinitang · 索引
 
 > 方剂学 / 经方 · 条目数 1
 

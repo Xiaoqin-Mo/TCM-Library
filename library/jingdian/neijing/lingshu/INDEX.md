@@ -1,4 +1,4 @@
-# jingdian\neijing\lingshu · 索引
+# jingdian/neijing/lingshu · 索引
 
 > 经典医籍 / 黄帝内经 · 条目数 81
 

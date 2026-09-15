@@ -1,4 +1,4 @@
-# fangji\jingfang\wumeiwan · 索引
+# fangji/jingfang/wumeiwan · 索引
 
 > 方剂学 / 经方 · 条目数 1
 

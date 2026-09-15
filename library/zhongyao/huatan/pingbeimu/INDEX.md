@@ -1,4 +1,4 @@
-# zhongyao\huatan\pingbeimu · 索引
+# zhongyao/huatan/pingbeimu · 索引
 
 > 中药学 / 化痰止咳平喘药 · 条目数 1
 

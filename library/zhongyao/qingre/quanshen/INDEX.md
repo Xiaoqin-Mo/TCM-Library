@@ -1,4 +1,4 @@
-# zhongyao\qingre\quanshen · 索引
+# zhongyao/qingre/quanshen · 索引
 
 > 中药学 / 清热药 · 条目数 1
 

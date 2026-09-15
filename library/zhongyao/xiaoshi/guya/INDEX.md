@@ -1,4 +1,4 @@
-# zhongyao\xiaoshi\guya · 索引
+# zhongyao/xiaoshi/guya · 索引
 
 > 中药学 / 消食药 · 条目数 1
 

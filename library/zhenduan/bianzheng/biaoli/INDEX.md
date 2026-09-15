@@ -1,4 +1,4 @@
-# zhenduan\bianzheng\biaoli · 索引
+# zhenduan/bianzheng/biaoli · 索引
 
 > 中医诊断 / 辨证 · 条目数 1
 

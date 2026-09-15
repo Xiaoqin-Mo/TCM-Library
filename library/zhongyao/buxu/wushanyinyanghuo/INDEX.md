@@ -1,4 +1,4 @@
-# zhongyao\buxu\wushanyinyanghuo · 索引
+# zhongyao/buxu/wushanyinyanghuo · 索引
 
 > 中药学 / 补虚药 · 条目数 1
 

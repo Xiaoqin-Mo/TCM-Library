@@ -1,4 +1,4 @@
-# zhongyao\yongtu\lilu · 索引
+# zhongyao/yongtu/lilu · 索引
 
 > 中药学 / 涌吐药 · 条目数 1
 

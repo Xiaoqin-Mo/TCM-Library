@@ -1,4 +1,4 @@
-# zhenduan\bianzheng\xinxue_yinxu · 索引
+# zhenduan/bianzheng/xinxue_yinxu · 索引
 
 > 中医诊断 / 辨证 · 条目数 1
 

@@ -6,6 +6,6 @@
 
 | 书目 | 条目数 | 索引 |
 | --- | --- | --- |
-| fangji/jingfang/guizhitang | 1 | [索引](./fangji/jingfang/guizhitang/INDEX.md) |
+| fangji\jingfang\guizhitang | 1 | [索引](./fangji\jingfang\guizhitang/INDEX.md) |
 
 [返回总索引](../INDEX.md)

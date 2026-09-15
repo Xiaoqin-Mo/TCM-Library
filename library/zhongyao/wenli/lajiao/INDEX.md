@@ -1,4 +1,4 @@
-# zhongyao/wenli/lajiao · 索引
+# zhongyao\wenli\lajiao · 索引
 
 > 中药学 / 温里药 · 条目数 1
 

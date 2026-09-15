@@ -1,4 +1,4 @@
-# zhongyao/huashi/dongguapi · 索引
+# zhongyao\huashi\dongguapi · 索引
 
 > 中药学 / 化湿药 · 条目数 1
 

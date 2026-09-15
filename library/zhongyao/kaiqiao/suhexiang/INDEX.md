@@ -1,4 +1,4 @@
-# zhongyao/kaiqiao/suhexiang · 索引
+# zhongyao\kaiqiao\suhexiang · 索引
 
 > 中药学 / 开窍药 · 条目数 1
 

@@ -1,4 +1,4 @@
-# zhongyao/shouse/roudoukou · 索引
+# zhongyao\shouse\roudoukou · 索引
 
 > 中药学 / 收涩药 · 条目数 1
 

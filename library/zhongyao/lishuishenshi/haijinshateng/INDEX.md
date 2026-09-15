@@ -1,4 +1,4 @@
-# zhongyao/lishuishenshi/haijinshateng · 索引
+# zhongyao\lishuishenshi\haijinshateng · 索引
 
 > 中药学 / 利水渗湿药 · 条目数 1
 

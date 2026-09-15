@@ -1,4 +1,4 @@
-# zhongyao/anshen/shouwuteng · 索引
+# zhongyao\anshen\shouwuteng · 索引
 
 > 中药学 / 安神药 · 条目数 1
 

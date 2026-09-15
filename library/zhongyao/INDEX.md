@@ -267,6 +267,7 @@
 | zhongyao\huoxuehuayu\lingxiaohua | 1 | [索引](./zhongyao\huoxuehuayu\lingxiaohua/INDEX.md) |
 | zhongyao\huoxuehuayu\liujinu | 1 | [索引](./zhongyao\huoxuehuayu\liujinu/INDEX.md) |
 | zhongyao\huoxuehuayu\maqianzi | 1 | [索引](./zhongyao\huoxuehuayu\maqianzi/INDEX.md) |
+| zhongyao\huoxuehuayu\maqianzifen | 1 | [索引](./zhongyao\huoxuehuayu\maqianzifen/INDEX.md) |
 | zhongyao\huoxuehuayu\mengchong | 1 | [索引](./zhongyao\huoxuehuayu\mengchong/INDEX.md) |
 | zhongyao\huoxuehuayu\moyao | 1 | [索引](./zhongyao\huoxuehuayu\moyao/INDEX.md) |
 | zhongyao\huoxuehuayu\niuxi | 1 | [索引](./zhongyao\huoxuehuayu\niuxi/INDEX.md) |
@@ -632,7 +633,6 @@
 | zhongyao\qufengshi\lulutong | 1 | [索引](./zhongyao\qufengshi\lulutong/INDEX.md) |
 | zhongyao\qufengshi\luoshiteng | 1 | [索引](./zhongyao\qufengshi\luoshiteng/INDEX.md) |
 | zhongyao\qufengshi\luxiancao | 1 | [索引](./zhongyao\qufengshi\luxiancao/INDEX.md) |
-| zhongyao\qufengshi\maqianzifen | 1 | [索引](./zhongyao\qufengshi\maqianzifen/INDEX.md) |
 | zhongyao\qufengshi\mugua | 1 | [索引](./zhongyao\qufengshi\mugua/INDEX.md) |
 | zhongyao\qufengshi\naoyanghua | 1 | [索引](./zhongyao\qufengshi\naoyanghua/INDEX.md) |
 | zhongyao\qufengshi\qiannianjian | 1 | [索引](./zhongyao\qufengshi\qiannianjian/INDEX.md) |

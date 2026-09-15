@@ -1,7 +1,7 @@
 ---
 id: "maqianzifen_001"
 book: "中国药典（2025年版）一部"
-chapter: "祛风湿药"
+chapter: "活血化瘀药"
 section_title: "马钱子粉"
 source_version: "《中华人民共和国药典》2025年版一部"
 author: "国家药典委员会"

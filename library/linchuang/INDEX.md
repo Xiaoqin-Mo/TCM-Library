@@ -1,6 +1,6 @@
 # linchuang · 中医临床
 
-> 收录 47 条 · 下级 1 个子类
+> 收录 59 条 · 下级 2 个子类
 
 ## neike · 内科
 
@@ -53,5 +53,22 @@
 | linchuang\neike\xinxi\xianbing | 1 | [索引](./linchuang\neike\xinxi\xianbing/INDEX.md) |
 | linchuang\neike\xinxi\xinji | 1 | [索引](./linchuang\neike\xinxi\xinji/INDEX.md) |
 | linchuang\neike\xinxi\xiongbi | 1 | [索引](./linchuang\neike\xinxi\xiongbi/INDEX.md) |
+
+## wenbing · 温病
+
+| 书目 | 条目数 | 索引 |
+| --- | --- | --- |
+| linchuang\wenbing\chunwen | 1 | [索引](./linchuang\wenbing\chunwen/INDEX.md) |
+| linchuang\wenbing\fengwen | 1 | [索引](./linchuang\wenbing\fengwen/INDEX.md) |
+| linchuang\wenbing\qifenzheng | 1 | [索引](./linchuang\wenbing\qifenzheng/INDEX.md) |
+| linchuang\wenbing\qiuzao | 1 | [索引](./linchuang\wenbing\qiuzao/INDEX.md) |
+| linchuang\wenbing\shirebianzhi | 1 | [索引](./linchuang\wenbing\shirebianzhi/INDEX.md) |
+| linchuang\wenbing\shiwen | 1 | [索引](./linchuang\wenbing\shiwen/INDEX.md) |
+| linchuang\wenbing\shuwen | 1 | [索引](./linchuang\wenbing\shuwen/INDEX.md) |
+| linchuang\wenbing\weifenzheng | 1 | [索引](./linchuang\wenbing\weifenzheng/INDEX.md) |
+| linchuang\wenbing\wendu | 1 | [索引](./linchuang\wenbing\wendu/INDEX.md) |
+| linchuang\wenbing\wenyi | 1 | [索引](./linchuang\wenbing\wenyi/INDEX.md) |
+| linchuang\wenbing\xuefenzheng | 1 | [索引](./linchuang\wenbing\xuefenzheng/INDEX.md) |
+| linchuang\wenbing\yingfenzheng | 1 | [索引](./linchuang\wenbing\yingfenzheng/INDEX.md) |
 
 [返回总索引](../INDEX.md)

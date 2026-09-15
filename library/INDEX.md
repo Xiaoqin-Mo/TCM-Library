@@ -1,6 +1,6 @@
 # TCM-Library · 全库总索引
 
-> 中医知识百科全书检索库 · 当前收录 2165 条（按目录自动生成）
+> 中医知识百科全书检索库 · 当前收录 2215 条（按目录自动生成）
 
 ## 收录进度
 
@@ -13,7 +13,7 @@
 | zhenjiu | 针灸推拿 | 385 | 385 | [索引](./library/zhenjiu/INDEX.md) |
 | linchuang | 中医临床 | 59 | 59 | [索引](./library/linchuang/INDEX.md) |
 | yangsheng | 养生康复 | 0 | 0 | — |
-| yishi | 医史医家 | 0 | 0 | — |
+| yishi | 医史医家 | 22 | 50 | [索引](./library/yishi/INDEX.md) |
 | jingdian | 经典医籍 | 45 | 967 | [索引](./library/jingdian/INDEX.md) |
 | xiandai | 现代中医 | 0 | 0 | — |
 
@@ -43,7 +43,7 @@
 - **zhenjiu** · 针灸推拿（385 部书，385 条）
 - **linchuang** · 中医临床（59 部书，59 条）
 - **yangsheng** · 养生康复（待收录）
-- **yishi** · 医史医家（待收录）
+- **yishi** · 医史医家（22 部书，50 条）
 - **jingdian** · 经典医籍（45 部书，967 条）
 - **xiandai** · 现代中医（待收录）
 

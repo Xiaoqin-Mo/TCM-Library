@@ -33,7 +33,7 @@ def main() -> None:
     results = []
     # 结构化维度命中
     results.append(check("按证型 太阳中风",
-                         ids({"zhengxing": ["太阳中风"]}), ["guizhitang_001"]))
+                         ids({"zhengxing": ["太阳中风"]}), ["guizhitang_001", "zhangzhongjing_002"]))
     results.append(check("按治法 解表散寒",
                          ids({"zhifa": ["解表散寒"]}),
                          ["baizhi_001", "qianghuo_001", "shengjiang_001", "xixin_001", "zisuye_001"]))
@@ -81,7 +81,7 @@ def main() -> None:
         results.append(ok)
     # 同字段多值 OR：任一命中即该字段命中（桂枝汤 zhengxing 含太阳中风）
     results.append(check("同字段多值 OR",
-                         ids({"zhengxing": ["太阳中风", "风寒束表"]}), ["guizhitang_001"]))
+                         ids({"zhengxing": ["太阳中风", "风寒束表"]}), ["guizhitang_001", "zhangzhongjing_002"]))
     # 跨字段 AND：zhengxing 命中但 zhifa 不命中 → 不召回
     results.append(check("跨字段 AND 不匹配",
                          ids({"zhengxing": ["太阳中风"], "zhifa": ["发汗解表"]}), []))
@@ -97,7 +97,7 @@ def main() -> None:
     # 空查询静默（不返回全部）
     results.append(check("空查询静默", ids({}), []))
     # 结构完整性
-    results.append(check("manifest 非空", [str(MANIFEST["total"])], ["2165"]))
+    results.append(check("manifest 非空", [str(MANIFEST["total"])], ["2215"]))
     results.append(check("match_fields 齐全",
                          MANIFEST["match_fields"],
                          ["zhengxing", "zhifa", "bingzheng", "zhengzhuang",

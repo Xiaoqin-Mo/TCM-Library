@@ -652,6 +652,14 @@
       "count": 1
     },
     {
+      "dir": "fangji\\jingfang\\daxianxiongtang",
+      "tier": 1,
+      "tier_name": "核心",
+      "category": "fangji",
+      "subcategory": "jingfang",
+      "count": 1
+    },
+    {
       "dir": "fangji\\jingfang\\didangtang",
       "tier": 1,
       "tier_name": "核心",
@@ -684,6 +692,14 @@
       "count": 1
     },
     {
+      "dir": "fangji\\jingfang\\guizhijiagegengtang",
+      "tier": 1,
+      "tier_name": "核心",
+      "category": "fangji",
+      "subcategory": "jingfang",
+      "count": 1
+    },
+    {
       "dir": "fangji\\jingfang\\guizhitang",
       "tier": 1,
       "tier_name": "核心",
@@ -700,7 +716,23 @@
       "count": 1
     },
     {
+      "dir": "fangji\\jingfang\\lingguizhugantang",
+      "tier": 1,
+      "tier_name": "核心",
+      "category": "fangji",
+      "subcategory": "jingfang",
+      "count": 1
+    },
+    {
       "dir": "fangji\\jingfang\\lizhongwan",
+      "tier": 1,
+      "tier_name": "核心",
+      "category": "fangji",
+      "subcategory": "jingfang",
+      "count": 1
+    },
+    {
+      "dir": "fangji\\jingfang\\mahuangfuzixixintang",
       "tier": 1,
       "tier_name": "核心",
       "category": "fangji",
@@ -11020,7 +11052,7 @@
       "count": 1
     }
   ],
-  "total": 2398,
+  "total": 2402,
   "entries": [
     {
       "id": "baihutang_002",
@@ -11489,6 +11521,56 @@
       }
     },
     {
+      "id": "daxianxiongtang_001",
+      "book": "伤寒论",
+      "type": "fangji",
+      "tier": 1,
+      "category": "fangji",
+      "subcategory": "jingfang",
+      "path": "library\\fangji\\jingfang\\daxianxiongtang\\daxianxiongtang_001.md",
+      "weight": 8,
+      "title": "大陷胸汤方",
+      "chapter": "辨太阳病脉证并治下",
+      "conditions": {
+        "zhengxing": [
+          "结胸",
+          "水热互结"
+        ],
+        "zhifa": [
+          "泻热逐水",
+          "破结"
+        ],
+        "bingzheng": [
+          "结胸证",
+          "急性腹膜炎样证候"
+        ],
+        "zhengzhuang": [
+          "心下痛",
+          "按之石硬",
+          "从心下至少腹硬满而痛不可近",
+          "大便秘结"
+        ],
+        "fangming": [
+          "大陷胸汤"
+        ],
+        "yaoming": [
+          "大黄",
+          "芒硝",
+          "甘遂"
+        ],
+        "xuewei": [],
+        "jingluo": [],
+        "siqi": [],
+        "wuwei": [],
+        "guijing": [],
+        "keywords": [
+          "泻下剂",
+          "寒下",
+          "逐水"
+        ]
+      }
+    },
+    {
       "id": "didangtang_001",
       "book": "伤寒论",
       "type": "fangji",
@@ -11692,6 +11774,60 @@
       }
     },
     {
+      "id": "guizhijiagegengtang_001",
+      "book": "伤寒论",
+      "type": "fangji",
+      "tier": 1,
+      "category": "fangji",
+      "subcategory": "jingfang",
+      "path": "library\\fangji\\jingfang\\guizhijiagegengtang\\guizhijiagegengtang_001.md",
+      "weight": 8,
+      "title": "桂枝加葛根汤方",
+      "chapter": "辨太阳病脉证并治上",
+      "conditions": {
+        "zhengxing": [
+          "太阳中风",
+          "营卫不和",
+          "经输不利"
+        ],
+        "zhifa": [
+          "解肌发表",
+          "升津舒经",
+          "调和营卫"
+        ],
+        "bingzheng": [
+          "感冒",
+          "项背强急"
+        ],
+        "zhengzhuang": [
+          "项背强几几",
+          "汗出",
+          "恶风"
+        ],
+        "fangming": [
+          "桂枝加葛根汤"
+        ],
+        "yaoming": [
+          "葛根",
+          "桂枝",
+          "芍药",
+          "甘草",
+          "生姜",
+          "大枣"
+        ],
+        "xuewei": [],
+        "jingluo": [],
+        "siqi": [],
+        "wuwei": [],
+        "guijing": [],
+        "keywords": [
+          "解表剂",
+          "辛温解表",
+          "解肌"
+        ]
+      }
+    },
+    {
       "id": "guizhitang_001",
       "book": "伤寒论",
       "type": "fangji",
@@ -11794,6 +11930,59 @@
       }
     },
     {
+      "id": "lingguizhugantang_001",
+      "book": "伤寒论",
+      "type": "fangji",
+      "tier": 1,
+      "category": "fangji",
+      "subcategory": "jingfang",
+      "path": "library\\fangji\\jingfang\\lingguizhugantang\\lingguizhugantang_001.md",
+      "weight": 8,
+      "title": "茯苓桂枝白术甘草汤方",
+      "chapter": "辨太阳病脉证并治中",
+      "conditions": {
+        "zhengxing": [
+          "痰饮",
+          "中阳不足",
+          "脾虚水停"
+        ],
+        "zhifa": [
+          "温阳化饮",
+          "健脾利湿"
+        ],
+        "bingzheng": [
+          "痰饮病",
+          "眩晕"
+        ],
+        "zhengzhuang": [
+          "心下逆满",
+          "气上冲胸",
+          "起则头眩",
+          "脉沉紧"
+        ],
+        "fangming": [
+          "茯苓桂枝白术甘草汤",
+          "苓桂术甘汤"
+        ],
+        "yaoming": [
+          "茯苓",
+          "桂枝",
+          "白术",
+          "甘草"
+        ],
+        "xuewei": [],
+        "jingluo": [],
+        "siqi": [],
+        "wuwei": [],
+        "guijing": [],
+        "keywords": [
+          "祛湿剂",
+          "温化水饮",
+          "健脾"
+        ]
+      }
+    },
+    {
       "id": "lizhongwan_001",
       "book": "伤寒论",
       "type": "fangji",
@@ -11840,6 +12029,56 @@
         "keywords": [
           "温里剂",
           "温中散寒"
+        ]
+      }
+    },
+    {
+      "id": "mahuangfuzixixintang_001",
+      "book": "伤寒论",
+      "type": "fangji",
+      "tier": 1,
+      "category": "fangji",
+      "subcategory": "jingfang",
+      "path": "library\\fangji\\jingfang\\mahuangfuzixixintang\\mahuangfuzixixintang_001.md",
+      "weight": 8,
+      "title": "麻黄细辛附子汤方",
+      "chapter": "辨少阴病脉证并治",
+      "conditions": {
+        "zhengxing": [
+          "少阴病",
+          "阳虚外感",
+          "太少两感"
+        ],
+        "zhifa": [
+          "助阳解表"
+        ],
+        "bingzheng": [
+          "感冒",
+          "阳虚外感"
+        ],
+        "zhengzhuang": [
+          "始得之反发热",
+          "脉沉",
+          "恶寒"
+        ],
+        "fangming": [
+          "麻黄细辛附子汤",
+          "麻黄附子细辛汤"
+        ],
+        "yaoming": [
+          "麻黄",
+          "附子",
+          "细辛"
+        ],
+        "xuewei": [],
+        "jingluo": [],
+        "siqi": [],
+        "wuwei": [],
+        "guijing": [],
+        "keywords": [
+          "解表剂",
+          "辛温解表",
+          "助阳解表"
         ]
       }
     },

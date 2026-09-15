@@ -1,6 +1,6 @@
 # fangji · 方剂学
 
-> 收录 40 条 · 下级 1 个子类
+> 收录 44 条 · 下级 1 个子类
 
 ## jingfang · 经方
 
@@ -15,13 +15,17 @@
 | fangji\jingfang\dangguishaoyaosan | 1 | [索引](./fangji\jingfang\dangguishaoyaosan/INDEX.md) |
 | fangji\jingfang\danguisinitang | 1 | [索引](./fangji\jingfang\danguisinitang/INDEX.md) |
 | fangji\jingfang\daqinglongtang | 1 | [索引](./fangji\jingfang\daqinglongtang/INDEX.md) |
+| fangji\jingfang\daxianxiongtang | 1 | [索引](./fangji\jingfang\daxianxiongtang/INDEX.md) |
 | fangji\jingfang\didangtang | 1 | [索引](./fangji\jingfang\didangtang/INDEX.md) |
 | fangji\jingfang\gancaoxiexintang | 1 | [索引](./fangji\jingfang\gancaoxiexintang/INDEX.md) |
 | fangji\jingfang\gegenatang | 1 | [索引](./fangji\jingfang\gegenatang/INDEX.md) |
 | fangji\jingfang\guizhifulingwan | 1 | [索引](./fangji\jingfang\guizhifulingwan/INDEX.md) |
+| fangji\jingfang\guizhijiagegengtang | 1 | [索引](./fangji\jingfang\guizhijiagegengtang/INDEX.md) |
 | fangji\jingfang\guizhitang | 1 | [索引](./fangji\jingfang\guizhitang/INDEX.md) |
 | fangji\jingfang\huanglianejiaotang | 1 | [索引](./fangji\jingfang\huanglianejiaotang/INDEX.md) |
+| fangji\jingfang\lingguizhugantang | 1 | [索引](./fangji\jingfang\lingguizhugantang/INDEX.md) |
 | fangji\jingfang\lizhongwan | 1 | [索引](./fangji\jingfang\lizhongwan/INDEX.md) |
+| fangji\jingfang\mahuangfuzixixintang | 1 | [索引](./fangji\jingfang\mahuangfuzixixintang/INDEX.md) |
 | fangji\jingfang\mahuangtang | 1 | [索引](./fangji\jingfang\mahuangtang/INDEX.md) |
 | fangji\jingfang\mahuangxingrenshigao | 1 | [索引](./fangji\jingfang\mahuangxingrenshigao/INDEX.md) |
 | fangji\jingfang\shengjiangxiexintang | 1 | [索引](./fangji\jingfang\shengjiangxiexintang/INDEX.md) |

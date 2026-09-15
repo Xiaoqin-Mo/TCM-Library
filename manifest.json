@@ -38,11 +38,19 @@
       "shanghan": {
         "dir": "jingdian\\shanghan",
         "count": 659
+      },
+      "wenbing": {
+        "dir": "jingdian\\wenbing\\wenrelun\\yanchi",
+        "count": 1
       }
     },
     "linchuang": {
       "neike": {
         "dir": "linchuang\\neike\\xinxi\\xiongbi",
+        "count": 1
+      },
+      "wenbing": {
+        "dir": "linchuang\\wenbing\\yingfenzheng",
         "count": 1
       }
     },
@@ -610,6 +618,326 @@
       "count": 659
     },
     {
+      "dir": "jingdian\\wenbing\\wenbingtiaobian\\angongniuhuangwan",
+      "tier": 1,
+      "tier_name": "核心",
+      "category": "jingdian",
+      "subcategory": "wenbing",
+      "count": 1
+    },
+    {
+      "dir": "jingdian\\wenbing\\wenbingtiaobian\\baihu_sijin",
+      "tier": 1,
+      "tier_name": "核心",
+      "category": "jingdian",
+      "subcategory": "wenbing",
+      "count": 1
+    },
+    {
+      "dir": "jingdian\\wenbing\\wenbingtiaobian\\baihutang",
+      "tier": 1,
+      "tier_name": "核心",
+      "category": "jingdian",
+      "subcategory": "wenbing",
+      "count": 1
+    },
+    {
+      "dir": "jingdian\\wenbing\\wenbingtiaobian\\dachengqi",
+      "tier": 1,
+      "tier_name": "核心",
+      "category": "jingdian",
+      "subcategory": "wenbing",
+      "count": 1
+    },
+    {
+      "dir": "jingdian\\wenbing\\wenbingtiaobian\\dadengfengzhu",
+      "tier": 1,
+      "tier_name": "核心",
+      "category": "jingdian",
+      "subcategory": "wenbing",
+      "count": 1
+    },
+    {
+      "dir": "jingdian\\wenbing\\wenbingtiaobian\\daichichengqi",
+      "tier": 1,
+      "tier_name": "核心",
+      "category": "jingdian",
+      "subcategory": "wenbing",
+      "count": 1
+    },
+    {
+      "dir": "jingdian\\wenbing\\wenbingtiaobian\\erjiafumai",
+      "tier": 1,
+      "tier_name": "核心",
+      "category": "jingdian",
+      "subcategory": "wenbing",
+      "count": 1
+    },
+    {
+      "dir": "jingdian\\wenbing\\wenbingtiaobian\\fabanxi",
+      "tier": 1,
+      "tier_name": "核心",
+      "category": "jingdian",
+      "subcategory": "wenbing",
+      "count": 1
+    },
+    {
+      "dir": "jingdian\\wenbing\\wenbingtiaobian\\fanbing",
+      "tier": 1,
+      "tier_name": "核心",
+      "category": "jingdian",
+      "subcategory": "wenbing",
+      "count": 1
+    },
+    {
+      "dir": "jingdian\\wenbing\\wenbingtiaobian\\huanglianejiao",
+      "tier": 1,
+      "tier_name": "核心",
+      "category": "jingdian",
+      "subcategory": "wenbing",
+      "count": 1
+    },
+    {
+      "dir": "jingdian\\wenbing\\wenbingtiaobian\\jiajianfumai",
+      "tier": 1,
+      "tier_name": "核心",
+      "category": "jingdian",
+      "subcategory": "wenbing",
+      "count": 1
+    },
+    {
+      "dir": "jingdian\\wenbing\\wenbingtiaobian\\jiunitang",
+      "tier": 1,
+      "tier_name": "核心",
+      "category": "jingdian",
+      "subcategory": "wenbing",
+      "count": 1
+    },
+    {
+      "dir": "jingdian\\wenbing\\wenbingtiaobian\\niuhuangchengqi",
+      "tier": 1,
+      "tier_name": "核心",
+      "category": "jingdian",
+      "subcategory": "wenbing",
+      "count": 1
+    },
+    {
+      "dir": "jingdian\\wenbing\\wenbingtiaobian\\qinggongtang",
+      "tier": 1,
+      "tier_name": "核心",
+      "category": "jingdian",
+      "subcategory": "wenbing",
+      "count": 1
+    },
+    {
+      "dir": "jingdian\\wenbing\\wenbingtiaobian\\qinghaobiejia",
+      "tier": 1,
+      "tier_name": "核心",
+      "category": "jingdian",
+      "subcategory": "wenbing",
+      "count": 1
+    },
+    {
+      "dir": "jingdian\\wenbing\\wenbingtiaobian\\qingyingtang",
+      "tier": 1,
+      "tier_name": "核心",
+      "category": "jingdian",
+      "subcategory": "wenbing",
+      "count": 1
+    },
+    {
+      "dir": "jingdian\\wenbing\\wenbingtiaobian\\sangjuyin",
+      "tier": 1,
+      "tier_name": "核心",
+      "category": "jingdian",
+      "subcategory": "wenbing",
+      "count": 1
+    },
+    {
+      "dir": "jingdian\\wenbing\\wenbingtiaobian\\sanjiafumai",
+      "tier": 1,
+      "tier_name": "核心",
+      "category": "jingdian",
+      "subcategory": "wenbing",
+      "count": 1
+    },
+    {
+      "dir": "jingdian\\wenbing\\wenbingtiaobian\\shashendongmai",
+      "tier": 1,
+      "tier_name": "核心",
+      "category": "jingdian",
+      "subcategory": "wenbing",
+      "count": 1
+    },
+    {
+      "dir": "jingdian\\wenbing\\wenbingtiaobian\\xiaochengqi",
+      "tier": 1,
+      "tier_name": "核心",
+      "category": "jingdian",
+      "subcategory": "wenbing",
+      "count": 1
+    },
+    {
+      "dir": "jingdian\\wenbing\\wenbingtiaobian\\xiaodengfengzhu",
+      "tier": 1,
+      "tier_name": "核心",
+      "category": "jingdian",
+      "subcategory": "wenbing",
+      "count": 1
+    },
+    {
+      "dir": "jingdian\\wenbing\\wenbingtiaobian\\xinjiahuanglong",
+      "tier": 1,
+      "tier_name": "核心",
+      "category": "jingdian",
+      "subcategory": "wenbing",
+      "count": 1
+    },
+    {
+      "dir": "jingdian\\wenbing\\wenbingtiaobian\\xuanbaichengqi",
+      "tier": 1,
+      "tier_name": "核心",
+      "category": "jingdian",
+      "subcategory": "wenbing",
+      "count": 1
+    },
+    {
+      "dir": "jingdian\\wenbing\\wenbingtiaobian\\yijiafumai",
+      "tier": 1,
+      "tier_name": "核心",
+      "category": "jingdian",
+      "subcategory": "wenbing",
+      "count": 1
+    },
+    {
+      "dir": "jingdian\\wenbing\\wenbingtiaobian\\yinqiaosan",
+      "tier": 1,
+      "tier_name": "核心",
+      "category": "jingdian",
+      "subcategory": "wenbing",
+      "count": 1
+    },
+    {
+      "dir": "jingdian\\wenbing\\wenbingtiaobian\\yinqiaotang",
+      "tier": 1,
+      "tier_name": "核心",
+      "category": "jingdian",
+      "subcategory": "wenbing",
+      "count": 1
+    },
+    {
+      "dir": "jingdian\\wenbing\\wenbingtiaobian\\zengyechengqi",
+      "tier": 1,
+      "tier_name": "核心",
+      "category": "jingdian",
+      "subcategory": "wenbing",
+      "count": 1
+    },
+    {
+      "dir": "jingdian\\wenbing\\wenbingtiaobian\\zengyetang",
+      "tier": 1,
+      "tier_name": "核心",
+      "category": "jingdian",
+      "subcategory": "wenbing",
+      "count": 1
+    },
+    {
+      "dir": "jingdian\\wenbing\\wenbingtiaobian\\zhizhidan",
+      "tier": 1,
+      "tier_name": "核心",
+      "category": "jingdian",
+      "subcategory": "wenbing",
+      "count": 1
+    },
+    {
+      "dir": "jingdian\\wenbing\\wenbingtiaobian\\zixuedan",
+      "tier": 1,
+      "tier_name": "核心",
+      "category": "jingdian",
+      "subcategory": "wenbing",
+      "count": 1
+    },
+    {
+      "dir": "jingdian\\wenbing\\wenrelun\\baipao",
+      "tier": 1,
+      "tier_name": "核心",
+      "category": "jingdian",
+      "subcategory": "wenbing",
+      "count": 1
+    },
+    {
+      "dir": "jingdian\\wenbing\\wenrelun\\banzhen",
+      "tier": 1,
+      "tier_name": "核心",
+      "category": "jingdian",
+      "subcategory": "wenbing",
+      "count": 1
+    },
+    {
+      "dir": "jingdian\\wenbing\\wenrelun\\furenwenbing",
+      "tier": 1,
+      "tier_name": "核心",
+      "category": "jingdian",
+      "subcategory": "wenbing",
+      "count": 1
+    },
+    {
+      "dir": "jingdian\\wenbing\\wenrelun\\jiuyintongyang",
+      "tier": 1,
+      "tier_name": "核心",
+      "category": "jingdian",
+      "subcategory": "wenbing",
+      "count": 1
+    },
+    {
+      "dir": "jingdian\\wenbing\\wenrelun\\nichuanxinbao",
+      "tier": 1,
+      "tier_name": "核心",
+      "category": "jingdian",
+      "subcategory": "wenbing",
+      "count": 1
+    },
+    {
+      "dir": "jingdian\\wenbing\\wenrelun\\sheyinghongjiang",
+      "tier": 1,
+      "tier_name": "核心",
+      "category": "jingdian",
+      "subcategory": "wenbing",
+      "count": 1
+    },
+    {
+      "dir": "jingdian\\wenbing\\wenrelun\\shouxianfanfei",
+      "tier": 1,
+      "tier_name": "核心",
+      "category": "jingdian",
+      "subcategory": "wenbing",
+      "count": 1
+    },
+    {
+      "dir": "jingdian\\wenbing\\wenrelun\\weiqiyingxuedagang",
+      "tier": 1,
+      "tier_name": "核心",
+      "category": "jingdian",
+      "subcategory": "wenbing",
+      "count": 1
+    },
+    {
+      "dir": "jingdian\\wenbing\\wenrelun\\xieliusanjiao",
+      "tier": 1,
+      "tier_name": "核心",
+      "category": "jingdian",
+      "subcategory": "wenbing",
+      "count": 1
+    },
+    {
+      "dir": "jingdian\\wenbing\\wenrelun\\yanchi",
+      "tier": 1,
+      "tier_name": "核心",
+      "category": "jingdian",
+      "subcategory": "wenbing",
+      "count": 1
+    },
+    {
       "dir": "linchuang\\neike\\feixi\\chuanzheng",
       "tier": 1,
       "tier_name": "核心",
@@ -983,6 +1311,102 @@
       "tier_name": "核心",
       "category": "linchuang",
       "subcategory": "neike",
+      "count": 1
+    },
+    {
+      "dir": "linchuang\\wenbing\\chunwen",
+      "tier": 1,
+      "tier_name": "核心",
+      "category": "linchuang",
+      "subcategory": "wenbing",
+      "count": 1
+    },
+    {
+      "dir": "linchuang\\wenbing\\fengwen",
+      "tier": 1,
+      "tier_name": "核心",
+      "category": "linchuang",
+      "subcategory": "wenbing",
+      "count": 1
+    },
+    {
+      "dir": "linchuang\\wenbing\\qifenzheng",
+      "tier": 1,
+      "tier_name": "核心",
+      "category": "linchuang",
+      "subcategory": "wenbing",
+      "count": 1
+    },
+    {
+      "dir": "linchuang\\wenbing\\qiuzao",
+      "tier": 1,
+      "tier_name": "核心",
+      "category": "linchuang",
+      "subcategory": "wenbing",
+      "count": 1
+    },
+    {
+      "dir": "linchuang\\wenbing\\shirebianzhi",
+      "tier": 1,
+      "tier_name": "核心",
+      "category": "linchuang",
+      "subcategory": "wenbing",
+      "count": 1
+    },
+    {
+      "dir": "linchuang\\wenbing\\shiwen",
+      "tier": 1,
+      "tier_name": "核心",
+      "category": "linchuang",
+      "subcategory": "wenbing",
+      "count": 1
+    },
+    {
+      "dir": "linchuang\\wenbing\\shuwen",
+      "tier": 1,
+      "tier_name": "核心",
+      "category": "linchuang",
+      "subcategory": "wenbing",
+      "count": 1
+    },
+    {
+      "dir": "linchuang\\wenbing\\weifenzheng",
+      "tier": 1,
+      "tier_name": "核心",
+      "category": "linchuang",
+      "subcategory": "wenbing",
+      "count": 1
+    },
+    {
+      "dir": "linchuang\\wenbing\\wendu",
+      "tier": 1,
+      "tier_name": "核心",
+      "category": "linchuang",
+      "subcategory": "wenbing",
+      "count": 1
+    },
+    {
+      "dir": "linchuang\\wenbing\\wenyi",
+      "tier": 1,
+      "tier_name": "核心",
+      "category": "linchuang",
+      "subcategory": "wenbing",
+      "count": 1
+    },
+    {
+      "dir": "linchuang\\wenbing\\xuefenzheng",
+      "tier": 1,
+      "tier_name": "核心",
+      "category": "linchuang",
+      "subcategory": "wenbing",
+      "count": 1
+    },
+    {
+      "dir": "linchuang\\wenbing\\yingfenzheng",
+      "tier": 1,
+      "tier_name": "核心",
+      "category": "linchuang",
+      "subcategory": "wenbing",
       "count": 1
     },
     {
@@ -10090,7 +10514,7 @@
       "count": 1
     }
   ],
-  "total": 2113,
+  "total": 2165,
   "entries": [
     {
       "id": "guizhitang_001",
@@ -43862,6 +44286,1810 @@
       }
     },
     {
+      "id": "angongniuhuangwan_001",
+      "book": "温病条辨",
+      "type": "chapter",
+      "tier": 1,
+      "category": "jingdian",
+      "subcategory": "wenbing",
+      "path": "library\\jingdian\\wenbing\\wenbingtiaobian\\angongniuhuangwan\\angongniuhuangwan_001.md",
+      "weight": 10,
+      "title": "安宫牛黄丸",
+      "chapter": "上焦篇",
+      "conditions": {
+        "zhengxing": [
+          "热闭心包",
+          "痰热内闭"
+        ],
+        "zhifa": [
+          "清热解毒",
+          "豁痰开窍"
+        ],
+        "bingzheng": [
+          "风温",
+          "温热",
+          "温疫",
+          "温毒"
+        ],
+        "zhengzhuang": [
+          "神昏谵语",
+          "舌謇肢厥"
+        ],
+        "fangming": [
+          "安宫牛黄丸"
+        ],
+        "yaoming": [],
+        "xuewei": [],
+        "jingluo": [],
+        "siqi": [],
+        "wuwei": [],
+        "guijing": [],
+        "keywords": [
+          "温病",
+          "温病条辨",
+          "凉开三宝",
+          "热闭心包",
+          "安宫牛黄丸"
+        ]
+      }
+    },
+    {
+      "id": "baihu_sijin_001",
+      "book": "温病条辨",
+      "type": "chapter",
+      "tier": 1,
+      "category": "jingdian",
+      "subcategory": "wenbing",
+      "path": "library\\jingdian\\wenbing\\wenbingtiaobian\\baihu_sijin\\baihu_sijin_001.md",
+      "weight": 10,
+      "title": "白虎汤四禁",
+      "chapter": "上焦篇",
+      "conditions": {
+        "zhengxing": [
+          "白虎汤禁忌证"
+        ],
+        "zhifa": [],
+        "bingzheng": [
+          "风温",
+          "温热"
+        ],
+        "zhengzhuang": [],
+        "fangming": [
+          "白虎汤"
+        ],
+        "yaoming": [],
+        "xuewei": [],
+        "jingluo": [],
+        "siqi": [],
+        "wuwei": [],
+        "guijing": [],
+        "keywords": [
+          "温病",
+          "温病条辨",
+          "白虎汤",
+          "使用禁忌",
+          "四禁"
+        ]
+      }
+    },
+    {
+      "id": "baihutang_001",
+      "book": "温病条辨",
+      "type": "chapter",
+      "tier": 1,
+      "category": "jingdian",
+      "subcategory": "wenbing",
+      "path": "library\\jingdian\\wenbing\\wenbingtiaobian\\baihutang\\baihutang_001.md",
+      "weight": 10,
+      "title": "白虎汤（辛凉重剂）",
+      "chapter": "上焦篇",
+      "conditions": {
+        "zhengxing": [
+          "阳明气分热盛",
+          "热盛津伤"
+        ],
+        "zhifa": [
+          "辛寒清热",
+          "生津除烦"
+        ],
+        "bingzheng": [
+          "风温",
+          "温热"
+        ],
+        "zhengzhuang": [
+          "高热",
+          "大汗",
+          "大渴",
+          "面赤",
+          "恶热",
+          "脉浮洪"
+        ],
+        "fangming": [
+          "白虎汤"
+        ],
+        "yaoming": [],
+        "xuewei": [],
+        "jingluo": [],
+        "siqi": [],
+        "wuwei": [],
+        "guijing": [],
+        "keywords": [
+          "温病",
+          "温病条辨",
+          "辛凉重剂",
+          "气分热盛",
+          "白虎汤"
+        ]
+      }
+    },
+    {
+      "id": "dachengqi_001",
+      "book": "温病条辨",
+      "type": "chapter",
+      "tier": 1,
+      "category": "jingdian",
+      "subcategory": "wenbing",
+      "path": "library\\jingdian\\wenbing\\wenbingtiaobian\\dachengqi\\dachengqi_001.md",
+      "weight": 10,
+      "title": "大承气汤（阳明温病腑实）",
+      "chapter": "中焦篇",
+      "conditions": {
+        "zhengxing": [
+          "阳明腑实",
+          "热结便秘"
+        ],
+        "zhifa": [
+          "攻下腑实",
+          "泻热存阴"
+        ],
+        "bingzheng": [
+          "阳明温病"
+        ],
+        "zhengzhuang": [
+          "潮热",
+          "便秘",
+          "腹满痛",
+          "苔黄燥",
+          "脉沉实"
+        ],
+        "fangming": [
+          "大承气汤"
+        ],
+        "yaoming": [],
+        "xuewei": [],
+        "jingluo": [],
+        "siqi": [],
+        "wuwei": [],
+        "guijing": [],
+        "keywords": [
+          "温病",
+          "温病条辨",
+          "阳明腑实",
+          "峻下热结",
+          "大承气汤"
+        ]
+      }
+    },
+    {
+      "id": "dadengfengzhu_001",
+      "book": "温病条辨",
+      "type": "chapter",
+      "tier": 1,
+      "category": "jingdian",
+      "subcategory": "wenbing",
+      "path": "library\\jingdian\\wenbing\\wenbingtiaobian\\dadengfengzhu\\dadengfengzhu_001.md",
+      "weight": 10,
+      "title": "大定风珠",
+      "chapter": "下焦篇",
+      "conditions": {
+        "zhengxing": [
+          "下焦阴虚",
+          "阴虚风动欲脱"
+        ],
+        "zhifa": [
+          "滋阴养液",
+          "柔肝息风",
+          "固脱"
+        ],
+        "bingzheng": [
+          "下焦温病"
+        ],
+        "zhengzhuang": [
+          "神倦瘈疭",
+          "脉气虚弱",
+          "舌绛苔少",
+          "时时欲脱"
+        ],
+        "fangming": [
+          "大定风珠"
+        ],
+        "yaoming": [],
+        "xuewei": [],
+        "jingluo": [],
+        "siqi": [],
+        "wuwei": [],
+        "guijing": [],
+        "keywords": [
+          "温病",
+          "温病条辨",
+          "阴虚风动",
+          "滋阴息风",
+          "大定风珠"
+        ]
+      }
+    },
+    {
+      "id": "daichichengqi_001",
+      "book": "温病条辨",
+      "type": "chapter",
+      "tier": 1,
+      "category": "jingdian",
+      "subcategory": "wenbing",
+      "path": "library\\jingdian\\wenbing\\wenbingtiaobian\\daichichengqi\\daichichengqi_001.md",
+      "weight": 10,
+      "title": "导赤承气汤",
+      "chapter": "中焦篇",
+      "conditions": {
+        "zhengxing": [
+          "阳明腑实",
+          "小肠热盛"
+        ],
+        "zhifa": [
+          "泻热通腑",
+          "清利小肠"
+        ],
+        "bingzheng": [
+          "阳明温病"
+        ],
+        "zhengzhuang": [
+          "小便赤痛",
+          "时烦渴甚",
+          "便秘",
+          "左尺牢坚"
+        ],
+        "fangming": [
+          "导赤承气汤"
+        ],
+        "yaoming": [],
+        "xuewei": [],
+        "jingluo": [],
+        "siqi": [],
+        "wuwei": [],
+        "guijing": [],
+        "keywords": [
+          "温病",
+          "温病条辨",
+          "小肠热盛",
+          "导赤承气",
+          "导赤承气汤"
+        ]
+      }
+    },
+    {
+      "id": "erjiafumai_001",
+      "book": "温病条辨",
+      "type": "chapter",
+      "tier": 1,
+      "category": "jingdian",
+      "subcategory": "wenbing",
+      "path": "library\\jingdian\\wenbing\\wenbingtiaobian\\erjiafumai\\erjiafumai_001.md",
+      "weight": 10,
+      "title": "二甲复脉汤",
+      "chapter": "下焦篇",
+      "conditions": {
+        "zhengxing": [
+          "下焦阴虚",
+          "阴虚风动欲痉"
+        ],
+        "zhifa": [
+          "滋阴潜阳",
+          "防痉厥"
+        ],
+        "bingzheng": [
+          "下焦温病"
+        ],
+        "zhengzhuang": [
+          "舌干齿黑",
+          "手指蠕动",
+          "脉沉数"
+        ],
+        "fangming": [
+          "二甲复脉汤"
+        ],
+        "yaoming": [],
+        "xuewei": [],
+        "jingluo": [],
+        "siqi": [],
+        "wuwei": [],
+        "guijing": [],
+        "keywords": [
+          "温病",
+          "温病条辨",
+          "复脉汤类",
+          "防痉厥",
+          "二甲复脉汤"
+        ]
+      }
+    },
+    {
+      "id": "fabanxi_001",
+      "book": "温病条辨",
+      "type": "chapter",
+      "tier": 1,
+      "category": "jingdian",
+      "subcategory": "wenbing",
+      "path": "library\\jingdian\\wenbing\\wenbingtiaobian\\fabanxi\\fabanxi_001.md",
+      "weight": 10,
+      "title": "发斑发疹（化斑汤）",
+      "chapter": "上焦篇",
+      "conditions": {
+        "zhengxing": [
+          "热入营血",
+          "气血两燔"
+        ],
+        "zhifa": [
+          "清营凉血",
+          "化斑透疹"
+        ],
+        "bingzheng": [
+          "风温",
+          "温热",
+          "温毒"
+        ],
+        "zhengzhuang": [
+          "发斑",
+          "发疹",
+          "神昏谵语"
+        ],
+        "fangming": [
+          "化斑汤"
+        ],
+        "yaoming": [],
+        "xuewei": [],
+        "jingluo": [],
+        "siqi": [],
+        "wuwei": [],
+        "guijing": [],
+        "keywords": [
+          "温病",
+          "温病条辨",
+          "发斑",
+          "发疹",
+          "化斑汤"
+        ]
+      }
+    },
+    {
+      "id": "fanbing_001",
+      "book": "温病条辨",
+      "type": "chapter",
+      "tier": 1,
+      "category": "jingdian",
+      "subcategory": "wenbing",
+      "path": "library\\jingdian\\wenbing\\wenbingtiaobian\\fanbing\\fanbing_001.md",
+      "weight": 10,
+      "title": "温病提纲（凡病温者始于上焦在手太阴）",
+      "chapter": "上焦篇",
+      "conditions": {
+        "zhengxing": [
+          "温病初起",
+          "邪在上焦"
+        ],
+        "zhifa": [
+          "辛凉解表",
+          "疏风透邪"
+        ],
+        "bingzheng": [
+          "风温",
+          "温热",
+          "温疫",
+          "温毒",
+          "冬温"
+        ],
+        "zhengzhuang": [],
+        "fangming": [],
+        "yaoming": [],
+        "xuewei": [],
+        "jingluo": [],
+        "siqi": [],
+        "wuwei": [],
+        "guijing": [],
+        "keywords": [
+          "温病",
+          "温病条辨",
+          "三焦辨证",
+          "手太阴",
+          "上焦"
+        ]
+      }
+    },
+    {
+      "id": "huanglianejiao_001",
+      "book": "温病条辨",
+      "type": "chapter",
+      "tier": 1,
+      "category": "jingdian",
+      "subcategory": "wenbing",
+      "path": "library\\jingdian\\wenbing\\wenbingtiaobian\\huanglianejiao\\huanglianejiao_001.md",
+      "weight": 10,
+      "title": "黄连阿胶汤",
+      "chapter": "下焦篇",
+      "conditions": {
+        "zhengxing": [
+          "下焦阴虚",
+          "心肾不交"
+        ],
+        "zhifa": [
+          "育阴清热",
+          "交通心肾"
+        ],
+        "bingzheng": [
+          "少阴温病"
+        ],
+        "zhengzhuang": [
+          "心中烦",
+          "不得卧"
+        ],
+        "fangming": [
+          "黄连阿胶汤"
+        ],
+        "yaoming": [],
+        "xuewei": [],
+        "jingluo": [],
+        "siqi": [],
+        "wuwei": [],
+        "guijing": [],
+        "keywords": [
+          "温病",
+          "温病条辨",
+          "真阴欲竭",
+          "壮火复炽",
+          "黄连阿胶汤"
+        ]
+      }
+    },
+    {
+      "id": "jiajianfumai_001",
+      "book": "温病条辨",
+      "type": "chapter",
+      "tier": 1,
+      "category": "jingdian",
+      "subcategory": "wenbing",
+      "path": "library\\jingdian\\wenbing\\wenbingtiaobian\\jiajianfumai\\jiajianfumai_001.md",
+      "weight": 10,
+      "title": "加减复脉汤",
+      "chapter": "下焦篇",
+      "conditions": {
+        "zhengxing": [
+          "下焦温病",
+          "真阴欲竭"
+        ],
+        "zhifa": [
+          "滋阴养液",
+          "复脉救阴"
+        ],
+        "bingzheng": [
+          "风温",
+          "温热",
+          "温疫",
+          "冬温"
+        ],
+        "zhengzhuang": [
+          "身热面赤",
+          "口干舌燥",
+          "手足心热",
+          "脉虚大"
+        ],
+        "fangming": [
+          "加减复脉汤"
+        ],
+        "yaoming": [],
+        "xuewei": [],
+        "jingluo": [],
+        "siqi": [],
+        "wuwei": [],
+        "guijing": [],
+        "keywords": [
+          "温病",
+          "温病条辨",
+          "下焦阴虚",
+          "滋阴复脉",
+          "加减复脉汤"
+        ]
+      }
+    },
+    {
+      "id": "jiunitang_001",
+      "book": "温病条辨",
+      "type": "chapter",
+      "tier": 1,
+      "category": "jingdian",
+      "subcategory": "wenbing",
+      "path": "library\\jingdian\\wenbing\\wenbingtiaobian\\jiunitang\\jiunitang_001.md",
+      "weight": 10,
+      "title": "救逆汤",
+      "chapter": "下焦篇",
+      "conditions": {
+        "zhengxing": [
+          "下焦阴虚",
+          "误表误下液脱"
+        ],
+        "zhifa": [
+          "滋阴养液",
+          "镇惊安神"
+        ],
+        "bingzheng": [
+          "下焦温病"
+        ],
+        "zhengzhuang": [
+          "误表误下",
+          "舌强神昏",
+          "脉虚大"
+        ],
+        "fangming": [
+          "救逆汤"
+        ],
+        "yaoming": [],
+        "xuewei": [],
+        "jingluo": [],
+        "siqi": [],
+        "wuwei": [],
+        "guijing": [],
+        "keywords": [
+          "温病",
+          "温病条辨",
+          "复脉汤类",
+          "救逆",
+          "救逆汤"
+        ]
+      }
+    },
+    {
+      "id": "niuhuangchengqi_001",
+      "book": "温病条辨",
+      "type": "chapter",
+      "tier": 1,
+      "category": "jingdian",
+      "subcategory": "wenbing",
+      "path": "library\\jingdian\\wenbing\\wenbingtiaobian\\niuhuangchengqi\\niuhuangchengqi_001.md",
+      "weight": 10,
+      "title": "牛黄承气汤",
+      "chapter": "中焦篇",
+      "conditions": {
+        "zhengxing": [
+          "阳明腑实",
+          "热闭心包"
+        ],
+        "zhifa": [
+          "攻下腑实",
+          "清心开窍"
+        ],
+        "bingzheng": [
+          "阳明温病"
+        ],
+        "zhengzhuang": [
+          "神昏舌短",
+          "内窍不通",
+          "饮不解渴",
+          "便秘"
+        ],
+        "fangming": [
+          "牛黄承气汤"
+        ],
+        "yaoming": [],
+        "xuewei": [],
+        "jingluo": [],
+        "siqi": [],
+        "wuwei": [],
+        "guijing": [],
+        "keywords": [
+          "温病",
+          "温病条辨",
+          "腑实兼窍闭",
+          "牛黄承气",
+          "牛黄承气汤"
+        ]
+      }
+    },
+    {
+      "id": "qinggongtang_001",
+      "book": "温病条辨",
+      "type": "chapter",
+      "tier": 1,
+      "category": "jingdian",
+      "subcategory": "wenbing",
+      "path": "library\\jingdian\\wenbing\\wenbingtiaobian\\qinggongtang\\qinggongtang_001.md",
+      "weight": 10,
+      "title": "清宫汤",
+      "chapter": "上焦篇",
+      "conditions": {
+        "zhengxing": [
+          "热入心包",
+          "营分热盛"
+        ],
+        "zhifa": [
+          "清心开窍",
+          "凉营解毒"
+        ],
+        "bingzheng": [
+          "风温",
+          "温热",
+          "暑温"
+        ],
+        "zhengzhuang": [
+          "神昏",
+          "谵语"
+        ],
+        "fangming": [
+          "清宫汤"
+        ],
+        "yaoming": [],
+        "xuewei": [],
+        "jingluo": [],
+        "siqi": [],
+        "wuwei": [],
+        "guijing": [],
+        "keywords": [
+          "温病",
+          "温病条辨",
+          "热入心包",
+          "神昏谵语",
+          "清宫汤"
+        ]
+      }
+    },
+    {
+      "id": "qinghaobiejia_001",
+      "book": "温病条辨",
+      "type": "chapter",
+      "tier": 1,
+      "category": "jingdian",
+      "subcategory": "wenbing",
+      "path": "library\\jingdian\\wenbing\\wenbingtiaobian\\qinghaobiejia\\qinghaobiejia_001.md",
+      "weight": 10,
+      "title": "青蒿鳖甲汤",
+      "chapter": "下焦篇",
+      "conditions": {
+        "zhengxing": [
+          "下焦阴分",
+          "余邪伏阴"
+        ],
+        "zhifa": [
+          "滋阴透热",
+          "搜邪外出"
+        ],
+        "bingzheng": [
+          "温病后期"
+        ],
+        "zhengzhuang": [
+          "夜热早凉",
+          "热退无汗"
+        ],
+        "fangming": [
+          "青蒿鳖甲汤"
+        ],
+        "yaoming": [],
+        "xuewei": [],
+        "jingluo": [],
+        "siqi": [],
+        "wuwei": [],
+        "guijing": [],
+        "keywords": [
+          "温病",
+          "温病条辨",
+          "夜热早凉",
+          "阴分伏热",
+          "青蒿鳖甲汤"
+        ]
+      }
+    },
+    {
+      "id": "qingyingtang_001",
+      "book": "温病条辨",
+      "type": "chapter",
+      "tier": 1,
+      "category": "jingdian",
+      "subcategory": "wenbing",
+      "path": "library\\jingdian\\wenbing\\wenbingtiaobian\\qingyingtang\\qingyingtang_001.md",
+      "weight": 10,
+      "title": "清营汤",
+      "chapter": "上焦篇",
+      "conditions": {
+        "zhengxing": [
+          "热入营分"
+        ],
+        "zhifa": [
+          "清营泄热",
+          "透热转气"
+        ],
+        "bingzheng": [
+          "暑温",
+          "风温",
+          "温热"
+        ],
+        "zhengzhuang": [
+          "夜寐不安",
+          "烦渴",
+          "舌赤",
+          "时有谵语"
+        ],
+        "fangming": [
+          "清营汤"
+        ],
+        "yaoming": [],
+        "xuewei": [],
+        "jingluo": [],
+        "siqi": [],
+        "wuwei": [],
+        "guijing": [],
+        "keywords": [
+          "温病",
+          "温病条辨",
+          "热入营分",
+          "透热转气",
+          "清营汤"
+        ]
+      }
+    },
+    {
+      "id": "sangjuyin_001",
+      "book": "温病条辨",
+      "type": "chapter",
+      "tier": 1,
+      "category": "jingdian",
+      "subcategory": "wenbing",
+      "path": "library\\jingdian\\wenbing\\wenbingtiaobian\\sangjuyin\\sangjuyin_001.md",
+      "weight": 10,
+      "title": "桑菊饮（辛凉轻剂）",
+      "chapter": "上焦篇",
+      "conditions": {
+        "zhengxing": [
+          "邪在肺卫",
+          "肺失宣肃"
+        ],
+        "zhifa": [
+          "疏风清热",
+          "宣肺止咳"
+        ],
+        "bingzheng": [
+          "风温"
+        ],
+        "zhengzhuang": [
+          "咳嗽",
+          "身热不甚",
+          "口微渴"
+        ],
+        "fangming": [
+          "桑菊饮"
+        ],
+        "yaoming": [],
+        "xuewei": [],
+        "jingluo": [],
+        "siqi": [],
+        "wuwei": [],
+        "guijing": [],
+        "keywords": [
+          "温病",
+          "温病条辨",
+          "辛凉轻剂",
+          "风温咳嗽",
+          "桑菊饮"
+        ]
+      }
+    },
+    {
+      "id": "sanjiafumai_001",
+      "book": "温病条辨",
+      "type": "chapter",
+      "tier": 1,
+      "category": "jingdian",
+      "subcategory": "wenbing",
+      "path": "library\\jingdian\\wenbing\\wenbingtiaobian\\sanjiafumai\\sanjiafumai_001.md",
+      "weight": 10,
+      "title": "三甲复脉汤",
+      "chapter": "下焦篇",
+      "conditions": {
+        "zhengxing": [
+          "下焦阴虚",
+          "虚风内动"
+        ],
+        "zhifa": [
+          "滋阴潜阳",
+          "养心息风"
+        ],
+        "bingzheng": [
+          "下焦温病"
+        ],
+        "zhengzhuang": [
+          "热深厥甚",
+          "脉细促",
+          "心中憺憺大动",
+          "心中痛"
+        ],
+        "fangming": [
+          "三甲复脉汤"
+        ],
+        "yaoming": [],
+        "xuewei": [],
+        "jingluo": [],
+        "siqi": [],
+        "wuwei": [],
+        "guijing": [],
+        "keywords": [
+          "温病",
+          "温病条辨",
+          "复脉汤类",
+          "阴虚风动",
+          "三甲复脉汤"
+        ]
+      }
+    },
+    {
+      "id": "shashendongmai_001",
+      "book": "温病条辨",
+      "type": "chapter",
+      "tier": 1,
+      "category": "jingdian",
+      "subcategory": "wenbing",
+      "path": "library\\jingdian\\wenbing\\wenbingtiaobian\\shashendongmai\\shashendongmai_001.md",
+      "weight": 10,
+      "title": "沙参麦冬汤",
+      "chapter": "中焦篇",
+      "conditions": {
+        "zhengxing": [
+          "燥伤肺胃阴分"
+        ],
+        "zhifa": [
+          "清养肺胃",
+          "生津润燥"
+        ],
+        "bingzheng": [
+          "秋燥",
+          "风温",
+          "温热"
+        ],
+        "zhengzhuang": [
+          "干咳",
+          "身热",
+          "口渴"
+        ],
+        "fangming": [
+          "沙参麦冬汤"
+        ],
+        "yaoming": [],
+        "xuewei": [],
+        "jingluo": [],
+        "siqi": [],
+        "wuwei": [],
+        "guijing": [],
+        "keywords": [
+          "温病",
+          "温病条辨",
+          "燥伤肺胃",
+          "甘寒生津",
+          "沙参麦冬汤"
+        ]
+      }
+    },
+    {
+      "id": "xiaochengqi_001",
+      "book": "温病条辨",
+      "type": "chapter",
+      "tier": 1,
+      "category": "jingdian",
+      "subcategory": "wenbing",
+      "path": "library\\jingdian\\wenbing\\wenbingtiaobian\\xiaochengqi\\xiaochengqi_001.md",
+      "weight": 10,
+      "title": "小承气汤（阳明温病轻下）",
+      "chapter": "中焦篇",
+      "conditions": {
+        "zhengxing": [
+          "阳明腑实",
+          "热结较轻"
+        ],
+        "zhifa": [
+          "轻下热结",
+          "行气除满"
+        ],
+        "bingzheng": [
+          "阳明温病"
+        ],
+        "zhengzhuang": [
+          "潮热",
+          "谵语",
+          "腹满",
+          "大便硬"
+        ],
+        "fangming": [
+          "小承气汤"
+        ],
+        "yaoming": [],
+        "xuewei": [],
+        "jingluo": [],
+        "siqi": [],
+        "wuwei": [],
+        "guijing": [],
+        "keywords": [
+          "温病",
+          "温病条辨",
+          "阳明腑实",
+          "轻下热结",
+          "小承气汤"
+        ]
+      }
+    },
+    {
+      "id": "xiaodengfengzhu_001",
+      "book": "温病条辨",
+      "type": "chapter",
+      "tier": 1,
+      "category": "jingdian",
+      "subcategory": "wenbing",
+      "path": "library\\jingdian\\wenbing\\wenbingtiaobian\\xiaodengfengzhu\\xiaodengfengzhu_001.md",
+      "weight": 10,
+      "title": "小定风珠",
+      "chapter": "下焦篇",
+      "conditions": {
+        "zhengxing": [
+          "下焦阴虚",
+          "虚风上逆"
+        ],
+        "zhifa": [
+          "滋阴潜阳",
+          "降逆和胃"
+        ],
+        "bingzheng": [
+          "下焦温病"
+        ],
+        "zhengzhuang": [
+          "厥而哕",
+          "脉细而劲"
+        ],
+        "fangming": [
+          "小定风珠"
+        ],
+        "yaoming": [],
+        "xuewei": [],
+        "jingluo": [],
+        "siqi": [],
+        "wuwei": [],
+        "guijing": [],
+        "keywords": [
+          "温病",
+          "温病条辨",
+          "阴虚风动",
+          "定风珠",
+          "小定风珠"
+        ]
+      }
+    },
+    {
+      "id": "xinjiahuanglong_001",
+      "book": "温病条辨",
+      "type": "chapter",
+      "tier": 1,
+      "category": "jingdian",
+      "subcategory": "wenbing",
+      "path": "library\\jingdian\\wenbing\\wenbingtiaobian\\xinjiahuanglong\\xinjiahuanglong_001.md",
+      "weight": 10,
+      "title": "新加黄龙汤",
+      "chapter": "中焦篇",
+      "conditions": {
+        "zhengxing": [
+          "阳明腑实",
+          "气液两虚"
+        ],
+        "zhifa": [
+          "泄热通便",
+          "滋阴益气"
+        ],
+        "bingzheng": [
+          "阳明温病"
+        ],
+        "zhengzhuang": [
+          "应下失下",
+          "正虚不能运药",
+          "便秘",
+          "口干咽燥"
+        ],
+        "fangming": [
+          "新加黄龙汤"
+        ],
+        "yaoming": [],
+        "xuewei": [],
+        "jingluo": [],
+        "siqi": [],
+        "wuwei": [],
+        "guijing": [],
+        "keywords": [
+          "温病",
+          "温病条辨",
+          "攻补兼施",
+          "气液两虚",
+          "新加黄龙汤"
+        ]
+      }
+    },
+    {
+      "id": "xuanbaichengqi_001",
+      "book": "温病条辨",
+      "type": "chapter",
+      "tier": 1,
+      "category": "jingdian",
+      "subcategory": "wenbing",
+      "path": "library\\jingdian\\wenbing\\wenbingtiaobian\\xuanbaichengqi\\xuanbaichengqi_001.md",
+      "weight": 10,
+      "title": "宣白承气汤",
+      "chapter": "中焦篇",
+      "conditions": {
+        "zhengxing": [
+          "阳明腑实",
+          "肺气不降"
+        ],
+        "zhifa": [
+          "宣肺化痰",
+          "泻热攻下"
+        ],
+        "bingzheng": [
+          "阳明温病"
+        ],
+        "zhengzhuang": [
+          "喘促不宁",
+          "痰涎壅滞",
+          "便秘",
+          "右寸实大"
+        ],
+        "fangming": [
+          "宣白承气汤"
+        ],
+        "yaoming": [],
+        "xuewei": [],
+        "jingluo": [],
+        "siqi": [],
+        "wuwei": [],
+        "guijing": [],
+        "keywords": [
+          "温病",
+          "温病条辨",
+          "肺肠合治",
+          "宣白承气",
+          "宣白承气汤"
+        ]
+      }
+    },
+    {
+      "id": "yijiafumai_001",
+      "book": "温病条辨",
+      "type": "chapter",
+      "tier": 1,
+      "category": "jingdian",
+      "subcategory": "wenbing",
+      "path": "library\\jingdian\\wenbing\\wenbingtiaobian\\yijiafumai\\yijiafumai_001.md",
+      "weight": 10,
+      "title": "一甲复脉汤",
+      "chapter": "下焦篇",
+      "conditions": {
+        "zhengxing": [
+          "下焦阴虚",
+          "阴虚便溏"
+        ],
+        "zhifa": [
+          "滋阴养液",
+          "收敛固涩"
+        ],
+        "bingzheng": [
+          "下焦温病"
+        ],
+        "zhengzhuang": [
+          "大便溏"
+        ],
+        "fangming": [
+          "一甲复脉汤"
+        ],
+        "yaoming": [],
+        "xuewei": [],
+        "jingluo": [],
+        "siqi": [],
+        "wuwei": [],
+        "guijing": [],
+        "keywords": [
+          "温病",
+          "温病条辨",
+          "复脉汤类",
+          "牡蛎",
+          "一甲复脉汤"
+        ]
+      }
+    },
+    {
+      "id": "yinqiaosan_001",
+      "book": "温病条辨",
+      "type": "chapter",
+      "tier": 1,
+      "category": "jingdian",
+      "subcategory": "wenbing",
+      "path": "library\\jingdian\\wenbing\\wenbingtiaobian\\yinqiaosan\\yinqiaosan_001.md",
+      "weight": 10,
+      "title": "银翘散（辛凉平剂）",
+      "chapter": "上焦篇",
+      "conditions": {
+        "zhengxing": [
+          "邪在肺卫",
+          "温病初起"
+        ],
+        "zhifa": [
+          "辛凉透表",
+          "清热解毒"
+        ],
+        "bingzheng": [
+          "风温",
+          "温热",
+          "温疫",
+          "冬温"
+        ],
+        "zhengzhuang": [
+          "发热",
+          "微恶风寒",
+          "口渴",
+          "咽痛"
+        ],
+        "fangming": [
+          "银翘散"
+        ],
+        "yaoming": [],
+        "xuewei": [],
+        "jingluo": [],
+        "siqi": [],
+        "wuwei": [],
+        "guijing": [],
+        "keywords": [
+          "温病",
+          "温病条辨",
+          "辛凉平剂",
+          "风温初起",
+          "银翘散"
+        ]
+      }
+    },
+    {
+      "id": "yinqiaotang_001",
+      "book": "温病条辨",
+      "type": "chapter",
+      "tier": 1,
+      "category": "jingdian",
+      "subcategory": "wenbing",
+      "path": "library\\jingdian\\wenbing\\wenbingtiaobian\\yinqiaotang\\yinqiaotang_001.md",
+      "weight": 10,
+      "title": "银翘汤",
+      "chapter": "中焦篇",
+      "conditions": {
+        "zhengxing": [
+          "阳明温病",
+          "下后邪恋"
+        ],
+        "zhifa": [
+          "辛凉透表",
+          "养阴清热"
+        ],
+        "bingzheng": [
+          "阳明温病"
+        ],
+        "zhengzhuang": [
+          "下后无汗",
+          "脉浮"
+        ],
+        "fangming": [
+          "银翘汤"
+        ],
+        "yaoming": [],
+        "xuewei": [],
+        "jingluo": [],
+        "siqi": [],
+        "wuwei": [],
+        "guijing": [],
+        "keywords": [
+          "温病",
+          "温病条辨",
+          "下后无汗",
+          "银翘汤"
+        ]
+      }
+    },
+    {
+      "id": "zengyechengqi_001",
+      "book": "温病条辨",
+      "type": "chapter",
+      "tier": 1,
+      "category": "jingdian",
+      "subcategory": "wenbing",
+      "path": "library\\jingdian\\wenbing\\wenbingtiaobian\\zengyechengqi\\zengyechengqi_001.md",
+      "weight": 10,
+      "title": "增液承气汤",
+      "chapter": "中焦篇",
+      "conditions": {
+        "zhengxing": [
+          "阳明腑实",
+          "热结阴亏"
+        ],
+        "zhifa": [
+          "滋阴增液",
+          "攻下热结"
+        ],
+        "bingzheng": [
+          "阳明温病"
+        ],
+        "zhengzhuang": [
+          "大便秘结",
+          "口干唇裂",
+          "苔黄燥"
+        ],
+        "fangming": [
+          "增液承气汤"
+        ],
+        "yaoming": [],
+        "xuewei": [],
+        "jingluo": [],
+        "siqi": [],
+        "wuwei": [],
+        "guijing": [],
+        "keywords": [
+          "温病",
+          "温病条辨",
+          "热结阴亏",
+          "增液承气",
+          "增液承气汤"
+        ]
+      }
+    },
+    {
+      "id": "zengyetang_001",
+      "book": "温病条辨",
+      "type": "chapter",
+      "tier": 1,
+      "category": "jingdian",
+      "subcategory": "wenbing",
+      "path": "library\\jingdian\\wenbing\\wenbingtiaobian\\zengyetang\\zengyetang_001.md",
+      "weight": 10,
+      "title": "增液汤（增水行舟）",
+      "chapter": "中焦篇",
+      "conditions": {
+        "zhengxing": [
+          "阳明温病",
+          "津亏肠燥"
+        ],
+        "zhifa": [
+          "增液润肠",
+          "增水行舟"
+        ],
+        "bingzheng": [
+          "阳明温病"
+        ],
+        "zhengzhuang": [
+          "数日不大便",
+          "口干咽燥"
+        ],
+        "fangming": [
+          "增液汤"
+        ],
+        "yaoming": [],
+        "xuewei": [],
+        "jingluo": [],
+        "siqi": [],
+        "wuwei": [],
+        "guijing": [],
+        "keywords": [
+          "温病",
+          "温病条辨",
+          "增水行舟",
+          "津亏便秘",
+          "增液汤"
+        ]
+      }
+    },
+    {
+      "id": "zhizhidan_001",
+      "book": "温病条辨",
+      "type": "chapter",
+      "tier": 1,
+      "category": "jingdian",
+      "subcategory": "wenbing",
+      "path": "library\\jingdian\\wenbing\\wenbingtiaobian\\zhizhidan\\zhizhidan_001.md",
+      "weight": 10,
+      "title": "局方至宝丹",
+      "chapter": "上焦篇",
+      "conditions": {
+        "zhengxing": [
+          "热闭心包",
+          "秽浊内闭"
+        ],
+        "zhifa": [
+          "芳香开窍",
+          "辟秽化浊"
+        ],
+        "bingzheng": [
+          "风温",
+          "温热",
+          "温疫",
+          "温毒"
+        ],
+        "zhengzhuang": [
+          "神昏",
+          "中恶",
+          "客忤"
+        ],
+        "fangming": [
+          "局方至宝丹"
+        ],
+        "yaoming": [],
+        "xuewei": [],
+        "jingluo": [],
+        "siqi": [],
+        "wuwei": [],
+        "guijing": [],
+        "keywords": [
+          "温病",
+          "温病条辨",
+          "凉开三宝",
+          "芳香开窍",
+          "局方至宝丹"
+        ]
+      }
+    },
+    {
+      "id": "zixuedan_001",
+      "book": "温病条辨",
+      "type": "chapter",
+      "tier": 1,
+      "category": "jingdian",
+      "subcategory": "wenbing",
+      "path": "library\\jingdian\\wenbing\\wenbingtiaobian\\zixuedan\\zixuedan_001.md",
+      "weight": 10,
+      "title": "紫雪丹",
+      "chapter": "上焦篇",
+      "conditions": {
+        "zhengxing": [
+          "热闭心包",
+          "热盛动风"
+        ],
+        "zhifa": [
+          "清热开窍",
+          "息风止痉"
+        ],
+        "bingzheng": [
+          "风温",
+          "温热",
+          "温疫"
+        ],
+        "zhengzhuang": [
+          "神昏谵语",
+          "痉厥",
+          "便秘"
+        ],
+        "fangming": [
+          "紫雪丹"
+        ],
+        "yaoming": [],
+        "xuewei": [],
+        "jingluo": [],
+        "siqi": [],
+        "wuwei": [],
+        "guijing": [],
+        "keywords": [
+          "温病",
+          "温病条辨",
+          "凉开三宝",
+          "清热开窍",
+          "紫雪丹"
+        ]
+      }
+    },
+    {
+      "id": "baipao_001",
+      "book": "温热论",
+      "type": "chapter",
+      "tier": 1,
+      "category": "jingdian",
+      "subcategory": "wenbing",
+      "path": "library\\jingdian\\wenbing\\wenrelun\\baipao\\baipao_001.md",
+      "weight": 10,
+      "title": "辨白㾦",
+      "chapter": "温热论",
+      "conditions": {
+        "zhengxing": [],
+        "zhifa": [],
+        "bingzheng": [
+          "湿温",
+          "温病"
+        ],
+        "zhengzhuang": [
+          "白㾦",
+          "晶莹小粒",
+          "汗出不彻"
+        ],
+        "fangming": [],
+        "yaoming": [],
+        "xuewei": [],
+        "jingluo": [],
+        "siqi": [],
+        "wuwei": [],
+        "guijing": [],
+        "keywords": [
+          "温病",
+          "温热论",
+          "白㾦",
+          "湿温",
+          "气液"
+        ]
+      }
+    },
+    {
+      "id": "banzhen_001",
+      "book": "温热论",
+      "type": "chapter",
+      "tier": 1,
+      "category": "jingdian",
+      "subcategory": "wenbing",
+      "path": "library\\jingdian\\wenbing\\wenrelun\\banzhen\\banzhen_001.md",
+      "weight": 10,
+      "title": "辨斑疹",
+      "chapter": "温热论",
+      "conditions": {
+        "zhengxing": [],
+        "zhifa": [],
+        "bingzheng": [
+          "温病",
+          "斑疹"
+        ],
+        "zhengzhuang": [
+          "斑",
+          "疹",
+          "肌肤发斑"
+        ],
+        "fangming": [],
+        "yaoming": [],
+        "xuewei": [],
+        "jingluo": [],
+        "siqi": [],
+        "wuwei": [],
+        "guijing": [],
+        "keywords": [
+          "温病",
+          "温热论",
+          "斑疹",
+          "透斑",
+          "化斑"
+        ]
+      }
+    },
+    {
+      "id": "furenwenbing_001",
+      "book": "温热论",
+      "type": "chapter",
+      "tier": 1,
+      "category": "jingdian",
+      "subcategory": "wenbing",
+      "path": "library\\jingdian\\wenbing\\wenrelun\\furenwenbing\\furenwenbing_001.md",
+      "weight": 10,
+      "title": "妇人温病",
+      "chapter": "温热论",
+      "conditions": {
+        "zhengxing": [
+          "热入血室"
+        ],
+        "zhifa": [],
+        "bingzheng": [
+          "温病",
+          "热入血室"
+        ],
+        "zhengzhuang": [
+          "经水适来",
+          "经水适断",
+          "昼静夜甚",
+          "谵语如狂"
+        ],
+        "fangming": [],
+        "yaoming": [],
+        "xuewei": [],
+        "jingluo": [],
+        "siqi": [],
+        "wuwei": [],
+        "guijing": [],
+        "keywords": [
+          "温病",
+          "温热论",
+          "妇人温病",
+          "热入血室",
+          "经水适来适断"
+        ]
+      }
+    },
+    {
+      "id": "jiuyintongyang_001",
+      "book": "温热论",
+      "type": "chapter",
+      "tier": 1,
+      "category": "jingdian",
+      "subcategory": "wenbing",
+      "path": "library\\jingdian\\wenbing\\wenrelun\\jiuyintongyang\\jiuyintongyang_001.md",
+      "weight": 10,
+      "title": "救阴通阳之辨",
+      "chapter": "温热论",
+      "conditions": {
+        "zhengxing": [],
+        "zhifa": [
+          "救阴",
+          "通阳"
+        ],
+        "bingzheng": [
+          "温病",
+          "湿温"
+        ],
+        "zhengzhuang": [],
+        "fangming": [],
+        "yaoming": [],
+        "xuewei": [],
+        "jingluo": [],
+        "siqi": [],
+        "wuwei": [],
+        "guijing": [],
+        "keywords": [
+          "温病",
+          "温热论",
+          "救阴",
+          "通阳",
+          "利小便"
+        ]
+      }
+    },
+    {
+      "id": "nichuanxinbao_001",
+      "book": "温热论",
+      "type": "chapter",
+      "tier": 1,
+      "category": "jingdian",
+      "subcategory": "wenbing",
+      "path": "library\\jingdian\\wenbing\\wenrelun\\nichuanxinbao\\nichuanxinbao_001.md",
+      "weight": 10,
+      "title": "逆传心包",
+      "chapter": "温热论",
+      "conditions": {
+        "zhengxing": [],
+        "zhifa": [],
+        "bingzheng": [
+          "温病"
+        ],
+        "zhengzhuang": [
+          "神昏谵语",
+          "舌绛"
+        ],
+        "fangming": [],
+        "yaoming": [],
+        "xuewei": [],
+        "jingluo": [],
+        "siqi": [],
+        "wuwei": [],
+        "guijing": [],
+        "keywords": [
+          "温病",
+          "温热论",
+          "卫气营血",
+          "逆传",
+          "心包"
+        ]
+      }
+    },
+    {
+      "id": "sheyinghongjiang_001",
+      "book": "温热论",
+      "type": "chapter",
+      "tier": 1,
+      "category": "jingdian",
+      "subcategory": "wenbing",
+      "path": "library\\jingdian\\wenbing\\wenrelun\\sheyinghongjiang\\sheyinghongjiang_001.md",
+      "weight": 10,
+      "title": "辨舌（营血舌象）",
+      "chapter": "温热论",
+      "conditions": {
+        "zhengxing": [
+          "营分证",
+          "血分证"
+        ],
+        "zhifa": [],
+        "bingzheng": [
+          "温病"
+        ],
+        "zhengzhuang": [
+          "舌绛",
+          "舌干",
+          "苔黄"
+        ],
+        "fangming": [],
+        "yaoming": [],
+        "xuewei": [],
+        "jingluo": [],
+        "siqi": [],
+        "wuwei": [],
+        "guijing": [],
+        "keywords": [
+          "温病",
+          "温热论",
+          "辨舌",
+          "舌绛",
+          "营分",
+          "血分"
+        ]
+      }
+    },
+    {
+      "id": "shouxianfanfei_001",
+      "book": "温热论",
+      "type": "chapter",
+      "tier": 1,
+      "category": "jingdian",
+      "subcategory": "wenbing",
+      "path": "library\\jingdian\\wenbing\\wenrelun\\shouxianfanfei\\shouxianfanfei_001.md",
+      "weight": 10,
+      "title": "温邪上受首先犯肺",
+      "chapter": "温热论",
+      "conditions": {
+        "zhengxing": [],
+        "zhifa": [],
+        "bingzheng": [
+          "温病"
+        ],
+        "zhengzhuang": [],
+        "fangming": [],
+        "yaoming": [],
+        "xuewei": [],
+        "jingluo": [],
+        "siqi": [],
+        "wuwei": [],
+        "guijing": [],
+        "keywords": [
+          "温病",
+          "温热论",
+          "卫气营血",
+          "上受",
+          "犯肺"
+        ]
+      }
+    },
+    {
+      "id": "weiqiyingxuedagang_001",
+      "book": "温热论",
+      "type": "chapter",
+      "tier": 1,
+      "category": "jingdian",
+      "subcategory": "wenbing",
+      "path": "library\\jingdian\\wenbing\\wenrelun\\weiqiyingxuedagang\\weiqiyingxuedagang_001.md",
+      "weight": 10,
+      "title": "卫气营血辨证大纲",
+      "chapter": "温热论",
+      "conditions": {
+        "zhengxing": [
+          "卫分证",
+          "气分证",
+          "营分证",
+          "血分证"
+        ],
+        "zhifa": [
+          "辛凉解表",
+          "清热气分",
+          "透热转气",
+          "凉血散血"
+        ],
+        "bingzheng": [
+          "温病"
+        ],
+        "zhengzhuang": [],
+        "fangming": [],
+        "yaoming": [
+          "犀角",
+          "玄参",
+          "羚羊角",
+          "生地黄",
+          "牡丹皮",
+          "阿胶",
+          "赤芍"
+        ],
+        "xuewei": [],
+        "jingluo": [],
+        "siqi": [],
+        "wuwei": [],
+        "guijing": [],
+        "keywords": [
+          "温病",
+          "温热论",
+          "卫气营血",
+          "辨证纲领",
+          "透热转气",
+          "凉血散血"
+        ]
+      }
+    },
+    {
+      "id": "xieliusanjiao_001",
+      "book": "温热论",
+      "type": "chapter",
+      "tier": 1,
+      "category": "jingdian",
+      "subcategory": "wenbing",
+      "path": "library\\jingdian\\wenbing\\wenrelun\\xieliusanjiao\\xieliusanjiao_001.md",
+      "weight": 10,
+      "title": "邪留三焦分消上下",
+      "chapter": "温热论",
+      "conditions": {
+        "zhengxing": [],
+        "zhifa": [
+          "分消上下",
+          "宣畅三焦"
+        ],
+        "bingzheng": [
+          "温病",
+          "湿温"
+        ],
+        "zhengzhuang": [
+          "寒热如疟",
+          "胸脘痞闷"
+        ],
+        "fangming": [
+          "温胆汤"
+        ],
+        "yaoming": [],
+        "xuewei": [],
+        "jingluo": [],
+        "siqi": [],
+        "wuwei": [],
+        "guijing": [],
+        "keywords": [
+          "温病",
+          "温热论",
+          "卫气营血",
+          "三焦",
+          "分消走泄"
+        ]
+      }
+    },
+    {
+      "id": "yanchi_001",
+      "book": "温热论",
+      "type": "chapter",
+      "tier": 1,
+      "category": "jingdian",
+      "subcategory": "wenbing",
+      "path": "library\\jingdian\\wenbing\\wenrelun\\yanchi\\yanchi_001.md",
+      "weight": 10,
+      "title": "验齿",
+      "chapter": "温热论",
+      "conditions": {
+        "zhengxing": [],
+        "zhifa": [],
+        "bingzheng": [
+          "温病"
+        ],
+        "zhengzhuang": [
+          "齿燥",
+          "齿黑",
+          "齿缝流血"
+        ],
+        "fangming": [],
+        "yaoming": [],
+        "xuewei": [],
+        "jingluo": [],
+        "siqi": [],
+        "wuwei": [],
+        "guijing": [],
+        "keywords": [
+          "温病",
+          "温热论",
+          "验齿",
+          "齿燥",
+          "胃热",
+          "肾阴"
+        ]
+      }
+    },
+    {
       "id": "chuanzheng_001",
       "book": "中医内科学",
       "type": "zhinan",
@@ -46522,6 +48750,666 @@
         "keywords": [
           "中医内科",
           "胸痹"
+        ]
+      }
+    },
+    {
+      "id": "chunwen_001",
+      "book": "温病学",
+      "type": "zhinan",
+      "tier": 1,
+      "category": "linchuang",
+      "subcategory": "wenbing",
+      "path": "library\\linchuang\\wenbing\\chunwen\\chunwen_001.md",
+      "weight": 8,
+      "title": "春温",
+      "chapter": "温病学",
+      "conditions": {
+        "zhengxing": [
+          "气分热盛证",
+          "热灼营阴证",
+          "动风惊厥证",
+          "真阴耗竭证"
+        ],
+        "zhifa": [
+          "清气泄热",
+          "清营育阴",
+          "凉肝息风",
+          "滋阴填精"
+        ],
+        "bingzheng": [
+          "春温",
+          "温病"
+        ],
+        "zhengzhuang": [
+          "身灼热",
+          "心烦",
+          "口渴",
+          "斑疹",
+          "痉厥"
+        ],
+        "fangming": [
+          "白虎汤",
+          "黄芩汤",
+          "清营汤",
+          "羚角钩藤汤",
+          "加减复脉汤"
+        ],
+        "yaoming": [],
+        "xuewei": [],
+        "jingluo": [],
+        "siqi": [
+          "春"
+        ],
+        "wuwei": [],
+        "guijing": [],
+        "keywords": [
+          "中医临床",
+          "温病",
+          "春温",
+          "伏邪"
+        ]
+      }
+    },
+    {
+      "id": "fengwen_001",
+      "book": "温病学",
+      "type": "zhinan",
+      "tier": 1,
+      "category": "linchuang",
+      "subcategory": "wenbing",
+      "path": "library\\linchuang\\wenbing\\fengwen\\fengwen_001.md",
+      "weight": 8,
+      "title": "风温",
+      "chapter": "温病学",
+      "conditions": {
+        "zhengxing": [
+          "邪在肺卫证",
+          "邪热壅肺证",
+          "热陷心包证",
+          "肺胃阴伤证"
+        ],
+        "zhifa": [
+          "辛凉解表",
+          "宣肺泄热",
+          "清营开窍",
+          "滋养肺胃"
+        ],
+        "bingzheng": [
+          "风温",
+          "温病"
+        ],
+        "zhengzhuang": [
+          "发热微恶风寒",
+          "咳嗽",
+          "口微渴",
+          "脉浮数"
+        ],
+        "fangming": [
+          "银翘散",
+          "桑菊饮",
+          "麻杏石甘汤",
+          "清营汤",
+          "沙参麦冬汤"
+        ],
+        "yaoming": [],
+        "xuewei": [],
+        "jingluo": [],
+        "siqi": [
+          "春",
+          "冬"
+        ],
+        "wuwei": [],
+        "guijing": [],
+        "keywords": [
+          "中医临床",
+          "温病",
+          "风温"
+        ]
+      }
+    },
+    {
+      "id": "qifenzheng_001",
+      "book": "温病学",
+      "type": "zhinan",
+      "tier": 1,
+      "category": "linchuang",
+      "subcategory": "wenbing",
+      "path": "library\\linchuang\\wenbing\\qifenzheng\\qifenzheng_001.md",
+      "weight": 8,
+      "title": "气分证",
+      "chapter": "温病学",
+      "conditions": {
+        "zhengxing": [
+          "气分证"
+        ],
+        "zhifa": [
+          "清热生津",
+          "通腑泄热",
+          "清热化湿"
+        ],
+        "bingzheng": [
+          "温病",
+          "气分证"
+        ],
+        "zhengzhuang": [
+          "壮热不恶寒",
+          "汗多",
+          "渴喜冷饮",
+          "咳喘",
+          "苔黄",
+          "脉洪大而数"
+        ],
+        "fangming": [
+          "白虎汤",
+          "承气汤",
+          "麻杏石甘汤",
+          "王氏连朴饮"
+        ],
+        "yaoming": [],
+        "xuewei": [],
+        "jingluo": [],
+        "siqi": [],
+        "wuwei": [],
+        "guijing": [],
+        "keywords": [
+          "中医临床",
+          "温病",
+          "卫气营血",
+          "气分证",
+          "到气才可清气"
+        ]
+      }
+    },
+    {
+      "id": "qiuzao_001",
+      "book": "温病学",
+      "type": "zhinan",
+      "tier": 1,
+      "category": "linchuang",
+      "subcategory": "wenbing",
+      "path": "library\\linchuang\\wenbing\\qiuzao\\qiuzao_001.md",
+      "weight": 8,
+      "title": "秋燥",
+      "chapter": "温病学",
+      "conditions": {
+        "zhengxing": [
+          "邪在肺卫证",
+          "肺燥化火证",
+          "肺胃阴伤证"
+        ],
+        "zhifa": [
+          "辛凉解表",
+          "清肺润燥",
+          "滋养肺胃"
+        ],
+        "bingzheng": [
+          "秋燥",
+          "温病"
+        ],
+        "zhengzhuang": [
+          "发热微恶风寒",
+          "干咳少痰",
+          "咽干鼻燥",
+          "口渴",
+          "苔薄白而燥"
+        ],
+        "fangming": [
+          "桑杏汤",
+          "杏苏散",
+          "清燥救肺汤",
+          "沙参麦冬汤"
+        ],
+        "yaoming": [],
+        "xuewei": [],
+        "jingluo": [],
+        "siqi": [
+          "秋"
+        ],
+        "wuwei": [],
+        "guijing": [],
+        "keywords": [
+          "中医临床",
+          "温病",
+          "秋燥",
+          "温燥",
+          "凉燥"
+        ]
+      }
+    },
+    {
+      "id": "shirebianzhi_001",
+      "book": "温病学",
+      "type": "zhinan",
+      "tier": 1,
+      "category": "linchuang",
+      "subcategory": "wenbing",
+      "path": "library\\linchuang\\wenbing\\shirebianzhi\\shirebianzhi_001.md",
+      "weight": 8,
+      "title": "湿热辨治",
+      "chapter": "温病学",
+      "conditions": {
+        "zhengxing": [
+          "湿重于热证",
+          "湿热并重证",
+          "热重于湿证"
+        ],
+        "zhifa": [
+          "芳香化湿",
+          "清热化湿",
+          "苦寒清热兼化湿"
+        ],
+        "bingzheng": [
+          "湿温",
+          "暑温夹湿",
+          "湿热病"
+        ],
+        "zhengzhuang": [
+          "身热不扬",
+          "头身重困",
+          "胸脘痞闷",
+          "苔腻",
+          "脉濡缓"
+        ],
+        "fangming": [
+          "三仁汤",
+          "王氏连朴饮",
+          "甘露消毒丹"
+        ],
+        "yaoming": [],
+        "xuewei": [],
+        "jingluo": [],
+        "siqi": [
+          "长夏"
+        ],
+        "wuwei": [],
+        "guijing": [],
+        "keywords": [
+          "中医临床",
+          "温病",
+          "湿热",
+          "湿重于热",
+          "湿热并重",
+          "热重于湿"
+        ]
+      }
+    },
+    {
+      "id": "shiwen_001",
+      "book": "温病学",
+      "type": "zhinan",
+      "tier": 1,
+      "category": "linchuang",
+      "subcategory": "wenbing",
+      "path": "library\\linchuang\\wenbing\\shiwen\\shiwen_001.md",
+      "weight": 8,
+      "title": "湿温",
+      "chapter": "温病学",
+      "conditions": {
+        "zhengxing": [
+          "湿遏卫气证",
+          "湿热并重证",
+          "湿浊蒙上泌别失职证",
+          "化燥入血证"
+        ],
+        "zhifa": [
+          "芳香宣化",
+          "清热化湿",
+          "分消走泄",
+          "凉血解毒"
+        ],
+        "bingzheng": [
+          "湿温",
+          "温病"
+        ],
+        "zhengzhuang": [
+          "身热不扬",
+          "胸脘痞闷",
+          "苔腻",
+          "身重",
+          "脉缓"
+        ],
+        "fangming": [
+          "三仁汤",
+          "王氏连朴饮",
+          "菖蒲郁金汤",
+          "犀角地黄汤"
+        ],
+        "yaoming": [],
+        "xuewei": [],
+        "jingluo": [],
+        "siqi": [
+          "长夏",
+          "秋"
+        ],
+        "wuwei": [],
+        "guijing": [],
+        "keywords": [
+          "中医临床",
+          "温病",
+          "湿温",
+          "湿热"
+        ]
+      }
+    },
+    {
+      "id": "shuwen_001",
+      "book": "温病学",
+      "type": "zhinan",
+      "tier": 1,
+      "category": "linchuang",
+      "subcategory": "wenbing",
+      "path": "library\\linchuang\\wenbing\\shuwen\\shuwen_001.md",
+      "weight": 8,
+      "title": "暑温",
+      "chapter": "温病学",
+      "conditions": {
+        "zhengxing": [
+          "暑入阳明证",
+          "暑伤津气证",
+          "暑伤心肾证",
+          "暑湿弥漫证"
+        ],
+        "zhifa": [
+          "清泄暑热",
+          "清暑生津益气",
+          "清泻火腑",
+          "清暑化湿"
+        ],
+        "bingzheng": [
+          "暑温",
+          "温病"
+        ],
+        "zhengzhuang": [
+          "壮热",
+          "汗多",
+          "烦渴",
+          "背恶寒",
+          "脉洪大而芤"
+        ],
+        "fangming": [
+          "白虎汤",
+          "王氏清暑益气汤",
+          "连梅汤",
+          "白虎加苍术汤"
+        ],
+        "yaoming": [],
+        "xuewei": [],
+        "jingluo": [],
+        "siqi": [
+          "夏"
+        ],
+        "wuwei": [],
+        "guijing": [],
+        "keywords": [
+          "中医临床",
+          "温病",
+          "暑温"
+        ]
+      }
+    },
+    {
+      "id": "weifenzheng_001",
+      "book": "温病学",
+      "type": "zhinan",
+      "tier": 1,
+      "category": "linchuang",
+      "subcategory": "wenbing",
+      "path": "library\\linchuang\\wenbing\\weifenzheng\\weifenzheng_001.md",
+      "weight": 8,
+      "title": "卫分证",
+      "chapter": "温病学",
+      "conditions": {
+        "zhengxing": [
+          "卫分证"
+        ],
+        "zhifa": [
+          "辛凉解表",
+          "透表泄热"
+        ],
+        "bingzheng": [
+          "温病",
+          "卫分证"
+        ],
+        "zhengzhuang": [
+          "发热微恶风寒",
+          "口微渴",
+          "头痛",
+          "咳嗽",
+          "苔薄白",
+          "舌边尖红",
+          "脉浮数"
+        ],
+        "fangming": [
+          "银翘散",
+          "桑菊饮"
+        ],
+        "yaoming": [],
+        "xuewei": [],
+        "jingluo": [],
+        "siqi": [],
+        "wuwei": [],
+        "guijing": [],
+        "keywords": [
+          "中医临床",
+          "温病",
+          "卫气营血",
+          "卫分证",
+          "在卫汗之"
+        ]
+      }
+    },
+    {
+      "id": "wendu_001",
+      "book": "温病学",
+      "type": "zhinan",
+      "tier": 1,
+      "category": "linchuang",
+      "subcategory": "wenbing",
+      "path": "library\\linchuang\\wenbing\\wendu\\wendu_001.md",
+      "weight": 8,
+      "title": "温毒",
+      "chapter": "温病学",
+      "conditions": {
+        "zhengxing": [
+          "风热毒盛证",
+          "热毒壅滞证"
+        ],
+        "zhifa": [
+          "疏风清热解毒",
+          "凉血解毒消肿"
+        ],
+        "bingzheng": [
+          "温毒",
+          "大头瘟",
+          "烂喉痧"
+        ],
+        "zhengzhuang": [
+          "头面红肿",
+          "咽喉肿痛糜烂",
+          "肌肤丹痧",
+          "憎寒壮热"
+        ],
+        "fangming": [
+          "普济消毒饮",
+          "清咽栀豉汤",
+          "凉营清气汤"
+        ],
+        "yaoming": [],
+        "xuewei": [],
+        "jingluo": [],
+        "siqi": [],
+        "wuwei": [],
+        "guijing": [],
+        "keywords": [
+          "中医临床",
+          "温病",
+          "温毒",
+          "大头瘟",
+          "烂喉痧"
+        ]
+      }
+    },
+    {
+      "id": "wenyi_001",
+      "book": "温病学",
+      "type": "zhinan",
+      "tier": 1,
+      "category": "linchuang",
+      "subcategory": "wenbing",
+      "path": "library\\linchuang\\wenbing\\wenyi\\wenyi_001.md",
+      "weight": 8,
+      "title": "温疫",
+      "chapter": "温病学",
+      "conditions": {
+        "zhengxing": [
+          "湿热疫",
+          "暑燥疫"
+        ],
+        "zhifa": [
+          "辟秽化浊",
+          "清气凉营",
+          "攻下逐邪"
+        ],
+        "bingzheng": [
+          "温疫",
+          "温病"
+        ],
+        "zhengzhuang": [
+          "疠气传染",
+          "沿门阖户",
+          "壮热",
+          "苔秽浊",
+          "神昏"
+        ],
+        "fangming": [
+          "达原饮",
+          "三消饮",
+          "清瘟败毒饮"
+        ],
+        "yaoming": [],
+        "xuewei": [],
+        "jingluo": [],
+        "siqi": [],
+        "wuwei": [],
+        "guijing": [],
+        "keywords": [
+          "中医临床",
+          "温病",
+          "温疫",
+          "疠气",
+          "传染"
+        ]
+      }
+    },
+    {
+      "id": "xuefenzheng_001",
+      "book": "温病学",
+      "type": "zhinan",
+      "tier": 1,
+      "category": "linchuang",
+      "subcategory": "wenbing",
+      "path": "library\\linchuang\\wenbing\\xuefenzheng\\xuefenzheng_001.md",
+      "weight": 8,
+      "title": "血分证",
+      "chapter": "温病学",
+      "conditions": {
+        "zhengxing": [
+          "血分证"
+        ],
+        "zhifa": [
+          "凉血散血",
+          "滋阴息风"
+        ],
+        "bingzheng": [
+          "温病",
+          "血分证"
+        ],
+        "zhengzhuang": [
+          "身热灼手",
+          "躁扰昏谵",
+          "斑疹透露",
+          "吐衄便血",
+          "舌深绛",
+          "痉厥"
+        ],
+        "fangming": [
+          "犀角地黄汤",
+          "羚角钩藤汤",
+          "大小定风珠"
+        ],
+        "yaoming": [
+          "生地黄",
+          "牡丹皮",
+          "赤芍",
+          "阿胶"
+        ],
+        "xuewei": [],
+        "jingluo": [],
+        "siqi": [],
+        "wuwei": [],
+        "guijing": [],
+        "keywords": [
+          "中医临床",
+          "温病",
+          "卫气营血",
+          "血分证",
+          "凉血散血"
+        ]
+      }
+    },
+    {
+      "id": "yingfenzheng_001",
+      "book": "温病学",
+      "type": "zhinan",
+      "tier": 1,
+      "category": "linchuang",
+      "subcategory": "wenbing",
+      "path": "library\\linchuang\\wenbing\\yingfenzheng\\yingfenzheng_001.md",
+      "weight": 8,
+      "title": "营分证",
+      "chapter": "温病学",
+      "conditions": {
+        "zhengxing": [
+          "营分证"
+        ],
+        "zhifa": [
+          "清营透热",
+          "清心开窍"
+        ],
+        "bingzheng": [
+          "温病",
+          "营分证"
+        ],
+        "zhengzhuang": [
+          "身热夜甚",
+          "心烦不寐",
+          "时有谵语",
+          "斑疹隐隐",
+          "舌绛",
+          "脉细数"
+        ],
+        "fangming": [
+          "清营汤",
+          "安宫牛黄丸",
+          "至宝丹"
+        ],
+        "yaoming": [
+          "犀角",
+          "玄参",
+          "羚羊角"
+        ],
+        "xuewei": [],
+        "jingluo": [],
+        "siqi": [],
+        "wuwei": [],
+        "guijing": [],
+        "keywords": [
+          "中医临床",
+          "温病",
+          "卫气营血",
+          "营分证",
+          "透热转气"
         ]
       }
     },

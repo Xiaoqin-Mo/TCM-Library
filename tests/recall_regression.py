@@ -34,11 +34,18 @@ def main() -> None:
     # 结构化维度命中
     results.append(check("按证型 太阳中风",
                          ids({"zhengxing": ["太阳中风"]}), ["guizhitang_001", "zhangzhongjing_002"]))
-    results.append(check("按治法 解表散寒",
-                         ids({"zhifa": ["解表散寒"]}),
-                         ["baizhi_001", "qianghuo_001", "shengjiang_001", "xixin_001", "zisuye_001"]))
-    results.append(check("按治法 发汗解表",
-                         ids({"zhifa": ["发汗解表"]}), ["congbai_001", "mahuang_001", "xiangru_001"]))
+    # 治法命中随经方等新条目扩充而增长：旧基线必须仍在（防回归），抽查新增经方确认纳入
+    for name, got, base, new in (
+        ("按治法 解表散寒", ids({"zhifa": ["解表散寒"]}),
+         ["baizhi_001", "qianghuo_001", "shengjiang_001", "xixin_001", "zisuye_001"],
+         ["xiaoqinglongtang_001"]),
+        ("按治法 发汗解表", ids({"zhifa": ["发汗解表"]}),
+         ["congbai_001", "mahuang_001", "xiangru_001"],
+         ["daqinglongtang_001", "gegenatang_001", "mahuangtang_001"]),
+    ):
+        ok = set(base) <= set(got) and set(new) <= set(got)
+        print(f"{'PASS' if ok else 'FAIL'}  {name}: 命中 {len(got)}，旧基线 {base} 全含={set(base) <= set(got)}，抽查 {new} 全含={set(new) <= set(got)}")
+        results.append(ok)
     # 方名/药名/经络：命中随典籍收录扩充，旧基线必须仍在（防回归），不写死全集
     for name, got, base in (
         ("按方名 桂枝汤", ids({"fangming": ["桂枝汤"]}),
@@ -90,14 +97,18 @@ def main() -> None:
     top = [e["id"] for e in r[:1]]
     results.append(check("特异性优先排序", top, ["guizhitang_001"]))
     # keywords 包含召回
-    results.append(check("keywords 解表剂",
-                         ids({"keywords": ["解表剂"]}), ["guizhitang_001"]))
+    # keywords 包含召回：新增经方亦纳入，改为「旧基线全含 + 抽查」
+    jj = ids({"keywords": ["解表剂"]})
+    ok = set(["guizhitang_001"]) <= set(jj) and set(
+        ["daqinglongtang_001", "gegenatang_001", "mahuangtang_001", "mahuangxingrenshigao_001", "xiaoqinglongtang_001"]) <= set(jj)
+    print(f"{'PASS' if ok else 'FAIL'}  keywords 解表剂: 命中 {len(jj)}，旧基线全含={set(['guizhitang_001']) <= set(jj)}，抽查 5 方全含={set(['daqinglongtang_001', 'gegenatang_001', 'mahuangtang_001', 'mahuangxingrenshigao_001', 'xiaoqinglongtang_001']) <= set(jj)}")
+    results.append(ok)
     results.append(check("keywords 无命中",
                          ids({"keywords": ["XQZWV不存在之词"]}), []))
     # 空查询静默（不返回全部）
     results.append(check("空查询静默", ids({}), []))
     # 结构完整性
-    results.append(check("manifest 非空", [str(MANIFEST["total"])], ["2215"]))
+    results.append(check("manifest 非空", [str(MANIFEST["total"])], ["2254"]))
     results.append(check("match_fields 齐全",
                          MANIFEST["match_fields"],
                          ["zhengxing", "zhifa", "bingzheng", "zhengzhuang",

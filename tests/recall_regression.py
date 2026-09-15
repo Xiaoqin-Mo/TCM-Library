@@ -39,14 +39,18 @@ def main() -> None:
                          ["baizhi_001", "qianghuo_001", "shengjiang_001", "xixin_001", "zisuye_001"]))
     results.append(check("按治法 发汗解表",
                          ids({"zhifa": ["发汗解表"]}), ["congbai_001", "mahuang_001", "xiangru_001"]))
-    results.append(check("按方名 桂枝汤",
-                         ids({"fangming": ["桂枝汤"]}), ["guizhi_001", "guizhitang_001"]))
-    results.append(check("按药名 桂枝",
-                         ids({"yaoming": ["桂枝"]}), ["guizhi_001", "guizhitang_001"]))
-    results.append(check("按腧穴 足三里",
-                         ids({"xuewei": ["足三里"]}), ["zusanli_001"]))
-    results.append(check("按经络 足阳明胃经",
-                         ids({"jingluo": ["足阳明胃经"]}), ["zusanli_001"]))
+    # 方名/药名/经络：命中随典籍收录扩充，旧基线必须仍在（防回归），不写死全集
+    for name, got, base in (
+        ("按方名 桂枝汤", ids({"fangming": ["桂枝汤"]}),
+         ["guizhi_001", "guizhitang_001"]),
+        ("按药名 桂枝", ids({"yaoming": ["桂枝"]}),
+         ["guizhi_001", "guizhitang_001"]),
+        ("按腧穴 足三里", ids({"xuewei": ["足三里"]}), ["zusanli_001"]),
+        ("按经络 足阳明胃经", ids({"jingluo": ["足阳明胃经"]}), ["zusanli_001"]),
+    ):
+        ok = set(base) <= set(got)
+        print(f"{'PASS' if ok else 'FAIL'}  {name}: 命中 {len(got)}，旧基线 {base} 全含={set(base) <= set(got)}")
+        results.append(ok)
     # 药性维度（schema 2.1）
     # 断言策略：药性/归经维度的命中随库扩充而增长，逐条写死全集不可维护；
     # 改为「旧基线子集 + 新增抽查」：旧基线条目必须仍在命中内（防回归），
@@ -89,11 +93,11 @@ def main() -> None:
     results.append(check("keywords 解表剂",
                          ids({"keywords": ["解表剂"]}), ["guizhitang_001"]))
     results.append(check("keywords 无命中",
-                         ids({"keywords": ["消渴"]}), []))
+                         ids({"keywords": ["XQZWV不存在之词"]}), []))
     # 空查询静默（不返回全部）
     results.append(check("空查询静默", ids({}), []))
     # 结构完整性
-    results.append(check("manifest 非空", [str(MANIFEST["total"])], ["705"]))
+    results.append(check("manifest 非空", [str(MANIFEST["total"])], ["1628"]))
     results.append(check("match_fields 齐全",
                          MANIFEST["match_fields"],
                          ["zhengxing", "zhifa", "bingzheng", "zhengzhuang",

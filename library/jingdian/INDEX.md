@@ -1,6 +1,6 @@
 # jingdian · 经典医籍
 
-> 收录 924 条 · 下级 4 个子类
+> 收录 927 条 · 下级 4 个子类
 
 ## jingui · 金匮要略
 
@@ -25,6 +25,6 @@
 
 | 书目 | 条目数 | 索引 |
 | --- | --- | --- |
-| jingdian\shanghan | 656 | [索引](./jingdian\shanghan/INDEX.md) |
+| jingdian\shanghan | 659 | [索引](./jingdian\shanghan/INDEX.md) |
 
 [返回总索引](../INDEX.md)

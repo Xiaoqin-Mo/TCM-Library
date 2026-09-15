@@ -1,13 +1,13 @@
 # TCM-Library · 全库总索引
 
-> 中医知识百科全书检索库 · 当前收录 2014 条（按目录自动生成）
+> 中医知识百科全书检索库 · 当前收录 2066 条（按目录自动生成）
 
 ## 收录进度
 
 | 分类 | 中文名 | 书目数 | 条目数 | 索引 |
 | --- | --- | --- | --- | --- |
 | jichu | 中医基础理论 | 0 | 0 | — |
-| zhenduan | 中医诊断 | 0 | 0 | — |
+| zhenduan | 中医诊断 | 52 | 52 | [索引](./library/zhenduan/INDEX.md) |
 | zhongyao | 中药学 | 701 | 701 | [索引](./library/zhongyao/INDEX.md) |
 | fangji | 方剂学 | 1 | 1 | [索引](./library/fangji/INDEX.md) |
 | zhenjiu | 针灸推拿 | 385 | 385 | [索引](./library/zhenjiu/INDEX.md) |
@@ -37,7 +37,7 @@
 ## 分类导航
 
 - **jichu** · 中医基础理论（待收录）
-- **zhenduan** · 中医诊断（待收录）
+- **zhenduan** · 中医诊断（52 部书，52 条）
 - **zhongyao** · 中药学（701 部书，701 条）
 - **fangji** · 方剂学（1 部书，1 条）
 - **zhenjiu** · 针灸推拿（385 部书，385 条）

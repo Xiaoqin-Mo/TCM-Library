@@ -54,6 +54,12 @@
         "count": 1
       }
     },
+    "yishi": {
+      "yian": {
+        "dir": "yishi\\yian\\zhudanxi",
+        "count": 3
+      }
+    },
     "zhenduan": {
       "bianzheng": {
         "dir": "zhenduan\\bianzheng\\zaoyin",
@@ -1408,6 +1414,182 @@
       "category": "linchuang",
       "subcategory": "wenbing",
       "count": 1
+    },
+    {
+      "dir": "yishi\\yian\\chengzhongling",
+      "tier": 1,
+      "tier_name": "核心",
+      "category": "yishi",
+      "subcategory": "yian",
+      "count": 2
+    },
+    {
+      "dir": "yishi\\yian\\daisigong",
+      "tier": 1,
+      "tier_name": "核心",
+      "category": "yishi",
+      "subcategory": "yian",
+      "count": 1
+    },
+    {
+      "dir": "yishi\\yian\\hemengyao",
+      "tier": 1,
+      "tier_name": "核心",
+      "category": "yishi",
+      "subcategory": "yian",
+      "count": 1
+    },
+    {
+      "dir": "yishi\\yian\\huashou",
+      "tier": 1,
+      "tier_name": "核心",
+      "category": "yishi",
+      "subcategory": "yian",
+      "count": 1
+    },
+    {
+      "dir": "yishi\\yian\\huatuo",
+      "tier": 1,
+      "tier_name": "核心",
+      "category": "yishi",
+      "subcategory": "yian",
+      "count": 3
+    },
+    {
+      "dir": "yishi\\yian\\lidongyuan",
+      "tier": 1,
+      "tier_name": "核心",
+      "category": "yishi",
+      "subcategory": "yian",
+      "count": 2
+    },
+    {
+      "dir": "yishi\\yian\\lishizhen",
+      "tier": 1,
+      "tier_name": "核心",
+      "category": "yishi",
+      "subcategory": "yian",
+      "count": 1
+    },
+    {
+      "dir": "yishi\\yian\\miaoxiyong",
+      "tier": 1,
+      "tier_name": "核心",
+      "category": "yishi",
+      "subcategory": "yian",
+      "count": 1
+    },
+    {
+      "dir": "yishi\\yian\\qianyi",
+      "tier": 1,
+      "tier_name": "核心",
+      "category": "yishi",
+      "subcategory": "yian",
+      "count": 2
+    },
+    {
+      "dir": "yishi\\yian\\wangmengying",
+      "tier": 1,
+      "tier_name": "核心",
+      "category": "yishi",
+      "subcategory": "yian",
+      "count": 3
+    },
+    {
+      "dir": "yishi\\yian\\wujutong",
+      "tier": 1,
+      "tier_name": "核心",
+      "category": "yishi",
+      "subcategory": "yian",
+      "count": 3
+    },
+    {
+      "dir": "yishi\\yian\\xueshengbai",
+      "tier": 1,
+      "tier_name": "核心",
+      "category": "yishi",
+      "subcategory": "yian",
+      "count": 2
+    },
+    {
+      "dir": "yishi\\yian\\xulingtai",
+      "tier": 1,
+      "tier_name": "核心",
+      "category": "yishi",
+      "subcategory": "yian",
+      "count": 2
+    },
+    {
+      "dir": "yishi\\yian\\xushuwei",
+      "tier": 1,
+      "tier_name": "核心",
+      "category": "yishi",
+      "subcategory": "yian",
+      "count": 2
+    },
+    {
+      "dir": "yishi\\yian\\yetianshi",
+      "tier": 1,
+      "tier_name": "核心",
+      "category": "yishi",
+      "subcategory": "yian",
+      "count": 8
+    },
+    {
+      "dir": "yishi\\yian\\youzaijing",
+      "tier": 1,
+      "tier_name": "核心",
+      "category": "yishi",
+      "subcategory": "yian",
+      "count": 2
+    },
+    {
+      "dir": "yishi\\yian\\yujiayan",
+      "tier": 1,
+      "tier_name": "核心",
+      "category": "yishi",
+      "subcategory": "yian",
+      "count": 3
+    },
+    {
+      "dir": "yishi\\yian\\yutinghong",
+      "tier": 1,
+      "tier_name": "核心",
+      "category": "yishi",
+      "subcategory": "yian",
+      "count": 2
+    },
+    {
+      "dir": "yishi\\yian\\zhangjingyue",
+      "tier": 1,
+      "tier_name": "核心",
+      "category": "yishi",
+      "subcategory": "yian",
+      "count": 2
+    },
+    {
+      "dir": "yishi\\yian\\zhangzhongjing",
+      "tier": 1,
+      "tier_name": "核心",
+      "category": "yishi",
+      "subcategory": "yian",
+      "count": 2
+    },
+    {
+      "dir": "yishi\\yian\\zhangzihe",
+      "tier": 1,
+      "tier_name": "核心",
+      "category": "yishi",
+      "subcategory": "yian",
+      "count": 2
+    },
+    {
+      "dir": "yishi\\yian\\zhudanxi",
+      "tier": 1,
+      "tier_name": "核心",
+      "category": "yishi",
+      "subcategory": "yian",
+      "count": 3
     },
     {
       "dir": "zhenduan\\bianzheng\\biaoli",
@@ -10514,7 +10696,7 @@
       "count": 1
     }
   ],
-  "total": 2165,
+  "total": 2215,
   "entries": [
     {
       "id": "guizhitang_001",
@@ -49410,6 +49592,2423 @@
           "卫气营血",
           "营分证",
           "透热转气"
+        ]
+      }
+    },
+    {
+      "id": "chengzhongling_001",
+      "book": "医学心悟",
+      "type": "yian",
+      "tier": 1,
+      "category": "yishi",
+      "subcategory": "yian",
+      "path": "library\\yishi\\yian\\chengzhongling\\chengzhongling_001.md",
+      "weight": 8,
+      "title": "程钟龄·止嗽散治咳案",
+      "chapter": "咳嗽门",
+      "conditions": {
+        "zhengxing": [
+          "风邪犯肺",
+          "肺失宣降"
+        ],
+        "zhifa": [
+          "温润平和",
+          "宣肺止咳"
+        ],
+        "bingzheng": [
+          "咳嗽"
+        ],
+        "zhengzhuang": [
+          "咳嗽咽痒",
+          "咯痰不爽",
+          "微恶风"
+        ],
+        "fangming": [
+          "止嗽散"
+        ],
+        "yaoming": [],
+        "xuewei": [],
+        "jingluo": [],
+        "siqi": [],
+        "wuwei": [],
+        "guijing": [],
+        "keywords": [
+          "医案",
+          "程钟龄",
+          "咳嗽",
+          "止嗽散"
+        ]
+      }
+    },
+    {
+      "id": "chengzhongling_002",
+      "book": "医学心悟",
+      "type": "yian",
+      "tier": 1,
+      "category": "yishi",
+      "subcategory": "yian",
+      "path": "library\\yishi\\yian\\chengzhongling\\chengzhongling_002.md",
+      "weight": 8,
+      "title": "程钟龄·眩晕痰火案",
+      "chapter": "眩晕门",
+      "conditions": {
+        "zhengxing": [
+          "痰火上扰",
+          "肝阳夹痰"
+        ],
+        "zhifa": [
+          "化痰清火",
+          "平肝熄风"
+        ],
+        "bingzheng": [
+          "眩晕",
+          "头痛"
+        ],
+        "zhengzhuang": [
+          "眩晕",
+          "头重",
+          "痰多",
+          "苔腻"
+        ],
+        "fangming": [],
+        "yaoming": [],
+        "xuewei": [],
+        "jingluo": [],
+        "siqi": [],
+        "wuwei": [],
+        "guijing": [],
+        "keywords": [
+          "医案",
+          "程钟龄",
+          "眩晕",
+          "痰火"
+        ]
+      }
+    },
+    {
+      "id": "daisigong_001",
+      "book": "名医类案",
+      "type": "yian",
+      "tier": 1,
+      "category": "yishi",
+      "subcategory": "yian",
+      "path": "library\\yishi\\yian\\daisigong\\daisigong_001.md",
+      "weight": 8,
+      "title": "戴思恭（元礼）察色辨证治案",
+      "chapter": "戴思恭医案",
+      "conditions": {
+        "zhengxing": [
+          "痰湿内蕴"
+        ],
+        "zhifa": [
+          "化痰祛湿",
+          "调畅气机"
+        ],
+        "bingzheng": [
+          "杂病",
+          "痰湿证"
+        ],
+        "zhengzhuang": [
+          "痰多",
+          "体肥",
+          "头晕",
+          "苔腻"
+        ],
+        "fangming": [],
+        "yaoming": [],
+        "xuewei": [],
+        "jingluo": [],
+        "siqi": [],
+        "wuwei": [],
+        "guijing": [],
+        "keywords": [
+          "医案",
+          "戴思恭",
+          "戴元礼",
+          "痰湿",
+          "丹溪弟子"
+        ]
+      }
+    },
+    {
+      "id": "hemengyao_001",
+      "book": "医碥",
+      "type": "yian",
+      "tier": 1,
+      "category": "yishi",
+      "subcategory": "yian",
+      "path": "library\\yishi\\yian\\hemengyao\\hemengyao_001.md",
+      "weight": 8,
+      "title": "何梦瑶·气郁作痛案",
+      "chapter": "气痛门",
+      "conditions": {
+        "zhengxing": [
+          "肝气郁结",
+          "气机不畅"
+        ],
+        "zhifa": [
+          "疏肝理气",
+          "和胃止痛"
+        ],
+        "bingzheng": [
+          "胁痛",
+          "胃脘痛"
+        ],
+        "zhengzhuang": [
+          "痛无定处",
+          "嗳气",
+          "情志不遂则发"
+        ],
+        "fangming": [],
+        "yaoming": [],
+        "xuewei": [],
+        "jingluo": [],
+        "siqi": [],
+        "wuwei": [],
+        "guijing": [],
+        "keywords": [
+          "医案",
+          "何梦瑶",
+          "气痛",
+          "肝郁"
+        ]
+      }
+    },
+    {
+      "id": "huashou_001",
+      "book": "名医类案",
+      "type": "yian",
+      "tier": 1,
+      "category": "yishi",
+      "subcategory": "yian",
+      "path": "library\\yishi\\yian\\huashou\\huashou_001.md",
+      "weight": 8,
+      "title": "滑寿（伯仁）循经辨证治案",
+      "chapter": "滑寿医案",
+      "conditions": {
+        "zhengxing": [
+          "经络辨证"
+        ],
+        "zhifa": [
+          "循经论治",
+          "调摄"
+        ],
+        "bingzheng": [
+          "经络病证"
+        ],
+        "zhengzhuang": [
+          "肢节走痛",
+          "经脉所过处不适"
+        ],
+        "fangming": [],
+        "yaoming": [],
+        "xuewei": [],
+        "jingluo": [
+          "十四经"
+        ],
+        "siqi": [],
+        "wuwei": [],
+        "guijing": [],
+        "keywords": [
+          "医案",
+          "滑寿",
+          "滑伯仁",
+          "经络",
+          "十四经发挥"
+        ]
+      }
+    },
+    {
+      "id": "huatuo_001",
+      "book": "名医类案",
+      "type": "yian",
+      "tier": 1,
+      "category": "yishi",
+      "subcategory": "yian",
+      "path": "library\\yishi\\yian\\huatuo\\huatuo_001.md",
+      "weight": 8,
+      "title": "华佗治广陵太守陈登胃中虫案",
+      "chapter": "华佗医案",
+      "conditions": {
+        "zhengxing": [
+          "食积虫证",
+          "胃中虫积"
+        ],
+        "zhifa": [
+          "杀虫",
+          "消积",
+          "涌吐"
+        ],
+        "bingzheng": [
+          "虫证",
+          "胃脘痛",
+          "面赤不食"
+        ],
+        "zhengzhuang": [
+          "胸中烦懑",
+          "面赤",
+          "不食"
+        ],
+        "fangming": [],
+        "yaoming": [],
+        "xuewei": [],
+        "jingluo": [],
+        "siqi": [],
+        "wuwei": [],
+        "guijing": [],
+        "keywords": [
+          "医案",
+          "华佗",
+          "陈登",
+          "虫积",
+          "食腥"
+        ]
+      }
+    },
+    {
+      "id": "huatuo_002",
+      "book": "名医类案",
+      "type": "yian",
+      "tier": 1,
+      "category": "yishi",
+      "subcategory": "yian",
+      "path": "library\\yishi\\yian\\huatuo\\huatuo_002.md",
+      "weight": 8,
+      "title": "华佗针鬲治曹操头风案",
+      "chapter": "华佗医案",
+      "conditions": {
+        "zhengxing": [
+          "头风"
+        ],
+        "zhifa": [
+          "针刺",
+          "通络止痛"
+        ],
+        "bingzheng": [
+          "头风",
+          "头痛眩晕"
+        ],
+        "zhengzhuang": [
+          "头风",
+          "心乱",
+          "目眩"
+        ],
+        "fangming": [],
+        "yaoming": [],
+        "xuewei": [
+          "鬲（膈俞）"
+        ],
+        "jingluo": [],
+        "siqi": [],
+        "wuwei": [],
+        "guijing": [],
+        "keywords": [
+          "医案",
+          "华佗",
+          "曹操",
+          "头风",
+          "针刺"
+        ]
+      }
+    },
+    {
+      "id": "huatuo_003",
+      "book": "名医类案",
+      "type": "yian",
+      "tier": 1,
+      "category": "yishi",
+      "subcategory": "yian",
+      "path": "library\\yishi\\yian\\huatuo\\huatuo_003.md",
+      "weight": 8,
+      "title": "华佗断督邮徐毅误针案",
+      "chapter": "华佗医案",
+      "conditions": {
+        "zhengxing": [
+          "误刺伤肝"
+        ],
+        "zhifa": [
+          "诊察",
+          "预后判断"
+        ],
+        "bingzheng": [
+          "针误"
+        ],
+        "zhengzhuang": [
+          "针后咳嗽",
+          "欲卧不安",
+          "食日减"
+        ],
+        "fangming": [],
+        "yaoming": [],
+        "xuewei": [
+          "胃管"
+        ],
+        "jingluo": [],
+        "siqi": [],
+        "wuwei": [],
+        "guijing": [],
+        "keywords": [
+          "医案",
+          "华佗",
+          "徐毅",
+          "误针",
+          "预后"
+        ]
+      }
+    },
+    {
+      "id": "lidongyuan_001",
+      "book": "脾胃论",
+      "type": "yian",
+      "tier": 1,
+      "category": "yishi",
+      "subcategory": "yian",
+      "path": "library\\yishi\\yian\\lidongyuan\\lidongyuan_001.md",
+      "weight": 8,
+      "title": "李东垣补中益气治劳倦伤脾案",
+      "chapter": "脾胃胜衰论",
+      "conditions": {
+        "zhengxing": [
+          "脾胃气虚",
+          "气虚发热"
+        ],
+        "zhifa": [
+          "补中益气",
+          "升阳举陷",
+          "甘温除热"
+        ],
+        "bingzheng": [
+          "虚劳",
+          "气虚发热",
+          "内伤发热"
+        ],
+        "zhengzhuang": [
+          "身热",
+          "自汗",
+          "少气懒言",
+          "倦怠乏力",
+          "脉虚软"
+        ],
+        "fangming": [
+          "补中益气汤"
+        ],
+        "yaoming": [
+          "黄芪",
+          "人参",
+          "白术",
+          "炙甘草",
+          "当归",
+          "陈皮",
+          "升麻",
+          "柴胡"
+        ],
+        "xuewei": [],
+        "jingluo": [],
+        "siqi": [],
+        "wuwei": [],
+        "guijing": [],
+        "keywords": [
+          "医案",
+          "李东垣",
+          "李杲",
+          "脾胃",
+          "补中益气汤",
+          "甘温除热"
+        ]
+      }
+    },
+    {
+      "id": "lidongyuan_002",
+      "book": "兰室秘藏",
+      "type": "yian",
+      "tier": 1,
+      "category": "yishi",
+      "subcategory": "yian",
+      "path": "library\\yishi\\yian\\lidongyuan\\lidongyuan_002.md",
+      "weight": 8,
+      "title": "李东垣升阳益胃治饮食伤脾案",
+      "chapter": "脾胃门",
+      "conditions": {
+        "zhengxing": [
+          "脾虚湿困",
+          "清阳不升"
+        ],
+        "zhifa": [
+          "升阳益胃",
+          "除湿益气"
+        ],
+        "bingzheng": [
+          "饮食劳倦",
+          "痞满",
+          "泄泻"
+        ],
+        "zhengzhuang": [
+          "肢体困倦",
+          "食少",
+          "肠鸣泄泻",
+          "脉缓弱"
+        ],
+        "fangming": [
+          "升阳益胃汤"
+        ],
+        "yaoming": [
+          "黄芪",
+          "人参",
+          "白术",
+          "炙甘草",
+          "羌活",
+          "独活",
+          "防风",
+          "柴胡",
+          "泽泻",
+          "茯苓",
+          "陈皮",
+          "半夏",
+          "黄连",
+          "白芍"
+        ],
+        "xuewei": [],
+        "jingluo": [],
+        "siqi": [],
+        "wuwei": [],
+        "guijing": [],
+        "keywords": [
+          "医案",
+          "李东垣",
+          "李杲",
+          "升阳益胃",
+          "脾虚湿困"
+        ]
+      }
+    },
+    {
+      "id": "lishizhen_001",
+      "book": "本草纲目",
+      "type": "yian",
+      "tier": 1,
+      "category": "yishi",
+      "subcategory": "yian",
+      "path": "library\\yishi\\yian\\lishizhen\\lishizhen_001.md",
+      "weight": 8,
+      "title": "李时珍考订附方治验案",
+      "chapter": "谷部/菜部附方",
+      "conditions": {
+        "zhengxing": [],
+        "zhifa": [
+          "考订方药",
+          "亲验临床"
+        ],
+        "bingzheng": [
+          "杂病"
+        ],
+        "zhengzhuang": [],
+        "fangming": [],
+        "yaoming": [],
+        "xuewei": [],
+        "jingluo": [],
+        "siqi": [],
+        "wuwei": [],
+        "guijing": [],
+        "keywords": [
+          "医案",
+          "李时珍",
+          "李东璧",
+          "本草纲目",
+          "附方",
+          "考辨"
+        ]
+      }
+    },
+    {
+      "id": "miaoxiyong_001",
+      "book": "先醒斋医学广笔记",
+      "type": "yian",
+      "tier": 1,
+      "category": "yishi",
+      "subcategory": "yian",
+      "path": "library\\yishi\\yian\\miaoxiyong\\miaoxiyong_001.md",
+      "weight": 8,
+      "title": "缪希雍吐血三法治血证案",
+      "chapter": "吐血",
+      "conditions": {
+        "zhengxing": [
+          "肝火犯肺",
+          "血热妄行"
+        ],
+        "zhifa": [
+          "凉血止血",
+          "降气",
+          "补肝",
+          "行血"
+        ],
+        "bingzheng": [
+          "吐血",
+          "咳血",
+          "血证"
+        ],
+        "zhengzhuang": [
+          "吐血",
+          "咳血",
+          "胁痛",
+          "舌红",
+          "脉弦数"
+        ],
+        "fangming": [],
+        "yaoming": [
+          "生地",
+          "牡丹皮",
+          "栀子",
+          "白芍",
+          "降香",
+          "牛膝"
+        ],
+        "xuewei": [],
+        "jingluo": [],
+        "siqi": [],
+        "wuwei": [],
+        "guijing": [],
+        "keywords": [
+          "医案",
+          "缪希雍",
+          "缪仲醇",
+          "吐血",
+          "血证",
+          "三法"
+        ]
+      }
+    },
+    {
+      "id": "qianyi_001",
+      "book": "小儿药证直诀",
+      "type": "yian",
+      "tier": 1,
+      "category": "yishi",
+      "subcategory": "yian",
+      "path": "library\\yishi\\yian\\qianyi\\qianyi_001.md",
+      "weight": 8,
+      "title": "钱乙治仪国公子瘛疭黄土汤案",
+      "chapter": "记尝所治病二十三证",
+      "conditions": {
+        "zhengxing": [
+          "土虚木旺",
+          "风木内动"
+        ],
+        "zhifa": [
+          "培土抑木",
+          "息风止痉"
+        ],
+        "bingzheng": [
+          "小儿瘛疭",
+          "慢惊风"
+        ],
+        "zhengzhuang": [
+          "抽搐瘛疭"
+        ],
+        "fangming": [
+          "黄土汤"
+        ],
+        "yaoming": [
+          "灶心黄土",
+          "白术",
+          "附子",
+          "干地黄",
+          "阿胶",
+          "黄芩",
+          "甘草"
+        ],
+        "xuewei": [],
+        "jingluo": [],
+        "siqi": [],
+        "wuwei": [],
+        "guijing": [],
+        "keywords": [
+          "医案",
+          "钱乙",
+          "儿科",
+          "瘛疭",
+          "黄土汤",
+          "培土抑木"
+        ]
+      }
+    },
+    {
+      "id": "qianyi_002",
+      "book": "小儿药证直诀",
+      "type": "yian",
+      "tier": 1,
+      "category": "yishi",
+      "subcategory": "yian",
+      "path": "library\\yishi\\yian\\qianyi\\qianyi_002.md",
+      "weight": 8,
+      "title": "钱乙治广亲宅王太尉子泻青利案",
+      "chapter": "记尝所治病二十三证",
+      "conditions": {
+        "zhengxing": [
+          "脾虚泄利",
+          "肝热"
+        ],
+        "zhifa": [
+          "健脾",
+          "清热",
+          "固涩"
+        ],
+        "bingzheng": [
+          "小儿泄泻"
+        ],
+        "zhengzhuang": [
+          "泄泻",
+          "目睛直视"
+        ],
+        "fangming": [],
+        "yaoming": [
+          "白术"
+        ],
+        "xuewei": [],
+        "jingluo": [],
+        "siqi": [],
+        "wuwei": [],
+        "guijing": [],
+        "keywords": [
+          "医案",
+          "钱乙",
+          "儿科",
+          "泄泻",
+          "异功散"
+        ]
+      }
+    },
+    {
+      "id": "wangmengying_001",
+      "book": "王氏医案",
+      "type": "yian",
+      "tier": 1,
+      "category": "yishi",
+      "subcategory": "yian",
+      "path": "library\\yishi\\yian\\wangmengying\\wangmengying_001.md",
+      "weight": 8,
+      "title": "王孟英·暑伤气阴清暑案",
+      "chapter": "暑门",
+      "conditions": {
+        "zhengxing": [
+          "暑热伤气",
+          "津液两耗"
+        ],
+        "zhifa": [
+          "清暑益气",
+          "养阴生津"
+        ],
+        "bingzheng": [
+          "暑温",
+          "暑热"
+        ],
+        "zhengzhuang": [
+          "身热自汗",
+          "口渴",
+          "体倦",
+          "脉虚"
+        ],
+        "fangming": [
+          "王氏清暑益气汤"
+        ],
+        "yaoming": [],
+        "xuewei": [],
+        "jingluo": [],
+        "siqi": [],
+        "wuwei": [],
+        "guijing": [],
+        "keywords": [
+          "医案",
+          "王孟英",
+          "暑温",
+          "清暑益气"
+        ]
+      }
+    },
+    {
+      "id": "wangmengying_002",
+      "book": "王氏医案",
+      "type": "yian",
+      "tier": 1,
+      "category": "yishi",
+      "subcategory": "yian",
+      "path": "library\\yishi\\yian\\wangmengying\\wangmengying_002.md",
+      "weight": 8,
+      "title": "王孟英·霍乱湿热案",
+      "chapter": "霍乱门",
+      "conditions": {
+        "zhengxing": [
+          "湿热秽浊",
+          "扰乱中焦"
+        ],
+        "zhifa": [
+          "芳香辟秽",
+          "清热化湿"
+        ],
+        "bingzheng": [
+          "霍乱"
+        ],
+        "zhengzhuang": [
+          "上吐下泻",
+          "腹中绞痛",
+          "烦闷",
+          "脉伏"
+        ],
+        "fangming": [],
+        "yaoming": [],
+        "xuewei": [],
+        "jingluo": [],
+        "siqi": [],
+        "wuwei": [],
+        "guijing": [],
+        "keywords": [
+          "医案",
+          "王孟英",
+          "霍乱",
+          "湿热秽浊"
+        ]
+      }
+    },
+    {
+      "id": "wangmengying_003",
+      "book": "王氏医案",
+      "type": "yian",
+      "tier": 1,
+      "category": "yishi",
+      "subcategory": "yian",
+      "path": "library\\yishi\\yian\\wangmengying\\wangmengying_003.md",
+      "weight": 8,
+      "title": "王孟英·痰热阻气案",
+      "chapter": "痰气门",
+      "conditions": {
+        "zhengxing": [
+          "痰热内蕴",
+          "气机郁滞"
+        ],
+        "zhifa": [
+          "清化痰热",
+          "宣畅气机"
+        ],
+        "bingzheng": [
+          "咳嗽",
+          "痰饮"
+        ],
+        "zhengzhuang": [
+          "咳嗽痰多",
+          "胸闷",
+          "苔黄腻",
+          "脉滑数"
+        ],
+        "fangming": [],
+        "yaoming": [],
+        "xuewei": [],
+        "jingluo": [],
+        "siqi": [],
+        "wuwei": [],
+        "guijing": [],
+        "keywords": [
+          "医案",
+          "王孟英",
+          "痰热",
+          "咳嗽"
+        ]
+      }
+    },
+    {
+      "id": "wujutong_001",
+      "book": "温病条辨",
+      "type": "yian",
+      "tier": 1,
+      "category": "yishi",
+      "subcategory": "yian",
+      "path": "library\\yishi\\yian\\wujutong\\wujutong_001.md",
+      "weight": 8,
+      "title": "吴鞠通·风温上受银翘案",
+      "chapter": "上焦篇",
+      "conditions": {
+        "zhengxing": [
+          "风温犯肺",
+          "卫表失和"
+        ],
+        "zhifa": [
+          "辛凉平剂",
+          "疏风清热"
+        ],
+        "bingzheng": [
+          "风温",
+          "风热感冒"
+        ],
+        "zhengzhuang": [
+          "发热",
+          "微恶风寒",
+          "口渴",
+          "脉浮数"
+        ],
+        "fangming": [
+          "银翘散"
+        ],
+        "yaoming": [],
+        "xuewei": [],
+        "jingluo": [],
+        "siqi": [],
+        "wuwei": [],
+        "guijing": [],
+        "keywords": [
+          "医案",
+          "吴鞠通",
+          "风温",
+          "银翘散",
+          "辛凉平剂"
+        ]
+      }
+    },
+    {
+      "id": "wujutong_002",
+      "book": "温病条辨",
+      "type": "yian",
+      "tier": 1,
+      "category": "yishi",
+      "subcategory": "yian",
+      "path": "library\\yishi\\yian\\wujutong\\wujutong_002.md",
+      "weight": 8,
+      "title": "吴鞠通·湿温初起三仁案",
+      "chapter": "上焦篇",
+      "conditions": {
+        "zhengxing": [
+          "湿温初起",
+          "邪在气分",
+          "湿重于热"
+        ],
+        "zhifa": [
+          "宣畅三焦",
+          "利湿清热"
+        ],
+        "bingzheng": [
+          "湿温"
+        ],
+        "zhengzhuang": [
+          "头痛恶寒",
+          "身重疼痛",
+          "舌白不渴",
+          "胸闷"
+        ],
+        "fangming": [
+          "三仁汤"
+        ],
+        "yaoming": [],
+        "xuewei": [],
+        "jingluo": [],
+        "siqi": [],
+        "wuwei": [],
+        "guijing": [],
+        "keywords": [
+          "医案",
+          "吴鞠通",
+          "湿温",
+          "三仁汤"
+        ]
+      }
+    },
+    {
+      "id": "wujutong_003",
+      "book": "温病条辨",
+      "type": "yian",
+      "tier": 1,
+      "category": "yishi",
+      "subcategory": "yian",
+      "path": "library\\yishi\\yian\\wujutong\\wujutong_003.md",
+      "weight": 8,
+      "title": "吴鞠通·温邪化燥白虎案",
+      "chapter": "上焦篇",
+      "conditions": {
+        "zhengxing": [
+          "阳明气分热盛"
+        ],
+        "zhifa": [
+          "辛寒清气"
+        ],
+        "bingzheng": [
+          "温病",
+          "阳明经证"
+        ],
+        "zhengzhuang": [
+          "壮热",
+          "烦渴",
+          "汗出",
+          "脉洪大"
+        ],
+        "fangming": [
+          "白虎汤"
+        ],
+        "yaoming": [],
+        "xuewei": [],
+        "jingluo": [],
+        "siqi": [],
+        "wuwei": [],
+        "guijing": [],
+        "keywords": [
+          "医案",
+          "吴鞠通",
+          "温病",
+          "白虎汤",
+          "辛寒清气"
+        ]
+      }
+    },
+    {
+      "id": "xueshengbai_001",
+      "book": "湿热病篇",
+      "type": "yian",
+      "tier": 1,
+      "category": "yishi",
+      "subcategory": "yian",
+      "path": "library\\yishi\\yian\\xueshengbai\\xueshengbai_001.md",
+      "weight": 8,
+      "title": "薛生白·湿热郁蒸气分案",
+      "chapter": "湿热病篇",
+      "conditions": {
+        "zhengxing": [
+          "湿热郁蒸气分"
+        ],
+        "zhifa": [
+          "辛开芳化",
+          "淡渗利湿"
+        ],
+        "bingzheng": [
+          "湿热病",
+          "湿温"
+        ],
+        "zhengzhuang": [
+          "寒热如疟",
+          "胸闷",
+          "舌白",
+          "脉缓"
+        ],
+        "fangming": [],
+        "yaoming": [],
+        "xuewei": [],
+        "jingluo": [],
+        "siqi": [],
+        "wuwei": [],
+        "guijing": [],
+        "keywords": [
+          "医案",
+          "薛生白",
+          "湿热",
+          "湿温"
+        ]
+      }
+    },
+    {
+      "id": "xueshengbai_002",
+      "book": "湿热病篇",
+      "type": "yian",
+      "tier": 1,
+      "category": "yishi",
+      "subcategory": "yian",
+      "path": "library\\yishi\\yian\\xueshengbai\\xueshengbai_002.md",
+      "weight": 8,
+      "title": "薛生白·湿热化燥入营案",
+      "chapter": "湿热病篇",
+      "conditions": {
+        "zhengxing": [
+          "湿热化燥",
+          "邪入营血"
+        ],
+        "zhifa": [
+          "清营凉血",
+          "解毒熄风"
+        ],
+        "bingzheng": [
+          "湿热病",
+          "神昏痉厥"
+        ],
+        "zhengzhuang": [
+          "壮热",
+          "神昏",
+          "舌绛",
+          "痉厥"
+        ],
+        "fangming": [],
+        "yaoming": [],
+        "xuewei": [],
+        "jingluo": [],
+        "siqi": [],
+        "wuwei": [],
+        "guijing": [],
+        "keywords": [
+          "医案",
+          "薛生白",
+          "湿热",
+          "化燥入营",
+          "神昏"
+        ]
+      }
+    },
+    {
+      "id": "xulingtai_001",
+      "book": "洄溪医案",
+      "type": "yian",
+      "tier": 1,
+      "category": "yishi",
+      "subcategory": "yian",
+      "path": "library\\yishi\\yian\\xulingtai\\xulingtai_001.md",
+      "weight": 8,
+      "title": "徐灵胎·伤寒误表救逆案",
+      "chapter": "伤寒门",
+      "conditions": {
+        "zhengxing": [
+          "邪入阳明",
+          "误表津伤"
+        ],
+        "zhifa": [
+          "清下泄热",
+          "顾护津液"
+        ],
+        "bingzheng": [
+          "伤寒",
+          "阳明证"
+        ],
+        "zhengzhuang": [
+          "高热",
+          "汗多",
+          "口渴",
+          "脉洪"
+        ],
+        "fangming": [],
+        "yaoming": [],
+        "xuewei": [],
+        "jingluo": [],
+        "siqi": [],
+        "wuwei": [],
+        "guijing": [],
+        "keywords": [
+          "医案",
+          "徐灵胎",
+          "伤寒",
+          "误汗"
+        ]
+      }
+    },
+    {
+      "id": "xulingtai_002",
+      "book": "洄溪医案",
+      "type": "yian",
+      "tier": 1,
+      "category": "yishi",
+      "subcategory": "yian",
+      "path": "library\\yishi\\yian\\xulingtai\\xulingtai_002.md",
+      "weight": 8,
+      "title": "徐灵胎·悬饮攻逐案",
+      "chapter": "痰饮门",
+      "conditions": {
+        "zhengxing": [
+          "水饮停胸",
+          "悬饮实证"
+        ],
+        "zhifa": [
+          "攻逐水饮"
+        ],
+        "bingzheng": [
+          "痰饮",
+          "悬饮"
+        ],
+        "zhengzhuang": [
+          "胸胁胀满",
+          "咳唾引痛",
+          "水气上逆"
+        ],
+        "fangming": [],
+        "yaoming": [],
+        "xuewei": [],
+        "jingluo": [],
+        "siqi": [],
+        "wuwei": [],
+        "guijing": [],
+        "keywords": [
+          "医案",
+          "徐灵胎",
+          "悬饮",
+          "攻逐水饮"
+        ]
+      }
+    },
+    {
+      "id": "xushuwei_001",
+      "book": "普济本事方",
+      "type": "yian",
+      "tier": 1,
+      "category": "yishi",
+      "subcategory": "yian",
+      "path": "library\\yishi\\yian\\xushuwei\\xushuwei_001.md",
+      "weight": 8,
+      "title": "许叔微治伤寒热入血室案",
+      "chapter": "伤寒",
+      "conditions": {
+        "zhengxing": [
+          "热入血室"
+        ],
+        "zhifa": [
+          "和解少阳",
+          "清热凉血"
+        ],
+        "bingzheng": [
+          "伤寒",
+          "热入血室"
+        ],
+        "zhengzhuang": [
+          "寒热如疟",
+          "谵语",
+          "经水适来"
+        ],
+        "fangming": [
+          "小柴胡汤"
+        ],
+        "yaoming": [
+          "柴胡",
+          "黄芩",
+          "人参",
+          "半夏",
+          "甘草",
+          "生姜",
+          "大枣"
+        ],
+        "xuewei": [],
+        "jingluo": [],
+        "siqi": [],
+        "wuwei": [],
+        "guijing": [],
+        "keywords": [
+          "医案",
+          "许叔微",
+          "伤寒",
+          "热入血室",
+          "小柴胡汤"
+        ]
+      }
+    },
+    {
+      "id": "xushuwei_002",
+      "book": "普济本事方",
+      "type": "yian",
+      "tier": 1,
+      "category": "yishi",
+      "subcategory": "yian",
+      "path": "library\\yishi\\yian\\xushuwei\\xushuwei_002.md",
+      "weight": 8,
+      "title": "许叔微麻黄汤发汗治伤寒案",
+      "chapter": "伤寒",
+      "conditions": {
+        "zhengxing": [
+          "太阳伤寒表实"
+        ],
+        "zhifa": [
+          "辛温发汗"
+        ],
+        "bingzheng": [
+          "伤寒",
+          "太阳病"
+        ],
+        "zhengzhuang": [
+          "恶寒",
+          "发热",
+          "无汗",
+          "身疼",
+          "脉浮紧"
+        ],
+        "fangming": [
+          "麻黄汤"
+        ],
+        "yaoming": [
+          "麻黄",
+          "桂枝",
+          "杏仁",
+          "甘草"
+        ],
+        "xuewei": [],
+        "jingluo": [
+          "足太阳膀胱经"
+        ],
+        "siqi": [],
+        "wuwei": [],
+        "guijing": [],
+        "keywords": [
+          "医案",
+          "许叔微",
+          "伤寒",
+          "麻黄汤",
+          "表实"
+        ]
+      }
+    },
+    {
+      "id": "yetianshi_001",
+      "book": "临证指南医案",
+      "type": "yian",
+      "tier": 1,
+      "category": "yishi",
+      "subcategory": "yian",
+      "path": "library\\yishi\\yian\\yetianshi\\yetianshi_001.md",
+      "weight": 8,
+      "title": "叶天士·风温犯肺案",
+      "chapter": "温热门",
+      "conditions": {
+        "zhengxing": [
+          "风温犯肺",
+          "肺卫失宣"
+        ],
+        "zhifa": [
+          "辛凉疏泄",
+          "清肃上焦"
+        ],
+        "bingzheng": [
+          "风温",
+          "咳嗽"
+        ],
+        "zhengzhuang": [
+          "身热",
+          "咳呛",
+          "口燥",
+          "脉右数"
+        ],
+        "fangming": [],
+        "yaoming": [],
+        "xuewei": [],
+        "jingluo": [],
+        "siqi": [],
+        "wuwei": [],
+        "guijing": [],
+        "keywords": [
+          "医案",
+          "叶天士",
+          "风温",
+          "辛凉轻剂"
+        ]
+      }
+    },
+    {
+      "id": "yetianshi_002",
+      "book": "临证指南医案",
+      "type": "yian",
+      "tier": 1,
+      "category": "yishi",
+      "subcategory": "yian",
+      "path": "library\\yishi\\yian\\yetianshi\\yetianshi_002.md",
+      "weight": 8,
+      "title": "叶天士·肝阳内风案",
+      "chapter": "肝风门",
+      "conditions": {
+        "zhengxing": [
+          "阳化内风",
+          "肝阳上扰"
+        ],
+        "zhifa": [
+          "滋液熄风",
+          "甘味缓急"
+        ],
+        "bingzheng": [
+          "肝风",
+          "眩晕"
+        ],
+        "zhengzhuang": [
+          "耳鸣",
+          "眩晕",
+          "肢节震掉",
+          "脉左数"
+        ],
+        "fangming": [],
+        "yaoming": [],
+        "xuewei": [],
+        "jingluo": [],
+        "siqi": [],
+        "wuwei": [],
+        "guijing": [],
+        "keywords": [
+          "医案",
+          "叶天士",
+          "肝风",
+          "阳化内风"
+        ]
+      }
+    },
+    {
+      "id": "yetianshi_003",
+      "book": "临证指南医案",
+      "type": "yian",
+      "tier": 1,
+      "category": "yishi",
+      "subcategory": "yian",
+      "path": "library\\yishi\\yian\\yetianshi\\yetianshi_003.md",
+      "weight": 8,
+      "title": "叶天士·胃阴受伤案",
+      "chapter": "脾胃门",
+      "conditions": {
+        "zhengxing": [
+          "胃阴不足",
+          "胃失濡降"
+        ],
+        "zhifa": [
+          "甘凉濡润",
+          "养胃阴"
+        ],
+        "bingzheng": [
+          "胃脘不食",
+          "痞闷"
+        ],
+        "zhengzhuang": [
+          "不饥不纳",
+          "咽干",
+          "舌绛少苔"
+        ],
+        "fangming": [],
+        "yaoming": [],
+        "xuewei": [],
+        "jingluo": [],
+        "siqi": [],
+        "wuwei": [],
+        "guijing": [],
+        "keywords": [
+          "医案",
+          "叶天士",
+          "胃阴",
+          "甘凉濡润"
+        ]
+      }
+    },
+    {
+      "id": "yetianshi_004",
+      "book": "临证指南医案",
+      "type": "yian",
+      "tier": 1,
+      "category": "yishi",
+      "subcategory": "yian",
+      "path": "library\\yishi\\yian\\yetianshi\\yetianshi_004.md",
+      "weight": 8,
+      "title": "叶天士·久损及奇经案",
+      "chapter": "虚劳门",
+      "conditions": {
+        "zhengxing": [
+          "奇脉亏虚",
+          "下元不固"
+        ],
+        "zhifa": [
+          "厚味凝补",
+          "血肉有情填奇经"
+        ],
+        "bingzheng": [
+          "虚劳",
+          "遗精",
+          "崩带"
+        ],
+        "zhengzhuang": [
+          "腰脊痿弱",
+          "久虚不复",
+          "形瘦脉空"
+        ],
+        "fangming": [],
+        "yaoming": [],
+        "xuewei": [],
+        "jingluo": [],
+        "siqi": [],
+        "wuwei": [],
+        "guijing": [],
+        "keywords": [
+          "医案",
+          "叶天士",
+          "虚劳",
+          "奇经八脉",
+          "血肉有情"
+        ]
+      }
+    },
+    {
+      "id": "yetianshi_005",
+      "book": "临证指南医案",
+      "type": "yian",
+      "tier": 1,
+      "category": "yishi",
+      "subcategory": "yian",
+      "path": "library\\yishi\\yian\\yetianshi\\yetianshi_005.md",
+      "weight": 8,
+      "title": "叶天士·阴亏阳升内风案",
+      "chapter": "中风门",
+      "conditions": {
+        "zhengxing": [
+          "阴亏阳升",
+          "内风动越"
+        ],
+        "zhifa": [
+          "滋阴熄风",
+          "潜阳镇逆"
+        ],
+        "bingzheng": [
+          "中风",
+          "偏枯"
+        ],
+        "zhengzhuang": [
+          "口眼歪斜",
+          "肢麻",
+          "脉左数虚"
+        ],
+        "fangming": [],
+        "yaoming": [],
+        "xuewei": [],
+        "jingluo": [],
+        "siqi": [],
+        "wuwei": [],
+        "guijing": [],
+        "keywords": [
+          "医案",
+          "叶天士",
+          "中风",
+          "内风"
+        ]
+      }
+    },
+    {
+      "id": "yetianshi_006",
+      "book": "临证指南医案",
+      "type": "yian",
+      "tier": 1,
+      "category": "yishi",
+      "subcategory": "yian",
+      "path": "library\\yishi\\yian\\yetianshi\\yetianshi_006.md",
+      "weight": 8,
+      "title": "叶天士·脘痹不食案",
+      "chapter": "噎膈反胃门",
+      "conditions": {
+        "zhengxing": [
+          "气阻脘痹",
+          "胃不降浊"
+        ],
+        "zhifa": [
+          "苦辛通降",
+          "宣痹开结"
+        ],
+        "bingzheng": [
+          "噎膈",
+          "痞闷"
+        ],
+        "zhengzhuang": [
+          "食入噎塞",
+          "脘中不爽",
+          "脉右涩"
+        ],
+        "fangming": [],
+        "yaoming": [],
+        "xuewei": [],
+        "jingluo": [],
+        "siqi": [],
+        "wuwei": [],
+        "guijing": [],
+        "keywords": [
+          "医案",
+          "叶天士",
+          "噎膈",
+          "苦辛通降"
+        ]
+      }
+    },
+    {
+      "id": "yetianshi_007",
+      "book": "临证指南医案",
+      "type": "yian",
+      "tier": 1,
+      "category": "yishi",
+      "subcategory": "yian",
+      "path": "library\\yishi\\yian\\yetianshi\\yetianshi_007.md",
+      "weight": 8,
+      "title": "叶天士·络伤血溢案",
+      "chapter": "吐血门",
+      "conditions": {
+        "zhengxing": [
+          "阳升络伤",
+          "血不循经"
+        ],
+        "zhifa": [
+          "清络宁血",
+          "和降止血"
+        ],
+        "bingzheng": [
+          "吐血",
+          "咳血"
+        ],
+        "zhengzhuang": [
+          "血从上溢",
+          "面赤",
+          "脉左数"
+        ],
+        "fangming": [],
+        "yaoming": [],
+        "xuewei": [],
+        "jingluo": [],
+        "siqi": [],
+        "wuwei": [],
+        "guijing": [],
+        "keywords": [
+          "医案",
+          "叶天士",
+          "吐血",
+          "络伤"
+        ]
+      }
+    },
+    {
+      "id": "yetianshi_008",
+      "book": "临证指南医案",
+      "type": "yian",
+      "tier": 1,
+      "category": "yishi",
+      "subcategory": "yian",
+      "path": "library\\yishi\\yian\\yetianshi\\yetianshi_008.md",
+      "weight": 8,
+      "title": "叶天士·湿热内恋久痢案",
+      "chapter": "痢门",
+      "conditions": {
+        "zhengxing": [
+          "湿热内恋",
+          "肠腑失和"
+        ],
+        "zhifa": [
+          "清利湿热",
+          "和调肠腑"
+        ],
+        "bingzheng": [
+          "痢疾",
+          "休息痢"
+        ],
+        "zhengzhuang": [
+          "下痢赤白",
+          "里急后重",
+          "久延不愈"
+        ],
+        "fangming": [],
+        "yaoming": [],
+        "xuewei": [],
+        "jingluo": [],
+        "siqi": [],
+        "wuwei": [],
+        "guijing": [],
+        "keywords": [
+          "医案",
+          "叶天士",
+          "痢疾",
+          "湿热"
+        ]
+      }
+    },
+    {
+      "id": "youzaijing_001",
+      "book": "静香楼医案",
+      "type": "yian",
+      "tier": 1,
+      "category": "yishi",
+      "subcategory": "yian",
+      "path": "library\\yishi\\yian\\youzaijing\\youzaijing_001.md",
+      "weight": 8,
+      "title": "尤在泾·虚劳养阴案",
+      "chapter": "虚劳门",
+      "conditions": {
+        "zhengxing": [
+          "肺肾阴虚",
+          "虚火上炎"
+        ],
+        "zhifa": [
+          "滋养肺肾",
+          "清降虚火"
+        ],
+        "bingzheng": [
+          "虚劳",
+          "咳嗽",
+          "咯血"
+        ],
+        "zhengzhuang": [
+          "形瘦",
+          "潮热",
+          "干咳",
+          "舌红少苔"
+        ],
+        "fangming": [],
+        "yaoming": [],
+        "xuewei": [],
+        "jingluo": [],
+        "siqi": [],
+        "wuwei": [],
+        "guijing": [],
+        "keywords": [
+          "医案",
+          "尤在泾",
+          "虚劳",
+          "养阴"
+        ]
+      }
+    },
+    {
+      "id": "youzaijing_002",
+      "book": "静香楼医案",
+      "type": "yian",
+      "tier": 1,
+      "category": "yishi",
+      "subcategory": "yian",
+      "path": "library\\yishi\\yian\\youzaijing\\youzaijing_002.md",
+      "weight": 8,
+      "title": "尤在泾·痰饮咳喘温化案",
+      "chapter": "痰饮门",
+      "conditions": {
+        "zhengxing": [
+          "脾阳不运",
+          "寒饮伏肺"
+        ],
+        "zhifa": [
+          "温阳化饮",
+          "降气平喘"
+        ],
+        "bingzheng": [
+          "痰饮",
+          "咳喘"
+        ],
+        "zhengzhuang": [
+          "咳嗽气喘",
+          "痰多清稀",
+          "背寒",
+          "苔白滑"
+        ],
+        "fangming": [],
+        "yaoming": [],
+        "xuewei": [],
+        "jingluo": [],
+        "siqi": [],
+        "wuwei": [],
+        "guijing": [],
+        "keywords": [
+          "医案",
+          "尤在泾",
+          "痰饮",
+          "咳喘",
+          "温化"
+        ]
+      }
+    },
+    {
+      "id": "yujiayan_001",
+      "book": "寓意草",
+      "type": "yian",
+      "tier": 1,
+      "category": "yishi",
+      "subcategory": "yian",
+      "path": "library\\yishi\\yian\\yujiayan\\yujiayan_001.md",
+      "weight": 8,
+      "title": "喻嘉言议病详辨治案（议病式）",
+      "chapter": "议病式",
+      "conditions": {
+        "zhengxing": [],
+        "zhifa": [
+          "详议病机",
+          "先议后药"
+        ],
+        "bingzheng": [
+          "杂病",
+          "疑难证"
+        ],
+        "zhengzhuang": [],
+        "fangming": [],
+        "yaoming": [],
+        "xuewei": [],
+        "jingluo": [],
+        "siqi": [],
+        "wuwei": [],
+        "guijing": [],
+        "keywords": [
+          "医案",
+          "喻嘉言",
+          "喻昌",
+          "寓意草",
+          "议病式",
+          "先议后药"
+        ]
+      }
+    },
+    {
+      "id": "yujiayan_002",
+      "book": "寓意草",
+      "type": "yian",
+      "tier": 1,
+      "category": "yishi",
+      "subcategory": "yian",
+      "path": "library\\yishi\\yian\\yujiayan\\yujiayan_002.md",
+      "weight": 8,
+      "title": "喻嘉言逆流挽舟治痢疾案",
+      "chapter": "伤寒",
+      "conditions": {
+        "zhengxing": [
+          "表里同病",
+          "外感夹滞"
+        ],
+        "zhifa": [
+          "逆流挽舟",
+          "表里双解",
+          "解表导滞"
+        ],
+        "bingzheng": [
+          "痢疾",
+          "外感痢疾"
+        ],
+        "zhengzhuang": [
+          "下痢赤白",
+          "恶寒发热",
+          "表证未解",
+          "脉浮"
+        ],
+        "fangming": [
+          "人参败毒散"
+        ],
+        "yaoming": [
+          "人参",
+          "柴胡",
+          "前胡",
+          "川芎",
+          "枳壳",
+          "羌活",
+          "独活",
+          "茯苓",
+          "桔梗",
+          "甘草",
+          "生姜",
+          "薄荷"
+        ],
+        "xuewei": [],
+        "jingluo": [],
+        "siqi": [],
+        "wuwei": [],
+        "guijing": [],
+        "keywords": [
+          "医案",
+          "喻嘉言",
+          "喻昌",
+          "痢疾",
+          "逆流挽舟",
+          "败毒散"
+        ]
+      }
+    },
+    {
+      "id": "yujiayan_003",
+      "book": "寓意草",
+      "type": "yian",
+      "tier": 1,
+      "category": "yishi",
+      "subcategory": "yian",
+      "path": "library\\yishi\\yian\\yujiayan\\yujiayan_003.md",
+      "weight": 8,
+      "title": "喻嘉言辨秋燥伤肺治案",
+      "chapter": "虚劳",
+      "conditions": {
+        "zhengxing": [
+          "燥伤肺胃",
+          "津气受伤"
+        ],
+        "zhifa": [
+          "清燥润肺",
+          "甘凉濡润"
+        ],
+        "bingzheng": [
+          "秋燥",
+          "咳嗽",
+          "伤津"
+        ],
+        "zhengzhuang": [
+          "干咳",
+          "咽干鼻燥",
+          "口渴",
+          "舌红少津",
+          "右脉数大"
+        ],
+        "fangming": [],
+        "yaoming": [
+          "桑叶",
+          "杏仁",
+          "沙参",
+          "麦冬",
+          "枇杷叶",
+          "梨皮"
+        ],
+        "xuewei": [],
+        "jingluo": [],
+        "siqi": [],
+        "wuwei": [],
+        "guijing": [],
+        "keywords": [
+          "医案",
+          "喻嘉言",
+          "喻昌",
+          "秋燥",
+          "燥气论",
+          "清燥"
+        ]
+      }
+    },
+    {
+      "id": "yutinghong_001",
+      "book": "余听鸿医案",
+      "type": "yian",
+      "tier": 1,
+      "category": "yishi",
+      "subcategory": "yian",
+      "path": "library\\yishi\\yian\\yutinghong\\yutinghong_001.md",
+      "weight": 8,
+      "title": "余听鸿·乳痈消托案",
+      "chapter": "外证门",
+      "conditions": {
+        "zhengxing": [
+          "肝胃郁热",
+          "乳络壅滞"
+        ],
+        "zhifa": [
+          "疏肝清胃",
+          "通络散结"
+        ],
+        "bingzheng": [
+          "乳痈"
+        ],
+        "zhengzhuang": [
+          "乳房红肿",
+          "焮热作痛",
+          "恶寒发热"
+        ],
+        "fangming": [],
+        "yaoming": [],
+        "xuewei": [],
+        "jingluo": [],
+        "siqi": [],
+        "wuwei": [],
+        "guijing": [],
+        "keywords": [
+          "医案",
+          "余听鸿",
+          "乳痈",
+          "外证"
+        ]
+      }
+    },
+    {
+      "id": "yutinghong_002",
+      "book": "余听鸿医案",
+      "type": "yian",
+      "tier": 1,
+      "category": "yishi",
+      "subcategory": "yian",
+      "path": "library\\yishi\\yian\\yutinghong\\yutinghong_002.md",
+      "weight": 8,
+      "title": "余听鸿·虚劳误补救逆案",
+      "chapter": "内伤门",
+      "conditions": {
+        "zhengxing": [
+          "虚中夹实",
+          "误补留邪"
+        ],
+        "zhifa": [
+          "先去其实",
+          "后议补虚"
+        ],
+        "bingzheng": [
+          "虚劳",
+          "夹食感邪"
+        ],
+        "zhengzhuang": [
+          "形瘦食少",
+          "脘闷",
+          "脉涩"
+        ],
+        "fangming": [],
+        "yaoming": [],
+        "xuewei": [],
+        "jingluo": [],
+        "siqi": [],
+        "wuwei": [],
+        "guijing": [],
+        "keywords": [
+          "医案",
+          "余听鸿",
+          "虚劳",
+          "误补"
+        ]
+      }
+    },
+    {
+      "id": "zhangjingyue_001",
+      "book": "景岳全书",
+      "type": "yian",
+      "tier": 1,
+      "category": "yishi",
+      "subcategory": "yian",
+      "path": "library\\yishi\\yian\\zhangjingyue\\zhangjingyue_001.md",
+      "weight": 8,
+      "title": "张景岳用大剂熟地温补治虚损案",
+      "chapter": "传忠录",
+      "conditions": {
+        "zhengxing": [
+          "真阴亏损"
+        ],
+        "zhifa": [
+          "温补真阴",
+          "滋填精血"
+        ],
+        "bingzheng": [
+          "虚劳",
+          "虚损"
+        ],
+        "zhengzhuang": [
+          "形体羸瘦",
+          "腰膝酸软",
+          "头晕",
+          "脉虚细"
+        ],
+        "fangming": [
+          "左归丸",
+          "大补元煎"
+        ],
+        "yaoming": [
+          "熟地黄",
+          "山药",
+          "山茱萸",
+          "枸杞子",
+          "杜仲",
+          "菟丝子",
+          "当归",
+          "鹿角胶",
+          "龟板胶"
+        ],
+        "xuewei": [],
+        "jingluo": [],
+        "siqi": [],
+        "wuwei": [],
+        "guijing": [],
+        "keywords": [
+          "医案",
+          "张景岳",
+          "张介宾",
+          "温补派",
+          "熟地",
+          "真阴"
+        ]
+      }
+    },
+    {
+      "id": "zhangjingyue_002",
+      "book": "景岳全书",
+      "type": "yian",
+      "tier": 1,
+      "category": "yishi",
+      "subcategory": "yian",
+      "path": "library\\yishi\\yian\\zhangjingyue\\zhangjingyue_002.md",
+      "weight": 8,
+      "title": "张景岳温补救逆治伤寒格阳案",
+      "chapter": "伤寒典",
+      "conditions": {
+        "zhengxing": [
+          "阴盛格阳",
+          "真寒假热"
+        ],
+        "zhifa": [
+          "回阳救逆",
+          "引火归原",
+          "甘温益气"
+        ],
+        "bingzheng": [
+          "伤寒",
+          "格阳证",
+          "戴阳证"
+        ],
+        "zhengzhuang": [
+          "身热面赤",
+          "躁扰",
+          "脉沉微欲绝",
+          "渴不欲饮",
+          "便清"
+        ],
+        "fangming": [
+          "回阳饮",
+          "四味回阳饮"
+        ],
+        "yaoming": [
+          "人参",
+          "附子",
+          "炮姜",
+          "炙甘草"
+        ],
+        "xuewei": [],
+        "jingluo": [],
+        "siqi": [],
+        "wuwei": [],
+        "guijing": [],
+        "keywords": [
+          "医案",
+          "张景岳",
+          "张介宾",
+          "格阳",
+          "戴阳",
+          "回阳"
+        ]
+      }
+    },
+    {
+      "id": "zhangzhongjing_001",
+      "book": "名医类案",
+      "type": "yian",
+      "tier": 1,
+      "category": "yishi",
+      "subcategory": "yian",
+      "path": "library\\yishi\\yian\\zhangzhongjing\\zhangzhongjing_001.md",
+      "weight": 8,
+      "title": "张仲景诊王粲（仲宣）候疾案",
+      "chapter": "张仲景医案",
+      "conditions": {
+        "zhengxing": [
+          "伏邪内蕴"
+        ],
+        "zhifa": [
+          "预诊",
+          "早治",
+          "托毒"
+        ],
+        "bingzheng": [
+          "伏病",
+          "眉落"
+        ],
+        "zhengzhuang": [
+          "暂无显症",
+          "二十余岁"
+        ],
+        "fangming": [
+          "五石汤"
+        ],
+        "yaoming": [],
+        "xuewei": [],
+        "jingluo": [],
+        "siqi": [],
+        "wuwei": [],
+        "guijing": [],
+        "keywords": [
+          "医案",
+          "张仲景",
+          "王粲",
+          "预诊",
+          "治未病"
+        ]
+      }
+    },
+    {
+      "id": "zhangzhongjing_002",
+      "book": "伤寒论",
+      "type": "yian",
+      "tier": 1,
+      "category": "yishi",
+      "subcategory": "yian",
+      "path": "library\\yishi\\yian\\zhangzhongjing\\zhangzhongjing_002.md",
+      "weight": 8,
+      "title": "张仲景太阳中风桂枝汤证案",
+      "chapter": "辨太阳病脉证并治",
+      "conditions": {
+        "zhengxing": [
+          "太阳中风",
+          "营卫不和"
+        ],
+        "zhifa": [
+          "解肌发表",
+          "调和营卫"
+        ],
+        "bingzheng": [
+          "太阳病",
+          "外感表证"
+        ],
+        "zhengzhuang": [
+          "发热",
+          "汗出",
+          "恶风",
+          "鼻鸣干呕"
+        ],
+        "fangming": [
+          "桂枝汤"
+        ],
+        "yaoming": [
+          "桂枝",
+          "芍药",
+          "甘草",
+          "生姜",
+          "大枣"
+        ],
+        "xuewei": [],
+        "jingluo": [
+          "足太阳膀胱经"
+        ],
+        "siqi": [],
+        "wuwei": [],
+        "guijing": [],
+        "keywords": [
+          "医案",
+          "张仲景",
+          "桂枝汤",
+          "太阳中风"
+        ]
+      }
+    },
+    {
+      "id": "zhangzihe_001",
+      "book": "儒门事亲",
+      "type": "yian",
+      "tier": 1,
+      "category": "yishi",
+      "subcategory": "yian",
+      "path": "library\\yishi\\yian\\zhangzihe\\zhangzihe_001.md",
+      "weight": 8,
+      "title": "张子和以沧盐探吐治妇人喜笑不止案",
+      "chapter": "汗吐下三法",
+      "conditions": {
+        "zhengxing": [
+          "痰涎上扰",
+          "心神不宁"
+        ],
+        "zhifa": [
+          "涌吐逐痰",
+          "平肝宁心"
+        ],
+        "bingzheng": [
+          "喜笑不休",
+          "脏躁"
+        ],
+        "zhengzhuang": [
+          "喜笑不止",
+          "不食数日"
+        ],
+        "fangming": [],
+        "yaoming": [
+          "沧盐"
+        ],
+        "xuewei": [],
+        "jingluo": [],
+        "siqi": [],
+        "wuwei": [],
+        "guijing": [],
+        "keywords": [
+          "医案",
+          "张子和",
+          "戴人",
+          "吐法",
+          "喜笑不休"
+        ]
+      }
+    },
+    {
+      "id": "zhangzihe_002",
+      "book": "儒门事亲",
+      "type": "yian",
+      "tier": 1,
+      "category": "yishi",
+      "subcategory": "yian",
+      "path": "library\\yishi\\yian\\zhangzihe\\zhangzihe_002.md",
+      "weight": 8,
+      "title": "张子和攻下逐邪治痰饮宿食案",
+      "chapter": "汗吐下三法",
+      "conditions": {
+        "zhengxing": [
+          "痰饮宿食",
+          "里实积滞"
+        ],
+        "zhifa": [
+          "攻下逐邪",
+          "消食化积"
+        ],
+        "bingzheng": [
+          "痰饮",
+          "食积",
+          "痞满"
+        ],
+        "zhengzhuang": [
+          "胸满痞闷",
+          "恶食",
+          "脉沉实"
+        ],
+        "fangming": [],
+        "yaoming": [
+          "大黄",
+          "牵牛子",
+          "甘遂"
+        ],
+        "xuewei": [],
+        "jingluo": [],
+        "siqi": [],
+        "wuwei": [],
+        "guijing": [],
+        "keywords": [
+          "医案",
+          "张子和",
+          "戴人",
+          "下法",
+          "攻邪",
+          "痰饮"
+        ]
+      }
+    },
+    {
+      "id": "zhudanxi_001",
+      "book": "丹溪心法",
+      "type": "yian",
+      "tier": 1,
+      "category": "yishi",
+      "subcategory": "yian",
+      "path": "library\\yishi\\yian\\zhudanxi\\zhudanxi_001.md",
+      "weight": 8,
+      "title": "朱丹溪探吐提壶揭盖治小便不通案",
+      "chapter": "小便不通",
+      "conditions": {
+        "zhengxing": [
+          "痰阻上焦",
+          "气化不利"
+        ],
+        "zhifa": [
+          "探吐开提",
+          "提壶揭盖",
+          "通利小便"
+        ],
+        "bingzheng": [
+          "癃闭",
+          "小便不通"
+        ],
+        "zhengzhuang": [
+          "小便不通",
+          "少腹胀满",
+          "利药不效"
+        ],
+        "fangming": [],
+        "yaoming": [
+          "茶子",
+          "桐油"
+        ],
+        "xuewei": [],
+        "jingluo": [],
+        "siqi": [],
+        "wuwei": [],
+        "guijing": [],
+        "keywords": [
+          "医案",
+          "朱丹溪",
+          "朱震亨",
+          "癃闭",
+          "提壶揭盖",
+          "探吐"
+        ]
+      }
+    },
+    {
+      "id": "zhudanxi_002",
+      "book": "丹溪心法",
+      "type": "yian",
+      "tier": 1,
+      "category": "yishi",
+      "subcategory": "yian",
+      "path": "library\\yishi\\yian\\zhudanxi\\zhudanxi_002.md",
+      "weight": 8,
+      "title": "朱丹溪越鞠丸治六郁案",
+      "chapter": "六郁",
+      "conditions": {
+        "zhengxing": [
+          "气郁",
+          "六郁相因"
+        ],
+        "zhifa": [
+          "行气解郁",
+          "通治诸郁"
+        ],
+        "bingzheng": [
+          "郁证",
+          "痞满",
+          "嗳气"
+        ],
+        "zhengzhuang": [
+          "胸膈痞闷",
+          "脘腹胀痛",
+          "嗳腐纳呆",
+          "脉沉涩"
+        ],
+        "fangming": [
+          "越鞠丸"
+        ],
+        "yaoming": [
+          "香附",
+          "川芎",
+          "苍术",
+          "神曲",
+          "栀子"
+        ],
+        "xuewei": [],
+        "jingluo": [],
+        "siqi": [],
+        "wuwei": [],
+        "guijing": [],
+        "keywords": [
+          "医案",
+          "朱丹溪",
+          "朱震亨",
+          "郁证",
+          "越鞠丸",
+          "六郁"
+        ]
+      }
+    },
+    {
+      "id": "zhudanxi_003",
+      "book": "格致余论",
+      "type": "yian",
+      "tier": 1,
+      "category": "yishi",
+      "subcategory": "yian",
+      "path": "library\\yishi\\yian\\zhudanxi\\zhudanxi_003.md",
+      "weight": 8,
+      "title": "朱丹溪滋阴降火治阴虚痰火案",
+      "chapter": "阳有余阴不足论",
+      "conditions": {
+        "zhengxing": [
+          "阴虚火旺",
+          "痰火内扰"
+        ],
+        "zhifa": [
+          "滋阴降火",
+          "化痰"
+        ],
+        "bingzheng": [
+          "内伤杂病",
+          "咳嗽",
+          "盗汗"
+        ],
+        "zhengzhuang": [
+          "潮热盗汗",
+          "咳嗽",
+          "心烦",
+          "舌红少苔",
+          "脉细数"
+        ],
+        "fangming": [
+          "大补阴丸",
+          "越鞠丸"
+        ],
+        "yaoming": [
+          "黄柏",
+          "知母",
+          "熟地黄",
+          "龟板",
+          "猪脊髓"
+        ],
+        "xuewei": [],
+        "jingluo": [],
+        "siqi": [],
+        "wuwei": [],
+        "guijing": [],
+        "keywords": [
+          "医案",
+          "朱丹溪",
+          "朱震亨",
+          "阴虚火旺",
+          "阳有余阴不足",
+          "滋阴降火"
         ]
       }
     },

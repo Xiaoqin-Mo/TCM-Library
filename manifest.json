@@ -25,7 +25,7 @@
     "jingdian": {
       "bencao": {
         "dir": "jingdian\\bencao\\shennong",
-        "count": 95
+        "count": 144
       },
       "jingui": {
         "dir": "jingdian\\jingui",
@@ -905,7 +905,7 @@
       "tier_name": "核心",
       "category": "jingdian",
       "subcategory": "bencao",
-      "count": 95
+      "count": 144
     },
     {
       "dir": "jingdian\\jingui",
@@ -11020,7 +11020,7 @@
       "count": 1
     }
   ],
-  "total": 2349,
+  "total": 2398,
   "entries": [
     {
       "id": "baihutang_002",
@@ -13080,6 +13080,51 @@
       }
     },
     {
+      "id": "snb_badou_001",
+      "book": "神农本草经",
+      "type": "yaowu",
+      "tier": 1,
+      "category": "jingdian",
+      "subcategory": "bencao",
+      "path": "library\\jingdian\\bencao\\shennong\\snb_badou_001.md",
+      "weight": 9,
+      "title": "巴豆",
+      "chapter": "下经",
+      "conditions": {
+        "zhengxing": [],
+        "zhifa": [
+          "峻下冷积",
+          "逐水退肿",
+          "祛痰利咽",
+          "蚀疮"
+        ],
+        "bingzheng": [],
+        "zhengzhuang": [],
+        "fangming": [],
+        "yaoming": [
+          "巴豆"
+        ],
+        "xuewei": [],
+        "jingluo": [],
+        "siqi": [
+          "温"
+        ],
+        "wuwei": [
+          "辛"
+        ],
+        "guijing": [
+          "胃经",
+          "大肠经"
+        ],
+        "keywords": [
+          "下经",
+          "峻下",
+          "冷积",
+          "大毒"
+        ]
+      }
+    },
+    {
       "id": "snb_baihe_001",
       "book": "神农本草经",
       "type": "yaowu",
@@ -13118,6 +13163,52 @@
           "中经",
           "养阴润肺",
           "清心安神"
+        ]
+      }
+    },
+    {
+      "id": "snb_baiji_001",
+      "book": "神农本草经",
+      "type": "yaowu",
+      "tier": 2,
+      "category": "jingdian",
+      "subcategory": "bencao",
+      "path": "library\\jingdian\\bencao\\shennong\\snb_baiji_001.md",
+      "weight": 7,
+      "title": "白及",
+      "chapter": "下经",
+      "conditions": {
+        "zhengxing": [],
+        "zhifa": [
+          "收敛止血",
+          "消肿生肌"
+        ],
+        "bingzheng": [],
+        "zhengzhuang": [],
+        "fangming": [],
+        "yaoming": [
+          "白及"
+        ],
+        "xuewei": [],
+        "jingluo": [],
+        "siqi": [
+          "微寒"
+        ],
+        "wuwei": [
+          "苦",
+          "甘",
+          "涩"
+        ],
+        "guijing": [
+          "肺经",
+          "肝经",
+          "胃经"
+        ],
+        "keywords": [
+          "下经",
+          "止血",
+          "生肌",
+          "消肿"
         ]
       }
     },
@@ -13164,6 +13255,52 @@
           "清热解毒",
           "消痈排脓",
           "祛瘀止痛"
+        ]
+      }
+    },
+    {
+      "id": "snb_bailian_001",
+      "book": "神农本草经",
+      "type": "yaowu",
+      "tier": 2,
+      "category": "jingdian",
+      "subcategory": "bencao",
+      "path": "library\\jingdian\\bencao\\shennong\\snb_bailian_001.md",
+      "weight": 6,
+      "title": "白蔹",
+      "chapter": "下经",
+      "conditions": {
+        "zhengxing": [],
+        "zhifa": [
+          "清热解毒",
+          "消痈散结",
+          "生肌止痛"
+        ],
+        "bingzheng": [],
+        "zhengzhuang": [],
+        "fangming": [],
+        "yaoming": [
+          "白蔹"
+        ],
+        "xuewei": [],
+        "jingluo": [],
+        "siqi": [
+          "平"
+        ],
+        "wuwei": [
+          "苦",
+          "辛",
+          "甘"
+        ],
+        "guijing": [
+          "心经",
+          "胃经"
+        ],
+        "keywords": [
+          "下经",
+          "消痈",
+          "散结",
+          "生肌"
         ]
       }
     },
@@ -13344,6 +13481,96 @@
       }
     },
     {
+      "id": "snb_banmao_001",
+      "book": "神农本草经",
+      "type": "yaowu",
+      "tier": 2,
+      "category": "jingdian",
+      "subcategory": "bencao",
+      "path": "library\\jingdian\\bencao\\shennong\\snb_banmao_001.md",
+      "weight": 6,
+      "title": "斑蝥",
+      "chapter": "下经",
+      "conditions": {
+        "zhengxing": [],
+        "zhifa": [
+          "破血消癥",
+          "攻毒蚀疮",
+          "发泡"
+        ],
+        "bingzheng": [],
+        "zhengzhuang": [],
+        "fangming": [],
+        "yaoming": [
+          "斑蝥"
+        ],
+        "xuewei": [],
+        "jingluo": [],
+        "siqi": [
+          "寒"
+        ],
+        "wuwei": [
+          "辛"
+        ],
+        "guijing": [
+          "肝经",
+          "胃经",
+          "肾经"
+        ],
+        "keywords": [
+          "下经",
+          "破血",
+          "蚀疮",
+          "大毒"
+        ]
+      }
+    },
+    {
+      "id": "snb_banxia_001",
+      "book": "神农本草经",
+      "type": "yaowu",
+      "tier": 1,
+      "category": "jingdian",
+      "subcategory": "bencao",
+      "path": "library\\jingdian\\bencao\\shennong\\snb_banxia_001.md",
+      "weight": 9,
+      "title": "半夏",
+      "chapter": "下经",
+      "conditions": {
+        "zhengxing": [],
+        "zhifa": [
+          "燥湿化痰",
+          "降逆止呕",
+          "消痞散结"
+        ],
+        "bingzheng": [],
+        "zhengzhuang": [],
+        "fangming": [],
+        "yaoming": [
+          "半夏"
+        ],
+        "xuewei": [],
+        "jingluo": [],
+        "siqi": [
+          "平"
+        ],
+        "wuwei": [
+          "辛"
+        ],
+        "guijing": [
+          "脾经",
+          "胃经",
+          "肺经"
+        ],
+        "keywords": [
+          "下经",
+          "化痰",
+          "止呕",
+          "有毒"
+        ]
+      }
+    },
+    {
       "id": "snb_beimu_001",
       "book": "神农本草经",
       "type": "yaowu",
@@ -13519,6 +13746,50 @@
       }
     },
     {
+      "id": "snb_changshan_001",
+      "book": "神农本草经",
+      "type": "yaowu",
+      "tier": 2,
+      "category": "jingdian",
+      "subcategory": "bencao",
+      "path": "library\\jingdian\\bencao\\shennong\\snb_changshan_001.md",
+      "weight": 7,
+      "title": "常山",
+      "chapter": "下经",
+      "conditions": {
+        "zhengxing": [],
+        "zhifa": [
+          "涌吐痰涎",
+          "截疟"
+        ],
+        "bingzheng": [],
+        "zhengzhuang": [],
+        "fangming": [],
+        "yaoming": [
+          "常山"
+        ],
+        "xuewei": [],
+        "jingluo": [],
+        "siqi": [
+          "寒"
+        ],
+        "wuwei": [
+          "苦",
+          "辛"
+        ],
+        "guijing": [
+          "肺经",
+          "心肝经"
+        ],
+        "keywords": [
+          "下经",
+          "截疟",
+          "涌吐",
+          "有毒"
+        ]
+      }
+    },
+    {
       "id": "snb_chixiaodou_001",
       "book": "神农本草经",
       "type": "yaowu",
@@ -13600,6 +13871,98 @@
           "中经",
           "清热利湿",
           "解表祛暑"
+        ]
+      }
+    },
+    {
+      "id": "snb_dahuang_001",
+      "book": "神农本草经",
+      "type": "yaowu",
+      "tier": 1,
+      "category": "jingdian",
+      "subcategory": "bencao",
+      "path": "library\\jingdian\\bencao\\shennong\\snb_dahuang_001.md",
+      "weight": 9,
+      "title": "大黄",
+      "chapter": "下经",
+      "conditions": {
+        "zhengxing": [],
+        "zhifa": [
+          "泻下攻积",
+          "清热泻火",
+          "逐瘀通经",
+          "凉血解毒"
+        ],
+        "bingzheng": [],
+        "zhengzhuang": [],
+        "fangming": [],
+        "yaoming": [
+          "大黄"
+        ],
+        "xuewei": [],
+        "jingluo": [],
+        "siqi": [
+          "寒"
+        ],
+        "wuwei": [
+          "苦"
+        ],
+        "guijing": [
+          "脾经",
+          "胃经",
+          "大肠经",
+          "肝经",
+          "心包经"
+        ],
+        "keywords": [
+          "下经",
+          "泻下",
+          "攻积",
+          "逐瘀"
+        ]
+      }
+    },
+    {
+      "id": "snb_daji_001",
+      "book": "神农本草经",
+      "type": "yaowu",
+      "tier": 1,
+      "category": "jingdian",
+      "subcategory": "bencao",
+      "path": "library\\jingdian\\bencao\\shennong\\snb_daji_001.md",
+      "weight": 8,
+      "title": "大戟",
+      "chapter": "下经",
+      "conditions": {
+        "zhengxing": [],
+        "zhifa": [
+          "泻水逐饮",
+          "消肿散结"
+        ],
+        "bingzheng": [],
+        "zhengzhuang": [],
+        "fangming": [],
+        "yaoming": [
+          "大戟"
+        ],
+        "xuewei": [],
+        "jingluo": [],
+        "siqi": [
+          "寒"
+        ],
+        "wuwei": [
+          "苦"
+        ],
+        "guijing": [
+          "肺经",
+          "肾经",
+          "大肠经"
+        ],
+        "keywords": [
+          "下经",
+          "逐水",
+          "峻下",
+          "有毒"
         ]
       }
     },
@@ -13732,6 +14095,48 @@
           "上经",
           "补虚",
           "药食"
+        ]
+      }
+    },
+    {
+      "id": "snb_didan_001",
+      "book": "神农本草经",
+      "type": "yaowu",
+      "tier": 3,
+      "category": "jingdian",
+      "subcategory": "bencao",
+      "path": "library\\jingdian\\bencao\\shennong\\snb_didan_001.md",
+      "weight": 4,
+      "title": "地胆",
+      "chapter": "下经",
+      "conditions": {
+        "zhengxing": [],
+        "zhifa": [
+          "攻毒逐瘀",
+          "消癥堕胎"
+        ],
+        "bingzheng": [],
+        "zhengzhuang": [],
+        "fangming": [],
+        "yaoming": [
+          "地胆"
+        ],
+        "xuewei": [],
+        "jingluo": [],
+        "siqi": [
+          "寒"
+        ],
+        "wuwei": [
+          "辛"
+        ],
+        "guijing": [
+          "肝经"
+        ],
+        "keywords": [
+          "下经",
+          "逐瘀",
+          "蚀疮",
+          "有毒"
         ]
       }
     },
@@ -13956,6 +14361,91 @@
       }
     },
     {
+      "id": "snb_feimeng_001",
+      "book": "神农本草经",
+      "type": "yaowu",
+      "tier": 2,
+      "category": "jingdian",
+      "subcategory": "bencao",
+      "path": "library\\jingdian\\bencao\\shennong\\snb_feimeng_001.md",
+      "weight": 5,
+      "title": "蜚虻",
+      "chapter": "下经",
+      "conditions": {
+        "zhengxing": [],
+        "zhifa": [
+          "破血逐瘀",
+          "消癥通经"
+        ],
+        "bingzheng": [],
+        "zhengzhuang": [],
+        "fangming": [],
+        "yaoming": [
+          "蜚虻",
+          "虻虫"
+        ],
+        "xuewei": [],
+        "jingluo": [],
+        "siqi": [
+          "微寒"
+        ],
+        "wuwei": [
+          "苦"
+        ],
+        "guijing": [
+          "肝经"
+        ],
+        "keywords": [
+          "下经",
+          "破血",
+          "消癥",
+          "虫类"
+        ]
+      }
+    },
+    {
+      "id": "snb_fubi_001",
+      "book": "神农本草经",
+      "type": "yaowu",
+      "tier": 3,
+      "category": "jingdian",
+      "subcategory": "bencao",
+      "path": "library\\jingdian\\bencao\\shennong\\snb_fubi_001.md",
+      "weight": 4,
+      "title": "腐婢",
+      "chapter": "下经",
+      "conditions": {
+        "zhengxing": [],
+        "zhifa": [
+          "截疟",
+          "清热止痢",
+          "解酒"
+        ],
+        "bingzheng": [],
+        "zhengzhuang": [],
+        "fangming": [],
+        "yaoming": [
+          "腐婢"
+        ],
+        "xuewei": [],
+        "jingluo": [],
+        "siqi": [
+          "平"
+        ],
+        "wuwei": [
+          "辛"
+        ],
+        "guijing": [
+          "肝经"
+        ],
+        "keywords": [
+          "下经",
+          "截疟",
+          "止痢"
+        ]
+      }
+    },
+    {
       "id": "snb_fuling_001",
       "book": "神农本草经",
       "type": "yaowu",
@@ -14035,6 +14525,53 @@
         "keywords": [
           "上经",
           "安神"
+        ]
+      }
+    },
+    {
+      "id": "snb_fuzi_001",
+      "book": "神农本草经",
+      "type": "yaowu",
+      "tier": 1,
+      "category": "jingdian",
+      "subcategory": "bencao",
+      "path": "library\\jingdian\\bencao\\shennong\\snb_fuzi_001.md",
+      "weight": 9,
+      "title": "附子",
+      "chapter": "下经",
+      "conditions": {
+        "zhengxing": [],
+        "zhifa": [
+          "回阳救逆",
+          "补火助阳",
+          "散寒止痛"
+        ],
+        "bingzheng": [],
+        "zhengzhuang": [],
+        "fangming": [],
+        "yaoming": [
+          "附子"
+        ],
+        "xuewei": [],
+        "jingluo": [],
+        "siqi": [
+          "温",
+          "大热"
+        ],
+        "wuwei": [
+          "辛",
+          "甘"
+        ],
+        "guijing": [
+          "心经",
+          "肾经",
+          "脾经"
+        ],
+        "keywords": [
+          "下经",
+          "回阳",
+          "温里",
+          "有毒"
         ]
       }
     },
@@ -14174,6 +14711,51 @@
       }
     },
     {
+      "id": "snb_gansui_001",
+      "book": "神农本草经",
+      "type": "yaowu",
+      "tier": 1,
+      "category": "jingdian",
+      "subcategory": "bencao",
+      "path": "library\\jingdian\\bencao\\shennong\\snb_gansui_001.md",
+      "weight": 8,
+      "title": "甘遂",
+      "chapter": "下经",
+      "conditions": {
+        "zhengxing": [],
+        "zhifa": [
+          "泻水逐饮",
+          "消肿散结"
+        ],
+        "bingzheng": [],
+        "zhengzhuang": [],
+        "fangming": [],
+        "yaoming": [
+          "甘遂"
+        ],
+        "xuewei": [],
+        "jingluo": [],
+        "siqi": [
+          "寒"
+        ],
+        "wuwei": [
+          "苦",
+          "甘"
+        ],
+        "guijing": [
+          "肺经",
+          "肾经",
+          "大肠经"
+        ],
+        "keywords": [
+          "下经",
+          "逐水",
+          "峻下",
+          "有毒"
+        ]
+      }
+    },
+    {
       "id": "snb_gegen_001",
       "book": "神农本草经",
       "type": "yaowu",
@@ -14262,6 +14844,48 @@
       }
     },
     {
+      "id": "snb_gouwen_001",
+      "book": "神农本草经",
+      "type": "yaowu",
+      "tier": 2,
+      "category": "jingdian",
+      "subcategory": "bencao",
+      "path": "library\\jingdian\\bencao\\shennong\\snb_gouwen_001.md",
+      "weight": 5,
+      "title": "钩吻",
+      "chapter": "下经",
+      "conditions": {
+        "zhengxing": [],
+        "zhifa": [
+          "祛风杀虫",
+          "消肿拔毒"
+        ],
+        "bingzheng": [],
+        "zhengzhuang": [],
+        "fangming": [],
+        "yaoming": [
+          "钩吻"
+        ],
+        "xuewei": [],
+        "jingluo": [],
+        "siqi": [
+          "温"
+        ],
+        "wuwei": [
+          "辛"
+        ],
+        "guijing": [
+          "肝经"
+        ],
+        "keywords": [
+          "下经",
+          "杀虫",
+          "外用",
+          "大毒"
+        ]
+      }
+    },
+    {
       "id": "snb_gualougen_001",
       "book": "神农本草经",
       "type": "yaowu",
@@ -14302,6 +14926,50 @@
           "生津",
           "清热",
           "消肿排脓"
+        ]
+      }
+    },
+    {
+      "id": "snb_guanzhong_001",
+      "book": "神农本草经",
+      "type": "yaowu",
+      "tier": 2,
+      "category": "jingdian",
+      "subcategory": "bencao",
+      "path": "library\\jingdian\\bencao\\shennong\\snb_guanzhong_001.md",
+      "weight": 7,
+      "title": "贯众",
+      "chapter": "下经",
+      "conditions": {
+        "zhengxing": [],
+        "zhifa": [
+          "清热解毒",
+          "凉血止血",
+          "杀虫"
+        ],
+        "bingzheng": [],
+        "zhengzhuang": [],
+        "fangming": [],
+        "yaoming": [
+          "贯众"
+        ],
+        "xuewei": [],
+        "jingluo": [],
+        "siqi": [
+          "微寒"
+        ],
+        "wuwei": [
+          "苦"
+        ],
+        "guijing": [
+          "肝经",
+          "脾经"
+        ],
+        "keywords": [
+          "下经",
+          "解毒",
+          "杀虫",
+          "止血"
         ]
       }
     },
@@ -14614,6 +15282,140 @@
       }
     },
     {
+      "id": "snb_huzhang_001",
+      "book": "神农本草经",
+      "type": "yaowu",
+      "tier": 2,
+      "category": "jingdian",
+      "subcategory": "bencao",
+      "path": "library\\jingdian\\bencao\\shennong\\snb_huzhang_001.md",
+      "weight": 6,
+      "title": "虎掌",
+      "chapter": "下经",
+      "conditions": {
+        "zhengxing": [],
+        "zhifa": [
+          "燥湿化痰",
+          "祛风定惊",
+          "散结"
+        ],
+        "bingzheng": [],
+        "zhengzhuang": [],
+        "fangming": [],
+        "yaoming": [
+          "虎掌"
+        ],
+        "xuewei": [],
+        "jingluo": [],
+        "siqi": [
+          "温"
+        ],
+        "wuwei": [
+          "苦"
+        ],
+        "guijing": [
+          "肺经",
+          "肝经",
+          "脾经"
+        ],
+        "keywords": [
+          "下经",
+          "化痰",
+          "祛风",
+          "有毒"
+        ]
+      }
+    },
+    {
+      "id": "snb_jiasu_001",
+      "book": "神农本草经",
+      "type": "yaowu",
+      "tier": 2,
+      "category": "jingdian",
+      "subcategory": "bencao",
+      "path": "library\\jingdian\\bencao\\shennong\\snb_jiasu_001.md",
+      "weight": 6,
+      "title": "假苏",
+      "chapter": "下经",
+      "conditions": {
+        "zhengxing": [],
+        "zhifa": [
+          "祛风解表",
+          "透疹止痒",
+          "炒炭止血"
+        ],
+        "bingzheng": [],
+        "zhengzhuang": [],
+        "fangming": [],
+        "yaoming": [
+          "假苏",
+          "荆芥"
+        ],
+        "xuewei": [],
+        "jingluo": [],
+        "siqi": [
+          "温"
+        ],
+        "wuwei": [
+          "辛"
+        ],
+        "guijing": [
+          "肺经",
+          "肝经"
+        ],
+        "keywords": [
+          "下经",
+          "解表",
+          "透疹",
+          "止血"
+        ]
+      }
+    },
+    {
+      "id": "snb_jiegeng_001",
+      "book": "神农本草经",
+      "type": "yaowu",
+      "tier": 1,
+      "category": "jingdian",
+      "subcategory": "bencao",
+      "path": "library\\jingdian\\bencao\\shennong\\snb_jiegeng_001.md",
+      "weight": 8,
+      "title": "桔梗",
+      "chapter": "下经",
+      "conditions": {
+        "zhengxing": [],
+        "zhifa": [
+          "宣肺利咽",
+          "祛痰排脓",
+          "载药上行"
+        ],
+        "bingzheng": [],
+        "zhengzhuang": [],
+        "fangming": [],
+        "yaoming": [
+          "桔梗"
+        ],
+        "xuewei": [],
+        "jingluo": [],
+        "siqi": [
+          "微温"
+        ],
+        "wuwei": [
+          "辛",
+          "苦"
+        ],
+        "guijing": [
+          "肺经"
+        ],
+        "keywords": [
+          "下经",
+          "宣肺",
+          "祛痰",
+          "利咽"
+        ]
+      }
+    },
+    {
       "id": "snb_juanbai_001",
       "book": "神农本草经",
       "type": "yaowu",
@@ -14739,6 +15541,49 @@
       }
     },
     {
+      "id": "snb_kuoyu_001",
+      "book": "神农本草经",
+      "type": "yaowu",
+      "tier": 3,
+      "category": "jingdian",
+      "subcategory": "bencao",
+      "path": "library\\jingdian\\bencao\\shennong\\snb_kuoyu_001.md",
+      "weight": 3,
+      "title": "蛞蝓",
+      "chapter": "下经",
+      "conditions": {
+        "zhengxing": [],
+        "zhifa": [
+          "清热祛风",
+          "消肿解毒",
+          "平喘"
+        ],
+        "bingzheng": [],
+        "zhengzhuang": [],
+        "fangming": [],
+        "yaoming": [
+          "蛞蝓"
+        ],
+        "xuewei": [],
+        "jingluo": [],
+        "siqi": [
+          "寒"
+        ],
+        "wuwei": [
+          "咸"
+        ],
+        "guijing": [
+          "肝经"
+        ],
+        "keywords": [
+          "下经",
+          "清热",
+          "解毒",
+          "虫类"
+        ]
+      }
+    },
+    {
       "id": "snb_kushen_001",
       "book": "神农本草经",
       "type": "yaowu",
@@ -14824,6 +15669,183 @@
           "上经",
           "化湿",
           "药食"
+        ]
+      }
+    },
+    {
+      "id": "snb_langdangzi_001",
+      "book": "神农本草经",
+      "type": "yaowu",
+      "tier": 2,
+      "category": "jingdian",
+      "subcategory": "bencao",
+      "path": "library\\jingdian\\bencao\\shennong\\snb_langdangzi_001.md",
+      "weight": 6,
+      "title": "莨菪子",
+      "chapter": "下经",
+      "conditions": {
+        "zhengxing": [],
+        "zhifa": [
+          "解痉止痛",
+          "平喘止咳",
+          "安神定痫"
+        ],
+        "bingzheng": [],
+        "zhengzhuang": [],
+        "fangming": [],
+        "yaoming": [
+          "莨菪子"
+        ],
+        "xuewei": [],
+        "jingluo": [],
+        "siqi": [
+          "寒"
+        ],
+        "wuwei": [
+          "苦"
+        ],
+        "guijing": [
+          "心经",
+          "肝经",
+          "肺经"
+        ],
+        "keywords": [
+          "下经",
+          "解痉",
+          "定痛",
+          "大毒"
+        ]
+      }
+    },
+    {
+      "id": "snb_leiwan_001",
+      "book": "神农本草经",
+      "type": "yaowu",
+      "tier": 2,
+      "category": "jingdian",
+      "subcategory": "bencao",
+      "path": "library\\jingdian\\bencao\\shennong\\snb_leiwan_001.md",
+      "weight": 6,
+      "title": "雷丸",
+      "chapter": "下经",
+      "conditions": {
+        "zhengxing": [],
+        "zhifa": [
+          "杀虫消积",
+          "消疳"
+        ],
+        "bingzheng": [],
+        "zhengzhuang": [],
+        "fangming": [],
+        "yaoming": [
+          "雷丸"
+        ],
+        "xuewei": [],
+        "jingluo": [],
+        "siqi": [
+          "寒"
+        ],
+        "wuwei": [
+          "咸",
+          "苦"
+        ],
+        "guijing": [
+          "胃经",
+          "大肠经"
+        ],
+        "keywords": [
+          "下经",
+          "杀虫",
+          "消积"
+        ]
+      }
+    },
+    {
+      "id": "snb_lianqiao_001",
+      "book": "神农本草经",
+      "type": "yaowu",
+      "tier": 1,
+      "category": "jingdian",
+      "subcategory": "bencao",
+      "path": "library\\jingdian\\bencao\\shennong\\snb_lianqiao_001.md",
+      "weight": 8,
+      "title": "连翘",
+      "chapter": "下经",
+      "conditions": {
+        "zhengxing": [],
+        "zhifa": [
+          "清热解毒",
+          "消肿散结",
+          "疏散风热"
+        ],
+        "bingzheng": [],
+        "zhengzhuang": [],
+        "fangming": [],
+        "yaoming": [
+          "连翘"
+        ],
+        "xuewei": [],
+        "jingluo": [],
+        "siqi": [
+          "平"
+        ],
+        "wuwei": [
+          "苦"
+        ],
+        "guijing": [
+          "肺经",
+          "心经",
+          "小肠经"
+        ],
+        "keywords": [
+          "下经",
+          "清热",
+          "散结",
+          "疮家圣药"
+        ]
+      }
+    },
+    {
+      "id": "snb_lilu_001",
+      "book": "神农本草经",
+      "type": "yaowu",
+      "tier": 2,
+      "category": "jingdian",
+      "subcategory": "bencao",
+      "path": "library\\jingdian\\bencao\\shennong\\snb_lilu_001.md",
+      "weight": 7,
+      "title": "藜芦",
+      "chapter": "下经",
+      "conditions": {
+        "zhengxing": [],
+        "zhifa": [
+          "涌吐风痰",
+          "杀虫止痒"
+        ],
+        "bingzheng": [],
+        "zhengzhuang": [],
+        "fangming": [],
+        "yaoming": [
+          "藜芦"
+        ],
+        "xuewei": [],
+        "jingluo": [],
+        "siqi": [
+          "寒"
+        ],
+        "wuwei": [
+          "辛",
+          "苦"
+        ],
+        "guijing": [
+          "肺经",
+          "胃经"
+        ],
+        "keywords": [
+          "下经",
+          "涌吐",
+          "杀虫",
+          "大毒"
         ]
       }
     },
@@ -15045,6 +16067,49 @@
       }
     },
     {
+      "id": "snb_luru_001",
+      "book": "神农本草经",
+      "type": "yaowu",
+      "tier": 3,
+      "category": "jingdian",
+      "subcategory": "bencao",
+      "path": "library\\jingdian\\bencao\\shennong\\snb_luru_001.md",
+      "weight": 4,
+      "title": "闾茹",
+      "chapter": "下经",
+      "conditions": {
+        "zhengxing": [],
+        "zhifa": [
+          "蚀恶肉",
+          "排脓止血",
+          "杀虫"
+        ],
+        "bingzheng": [],
+        "zhengzhuang": [],
+        "fangming": [],
+        "yaoming": [
+          "闾茹"
+        ],
+        "xuewei": [],
+        "jingluo": [],
+        "siqi": [
+          "寒"
+        ],
+        "wuwei": [
+          "辛"
+        ],
+        "guijing": [
+          "肝经"
+        ],
+        "keywords": [
+          "下经",
+          "蚀疮",
+          "排脓",
+          "有毒"
+        ]
+      }
+    },
+    {
       "id": "snb_maben_001",
       "book": "神农本草经",
       "type": "yaowu",
@@ -15216,6 +16281,91 @@
           "上经",
           "补虚",
           "养阴"
+        ]
+      }
+    },
+    {
+      "id": "snb_malu_001",
+      "book": "神农本草经",
+      "type": "yaowu",
+      "tier": 3,
+      "category": "jingdian",
+      "subcategory": "bencao",
+      "path": "library\\jingdian\\bencao\\shennong\\snb_malu_001.md",
+      "weight": 3,
+      "title": "马陆",
+      "chapter": "下经",
+      "conditions": {
+        "zhengxing": [],
+        "zhifa": [
+          "破积解毒",
+          "和疮"
+        ],
+        "bingzheng": [],
+        "zhengzhuang": [],
+        "fangming": [],
+        "yaoming": [
+          "马陆"
+        ],
+        "xuewei": [],
+        "jingluo": [],
+        "siqi": [
+          "温"
+        ],
+        "wuwei": [
+          "辛"
+        ],
+        "guijing": [
+          "心经"
+        ],
+        "keywords": [
+          "下经",
+          "破积",
+          "解毒",
+          "有毒"
+        ]
+      }
+    },
+    {
+      "id": "snb_mangcao_001",
+      "book": "神农本草经",
+      "type": "yaowu",
+      "tier": 2,
+      "category": "jingdian",
+      "subcategory": "bencao",
+      "path": "library\\jingdian\\bencao\\shennong\\snb_mangcao_001.md",
+      "weight": 5,
+      "title": "莽草",
+      "chapter": "下经",
+      "conditions": {
+        "zhengxing": [],
+        "zhifa": [
+          "祛风止痛",
+          "杀虫止痒",
+          "散结"
+        ],
+        "bingzheng": [],
+        "zhengzhuang": [],
+        "fangming": [],
+        "yaoming": [
+          "莽草"
+        ],
+        "xuewei": [],
+        "jingluo": [],
+        "siqi": [
+          "温"
+        ],
+        "wuwei": [
+          "辛"
+        ],
+        "guijing": [
+          "肝经"
+        ],
+        "keywords": [
+          "下经",
+          "祛风",
+          "杀虫",
+          "有毒"
         ]
       }
     },
@@ -15571,6 +16721,137 @@
       }
     },
     {
+      "id": "snb_qianglang_001",
+      "book": "神农本草经",
+      "type": "yaowu",
+      "tier": 3,
+      "category": "jingdian",
+      "subcategory": "bencao",
+      "path": "library\\jingdian\\bencao\\shennong\\snb_qianglang_001.md",
+      "weight": 4,
+      "title": "蜣螂",
+      "chapter": "下经",
+      "conditions": {
+        "zhengxing": [],
+        "zhifa": [
+          "定惊止痉",
+          "破瘀散结",
+          "通便"
+        ],
+        "bingzheng": [],
+        "zhengzhuang": [],
+        "fangming": [],
+        "yaoming": [
+          "蜣螂"
+        ],
+        "xuewei": [],
+        "jingluo": [],
+        "siqi": [
+          "寒"
+        ],
+        "wuwei": [
+          "咸"
+        ],
+        "guijing": [
+          "肝经",
+          "胃经",
+          "大肠经"
+        ],
+        "keywords": [
+          "下经",
+          "定惊",
+          "破瘀",
+          "虫类"
+        ]
+      }
+    },
+    {
+      "id": "snb_qicao_001",
+      "book": "神农本草经",
+      "type": "yaowu",
+      "tier": 3,
+      "category": "jingdian",
+      "subcategory": "bencao",
+      "path": "library\\jingdian\\bencao\\shennong\\snb_qicao_001.md",
+      "weight": 4,
+      "title": "蛴螬",
+      "chapter": "下经",
+      "conditions": {
+        "zhengxing": [],
+        "zhifa": [
+          "破瘀通经",
+          "散结止痛",
+          "明目"
+        ],
+        "bingzheng": [],
+        "zhengzhuang": [],
+        "fangming": [],
+        "yaoming": [
+          "蛴螬"
+        ],
+        "xuewei": [],
+        "jingluo": [],
+        "siqi": [
+          "微温"
+        ],
+        "wuwei": [
+          "咸"
+        ],
+        "guijing": [
+          "肝经"
+        ],
+        "keywords": [
+          "下经",
+          "破瘀",
+          "通经",
+          "虫类"
+        ]
+      }
+    },
+    {
+      "id": "snb_qingxiang_001",
+      "book": "神农本草经",
+      "type": "yaowu",
+      "tier": 2,
+      "category": "jingdian",
+      "subcategory": "bencao",
+      "path": "library\\jingdian\\bencao\\shennong\\snb_qingxiang_001.md",
+      "weight": 6,
+      "title": "青葙",
+      "chapter": "下经",
+      "conditions": {
+        "zhengxing": [],
+        "zhifa": [
+          "清肝泻火",
+          "明目退翳",
+          "杀虫"
+        ],
+        "bingzheng": [],
+        "zhengzhuang": [],
+        "fangming": [],
+        "yaoming": [
+          "青葙"
+        ],
+        "xuewei": [],
+        "jingluo": [],
+        "siqi": [
+          "微寒"
+        ],
+        "wuwei": [
+          "苦"
+        ],
+        "guijing": [
+          "肝经"
+        ],
+        "keywords": [
+          "下经",
+          "明目",
+          "清肝",
+          "退翳"
+        ]
+      }
+    },
+    {
       "id": "snb_qinpi_001",
       "book": "神农本草经",
       "type": "yaowu",
@@ -15831,6 +17112,50 @@
       }
     },
     {
+      "id": "snb_shanglu_001",
+      "book": "神农本草经",
+      "type": "yaowu",
+      "tier": 2,
+      "category": "jingdian",
+      "subcategory": "bencao",
+      "path": "library\\jingdian\\bencao\\shennong\\snb_shanglu_001.md",
+      "weight": 7,
+      "title": "商陆",
+      "chapter": "下经",
+      "conditions": {
+        "zhengxing": [],
+        "zhifa": [
+          "逐水消肿",
+          "散结解毒"
+        ],
+        "bingzheng": [],
+        "zhengzhuang": [],
+        "fangming": [],
+        "yaoming": [
+          "商陆"
+        ],
+        "xuewei": [],
+        "jingluo": [],
+        "siqi": [
+          "平"
+        ],
+        "wuwei": [
+          "辛"
+        ],
+        "guijing": [
+          "肺经",
+          "脾经",
+          "肾经",
+          "大肠经"
+        ],
+        "keywords": [
+          "下经",
+          "逐水",
+          "有毒"
+        ]
+      }
+    },
+    {
       "id": "snb_shaoyao_001",
       "book": "神农本草经",
       "type": "yaowu",
@@ -15960,6 +17285,49 @@
       }
     },
     {
+      "id": "snb_shegan_001",
+      "book": "神农本草经",
+      "type": "yaowu",
+      "tier": 2,
+      "category": "jingdian",
+      "subcategory": "bencao",
+      "path": "library\\jingdian\\bencao\\shennong\\snb_shegan_001.md",
+      "weight": 7,
+      "title": "射干",
+      "chapter": "下经",
+      "conditions": {
+        "zhengxing": [],
+        "zhifa": [
+          "清热解毒",
+          "利咽消痰",
+          "散结"
+        ],
+        "bingzheng": [],
+        "zhengzhuang": [],
+        "fangming": [],
+        "yaoming": [
+          "射干"
+        ],
+        "xuewei": [],
+        "jingluo": [],
+        "siqi": [
+          "平"
+        ],
+        "wuwei": [
+          "苦"
+        ],
+        "guijing": [
+          "肺经"
+        ],
+        "keywords": [
+          "下经",
+          "利咽",
+          "消痰",
+          "散结"
+        ]
+      }
+    },
+    {
       "id": "snb_shengma_001",
       "book": "神农本草经",
       "type": "yaowu",
@@ -16048,6 +17416,49 @@
       }
     },
     {
+      "id": "snb_shilongzi_001",
+      "book": "神农本草经",
+      "type": "yaowu",
+      "tier": 3,
+      "category": "jingdian",
+      "subcategory": "bencao",
+      "path": "library\\jingdian\\bencao\\shennong\\snb_shilongzi_001.md",
+      "weight": 3,
+      "title": "石龙子",
+      "chapter": "下经",
+      "conditions": {
+        "zhengxing": [],
+        "zhifa": [
+          "破结利水",
+          "破血通淋"
+        ],
+        "bingzheng": [],
+        "zhengzhuang": [],
+        "fangming": [],
+        "yaoming": [
+          "石龙子"
+        ],
+        "xuewei": [],
+        "jingluo": [],
+        "siqi": [
+          "寒"
+        ],
+        "wuwei": [
+          "咸"
+        ],
+        "guijing": [
+          "肾经",
+          "膀胱经"
+        ],
+        "keywords": [
+          "下经",
+          "通淋",
+          "破结",
+          "虫类"
+        ]
+      }
+    },
+    {
       "id": "snb_shimi_001",
       "book": "神农本草经",
       "type": "yaowu",
@@ -16088,6 +17499,179 @@
           "上经",
           "补虚",
           "药食"
+        ]
+      }
+    },
+    {
+      "id": "snb_shufu_001",
+      "book": "神农本草经",
+      "type": "yaowu",
+      "tier": 3,
+      "category": "jingdian",
+      "subcategory": "bencao",
+      "path": "library\\jingdian\\bencao\\shennong\\snb_shufu_001.md",
+      "weight": 3,
+      "title": "鼠妇",
+      "chapter": "下经",
+      "conditions": {
+        "zhengxing": [],
+        "zhifa": [
+          "破血通经",
+          "利水通淋",
+          "平喘"
+        ],
+        "bingzheng": [],
+        "zhengzhuang": [],
+        "fangming": [],
+        "yaoming": [
+          "鼠妇"
+        ],
+        "xuewei": [],
+        "jingluo": [],
+        "siqi": [
+          "温"
+        ],
+        "wuwei": [
+          "咸"
+        ],
+        "guijing": [
+          "肝经"
+        ],
+        "keywords": [
+          "下经",
+          "破血",
+          "通淋",
+          "虫类"
+        ]
+      }
+    },
+    {
+      "id": "snb_shuiping_001",
+      "book": "神农本草经",
+      "type": "yaowu",
+      "tier": 2,
+      "category": "jingdian",
+      "subcategory": "bencao",
+      "path": "library\\jingdian\\bencao\\shennong\\snb_shuiping_001.md",
+      "weight": 5,
+      "title": "水萍",
+      "chapter": "下经",
+      "conditions": {
+        "zhengxing": [],
+        "zhifa": [
+          "发汗解表",
+          "透疹止痒",
+          "利水消肿"
+        ],
+        "bingzheng": [],
+        "zhengzhuang": [],
+        "fangming": [],
+        "yaoming": [
+          "水萍",
+          "浮萍"
+        ],
+        "xuewei": [],
+        "jingluo": [],
+        "siqi": [
+          "寒"
+        ],
+        "wuwei": [
+          "辛"
+        ],
+        "guijing": [
+          "肺经",
+          "膀胱经"
+        ],
+        "keywords": [
+          "下经",
+          "发汗",
+          "透疹",
+          "利水"
+        ]
+      }
+    },
+    {
+      "id": "snb_shuizhi_001",
+      "book": "神农本草经",
+      "type": "yaowu",
+      "tier": 2,
+      "category": "jingdian",
+      "subcategory": "bencao",
+      "path": "library\\jingdian\\bencao\\shennong\\snb_shuizhi_001.md",
+      "weight": 6,
+      "title": "水蛭",
+      "chapter": "下经",
+      "conditions": {
+        "zhengxing": [],
+        "zhifa": [
+          "破血通经",
+          "逐瘀消癥"
+        ],
+        "bingzheng": [],
+        "zhengzhuang": [],
+        "fangming": [],
+        "yaoming": [
+          "水蛭"
+        ],
+        "xuewei": [],
+        "jingluo": [],
+        "siqi": [
+          "平"
+        ],
+        "wuwei": [
+          "咸",
+          "苦"
+        ],
+        "guijing": [
+          "肝经"
+        ],
+        "keywords": [
+          "下经",
+          "破血",
+          "消癥",
+          "虫类"
+        ]
+      }
+    },
+    {
+      "id": "snb_shuqi_001",
+      "book": "神农本草经",
+      "type": "yaowu",
+      "tier": 2,
+      "category": "jingdian",
+      "subcategory": "bencao",
+      "path": "library\\jingdian\\bencao\\shennong\\snb_shuqi_001.md",
+      "weight": 6,
+      "title": "蜀漆",
+      "chapter": "下经",
+      "conditions": {
+        "zhengxing": [],
+        "zhifa": [
+          "祛痰截疟",
+          "散结"
+        ],
+        "bingzheng": [],
+        "zhengzhuang": [],
+        "fangming": [],
+        "yaoming": [
+          "蜀漆"
+        ],
+        "xuewei": [],
+        "jingluo": [],
+        "siqi": [
+          "平"
+        ],
+        "wuwei": [
+          "辛"
+        ],
+        "guijing": [
+          "肝经"
+        ],
+        "keywords": [
+          "下经",
+          "截疟",
+          "祛痰",
+          "有毒"
         ]
       }
     },
@@ -16306,6 +17890,94 @@
       }
     },
     {
+      "id": "snb_tianxiong_001",
+      "book": "神农本草经",
+      "type": "yaowu",
+      "tier": 2,
+      "category": "jingdian",
+      "subcategory": "bencao",
+      "path": "library\\jingdian\\bencao\\shennong\\snb_tianxiong_001.md",
+      "weight": 7,
+      "title": "天雄",
+      "chapter": "下经",
+      "conditions": {
+        "zhengxing": [],
+        "zhifa": [
+          "祛风散寒",
+          "益火助阳",
+          "强筋骨"
+        ],
+        "bingzheng": [],
+        "zhengzhuang": [],
+        "fangming": [],
+        "yaoming": [
+          "天雄"
+        ],
+        "xuewei": [],
+        "jingluo": [],
+        "siqi": [
+          "温"
+        ],
+        "wuwei": [
+          "辛"
+        ],
+        "guijing": [
+          "肝经",
+          "肾经"
+        ],
+        "keywords": [
+          "下经",
+          "祛风",
+          "温阳",
+          "有毒"
+        ]
+      }
+    },
+    {
+      "id": "snb_tingli_001",
+      "book": "神农本草经",
+      "type": "yaowu",
+      "tier": 2,
+      "category": "jingdian",
+      "subcategory": "bencao",
+      "path": "library\\jingdian\\bencao\\shennong\\snb_tingli_001.md",
+      "weight": 7,
+      "title": "葶苈",
+      "chapter": "下经",
+      "conditions": {
+        "zhengxing": [],
+        "zhifa": [
+          "泻肺平喘",
+          "行水消肿"
+        ],
+        "bingzheng": [],
+        "zhengzhuang": [],
+        "fangming": [],
+        "yaoming": [
+          "葶苈"
+        ],
+        "xuewei": [],
+        "jingluo": [],
+        "siqi": [
+          "寒"
+        ],
+        "wuwei": [
+          "辛",
+          "苦"
+        ],
+        "guijing": [
+          "肺经",
+          "膀胱经"
+        ],
+        "keywords": [
+          "下经",
+          "泻肺",
+          "平喘",
+          "逐水"
+        ]
+      }
+    },
+    {
       "id": "snb_tunluan_001",
       "book": "神农本草经",
       "type": "yaowu",
@@ -16393,6 +18065,50 @@
       }
     },
     {
+      "id": "snb_wangbuliuxing_001",
+      "book": "神农本草经",
+      "type": "yaowu",
+      "tier": 2,
+      "category": "jingdian",
+      "subcategory": "bencao",
+      "path": "library\\jingdian\\bencao\\shennong\\snb_wangbuliuxing_001.md",
+      "weight": 6,
+      "title": "王不留行",
+      "chapter": "下经",
+      "conditions": {
+        "zhengxing": [],
+        "zhifa": [
+          "活血通经",
+          "下乳消肿",
+          "利尿通淋"
+        ],
+        "bingzheng": [],
+        "zhengzhuang": [],
+        "fangming": [],
+        "yaoming": [
+          "王不留行"
+        ],
+        "xuewei": [],
+        "jingluo": [],
+        "siqi": [
+          "平"
+        ],
+        "wuwei": [
+          "苦"
+        ],
+        "guijing": [
+          "肝经",
+          "胃经"
+        ],
+        "keywords": [
+          "下经",
+          "活血",
+          "通乳",
+          "通淋"
+        ]
+      }
+    },
+    {
       "id": "snb_wujiapi_001",
       "book": "神农本草经",
       "type": "yaowu",
@@ -16439,6 +18155,52 @@
       }
     },
     {
+      "id": "snb_wutou_001",
+      "book": "神农本草经",
+      "type": "yaowu",
+      "tier": 1,
+      "category": "jingdian",
+      "subcategory": "bencao",
+      "path": "library\\jingdian\\bencao\\shennong\\snb_wutou_001.md",
+      "weight": 8,
+      "title": "乌头",
+      "chapter": "下经",
+      "conditions": {
+        "zhengxing": [],
+        "zhifa": [
+          "祛风除湿",
+          "温经止痛",
+          "散寒"
+        ],
+        "bingzheng": [],
+        "zhengzhuang": [],
+        "fangming": [],
+        "yaoming": [
+          "乌头"
+        ],
+        "xuewei": [],
+        "jingluo": [],
+        "siqi": [
+          "温"
+        ],
+        "wuwei": [
+          "辛"
+        ],
+        "guijing": [
+          "心经",
+          "肝经",
+          "肾经",
+          "脾经"
+        ],
+        "keywords": [
+          "下经",
+          "祛风",
+          "温经",
+          "大毒"
+        ]
+      }
+    },
+    {
       "id": "snb_wuweizi_001",
       "book": "神农本草经",
       "type": "yaowu",
@@ -16479,6 +18241,51 @@
           "上经",
           "收涩",
           "补虚"
+        ]
+      }
+    },
+    {
+      "id": "snb_xiakucao_001",
+      "book": "神农本草经",
+      "type": "yaowu",
+      "tier": 2,
+      "category": "jingdian",
+      "subcategory": "bencao",
+      "path": "library\\jingdian\\bencao\\shennong\\snb_xiakucao_001.md",
+      "weight": 7,
+      "title": "夏枯草",
+      "chapter": "下经",
+      "conditions": {
+        "zhengxing": [],
+        "zhifa": [
+          "清肝泻火",
+          "散结消肿",
+          "明目"
+        ],
+        "bingzheng": [],
+        "zhengzhuang": [],
+        "fangming": [],
+        "yaoming": [
+          "夏枯草"
+        ],
+        "xuewei": [],
+        "jingluo": [],
+        "siqi": [
+          "寒"
+        ],
+        "wuwei": [
+          "苦",
+          "辛"
+        ],
+        "guijing": [
+          "肝经",
+          "胆经"
+        ],
+        "keywords": [
+          "下经",
+          "清肝",
+          "散结",
+          "瘰疬"
         ]
       }
     },
@@ -16838,6 +18645,92 @@
       }
     },
     {
+      "id": "snb_yangtao_001",
+      "book": "神农本草经",
+      "type": "yaowu",
+      "tier": 3,
+      "category": "jingdian",
+      "subcategory": "bencao",
+      "path": "library\\jingdian\\bencao\\shennong\\snb_yangtao_001.md",
+      "weight": 3,
+      "title": "羊桃",
+      "chapter": "下经",
+      "conditions": {
+        "zhengxing": [],
+        "zhifa": [
+          "清热祛风",
+          "利水",
+          "杀虫"
+        ],
+        "bingzheng": [],
+        "zhengzhuang": [],
+        "fangming": [],
+        "yaoming": [
+          "羊桃"
+        ],
+        "xuewei": [],
+        "jingluo": [],
+        "siqi": [
+          "寒"
+        ],
+        "wuwei": [
+          "苦"
+        ],
+        "guijing": [
+          "肝经"
+        ],
+        "keywords": [
+          "下经",
+          "清热",
+          "利水",
+          "杀虫"
+        ]
+      }
+    },
+    {
+      "id": "snb_yangzhizhu_001",
+      "book": "神农本草经",
+      "type": "yaowu",
+      "tier": 2,
+      "category": "jingdian",
+      "subcategory": "bencao",
+      "path": "library\\jingdian\\bencao\\shennong\\snb_yangzhizhu_001.md",
+      "weight": 6,
+      "title": "羊踯躅",
+      "chapter": "下经",
+      "conditions": {
+        "zhengxing": [],
+        "zhifa": [
+          "祛风除湿",
+          "散瘀定痛",
+          "杀虫"
+        ],
+        "bingzheng": [],
+        "zhengzhuang": [],
+        "fangming": [],
+        "yaoming": [
+          "羊踯躅"
+        ],
+        "xuewei": [],
+        "jingluo": [],
+        "siqi": [
+          "温"
+        ],
+        "wuwei": [
+          "辛"
+        ],
+        "guijing": [
+          "肝经"
+        ],
+        "keywords": [
+          "下经",
+          "祛风",
+          "痹痛",
+          "大毒"
+        ]
+      }
+    },
+    {
       "id": "snb_yinchenhao_001",
       "book": "神农本草经",
       "type": "yaowu",
@@ -16883,6 +18776,181 @@
       }
     },
     {
+      "id": "snb_yinyu_001",
+      "book": "神农本草经",
+      "type": "yaowu",
+      "tier": 2,
+      "category": "jingdian",
+      "subcategory": "bencao",
+      "path": "library\\jingdian\\bencao\\shennong\\snb_yinyu_001.md",
+      "weight": 5,
+      "title": "茵芋",
+      "chapter": "下经",
+      "conditions": {
+        "zhengxing": [],
+        "zhifa": [
+          "祛风除湿",
+          "温经止痛"
+        ],
+        "bingzheng": [],
+        "zhengzhuang": [],
+        "fangming": [],
+        "yaoming": [
+          "茵芋"
+        ],
+        "xuewei": [],
+        "jingluo": [],
+        "siqi": [
+          "温"
+        ],
+        "wuwei": [
+          "苦"
+        ],
+        "guijing": [
+          "肝经",
+          "肾经"
+        ],
+        "keywords": [
+          "下经",
+          "祛风",
+          "痹痛",
+          "有毒"
+        ]
+      }
+    },
+    {
+      "id": "snb_yiyu_001",
+      "book": "神农本草经",
+      "type": "yaowu",
+      "tier": 3,
+      "category": "jingdian",
+      "subcategory": "bencao",
+      "path": "library\\jingdian\\bencao\\shennong\\snb_yiyu_001.md",
+      "weight": 3,
+      "title": "衣鱼",
+      "chapter": "下经",
+      "conditions": {
+        "zhengxing": [],
+        "zhifa": [
+          "利尿通淋",
+          "祛风止痉",
+          "摩涂外用"
+        ],
+        "bingzheng": [],
+        "zhengzhuang": [],
+        "fangming": [],
+        "yaoming": [
+          "衣鱼"
+        ],
+        "xuewei": [],
+        "jingluo": [],
+        "siqi": [
+          "温"
+        ],
+        "wuwei": [
+          "咸"
+        ],
+        "guijing": [
+          "肝经",
+          "膀胱经"
+        ],
+        "keywords": [
+          "下经",
+          "通淋",
+          "止痉",
+          "虫类"
+        ]
+      }
+    },
+    {
+      "id": "snb_yuanhua_001",
+      "book": "神农本草经",
+      "type": "yaowu",
+      "tier": 1,
+      "category": "jingdian",
+      "subcategory": "bencao",
+      "path": "library\\jingdian\\bencao\\shennong\\snb_yuanhua_001.md",
+      "weight": 8,
+      "title": "芫花",
+      "chapter": "下经",
+      "conditions": {
+        "zhengxing": [],
+        "zhifa": [
+          "泻水逐饮",
+          "祛痰止咳",
+          "杀虫疗疮"
+        ],
+        "bingzheng": [],
+        "zhengzhuang": [],
+        "fangming": [],
+        "yaoming": [
+          "芫花"
+        ],
+        "xuewei": [],
+        "jingluo": [],
+        "siqi": [
+          "温"
+        ],
+        "wuwei": [
+          "辛"
+        ],
+        "guijing": [
+          "肺经",
+          "脾经",
+          "肾经"
+        ],
+        "keywords": [
+          "下经",
+          "逐水",
+          "祛痰",
+          "有毒"
+        ]
+      }
+    },
+    {
+      "id": "snb_yuanyi_001",
+      "book": "神农本草经",
+      "type": "yaowu",
+      "tier": 3,
+      "category": "jingdian",
+      "subcategory": "bencao",
+      "path": "library\\jingdian\\bencao\\shennong\\snb_yuanyi_001.md",
+      "weight": 3,
+      "title": "垣衣",
+      "chapter": "下经",
+      "conditions": {
+        "zhengxing": [],
+        "zhifa": [
+          "清热利湿",
+          "凉血止血"
+        ],
+        "bingzheng": [],
+        "zhengzhuang": [],
+        "fangming": [],
+        "yaoming": [
+          "垣衣"
+        ],
+        "xuewei": [],
+        "jingluo": [],
+        "siqi": [
+          "酸"
+        ],
+        "wuwei": [
+          "酸"
+        ],
+        "guijing": [
+          "心经",
+          "肺经"
+        ],
+        "keywords": [
+          "下经",
+          "清热",
+          "利湿",
+          "苔类"
+        ]
+      }
+    },
+    {
       "id": "snb_yuanzhi_001",
       "book": "神农本草经",
       "type": "yaowu",
@@ -16923,6 +18991,95 @@
           "上经",
           "安神",
           "开窍"
+        ]
+      }
+    },
+    {
+      "id": "snb_zeqi_001",
+      "book": "神农本草经",
+      "type": "yaowu",
+      "tier": 2,
+      "category": "jingdian",
+      "subcategory": "bencao",
+      "path": "library\\jingdian\\bencao\\shennong\\snb_zeqi_001.md",
+      "weight": 6,
+      "title": "泽漆",
+      "chapter": "下经",
+      "conditions": {
+        "zhengxing": [],
+        "zhifa": [
+          "利水消肿",
+          "化痰散结",
+          "解毒杀虫"
+        ],
+        "bingzheng": [],
+        "zhengzhuang": [],
+        "fangming": [],
+        "yaoming": [
+          "泽漆"
+        ],
+        "xuewei": [],
+        "jingluo": [],
+        "siqi": [
+          "微寒"
+        ],
+        "wuwei": [
+          "苦"
+        ],
+        "guijing": [
+          "大肠经",
+          "小肠经",
+          "肺经"
+        ],
+        "keywords": [
+          "下经",
+          "逐水",
+          "化痰",
+          "有毒"
+        ]
+      }
+    },
+    {
+      "id": "snb_zhechong_001",
+      "book": "神农本草经",
+      "type": "yaowu",
+      "tier": 2,
+      "category": "jingdian",
+      "subcategory": "bencao",
+      "path": "library\\jingdian\\bencao\\shennong\\snb_zhechong_001.md",
+      "weight": 6,
+      "title": "䗪虫",
+      "chapter": "下经",
+      "conditions": {
+        "zhengxing": [],
+        "zhifa": [
+          "破血逐瘀",
+          "续筋接骨"
+        ],
+        "bingzheng": [],
+        "zhengzhuang": [],
+        "fangming": [],
+        "yaoming": [
+          "䗪虫",
+          "土鳖虫",
+          "地鳖虫"
+        ],
+        "xuewei": [],
+        "jingluo": [],
+        "siqi": [
+          "寒"
+        ],
+        "wuwei": [
+          "咸"
+        ],
+        "guijing": [
+          "肝经"
+        ],
+        "keywords": [
+          "下经",
+          "破血",
+          "续骨",
+          "虫类"
         ]
       }
     },

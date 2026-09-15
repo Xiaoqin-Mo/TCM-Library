@@ -1,6 +1,12 @@
 # jingdian · 经典医籍
 
-> 收录 967 条 · 下级 5 个子类
+> 收录 1062 条 · 下级 6 个子类
+
+## bencao · 本草经典
+
+| 书目 | 条目数 | 索引 |
+| --- | --- | --- |
+| jingdian\bencao\shennong | 95 | [索引](./jingdian\bencao\shennong/INDEX.md) |
 
 ## jingui · 金匮要略
 

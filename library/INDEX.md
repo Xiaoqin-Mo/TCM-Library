@@ -1,6 +1,6 @@
 # TCM-Library · 全库总索引
 
-> 中医知识百科全书检索库 · 当前收录 2302 条（按目录自动生成）
+> 中医知识百科全书检索库 · 当前收录 2349 条（按目录自动生成）
 
 ## 收录进度
 
@@ -14,7 +14,7 @@
 | linchuang | 中医临床 | 59 | 59 | [索引](./library/linchuang/INDEX.md) |
 | yangsheng | 养生康复 | 0 | 0 | — |
 | yishi | 医史医家 | 22 | 50 | [索引](./library/yishi/INDEX.md) |
-| jingdian | 经典医籍 | 46 | 1015 | [索引](./library/jingdian/INDEX.md) |
+| jingdian | 经典医籍 | 46 | 1062 | [索引](./library/jingdian/INDEX.md) |
 | xiandai | 现代中医 | 0 | 0 | — |
 
 ## 检索字段速查
@@ -44,7 +44,7 @@
 - **linchuang** · 中医临床（59 部书，59 条）
 - **yangsheng** · 养生康复（待收录）
 - **yishi** · 医史医家（22 部书，50 条）
-- **jingdian** · 经典医籍（46 部书，1015 条）
+- **jingdian** · 经典医籍（46 部书，1062 条）
 - **xiandai** · 现代中医（待收录）
 
 > 本文件由 `scripts/build_index.py` 确定性生成，勿手改。

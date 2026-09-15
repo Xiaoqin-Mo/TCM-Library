@@ -40,6 +40,12 @@
         "count": 659
       }
     },
+    "linchuang": {
+      "neike": {
+        "dir": "linchuang\\neike\\xinxi\\xiongbi",
+        "count": 1
+      }
+    },
     "zhenduan": {
       "bianzheng": {
         "dir": "zhenduan\\bianzheng\\zaoyin",
@@ -602,6 +608,382 @@
       "category": "jingdian",
       "subcategory": "shanghan",
       "count": 659
+    },
+    {
+      "dir": "linchuang\\neike\\feixi\\chuanzheng",
+      "tier": 1,
+      "tier_name": "核心",
+      "category": "linchuang",
+      "subcategory": "neike",
+      "count": 1
+    },
+    {
+      "dir": "linchuang\\neike\\feixi\\feilao",
+      "tier": 1,
+      "tier_name": "核心",
+      "category": "linchuang",
+      "subcategory": "neike",
+      "count": 1
+    },
+    {
+      "dir": "linchuang\\neike\\feixi\\feiwei",
+      "tier": 1,
+      "tier_name": "核心",
+      "category": "linchuang",
+      "subcategory": "neike",
+      "count": 1
+    },
+    {
+      "dir": "linchuang\\neike\\feixi\\feiyong",
+      "tier": 1,
+      "tier_name": "核心",
+      "category": "linchuang",
+      "subcategory": "neike",
+      "count": 1
+    },
+    {
+      "dir": "linchuang\\neike\\feixi\\feizhang",
+      "tier": 1,
+      "tier_name": "核心",
+      "category": "linchuang",
+      "subcategory": "neike",
+      "count": 1
+    },
+    {
+      "dir": "linchuang\\neike\\feixi\\ganmao",
+      "tier": 1,
+      "tier_name": "核心",
+      "category": "linchuang",
+      "subcategory": "neike",
+      "count": 1
+    },
+    {
+      "dir": "linchuang\\neike\\feixi\\kesou",
+      "tier": 1,
+      "tier_name": "核心",
+      "category": "linchuang",
+      "subcategory": "neike",
+      "count": 1
+    },
+    {
+      "dir": "linchuang\\neike\\feixi\\xiaobing",
+      "tier": 1,
+      "tier_name": "核心",
+      "category": "linchuang",
+      "subcategory": "neike",
+      "count": 1
+    },
+    {
+      "dir": "linchuang\\neike\\gandanxi\\guzhang",
+      "tier": 1,
+      "tier_name": "核心",
+      "category": "linchuang",
+      "subcategory": "neike",
+      "count": 1
+    },
+    {
+      "dir": "linchuang\\neike\\gandanxi\\huangdan",
+      "tier": 1,
+      "tier_name": "核心",
+      "category": "linchuang",
+      "subcategory": "neike",
+      "count": 1
+    },
+    {
+      "dir": "linchuang\\neike\\gandanxi\\jiju",
+      "tier": 1,
+      "tier_name": "核心",
+      "category": "linchuang",
+      "subcategory": "neike",
+      "count": 1
+    },
+    {
+      "dir": "linchuang\\neike\\gandanxi\\nveji",
+      "tier": 1,
+      "tier_name": "核心",
+      "category": "linchuang",
+      "subcategory": "neike",
+      "count": 1
+    },
+    {
+      "dir": "linchuang\\neike\\gandanxi\\xietong",
+      "tier": 1,
+      "tier_name": "核心",
+      "category": "linchuang",
+      "subcategory": "neike",
+      "count": 1
+    },
+    {
+      "dir": "linchuang\\neike\\gandanxi\\xuanyun",
+      "tier": 1,
+      "tier_name": "核心",
+      "category": "linchuang",
+      "subcategory": "neike",
+      "count": 1
+    },
+    {
+      "dir": "linchuang\\neike\\gandanxi\\yingbing",
+      "tier": 1,
+      "tier_name": "核心",
+      "category": "linchuang",
+      "subcategory": "neike",
+      "count": 1
+    },
+    {
+      "dir": "linchuang\\neike\\gandanxi\\zhongfengbing",
+      "tier": 1,
+      "tier_name": "核心",
+      "category": "linchuang",
+      "subcategory": "neike",
+      "count": 1
+    },
+    {
+      "dir": "linchuang\\neike\\piweixi\\bianmi",
+      "tier": 1,
+      "tier_name": "核心",
+      "category": "linchuang",
+      "subcategory": "neike",
+      "count": 1
+    },
+    {
+      "dir": "linchuang\\neike\\piweixi\\futong",
+      "tier": 1,
+      "tier_name": "核心",
+      "category": "linchuang",
+      "subcategory": "neike",
+      "count": 1
+    },
+    {
+      "dir": "linchuang\\neike\\piweixi\\liji",
+      "tier": 1,
+      "tier_name": "核心",
+      "category": "linchuang",
+      "subcategory": "neike",
+      "count": 1
+    },
+    {
+      "dir": "linchuang\\neike\\piweixi\\outu",
+      "tier": 1,
+      "tier_name": "核心",
+      "category": "linchuang",
+      "subcategory": "neike",
+      "count": 1
+    },
+    {
+      "dir": "linchuang\\neike\\piweixi\\piman",
+      "tier": 1,
+      "tier_name": "核心",
+      "category": "linchuang",
+      "subcategory": "neike",
+      "count": 1
+    },
+    {
+      "dir": "linchuang\\neike\\piweixi\\weitong",
+      "tier": 1,
+      "tier_name": "核心",
+      "category": "linchuang",
+      "subcategory": "neike",
+      "count": 1
+    },
+    {
+      "dir": "linchuang\\neike\\piweixi\\xiexie",
+      "tier": 1,
+      "tier_name": "核心",
+      "category": "linchuang",
+      "subcategory": "neike",
+      "count": 1
+    },
+    {
+      "dir": "linchuang\\neike\\piweixi\\yege",
+      "tier": 1,
+      "tier_name": "核心",
+      "category": "linchuang",
+      "subcategory": "neike",
+      "count": 1
+    },
+    {
+      "dir": "linchuang\\neike\\qixuejinye\\bizheng",
+      "tier": 1,
+      "tier_name": "核心",
+      "category": "linchuang",
+      "subcategory": "neike",
+      "count": 1
+    },
+    {
+      "dir": "linchuang\\neike\\qixuejinye\\neishangfare",
+      "tier": 1,
+      "tier_name": "核心",
+      "category": "linchuang",
+      "subcategory": "neike",
+      "count": 1
+    },
+    {
+      "dir": "linchuang\\neike\\qixuejinye\\tanyin",
+      "tier": 1,
+      "tier_name": "核心",
+      "category": "linchuang",
+      "subcategory": "neike",
+      "count": 1
+    },
+    {
+      "dir": "linchuang\\neike\\qixuejinye\\toutong",
+      "tier": 1,
+      "tier_name": "核心",
+      "category": "linchuang",
+      "subcategory": "neike",
+      "count": 1
+    },
+    {
+      "dir": "linchuang\\neike\\qixuejinye\\weizheng",
+      "tier": 1,
+      "tier_name": "核心",
+      "category": "linchuang",
+      "subcategory": "neike",
+      "count": 1
+    },
+    {
+      "dir": "linchuang\\neike\\qixuejinye\\xiaoke",
+      "tier": 1,
+      "tier_name": "核心",
+      "category": "linchuang",
+      "subcategory": "neike",
+      "count": 1
+    },
+    {
+      "dir": "linchuang\\neike\\qixuejinye\\xuezhengneike",
+      "tier": 1,
+      "tier_name": "核心",
+      "category": "linchuang",
+      "subcategory": "neike",
+      "count": 1
+    },
+    {
+      "dir": "linchuang\\neike\\qixuejinye\\xulao",
+      "tier": 1,
+      "tier_name": "核心",
+      "category": "linchuang",
+      "subcategory": "neike",
+      "count": 1
+    },
+    {
+      "dir": "linchuang\\neike\\qixuejinye\\yaotong",
+      "tier": 1,
+      "tier_name": "核心",
+      "category": "linchuang",
+      "subcategory": "neike",
+      "count": 1
+    },
+    {
+      "dir": "linchuang\\neike\\qixuejinye\\yuzheng",
+      "tier": 1,
+      "tier_name": "核心",
+      "category": "linchuang",
+      "subcategory": "neike",
+      "count": 1
+    },
+    {
+      "dir": "linchuang\\neike\\qixuejinye\\zihandaohan",
+      "tier": 1,
+      "tier_name": "核心",
+      "category": "linchuang",
+      "subcategory": "neike",
+      "count": 1
+    },
+    {
+      "dir": "linchuang\\neike\\shenxi\\linzheng",
+      "tier": 1,
+      "tier_name": "核心",
+      "category": "linchuang",
+      "subcategory": "neike",
+      "count": 1
+    },
+    {
+      "dir": "linchuang\\neike\\shenxi\\longbi",
+      "tier": 1,
+      "tier_name": "核心",
+      "category": "linchuang",
+      "subcategory": "neike",
+      "count": 1
+    },
+    {
+      "dir": "linchuang\\neike\\shenxi\\shuizhong",
+      "tier": 1,
+      "tier_name": "核心",
+      "category": "linchuang",
+      "subcategory": "neike",
+      "count": 1
+    },
+    {
+      "dir": "linchuang\\neike\\shenxi\\yangwei",
+      "tier": 1,
+      "tier_name": "核心",
+      "category": "linchuang",
+      "subcategory": "neike",
+      "count": 1
+    },
+    {
+      "dir": "linchuang\\neike\\shenxi\\yijing",
+      "tier": 1,
+      "tier_name": "核心",
+      "category": "linchuang",
+      "subcategory": "neike",
+      "count": 1
+    },
+    {
+      "dir": "linchuang\\neike\\xinxi\\bumei",
+      "tier": 1,
+      "tier_name": "核心",
+      "category": "linchuang",
+      "subcategory": "neike",
+      "count": 1
+    },
+    {
+      "dir": "linchuang\\neike\\xinxi\\chidai",
+      "tier": 1,
+      "tier_name": "核心",
+      "category": "linchuang",
+      "subcategory": "neike",
+      "count": 1
+    },
+    {
+      "dir": "linchuang\\neike\\xinxi\\diankuang",
+      "tier": 1,
+      "tier_name": "核心",
+      "category": "linchuang",
+      "subcategory": "neike",
+      "count": 1
+    },
+    {
+      "dir": "linchuang\\neike\\xinxi\\juezheng",
+      "tier": 1,
+      "tier_name": "核心",
+      "category": "linchuang",
+      "subcategory": "neike",
+      "count": 1
+    },
+    {
+      "dir": "linchuang\\neike\\xinxi\\xianbing",
+      "tier": 1,
+      "tier_name": "核心",
+      "category": "linchuang",
+      "subcategory": "neike",
+      "count": 1
+    },
+    {
+      "dir": "linchuang\\neike\\xinxi\\xinji",
+      "tier": 1,
+      "tier_name": "核心",
+      "category": "linchuang",
+      "subcategory": "neike",
+      "count": 1
+    },
+    {
+      "dir": "linchuang\\neike\\xinxi\\xiongbi",
+      "tier": 1,
+      "tier_name": "核心",
+      "category": "linchuang",
+      "subcategory": "neike",
+      "count": 1
     },
     {
       "dir": "zhenduan\\bianzheng\\biaoli",
@@ -9708,7 +10090,7 @@
       "count": 1
     }
   ],
-  "total": 2066,
+  "total": 2113,
   "entries": [
     {
       "id": "guizhitang_001",
@@ -43476,6 +43858,2670 @@
           "伤寒论",
           "序",
           "张仲景"
+        ]
+      }
+    },
+    {
+      "id": "chuanzheng_001",
+      "book": "中医内科学",
+      "type": "zhinan",
+      "tier": 1,
+      "category": "linchuang",
+      "subcategory": "neike",
+      "path": "library\\linchuang\\neike\\feixi\\chuanzheng\\chuanzheng_001.md",
+      "weight": 8,
+      "title": "喘证",
+      "chapter": "肺系病证",
+      "conditions": {
+        "zhengxing": [
+          "风寒壅肺证",
+          "表寒肺热证",
+          "痰热郁肺证",
+          "痰浊阻肺证",
+          "肺气郁痹证",
+          "肺气虚耗证",
+          "肾虚不纳证",
+          "正虚喘脱证"
+        ],
+        "zhifa": [
+          "宣肺散寒",
+          "解表清里化痰平喘",
+          "清热化痰宣肺平喘",
+          "祛痰降逆宣肺平喘",
+          "开郁降气平喘",
+          "补肺益气养阴",
+          "补肾纳气",
+          "扶阳固脱镇摄肾气"
+        ],
+        "bingzheng": [
+          "喘证"
+        ],
+        "zhengzhuang": [
+          "呼吸困难",
+          "张口抬肩",
+          "鼻翼煽动",
+          "不能平卧"
+        ],
+        "fangming": [
+          "麻黄汤合华盖散",
+          "麻杏石甘汤",
+          "桑白皮汤",
+          "二陈汤合三子养亲汤",
+          "五磨饮子",
+          "生脉散合补肺汤",
+          "金匮肾气丸合参蛤散",
+          "参附汤送黑锡丹"
+        ],
+        "yaoming": [],
+        "xuewei": [],
+        "jingluo": [],
+        "siqi": [],
+        "wuwei": [],
+        "guijing": [],
+        "keywords": [
+          "中医内科",
+          "喘证"
+        ]
+      }
+    },
+    {
+      "id": "feilao_001",
+      "book": "中医内科学",
+      "type": "zhinan",
+      "tier": 1,
+      "category": "linchuang",
+      "subcategory": "neike",
+      "path": "library\\linchuang\\neike\\feixi\\feilao\\feilao_001.md",
+      "weight": 8,
+      "title": "肺痨",
+      "chapter": "肺系病证",
+      "conditions": {
+        "zhengxing": [
+          "肺阴亏损证",
+          "虚火灼肺证",
+          "气阴耗伤证",
+          "阴阳虚损证"
+        ],
+        "zhifa": [
+          "滋阴润肺",
+          "滋阴降火",
+          "益气养阴",
+          "滋阴补阳"
+        ],
+        "bingzheng": [
+          "肺痨"
+        ],
+        "zhengzhuang": [
+          "咳嗽",
+          "咯血",
+          "潮热",
+          "盗汗",
+          "形体消瘦"
+        ],
+        "fangming": [
+          "月华丸",
+          "百合固金汤合秦艽鳖甲散",
+          "保真汤合参苓白术散",
+          "补天大造丸"
+        ],
+        "yaoming": [],
+        "xuewei": [],
+        "jingluo": [],
+        "siqi": [],
+        "wuwei": [],
+        "guijing": [],
+        "keywords": [
+          "中医内科",
+          "肺痨"
+        ]
+      }
+    },
+    {
+      "id": "feiwei_001",
+      "book": "中医内科学",
+      "type": "zhinan",
+      "tier": 1,
+      "category": "linchuang",
+      "subcategory": "neike",
+      "path": "library\\linchuang\\neike\\feixi\\feiwei\\feiwei_001.md",
+      "weight": 8,
+      "title": "肺痿",
+      "chapter": "肺系病证",
+      "conditions": {
+        "zhengxing": [
+          "虚热证",
+          "虚寒证"
+        ],
+        "zhifa": [
+          "滋阴清热润肺生津",
+          "温肺益气"
+        ],
+        "bingzheng": [
+          "肺痿"
+        ],
+        "zhengzhuang": [
+          "咳吐浊唾涎沫",
+          "咳声不扬",
+          "气急喘促",
+          "口干咽燥"
+        ],
+        "fangming": [
+          "麦门冬汤合清燥救肺汤",
+          "甘草干姜汤合生姜甘草汤"
+        ],
+        "yaoming": [],
+        "xuewei": [],
+        "jingluo": [],
+        "siqi": [],
+        "wuwei": [],
+        "guijing": [],
+        "keywords": [
+          "中医内科",
+          "肺痿"
+        ]
+      }
+    },
+    {
+      "id": "feiyong_001",
+      "book": "中医内科学",
+      "type": "zhinan",
+      "tier": 1,
+      "category": "linchuang",
+      "subcategory": "neike",
+      "path": "library\\linchuang\\neike\\feixi\\feiyong\\feiyong_001.md",
+      "weight": 8,
+      "title": "肺痈",
+      "chapter": "肺系病证",
+      "conditions": {
+        "zhengxing": [
+          "初期",
+          "成痈期",
+          "溃脓期",
+          "恢复期"
+        ],
+        "zhifa": [
+          "疏风清肺化痰",
+          "清肺解毒化瘀消痈",
+          "排脓解毒",
+          "清热养阴益气清肺"
+        ],
+        "bingzheng": [
+          "肺痈"
+        ],
+        "zhengzhuang": [
+          "咳嗽胸痛",
+          "发热",
+          "咯吐腥臭浊痰",
+          "甚则脓血相兼"
+        ],
+        "fangming": [
+          "银翘散",
+          "千金苇茎汤合如金解毒散",
+          "加味桔梗汤",
+          "沙参清肺汤合桔梗杏仁煎"
+        ],
+        "yaoming": [],
+        "xuewei": [],
+        "jingluo": [],
+        "siqi": [],
+        "wuwei": [],
+        "guijing": [],
+        "keywords": [
+          "中医内科",
+          "肺痈"
+        ]
+      }
+    },
+    {
+      "id": "feizhang_001",
+      "book": "中医内科学",
+      "type": "zhinan",
+      "tier": 1,
+      "category": "linchuang",
+      "subcategory": "neike",
+      "path": "library\\linchuang\\neike\\feixi\\feizhang\\feizhang_001.md",
+      "weight": 8,
+      "title": "肺胀",
+      "chapter": "肺系病证",
+      "conditions": {
+        "zhengxing": [
+          "痰浊壅肺证",
+          "痰热郁肺证",
+          "痰蒙神窍证",
+          "阳虚水泛证",
+          "肺肾气虚证"
+        ],
+        "zhifa": [
+          "化痰降气健脾益肺",
+          "清肺化痰降逆平喘",
+          "涤痰开窍息风",
+          "温肾健脾化饮利水",
+          "补肺纳肾降气平喘"
+        ],
+        "bingzheng": [
+          "肺胀"
+        ],
+        "zhengzhuang": [
+          "胸部膨满",
+          "胀闷如塞",
+          "喘咳上气",
+          "痰多烦躁",
+          "面色晦暗",
+          "唇甲紫绀",
+          "肢体浮肿"
+        ],
+        "fangming": [
+          "苏子降气汤合三子养亲汤",
+          "越婢加半夏汤合桑白皮汤",
+          "涤痰汤送服安宫牛黄丸",
+          "真武汤合五苓散",
+          "平喘固本汤合补肺汤"
+        ],
+        "yaoming": [],
+        "xuewei": [],
+        "jingluo": [],
+        "siqi": [],
+        "wuwei": [],
+        "guijing": [],
+        "keywords": [
+          "中医内科",
+          "肺胀"
+        ]
+      }
+    },
+    {
+      "id": "ganmao_001",
+      "book": "中医内科学",
+      "type": "zhinan",
+      "tier": 1,
+      "category": "linchuang",
+      "subcategory": "neike",
+      "path": "library\\linchuang\\neike\\feixi\\ganmao\\ganmao_001.md",
+      "weight": 8,
+      "title": "感冒",
+      "chapter": "肺系病证",
+      "conditions": {
+        "zhengxing": [
+          "风寒束表证",
+          "风热犯表证",
+          "暑湿伤表证",
+          "气虚感冒",
+          "阴虚感冒"
+        ],
+        "zhifa": [
+          "辛温解表",
+          "辛凉解表",
+          "清暑祛湿解表",
+          "益气解表",
+          "滋阴解表"
+        ],
+        "bingzheng": [
+          "感冒"
+        ],
+        "zhengzhuang": [
+          "鼻塞流涕",
+          "喷嚏",
+          "恶寒发热",
+          "头痛身楚",
+          "脉浮"
+        ],
+        "fangming": [
+          "荆防达表汤",
+          "银翘散",
+          "新加香薷饮",
+          "参苏饮",
+          "加减葳蕤汤"
+        ],
+        "yaoming": [],
+        "xuewei": [],
+        "jingluo": [],
+        "siqi": [],
+        "wuwei": [],
+        "guijing": [],
+        "keywords": [
+          "中医内科",
+          "感冒"
+        ]
+      }
+    },
+    {
+      "id": "kesou_001",
+      "book": "中医内科学",
+      "type": "zhinan",
+      "tier": 1,
+      "category": "linchuang",
+      "subcategory": "neike",
+      "path": "library\\linchuang\\neike\\feixi\\kesou\\kesou_001.md",
+      "weight": 8,
+      "title": "咳嗽",
+      "chapter": "肺系病证",
+      "conditions": {
+        "zhengxing": [
+          "风寒袭肺证",
+          "风热犯肺证",
+          "风燥伤肺证",
+          "痰湿蕴肺证",
+          "痰热郁肺证",
+          "肝火犯肺证",
+          "肺阴亏耗证"
+        ],
+        "zhifa": [
+          "疏风散寒宣肺止咳",
+          "疏风清热宣肺止咳",
+          "疏风清肺润燥止咳",
+          "燥湿化痰理气止咳",
+          "清热肃肺豁痰止咳",
+          "清肺泻肝顺气降火",
+          "滋阴润肺化痰止咳"
+        ],
+        "bingzheng": [
+          "咳嗽"
+        ],
+        "zhengzhuang": [
+          "咳嗽",
+          "咯痰",
+          "咽痒",
+          "胸闷"
+        ],
+        "fangming": [
+          "三拗汤合止嗽散",
+          "桑菊饮",
+          "桑杏汤",
+          "二陈平胃散合三子养亲汤",
+          "清金化痰汤",
+          "黛蛤散合加减泻白散",
+          "沙参麦冬汤"
+        ],
+        "yaoming": [],
+        "xuewei": [],
+        "jingluo": [],
+        "siqi": [],
+        "wuwei": [],
+        "guijing": [],
+        "keywords": [
+          "中医内科",
+          "咳嗽"
+        ]
+      }
+    },
+    {
+      "id": "xiaobing_001",
+      "book": "中医内科学",
+      "type": "zhinan",
+      "tier": 1,
+      "category": "linchuang",
+      "subcategory": "neike",
+      "path": "library\\linchuang\\neike\\feixi\\xiaobing\\xiaobing_001.md",
+      "weight": 8,
+      "title": "哮病",
+      "chapter": "肺系病证",
+      "conditions": {
+        "zhengxing": [
+          "冷哮证",
+          "热哮证",
+          "寒包热哮证",
+          "风痰哮证",
+          "虚哮证",
+          "肺脾气虚证",
+          "肺肾两虚证"
+        ],
+        "zhifa": [
+          "宣肺散寒涤痰平喘",
+          "清热宣肺化痰定喘",
+          "解表散寒清化痰热",
+          "祛风涤痰降气平喘",
+          "补肺纳肾降气化痰",
+          "健脾益气补土生金",
+          "补肺益肾"
+        ],
+        "bingzheng": [
+          "哮病"
+        ],
+        "zhengzhuang": [
+          "喉中哮鸣有声",
+          "呼吸气促困难",
+          "甚则不能平卧"
+        ],
+        "fangming": [
+          "射干麻黄汤",
+          "定喘汤",
+          "小青龙加石膏汤",
+          "三子养亲汤",
+          "平喘固本汤",
+          "六君子汤",
+          "生脉地黄汤合金水六君煎"
+        ],
+        "yaoming": [],
+        "xuewei": [],
+        "jingluo": [],
+        "siqi": [],
+        "wuwei": [],
+        "guijing": [],
+        "keywords": [
+          "中医内科",
+          "哮病"
+        ]
+      }
+    },
+    {
+      "id": "guzhang_001",
+      "book": "中医内科学",
+      "type": "zhinan",
+      "tier": 1,
+      "category": "linchuang",
+      "subcategory": "neike",
+      "path": "library\\linchuang\\neike\\gandanxi\\guzhang\\guzhang_001.md",
+      "weight": 8,
+      "title": "鼓胀",
+      "chapter": "肝胆系病证",
+      "conditions": {
+        "zhengxing": [
+          "气滞湿阻",
+          "水湿困脾",
+          "水热蕴结",
+          "瘀结水留",
+          "阳虚水盛",
+          "阴虚水停"
+        ],
+        "zhifa": [
+          "疏肝理气，运脾利湿",
+          "温中健脾，行气利水",
+          "清热利湿，攻下逐水",
+          "活血化瘀，行气利水",
+          "温补脾肾，化气利水",
+          "滋肾柔肝，养阴利水"
+        ],
+        "bingzheng": [
+          "鼓胀"
+        ],
+        "zhengzhuang": [
+          "腹部胀大如鼓",
+          "皮色苍黄",
+          "脉络暴露"
+        ],
+        "fangming": [
+          "柴胡疏肝散合胃苓汤",
+          "实脾饮",
+          "中满分消丸合茵陈蒿汤",
+          "调营饮",
+          "附子理苓汤或济生肾气丸",
+          "六味地黄丸合一贯煎"
+        ],
+        "yaoming": [],
+        "xuewei": [],
+        "jingluo": [],
+        "siqi": [],
+        "wuwei": [],
+        "guijing": [],
+        "keywords": [
+          "中医内科",
+          "鼓胀"
+        ]
+      }
+    },
+    {
+      "id": "huangdan_001",
+      "book": "中医内科学",
+      "type": "zhinan",
+      "tier": 1,
+      "category": "linchuang",
+      "subcategory": "neike",
+      "path": "library\\linchuang\\neike\\gandanxi\\huangdan\\huangdan_001.md",
+      "weight": 8,
+      "title": "黄疸",
+      "chapter": "肝胆系病证",
+      "conditions": {
+        "zhengxing": [
+          "阳黄（湿热兼表）",
+          "阳黄（热重于湿）",
+          "阳黄（湿重于热）",
+          "阳黄（疫毒炽盛）",
+          "阴黄（寒湿阻遏）",
+          "阴黄（脾虚湿滞）"
+        ],
+        "zhifa": [
+          "清热利湿，佐以解表",
+          "清热通腑，利湿退黄",
+          "利湿化浊运脾，佐以清热",
+          "清热解毒，凉血开窍",
+          "温中化湿，健脾和胃",
+          "健脾养血，利湿退黄"
+        ],
+        "bingzheng": [
+          "黄疸"
+        ],
+        "zhengzhuang": [
+          "目黄",
+          "身黄",
+          "小便黄"
+        ],
+        "fangming": [
+          "麻黄连翘赤小豆汤",
+          "茵陈蒿汤",
+          "茵陈五苓散",
+          "《千金》犀角散",
+          "茵陈术附汤",
+          "黄芪建中汤"
+        ],
+        "yaoming": [],
+        "xuewei": [],
+        "jingluo": [],
+        "siqi": [],
+        "wuwei": [],
+        "guijing": [],
+        "keywords": [
+          "中医内科",
+          "黄疸"
+        ]
+      }
+    },
+    {
+      "id": "jiju_001",
+      "book": "中医内科学",
+      "type": "zhinan",
+      "tier": 1,
+      "category": "linchuang",
+      "subcategory": "neike",
+      "path": "library\\linchuang\\neike\\gandanxi\\jiju\\jiju_001.md",
+      "weight": 8,
+      "title": "积聚",
+      "chapter": "肝胆系病证",
+      "conditions": {
+        "zhengxing": [
+          "聚证（肝气郁结）",
+          "聚证（食滞痰阻）",
+          "积证（气滞血阻）",
+          "积证（瘀血内结）",
+          "积证（正虚瘀结）"
+        ],
+        "zhifa": [
+          "疏肝解郁，行气散结",
+          "理气化痰，导滞散结",
+          "理气消积，活血散瘀",
+          "祛瘀软坚，佐以扶正健脾",
+          "补益气血，活血化瘀"
+        ],
+        "bingzheng": [
+          "积聚"
+        ],
+        "zhengzhuang": [
+          "腹内结块",
+          "或胀或痛"
+        ],
+        "fangming": [
+          "逍遥散",
+          "六磨汤",
+          "柴胡疏肝散合失笑散",
+          "膈下逐瘀汤合六君子汤",
+          "八珍汤合化积丸"
+        ],
+        "yaoming": [],
+        "xuewei": [],
+        "jingluo": [],
+        "siqi": [],
+        "wuwei": [],
+        "guijing": [],
+        "keywords": [
+          "中医内科",
+          "积聚"
+        ]
+      }
+    },
+    {
+      "id": "nveji_001",
+      "book": "中医内科学",
+      "type": "zhinan",
+      "tier": 1,
+      "category": "linchuang",
+      "subcategory": "neike",
+      "path": "library\\linchuang\\neike\\gandanxi\\nveji\\nveji_001.md",
+      "weight": 8,
+      "title": "疟疾",
+      "chapter": "肝胆系病证",
+      "conditions": {
+        "zhengxing": [
+          "正疟",
+          "温疟",
+          "寒疟",
+          "瘴疟（热瘴）",
+          "瘴疟（冷瘴）",
+          "劳疟"
+        ],
+        "zhifa": [
+          "祛邪截疟，和解表里",
+          "清热解表，和解祛邪",
+          "和解表里，温阳达邪",
+          "解毒除瘴，清热保津",
+          "解毒除瘴，芳化湿浊",
+          "益气养血，扶正祛邪"
+        ],
+        "bingzheng": [
+          "疟疾"
+        ],
+        "zhengzhuang": [
+          "寒战壮热",
+          "休作有时"
+        ],
+        "fangming": [
+          "柴胡截疟饮",
+          "白虎加桂枝汤",
+          "柴胡桂枝干姜汤",
+          "清瘴汤",
+          "加味不换金正气散",
+          "何人饮"
+        ],
+        "yaoming": [],
+        "xuewei": [],
+        "jingluo": [],
+        "siqi": [],
+        "wuwei": [],
+        "guijing": [],
+        "keywords": [
+          "中医内科",
+          "疟疾"
+        ]
+      }
+    },
+    {
+      "id": "xietong_001",
+      "book": "中医内科学",
+      "type": "zhinan",
+      "tier": 1,
+      "category": "linchuang",
+      "subcategory": "neike",
+      "path": "library\\linchuang\\neike\\gandanxi\\xietong\\xietong_001.md",
+      "weight": 8,
+      "title": "胁痛",
+      "chapter": "肝胆系病证",
+      "conditions": {
+        "zhengxing": [
+          "肝郁气滞",
+          "肝胆湿热",
+          "瘀血阻络",
+          "肝络失养"
+        ],
+        "zhifa": [
+          "疏肝理气",
+          "清热利湿",
+          "祛瘀通络",
+          "养阴柔肝"
+        ],
+        "bingzheng": [
+          "胁痛"
+        ],
+        "zhengzhuang": [
+          "一侧或两侧胁肋部疼痛"
+        ],
+        "fangming": [
+          "柴胡疏肝散",
+          "龙胆泻肝汤",
+          "血府逐瘀汤",
+          "一贯煎"
+        ],
+        "yaoming": [],
+        "xuewei": [],
+        "jingluo": [],
+        "siqi": [],
+        "wuwei": [],
+        "guijing": [],
+        "keywords": [
+          "中医内科",
+          "胁痛"
+        ]
+      }
+    },
+    {
+      "id": "xuanyun_001",
+      "book": "中医内科学",
+      "type": "zhinan",
+      "tier": 1,
+      "category": "linchuang",
+      "subcategory": "neike",
+      "path": "library\\linchuang\\neike\\gandanxi\\xuanyun\\xuanyun_001.md",
+      "weight": 8,
+      "title": "眩晕",
+      "chapter": "肝胆系病证",
+      "conditions": {
+        "zhengxing": [
+          "肝阳上亢",
+          "气血亏虚",
+          "肾精不足",
+          "痰湿中阻",
+          "瘀血阻窍"
+        ],
+        "zhifa": [
+          "平肝潜阳，清火息风",
+          "补益气血，调养心脾",
+          "滋养肝肾，益精填髓",
+          "化痰祛湿，健脾和胃",
+          "祛瘀生新，活血通窍"
+        ],
+        "bingzheng": [
+          "眩晕"
+        ],
+        "zhengzhuang": [
+          "头晕",
+          "眼花"
+        ],
+        "fangming": [
+          "天麻钩藤饮",
+          "归脾汤",
+          "左归丸",
+          "半夏白术天麻汤",
+          "通窍活血汤"
+        ],
+        "yaoming": [],
+        "xuewei": [],
+        "jingluo": [],
+        "siqi": [],
+        "wuwei": [],
+        "guijing": [],
+        "keywords": [
+          "中医内科",
+          "眩晕"
+        ]
+      }
+    },
+    {
+      "id": "yingbing_001",
+      "book": "中医内科学",
+      "type": "zhinan",
+      "tier": 1,
+      "category": "linchuang",
+      "subcategory": "neike",
+      "path": "library\\linchuang\\neike\\gandanxi\\yingbing\\yingbing_001.md",
+      "weight": 8,
+      "title": "瘿病",
+      "chapter": "肝胆系病证",
+      "conditions": {
+        "zhengxing": [
+          "气郁痰阻",
+          "痰结血瘀",
+          "肝火旺盛",
+          "心肝阴虚"
+        ],
+        "zhifa": [
+          "理气舒郁，化痰消瘿",
+          "理气活血，化痰消瘿",
+          "清肝泻火，消瘿散结",
+          "滋阴降火，宁心柔肝"
+        ],
+        "bingzheng": [
+          "瘿病"
+        ],
+        "zhengzhuang": [
+          "颈前喉结两旁结块肿大"
+        ],
+        "fangming": [
+          "四海舒郁丸",
+          "海藻玉壶汤",
+          "栀子清肝汤合消瘰丸",
+          "天王补心丹"
+        ],
+        "yaoming": [],
+        "xuewei": [],
+        "jingluo": [],
+        "siqi": [],
+        "wuwei": [],
+        "guijing": [],
+        "keywords": [
+          "中医内科",
+          "瘿病"
+        ]
+      }
+    },
+    {
+      "id": "zhongfengbing_001",
+      "book": "中医内科学",
+      "type": "zhinan",
+      "tier": 1,
+      "category": "linchuang",
+      "subcategory": "neike",
+      "path": "library\\linchuang\\neike\\gandanxi\\zhongfengbing\\zhongfengbing_001.md",
+      "weight": 8,
+      "title": "中风",
+      "chapter": "肝胆系病证",
+      "conditions": {
+        "zhengxing": [
+          "中经络（风痰入络）",
+          "中经络（风阳上扰）",
+          "中经络（阴虚风动）",
+          "中脏腑（闭证—阳闭）",
+          "中脏腑（闭证—阴闭）",
+          "中脏腑（脱证）",
+          "恢复期（半身不遂）",
+          "恢复期（言语不利）"
+        ],
+        "zhifa": [
+          "祛风化痰通络",
+          "平肝潜阳，活血通络",
+          "滋阴潜阳，息风通络",
+          "息风清火，豁痰开窍",
+          "化痰息风，宣郁开窍",
+          "回阳救阴，益气固脱",
+          "半身不遂—益气活血，化瘀通络",
+          "言语不利—息风化痰，开窍醒神"
+        ],
+        "bingzheng": [
+          "中风"
+        ],
+        "zhengzhuang": [
+          "猝然昏仆",
+          "不省人事",
+          "半身不遂",
+          "口眼歪斜",
+          "言语不利"
+        ],
+        "fangming": [
+          "真方白丸子",
+          "天麻钩藤饮",
+          "镇肝息风汤",
+          "羚角钩藤汤",
+          "涤痰汤",
+          "参附汤合生脉散",
+          "补阳还五汤",
+          "解语丹"
+        ],
+        "yaoming": [],
+        "xuewei": [],
+        "jingluo": [],
+        "siqi": [],
+        "wuwei": [],
+        "guijing": [],
+        "keywords": [
+          "中医内科",
+          "中风"
+        ]
+      }
+    },
+    {
+      "id": "bianmi_001",
+      "book": "中医内科学",
+      "type": "zhinan",
+      "tier": 1,
+      "category": "linchuang",
+      "subcategory": "neike",
+      "path": "library\\linchuang\\neike\\piweixi\\bianmi\\bianmi_001.md",
+      "weight": 8,
+      "title": "便秘",
+      "chapter": "脾胃系病证",
+      "conditions": {
+        "zhengxing": [
+          "热秘",
+          "气秘",
+          "冷秘",
+          "气虚秘",
+          "血虚秘",
+          "阴虚秘",
+          "阳虚秘"
+        ],
+        "zhifa": [
+          "泻热导滞润肠通便",
+          "顺气导滞",
+          "温里散寒通便止痛",
+          "益气润肠",
+          "养血润燥",
+          "滋阴通便",
+          "温阳通便"
+        ],
+        "bingzheng": [
+          "便秘"
+        ],
+        "zhengzhuang": [
+          "大便干结",
+          "排出困难",
+          "排便周期延长",
+          "或粪质不硬但便而不畅"
+        ],
+        "fangming": [
+          "麻子仁丸",
+          "六磨汤",
+          "温脾汤合半硫丸",
+          "黄芪汤",
+          "润肠丸",
+          "增液汤",
+          "济川煎"
+        ],
+        "yaoming": [],
+        "xuewei": [],
+        "jingluo": [],
+        "siqi": [],
+        "wuwei": [],
+        "guijing": [],
+        "keywords": [
+          "中医内科",
+          "便秘"
+        ]
+      }
+    },
+    {
+      "id": "futong_001",
+      "book": "中医内科学",
+      "type": "zhinan",
+      "tier": 1,
+      "category": "linchuang",
+      "subcategory": "neike",
+      "path": "library\\linchuang\\neike\\piweixi\\futong\\futong_001.md",
+      "weight": 8,
+      "title": "腹痛",
+      "chapter": "脾胃系病证",
+      "conditions": {
+        "zhengxing": [
+          "寒邪内阻证",
+          "湿热壅滞证",
+          "饮食积滞证",
+          "肝郁气滞证",
+          "瘀血内停证",
+          "中虚脏寒证"
+        ],
+        "zhifa": [
+          "散寒温经理气止痛",
+          "泄热通腑行气导滞",
+          "消食导滞理气止痛",
+          "疏肝解郁理气止痛",
+          "活血化瘀和络止痛",
+          "温中补虚缓急止痛"
+        ],
+        "bingzheng": [
+          "腹痛"
+        ],
+        "zhengzhuang": [
+          "胃脘以下耻骨毛际以上疼痛",
+          "伴腹胀便秘或泄泻"
+        ],
+        "fangming": [
+          "良附丸合正气天香散",
+          "大承气汤",
+          "枳实导滞丸",
+          "柴胡疏肝散",
+          "少腹逐瘀汤",
+          "小建中汤"
+        ],
+        "yaoming": [],
+        "xuewei": [],
+        "jingluo": [],
+        "siqi": [],
+        "wuwei": [],
+        "guijing": [],
+        "keywords": [
+          "中医内科",
+          "腹痛"
+        ]
+      }
+    },
+    {
+      "id": "liji_001",
+      "book": "中医内科学",
+      "type": "zhinan",
+      "tier": 1,
+      "category": "linchuang",
+      "subcategory": "neike",
+      "path": "library\\linchuang\\neike\\piweixi\\liji\\liji_001.md",
+      "weight": 8,
+      "title": "痢疾",
+      "chapter": "脾胃系病证",
+      "conditions": {
+        "zhengxing": [
+          "湿热痢",
+          "疫毒痢",
+          "寒湿痢",
+          "阴虚痢",
+          "虚寒痢",
+          "休息痢"
+        ],
+        "zhifa": [
+          "清肠化湿调气和血",
+          "清热解毒凉血除积",
+          "温中燥湿调气和血",
+          "养阴和营清肠化湿",
+          "温补脾肾收涩固脱",
+          "温中清肠调气化滞"
+        ],
+        "bingzheng": [
+          "痢疾"
+        ],
+        "zhengzhuang": [
+          "腹痛腹泻",
+          "里急后重",
+          "排赤白脓血便"
+        ],
+        "fangming": [
+          "芍药汤",
+          "白头翁汤合芍药汤",
+          "不换金正气散",
+          "黄连阿胶汤合驻车丸",
+          "桃花汤合真人养脏汤",
+          "连理汤"
+        ],
+        "yaoming": [],
+        "xuewei": [],
+        "jingluo": [],
+        "siqi": [],
+        "wuwei": [],
+        "guijing": [],
+        "keywords": [
+          "中医内科",
+          "痢疾"
+        ]
+      }
+    },
+    {
+      "id": "outu_001",
+      "book": "中医内科学",
+      "type": "zhinan",
+      "tier": 1,
+      "category": "linchuang",
+      "subcategory": "neike",
+      "path": "library\\linchuang\\neike\\piweixi\\outu\\outu_001.md",
+      "weight": 8,
+      "title": "呕吐",
+      "chapter": "脾胃系病证",
+      "conditions": {
+        "zhengxing": [
+          "外邪犯胃证",
+          "食滞内停证",
+          "痰饮内停证",
+          "肝气犯胃证",
+          "脾胃气虚证",
+          "脾胃阳虚证",
+          "胃阴不足证"
+        ],
+        "zhifa": [
+          "疏邪解表化浊和中",
+          "消食化滞和胃降逆",
+          "温中化饮和胃降逆",
+          "疏肝理气和胃降逆",
+          "健脾益气和胃降逆",
+          "温中健脾和胃降逆",
+          "滋养胃阴降逆止呕"
+        ],
+        "bingzheng": [
+          "呕吐"
+        ],
+        "zhengzhuang": [
+          "食物痰涎由胃中上涌",
+          "自口而出",
+          "或干呕有声"
+        ],
+        "fangming": [
+          "藿香正气散",
+          "保和丸",
+          "小半夏汤合苓桂术甘汤",
+          "四七汤",
+          "香砂六君子汤",
+          "理中汤",
+          "麦门冬汤"
+        ],
+        "yaoming": [],
+        "xuewei": [],
+        "jingluo": [],
+        "siqi": [],
+        "wuwei": [],
+        "guijing": [],
+        "keywords": [
+          "中医内科",
+          "呕吐"
+        ]
+      }
+    },
+    {
+      "id": "piman_001",
+      "book": "中医内科学",
+      "type": "zhinan",
+      "tier": 1,
+      "category": "linchuang",
+      "subcategory": "neike",
+      "path": "library\\linchuang\\neike\\piweixi\\piman\\piman_001.md",
+      "weight": 8,
+      "title": "痞满",
+      "chapter": "脾胃系病证",
+      "conditions": {
+        "zhengxing": [
+          "饮食内停证",
+          "痰湿中阻证",
+          "湿热阻胃证",
+          "肝胃不和证",
+          "脾胃虚弱证",
+          "胃阴不足证"
+        ],
+        "zhifa": [
+          "消食和胃行气消痞",
+          "除湿化痰理气和中",
+          "清热化湿和胃消痞",
+          "疏肝解郁和胃消痞",
+          "补气健脾升清降浊",
+          "养阴益胃调中消痞"
+        ],
+        "bingzheng": [
+          "痞满"
+        ],
+        "zhengzhuang": [
+          "胸脘痞塞满闷",
+          "按之柔软",
+          "压之不痛",
+          "视之无胀大之形"
+        ],
+        "fangming": [
+          "保和丸",
+          "二陈平胃汤",
+          "泻心汤合连朴饮",
+          "越鞠丸合枳术丸",
+          "补中益气汤",
+          "益胃汤"
+        ],
+        "yaoming": [],
+        "xuewei": [],
+        "jingluo": [],
+        "siqi": [],
+        "wuwei": [],
+        "guijing": [],
+        "keywords": [
+          "中医内科",
+          "痞满"
+        ]
+      }
+    },
+    {
+      "id": "weitong_001",
+      "book": "中医内科学",
+      "type": "zhinan",
+      "tier": 1,
+      "category": "linchuang",
+      "subcategory": "neike",
+      "path": "library\\linchuang\\neike\\piweixi\\weitong\\weitong_001.md",
+      "weight": 8,
+      "title": "胃痛",
+      "chapter": "脾胃系病证",
+      "conditions": {
+        "zhengxing": [
+          "寒邪客胃证",
+          "饮食伤胃证",
+          "肝气犯胃证",
+          "湿热中阻证",
+          "瘀血停胃证",
+          "胃阴亏耗证",
+          "脾胃虚寒证"
+        ],
+        "zhifa": [
+          "温胃散寒行气止痛",
+          "消食导滞和胃止痛",
+          "疏肝解郁理气止痛",
+          "清化湿热理气和胃",
+          "化瘀通络理气和胃",
+          "养阴益胃和中止痛",
+          "温中健脾和胃止痛"
+        ],
+        "bingzheng": [
+          "胃痛"
+        ],
+        "zhengzhuang": [
+          "胃脘疼痛",
+          "痞闷",
+          "纳差",
+          "泛酸嘈杂"
+        ],
+        "fangming": [
+          "香苏散合良附丸",
+          "保和丸",
+          "柴胡疏肝散",
+          "清中汤",
+          "失笑散合丹参饮",
+          "一贯煎合芍药甘草汤",
+          "黄芪建中汤"
+        ],
+        "yaoming": [],
+        "xuewei": [],
+        "jingluo": [],
+        "siqi": [],
+        "wuwei": [],
+        "guijing": [],
+        "keywords": [
+          "中医内科",
+          "胃痛"
+        ]
+      }
+    },
+    {
+      "id": "xiexie_001",
+      "book": "中医内科学",
+      "type": "zhinan",
+      "tier": 1,
+      "category": "linchuang",
+      "subcategory": "neike",
+      "path": "library\\linchuang\\neike\\piweixi\\xiexie\\xiexie_001.md",
+      "weight": 8,
+      "title": "泄泻",
+      "chapter": "脾胃系病证",
+      "conditions": {
+        "zhengxing": [
+          "寒湿内盛证",
+          "湿热伤中证",
+          "食滞肠胃证",
+          "肝气乘脾证",
+          "脾胃虚弱证",
+          "肾阳虚衰证"
+        ],
+        "zhifa": [
+          "芳香化湿解表散寒",
+          "清热利湿分利止泻",
+          "消食导滞和中止泻",
+          "抑肝扶脾",
+          "健脾益气化湿止泻",
+          "温肾健脾固涩止泻"
+        ],
+        "bingzheng": [
+          "泄泻"
+        ],
+        "zhengzhuang": [
+          "排便次数增多",
+          "粪质稀溏",
+          "甚则如水样"
+        ],
+        "fangming": [
+          "藿香正气散",
+          "葛根芩连汤",
+          "保和丸",
+          "痛泻要方",
+          "参苓白术散",
+          "四神丸"
+        ],
+        "yaoming": [],
+        "xuewei": [],
+        "jingluo": [],
+        "siqi": [],
+        "wuwei": [],
+        "guijing": [],
+        "keywords": [
+          "中医内科",
+          "泄泻"
+        ]
+      }
+    },
+    {
+      "id": "yege_001",
+      "book": "中医内科学",
+      "type": "zhinan",
+      "tier": 1,
+      "category": "linchuang",
+      "subcategory": "neike",
+      "path": "library\\linchuang\\neike\\piweixi\\yege\\yege_001.md",
+      "weight": 8,
+      "title": "噎膈",
+      "chapter": "脾胃系病证",
+      "conditions": {
+        "zhengxing": [
+          "痰气交阻证",
+          "瘀血内结证",
+          "津亏热结证",
+          "气虚阳微证"
+        ],
+        "zhifa": [
+          "开郁化痰润燥降气",
+          "滋阴养血破血行瘀",
+          "滋阴养血润燥生津",
+          "温补脾肾"
+        ],
+        "bingzheng": [
+          "噎膈"
+        ],
+        "zhengzhuang": [
+          "吞咽食物哽噎不顺",
+          "饮食难下",
+          "或纳而复出"
+        ],
+        "fangming": [
+          "启膈散",
+          "通幽汤",
+          "沙参麦冬汤",
+          "补气运脾汤"
+        ],
+        "yaoming": [],
+        "xuewei": [],
+        "jingluo": [],
+        "siqi": [],
+        "wuwei": [],
+        "guijing": [],
+        "keywords": [
+          "中医内科",
+          "噎膈"
+        ]
+      }
+    },
+    {
+      "id": "bizheng_001",
+      "book": "中医内科学",
+      "type": "zhinan",
+      "tier": 1,
+      "category": "linchuang",
+      "subcategory": "neike",
+      "path": "library\\linchuang\\neike\\qixuejinye\\bizheng\\bizheng_001.md",
+      "weight": 8,
+      "title": "痹证",
+      "chapter": "气血津液病证",
+      "conditions": {
+        "zhengxing": [
+          "行痹",
+          "痛痹",
+          "着痹",
+          "风湿热痹",
+          "痰瘀痹阻",
+          "肝肾两虚"
+        ],
+        "zhifa": [
+          "祛风通络，散寒除湿",
+          "散寒通络，祛风除湿",
+          "除湿通络，祛风散寒",
+          "清热通络，祛风除湿",
+          "化痰行瘀，蠲痹通络",
+          "培补肝肾，舒筋止痛"
+        ],
+        "bingzheng": [
+          "痹证"
+        ],
+        "zhengzhuang": [
+          "肢体关节疼痛",
+          "酸楚",
+          "麻木",
+          "重着",
+          "屈伸不利"
+        ],
+        "fangming": [
+          "防风汤",
+          "乌头汤",
+          "薏苡仁汤",
+          "白虎加桂枝汤合宣痹汤",
+          "双合汤",
+          "补血荣筋丸"
+        ],
+        "yaoming": [],
+        "xuewei": [],
+        "jingluo": [],
+        "siqi": [],
+        "wuwei": [],
+        "guijing": [],
+        "keywords": [
+          "中医内科",
+          "痹证"
+        ]
+      }
+    },
+    {
+      "id": "neishangfare_001",
+      "book": "中医内科学",
+      "type": "zhinan",
+      "tier": 1,
+      "category": "linchuang",
+      "subcategory": "neike",
+      "path": "library\\linchuang\\neike\\qixuejinye\\neishangfare\\neishangfare_001.md",
+      "weight": 8,
+      "title": "内伤发热",
+      "chapter": "气血津液病证",
+      "conditions": {
+        "zhengxing": [
+          "阴虚发热",
+          "血虚发热",
+          "气虚发热",
+          "阳虚发热",
+          "气郁发热",
+          "痰湿郁热",
+          "血瘀发热"
+        ],
+        "zhifa": [
+          "滋阴清热",
+          "益气养血",
+          "益气健脾，甘温除热",
+          "温补阳气，引火归原",
+          "疏肝理气，解郁泻热",
+          "燥湿化痰，清热和中",
+          "活血化瘀"
+        ],
+        "bingzheng": [
+          "内伤发热"
+        ],
+        "zhengzhuang": [
+          "低热",
+          "或自觉发热",
+          "高热",
+          "病程较长"
+        ],
+        "fangming": [
+          "清骨散",
+          "归脾汤",
+          "补中益气汤",
+          "金匮肾气丸",
+          "丹栀逍遥散",
+          "黄连温胆汤合中和汤",
+          "血府逐瘀汤"
+        ],
+        "yaoming": [],
+        "xuewei": [],
+        "jingluo": [],
+        "siqi": [],
+        "wuwei": [],
+        "guijing": [],
+        "keywords": [
+          "中医内科",
+          "内伤发热"
+        ]
+      }
+    },
+    {
+      "id": "tanyin_001",
+      "book": "中医内科学",
+      "type": "zhinan",
+      "tier": 1,
+      "category": "linchuang",
+      "subcategory": "neike",
+      "path": "library\\linchuang\\neike\\qixuejinye\\tanyin\\tanyin_001.md",
+      "weight": 8,
+      "title": "痰饮",
+      "chapter": "气血津液病证",
+      "conditions": {
+        "zhengxing": [
+          "痰饮（脾阳虚弱）",
+          "痰饮（饮留胃肠）",
+          "悬饮（邪犯胸肺）",
+          "悬饮（饮停胸胁）",
+          "悬饮（络气不和）",
+          "悬饮（阴虚内热）",
+          "溢饮（表寒里饮）",
+          "支饮（寒饮伏肺）",
+          "支饮（脾肾阳虚）"
+        ],
+        "zhifa": [
+          "温脾化饮",
+          "攻下逐饮",
+          "和解宣利",
+          "泻肺祛饮",
+          "理气和络",
+          "滋阴清热",
+          "发表化饮",
+          "温肺化饮",
+          "温补脾肾，以化水饮"
+        ],
+        "bingzheng": [
+          "痰饮"
+        ],
+        "zhengzhuang": [
+          "咳唾引痛",
+          "心下胀满",
+          "肠鸣漉漉"
+        ],
+        "fangming": [
+          "苓桂术甘汤合小半夏加茯苓汤",
+          "甘遂半夏汤",
+          "柴枳半夏汤",
+          "椒目瓜蒌汤",
+          "香附旋覆花汤",
+          "沙参麦冬汤合泻白散",
+          "小青龙汤",
+          "小青龙汤",
+          "金匮肾气丸合苓桂术甘汤"
+        ],
+        "yaoming": [],
+        "xuewei": [],
+        "jingluo": [],
+        "siqi": [],
+        "wuwei": [],
+        "guijing": [],
+        "keywords": [
+          "中医内科",
+          "痰饮"
+        ]
+      }
+    },
+    {
+      "id": "toutong_001",
+      "book": "中医内科学",
+      "type": "zhinan",
+      "tier": 1,
+      "category": "linchuang",
+      "subcategory": "neike",
+      "path": "library\\linchuang\\neike\\qixuejinye\\toutong\\toutong_001.md",
+      "weight": 8,
+      "title": "头痛",
+      "chapter": "气血津液病证",
+      "conditions": {
+        "zhengxing": [
+          "外感（风寒头痛）",
+          "外感（风热头痛）",
+          "外感（风湿头痛）",
+          "内伤（肝阳头痛）",
+          "内伤（血虚头痛）",
+          "内伤（痰浊头痛）",
+          "内伤（肾虚头痛）",
+          "内伤（瘀血头痛）"
+        ],
+        "zhifa": [
+          "疏散风寒止痛",
+          "疏风清热和络",
+          "祛风胜湿通窍",
+          "平肝潜阳息风",
+          "养血滋阴，和络止痛",
+          "健脾燥湿，化痰降逆",
+          "养阴补肾，填精生髓",
+          "活血化瘀，通窍止痛"
+        ],
+        "bingzheng": [
+          "头痛"
+        ],
+        "zhengzhuang": [
+          "头部疼痛"
+        ],
+        "fangming": [
+          "川芎茶调散",
+          "芎芷石膏汤",
+          "羌活胜湿汤",
+          "天麻钩藤饮",
+          "加味四物汤",
+          "半夏白术天麻汤",
+          "大补元煎",
+          "通窍活血汤"
+        ],
+        "yaoming": [],
+        "xuewei": [],
+        "jingluo": [],
+        "siqi": [],
+        "wuwei": [],
+        "guijing": [],
+        "keywords": [
+          "中医内科",
+          "头痛"
+        ]
+      }
+    },
+    {
+      "id": "weizheng_001",
+      "book": "中医内科学",
+      "type": "zhinan",
+      "tier": 1,
+      "category": "linchuang",
+      "subcategory": "neike",
+      "path": "library\\linchuang\\neike\\qixuejinye\\weizheng\\weizheng_001.md",
+      "weight": 8,
+      "title": "痿证",
+      "chapter": "气血津液病证",
+      "conditions": {
+        "zhengxing": [
+          "肺热津伤",
+          "湿热浸淫",
+          "脾胃虚弱",
+          "肝肾亏损"
+        ],
+        "zhifa": [
+          "清热润燥，养阴生津",
+          "清热利湿，通利经脉",
+          "补中益气，健脾升清",
+          "补益肝肾，滋阴清热"
+        ],
+        "bingzheng": [
+          "痿证"
+        ],
+        "zhengzhuang": [
+          "肢体筋脉弛缓",
+          "软弱无力",
+          "日久不能随意运动",
+          "肌肉萎缩"
+        ],
+        "fangming": [
+          "清燥救肺汤",
+          "加味二妙散",
+          "参苓白术散合补中益气汤",
+          "虎潜丸"
+        ],
+        "yaoming": [],
+        "xuewei": [],
+        "jingluo": [],
+        "siqi": [],
+        "wuwei": [],
+        "guijing": [],
+        "keywords": [
+          "中医内科",
+          "痿证"
+        ]
+      }
+    },
+    {
+      "id": "xiaoke_001",
+      "book": "中医内科学",
+      "type": "zhinan",
+      "tier": 1,
+      "category": "linchuang",
+      "subcategory": "neike",
+      "path": "library\\linchuang\\neike\\qixuejinye\\xiaoke\\xiaoke_001.md",
+      "weight": 8,
+      "title": "消渴",
+      "chapter": "气血津液病证",
+      "conditions": {
+        "zhengxing": [
+          "上消（肺热津伤）",
+          "中消（胃热炽盛）",
+          "中消（气阴亏虚）",
+          "下消（肾阴亏虚）",
+          "下消（阴阳两虚）"
+        ],
+        "zhifa": [
+          "清热润肺，生津止渴",
+          "清胃泻火，养阴增液",
+          "益气健脾，生津止渴",
+          "滋阴固肾",
+          "滋阴温阳，补肾固涩"
+        ],
+        "bingzheng": [
+          "消渴"
+        ],
+        "zhengzhuang": [
+          "多饮",
+          "多食",
+          "多尿",
+          "形体消瘦"
+        ],
+        "fangming": [
+          "消渴方",
+          "玉女煎",
+          "七味白术散",
+          "六味地黄丸",
+          "金匮肾气丸"
+        ],
+        "yaoming": [],
+        "xuewei": [],
+        "jingluo": [],
+        "siqi": [],
+        "wuwei": [],
+        "guijing": [],
+        "keywords": [
+          "中医内科",
+          "消渴"
+        ]
+      }
+    },
+    {
+      "id": "xuezhengneike_001",
+      "book": "中医内科学",
+      "type": "zhinan",
+      "tier": 1,
+      "category": "linchuang",
+      "subcategory": "neike",
+      "path": "library\\linchuang\\neike\\qixuejinye\\xuezhengneike\\xuezhengneike_001.md",
+      "weight": 8,
+      "title": "血证",
+      "chapter": "气血津液病证",
+      "conditions": {
+        "zhengxing": [
+          "鼻衄（热邪犯肺）",
+          "鼻衄（胃热炽盛）",
+          "鼻衄（肝火上炎）",
+          "鼻衄（气血亏虚）",
+          "齿衄（胃火炽盛）",
+          "齿衄（阴虚火旺）",
+          "咳血（燥热伤肺）",
+          "咳血（肝火犯肺）",
+          "咳血（阴虚肺热）",
+          "吐血（胃热壅盛）",
+          "吐血（肝火犯胃）",
+          "吐血（气虚血溢）",
+          "便血（肠道湿热）",
+          "便血（气虚不摄）",
+          "便血（脾胃虚寒）",
+          "尿血（下焦湿热）",
+          "尿血（肾虚火旺）",
+          "尿血（脾不统血）",
+          "尿血（肾气不固）"
+        ],
+        "zhifa": [
+          "清泄肺热，凉血止血",
+          "清胃泻火，凉血止血",
+          "清肝泻火，凉血止血",
+          "补气摄血",
+          "清胃泻火，凉血止血",
+          "滋阴降火，凉血止血",
+          "清热润肺，宁络止血",
+          "清肝泻火，凉血止血",
+          "滋阴润肺，宁络止血",
+          "清胃泻火，化瘀止血",
+          "泻肝清胃，凉血止血",
+          "健脾益气，摄血",
+          "清化湿热，凉血止血",
+          "益气摄血",
+          "健脾温中，养血止血",
+          "清热利湿，凉血止血",
+          "滋阴降火，凉血止血",
+          "补中健脾，益气摄血",
+          "补益肾气，固摄止血"
+        ],
+        "bingzheng": [
+          "血证（鼻衄、齿衄、咳血、吐血、便血、尿血）"
+        ],
+        "zhengzhuang": [
+          "血液或从口、鼻，或从尿道、肛门，或从肌肤外溢"
+        ],
+        "fangming": [
+          "桑菊饮",
+          "玉女煎",
+          "龙胆泻肝汤",
+          "归脾汤",
+          "加味清胃散",
+          "六味地黄丸合茜根散",
+          "桑杏汤",
+          "泻白散合黛蛤散",
+          "百合固金汤",
+          "泻心汤合十灰散",
+          "龙胆泻肝汤",
+          "归脾汤",
+          "地榆散合槐角丸",
+          "归脾汤",
+          "黄土汤",
+          "小蓟饮子",
+          "知柏地黄丸",
+          "归脾汤",
+          "无比山药丸"
+        ],
+        "yaoming": [],
+        "xuewei": [],
+        "jingluo": [],
+        "siqi": [],
+        "wuwei": [],
+        "guijing": [],
+        "keywords": [
+          "中医内科",
+          "血证"
+        ]
+      }
+    },
+    {
+      "id": "xulao_001",
+      "book": "中医内科学",
+      "type": "zhinan",
+      "tier": 1,
+      "category": "linchuang",
+      "subcategory": "neike",
+      "path": "library\\linchuang\\neike\\qixuejinye\\xulao\\xulao_001.md",
+      "weight": 8,
+      "title": "虚劳",
+      "chapter": "气血津液病证",
+      "conditions": {
+        "zhengxing": [
+          "气虚（肺气虚）",
+          "气虚（心气虚）",
+          "气虚（脾气虚）",
+          "血虚（心血虚）",
+          "血虚（肝血虚）",
+          "阴虚（肺阴虚）",
+          "阴虚（心阴虚）",
+          "阴虚（脾胃阴虚）",
+          "阴虚（肝阴虚）",
+          "阴虚（肾阴虚）",
+          "阳虚（心阳虚）",
+          "阳虚（脾阳虚）",
+          "阳虚（肾阳虚）"
+        ],
+        "zhifa": [
+          "补益肺气",
+          "补益心气",
+          "健脾益气",
+          "养血安神",
+          "补血养肝",
+          "养阴润肺",
+          "滋阴养心",
+          "养阴和胃",
+          "滋养肝阴",
+          "滋补肾阴",
+          "益气温阳",
+          "温中健脾",
+          "温补肾阳"
+        ],
+        "bingzheng": [
+          "虚劳"
+        ],
+        "zhengzhuang": [
+          "形神衰败",
+          "身体羸瘦",
+          "久虚不复"
+        ],
+        "fangming": [
+          "补肺汤",
+          "七福饮",
+          "加味四君子汤",
+          "养心汤",
+          "四物汤",
+          "沙参麦冬汤",
+          "天王补心丹",
+          "益胃汤",
+          "补肝汤",
+          "左归丸",
+          "保元汤",
+          "附子理中汤",
+          "右归丸"
+        ],
+        "yaoming": [],
+        "xuewei": [],
+        "jingluo": [],
+        "siqi": [],
+        "wuwei": [],
+        "guijing": [],
+        "keywords": [
+          "中医内科",
+          "虚劳"
+        ]
+      }
+    },
+    {
+      "id": "yaotong_001",
+      "book": "中医内科学",
+      "type": "zhinan",
+      "tier": 1,
+      "category": "linchuang",
+      "subcategory": "neike",
+      "path": "library\\linchuang\\neike\\qixuejinye\\yaotong\\yaotong_001.md",
+      "weight": 8,
+      "title": "腰痛",
+      "chapter": "气血津液病证",
+      "conditions": {
+        "zhengxing": [
+          "寒湿腰痛",
+          "湿热腰痛",
+          "瘀血腰痛",
+          "肾虚腰痛（肾阴虚）",
+          "肾虚腰痛（肾阳虚）"
+        ],
+        "zhifa": [
+          "散寒除湿，温经通络",
+          "清热利湿，舒筋止痛",
+          "活血化瘀，通络止痛",
+          "滋补肾阴",
+          "温补肾阳"
+        ],
+        "bingzheng": [
+          "腰痛"
+        ],
+        "zhengzhuang": [
+          "腰部一侧或两侧疼痛"
+        ],
+        "fangming": [
+          "甘姜苓术汤",
+          "四妙丸",
+          "身痛逐瘀汤",
+          "左归丸",
+          "右归丸"
+        ],
+        "yaoming": [],
+        "xuewei": [],
+        "jingluo": [],
+        "siqi": [],
+        "wuwei": [],
+        "guijing": [],
+        "keywords": [
+          "中医内科",
+          "腰痛"
+        ]
+      }
+    },
+    {
+      "id": "yuzheng_001",
+      "book": "中医内科学",
+      "type": "zhinan",
+      "tier": 1,
+      "category": "linchuang",
+      "subcategory": "neike",
+      "path": "library\\linchuang\\neike\\qixuejinye\\yuzheng\\yuzheng_001.md",
+      "weight": 8,
+      "title": "郁证",
+      "chapter": "气血津液病证",
+      "conditions": {
+        "zhengxing": [
+          "肝气郁结",
+          "气郁化火",
+          "痰气郁结",
+          "心神失养",
+          "心脾两虚",
+          "心肾阴虚"
+        ],
+        "zhifa": [
+          "疏肝解郁，理气畅中",
+          "疏肝解郁，清肝泻火",
+          "行气开郁，化痰散结",
+          "甘润缓急，养心安神",
+          "健脾养心，补益气血",
+          "滋养心肾"
+        ],
+        "bingzheng": [
+          "郁证"
+        ],
+        "zhengzhuang": [
+          "心情抑郁",
+          "情绪不宁",
+          "胸部满闷",
+          "胁肋胀痛"
+        ],
+        "fangming": [
+          "柴胡疏肝散",
+          "丹栀逍遥散",
+          "半夏厚朴汤",
+          "甘麦大枣汤",
+          "归脾汤",
+          "天王补心丹合六味地黄丸"
+        ],
+        "yaoming": [],
+        "xuewei": [],
+        "jingluo": [],
+        "siqi": [],
+        "wuwei": [],
+        "guijing": [],
+        "keywords": [
+          "中医内科",
+          "郁证"
+        ]
+      }
+    },
+    {
+      "id": "zihandaohan_001",
+      "book": "中医内科学",
+      "type": "zhinan",
+      "tier": 1,
+      "category": "linchuang",
+      "subcategory": "neike",
+      "path": "library\\linchuang\\neike\\qixuejinye\\zihandaohan\\zihandaohan_001.md",
+      "weight": 8,
+      "title": "自汗盗汗",
+      "chapter": "气血津液病证",
+      "conditions": {
+        "zhengxing": [
+          "肺卫不固",
+          "营卫不和",
+          "阴虚火旺",
+          "邪热郁蒸"
+        ],
+        "zhifa": [
+          "益气固表",
+          "调和营卫",
+          "滋阴降火",
+          "清肝泄热，化湿和营"
+        ],
+        "bingzheng": [
+          "自汗盗汗"
+        ],
+        "zhengzhuang": [
+          "白昼时时汗出",
+          "寐中汗出、醒后自止"
+        ],
+        "fangming": [
+          "玉屏风散",
+          "桂枝汤",
+          "当归六黄汤",
+          "龙胆泻肝汤"
+        ],
+        "yaoming": [],
+        "xuewei": [],
+        "jingluo": [],
+        "siqi": [],
+        "wuwei": [],
+        "guijing": [],
+        "keywords": [
+          "中医内科",
+          "自汗盗汗"
+        ]
+      }
+    },
+    {
+      "id": "linzheng_001",
+      "book": "中医内科学",
+      "type": "zhinan",
+      "tier": 1,
+      "category": "linchuang",
+      "subcategory": "neike",
+      "path": "library\\linchuang\\neike\\shenxi\\linzheng\\linzheng_001.md",
+      "weight": 8,
+      "title": "淋证",
+      "chapter": "肾系病证",
+      "conditions": {
+        "zhengxing": [
+          "热淋",
+          "石淋",
+          "血淋",
+          "气淋",
+          "膏淋",
+          "劳淋"
+        ],
+        "zhifa": [
+          "清热利湿通淋",
+          "清热利湿，排石通淋",
+          "清热通淋，凉血止血（实证）；补虚止血（虚证）",
+          "理气疏导，通淋利尿（实证）；健脾益气（虚证）",
+          "清热利湿，分清泄浊（实证）；补虚固涩（虚证）",
+          "补脾益肾"
+        ],
+        "bingzheng": [
+          "淋证"
+        ],
+        "zhengzhuang": [
+          "小便频数短涩",
+          "淋沥刺痛",
+          "小腹拘急引痛"
+        ],
+        "fangming": [
+          "八正散",
+          "石韦散",
+          "小蓟饮子",
+          "沉香散",
+          "程氏萆薢分清饮",
+          "无比山药丸"
+        ],
+        "yaoming": [],
+        "xuewei": [],
+        "jingluo": [],
+        "siqi": [],
+        "wuwei": [],
+        "guijing": [],
+        "keywords": [
+          "中医内科",
+          "淋证"
+        ]
+      }
+    },
+    {
+      "id": "longbi_001",
+      "book": "中医内科学",
+      "type": "zhinan",
+      "tier": 1,
+      "category": "linchuang",
+      "subcategory": "neike",
+      "path": "library\\linchuang\\neike\\shenxi\\longbi\\longbi_001.md",
+      "weight": 8,
+      "title": "癃闭",
+      "chapter": "肾系病证",
+      "conditions": {
+        "zhengxing": [
+          "膀胱湿热",
+          "肺热壅盛",
+          "肝郁气滞",
+          "浊瘀阻塞",
+          "脾气不升",
+          "肾阳衰惫"
+        ],
+        "zhifa": [
+          "清利湿热，通利小便",
+          "清泄肺热，通利水道",
+          "疏利气机，通利小便",
+          "行瘀散结，通利水道",
+          "升清降浊，化气行水",
+          "温补肾阳，化气利水"
+        ],
+        "bingzheng": [
+          "癃闭"
+        ],
+        "zhengzhuang": [
+          "小便量少",
+          "排尿困难",
+          "甚则小便闭塞不通"
+        ],
+        "fangming": [
+          "八正散",
+          "清肺饮",
+          "沉香散",
+          "代抵当丸",
+          "补中益气汤合春泽汤",
+          "济生肾气丸"
+        ],
+        "yaoming": [],
+        "xuewei": [],
+        "jingluo": [],
+        "siqi": [],
+        "wuwei": [],
+        "guijing": [],
+        "keywords": [
+          "中医内科",
+          "癃闭"
+        ]
+      }
+    },
+    {
+      "id": "shuizhong_001",
+      "book": "中医内科学",
+      "type": "zhinan",
+      "tier": 1,
+      "category": "linchuang",
+      "subcategory": "neike",
+      "path": "library\\linchuang\\neike\\shenxi\\shuizhong\\shuizhong_001.md",
+      "weight": 8,
+      "title": "水肿",
+      "chapter": "肾系病证",
+      "conditions": {
+        "zhengxing": [
+          "阳水（风水相搏）",
+          "阳水（湿毒浸淫）",
+          "阳水（水湿浸渍）",
+          "阳水（湿热壅盛）",
+          "阴水（脾阳虚衰）",
+          "阴水（肾阳衰微）"
+        ],
+        "zhifa": [
+          "疏风清热，宣肺行水",
+          "宣肺解毒，利湿消肿",
+          "运脾化湿，通阳利水",
+          "分利湿热",
+          "健脾温阳利水",
+          "温肾助阳，化气行水"
+        ],
+        "bingzheng": [
+          "水肿"
+        ],
+        "zhengzhuang": [
+          "眼睑浮肿",
+          "继则四肢及全身皆肿"
+        ],
+        "fangming": [
+          "越婢加术汤",
+          "麻黄连翘赤小豆汤",
+          "五皮饮合胃苓汤",
+          "疏凿饮子",
+          "实脾饮",
+          "济生肾气丸合真武汤"
+        ],
+        "yaoming": [],
+        "xuewei": [],
+        "jingluo": [],
+        "siqi": [],
+        "wuwei": [],
+        "guijing": [],
+        "keywords": [
+          "中医内科",
+          "水肿"
+        ]
+      }
+    },
+    {
+      "id": "yangwei_001",
+      "book": "中医内科学",
+      "type": "zhinan",
+      "tier": 1,
+      "category": "linchuang",
+      "subcategory": "neike",
+      "path": "library\\linchuang\\neike\\shenxi\\yangwei\\yangwei_001.md",
+      "weight": 8,
+      "title": "阳痿",
+      "chapter": "肾系病证",
+      "conditions": {
+        "zhengxing": [
+          "命门火衰",
+          "心脾亏虚",
+          "肝郁不舒",
+          "惊恐伤肾",
+          "湿热下注"
+        ],
+        "zhifa": [
+          "温肾壮阳",
+          "补益心脾",
+          "疏肝解郁",
+          "益肾宁神",
+          "清利湿热"
+        ],
+        "bingzheng": [
+          "阳痿"
+        ],
+        "zhengzhuang": [
+          "性交时阴茎痿软不举",
+          "或举而不坚",
+          "或坚而不久"
+        ],
+        "fangming": [
+          "赞育丸",
+          "归脾汤",
+          "逍遥散",
+          "启阳娱心丹",
+          "龙胆泻肝汤"
+        ],
+        "yaoming": [],
+        "xuewei": [],
+        "jingluo": [],
+        "siqi": [],
+        "wuwei": [],
+        "guijing": [],
+        "keywords": [
+          "中医内科",
+          "阳痿"
+        ]
+      }
+    },
+    {
+      "id": "yijing_001",
+      "book": "中医内科学",
+      "type": "zhinan",
+      "tier": 1,
+      "category": "linchuang",
+      "subcategory": "neike",
+      "path": "library\\linchuang\\neike\\shenxi\\yijing\\yijing_001.md",
+      "weight": 8,
+      "title": "遗精",
+      "chapter": "肾系病证",
+      "conditions": {
+        "zhengxing": [
+          "君相火旺",
+          "湿热下注",
+          "劳伤心脾",
+          "肾气不固"
+        ],
+        "zhifa": [
+          "清心泻肝",
+          "清热利湿",
+          "调补心脾",
+          "补肾益精，固涩止遗"
+        ],
+        "bingzheng": [
+          "遗精"
+        ],
+        "zhengzhuang": [
+          "不因性生活而精液自行泄出"
+        ],
+        "fangming": [
+          "黄连清心饮合三才封髓丹",
+          "程氏萆薢分清饮",
+          "补中益气汤",
+          "金锁固精丸"
+        ],
+        "yaoming": [],
+        "xuewei": [],
+        "jingluo": [],
+        "siqi": [],
+        "wuwei": [],
+        "guijing": [],
+        "keywords": [
+          "中医内科",
+          "遗精"
+        ]
+      }
+    },
+    {
+      "id": "bumei_001",
+      "book": "中医内科学",
+      "type": "zhinan",
+      "tier": 1,
+      "category": "linchuang",
+      "subcategory": "neike",
+      "path": "library\\linchuang\\neike\\xinxi\\bumei\\bumei_001.md",
+      "weight": 8,
+      "title": "不寐",
+      "chapter": "心系病证",
+      "conditions": {
+        "zhengxing": [
+          "肝火扰心证",
+          "痰热扰心证",
+          "心脾两虚证",
+          "心肾不交证",
+          "心胆气虚证"
+        ],
+        "zhifa": [
+          "疏肝泻火镇心安神",
+          "清化痰热和中安神",
+          "补益心脾养血安神",
+          "滋阴降火交通心肾",
+          "益气镇惊安神定志"
+        ],
+        "bingzheng": [
+          "不寐"
+        ],
+        "zhengzhuang": [
+          "寐差",
+          "入睡困难",
+          "寐而易醒",
+          "彻夜不眠",
+          "头晕健忘"
+        ],
+        "fangming": [
+          "龙胆泻肝汤",
+          "黄连温胆汤",
+          "归脾汤",
+          "六味地黄丸合交泰丸",
+          "安神定志丸合酸枣仁汤"
+        ],
+        "yaoming": [],
+        "xuewei": [],
+        "jingluo": [],
+        "siqi": [],
+        "wuwei": [],
+        "guijing": [],
+        "keywords": [
+          "中医内科",
+          "不寐"
+        ]
+      }
+    },
+    {
+      "id": "chidai_001",
+      "book": "中医内科学",
+      "type": "zhinan",
+      "tier": 1,
+      "category": "linchuang",
+      "subcategory": "neike",
+      "path": "library\\linchuang\\neike\\xinxi\\chidai\\chidai_001.md",
+      "weight": 8,
+      "title": "痴呆",
+      "chapter": "心系病证",
+      "conditions": {
+        "zhengxing": [
+          "髓海不足证",
+          "脾肾两虚证",
+          "痰浊蒙窍证",
+          "瘀血内阻证"
+        ],
+        "zhifa": [
+          "补肾益髓填精养神",
+          "补肾健脾益气生精",
+          "豁痰开窍健脾化浊",
+          "活血化瘀开窍醒脑"
+        ],
+        "bingzheng": [
+          "痴呆"
+        ],
+        "zhengzhuang": [
+          "呆傻愚笨",
+          "智能低下",
+          "善忘",
+          "神情淡漠"
+        ],
+        "fangming": [
+          "七福饮",
+          "还少丹",
+          "洗心汤",
+          "通窍活血汤"
+        ],
+        "yaoming": [],
+        "xuewei": [],
+        "jingluo": [],
+        "siqi": [],
+        "wuwei": [],
+        "guijing": [],
+        "keywords": [
+          "中医内科",
+          "痴呆"
+        ]
+      }
+    },
+    {
+      "id": "diankuang_001",
+      "book": "中医内科学",
+      "type": "zhinan",
+      "tier": 1,
+      "category": "linchuang",
+      "subcategory": "neike",
+      "path": "library\\linchuang\\neike\\xinxi\\diankuang\\diankuang_001.md",
+      "weight": 8,
+      "title": "癫狂",
+      "chapter": "心系病证",
+      "conditions": {
+        "zhengxing": [
+          "痰气郁结证",
+          "心脾两虚证",
+          "痰火扰神证",
+          "火盛伤阴证",
+          "痰热瘀结证"
+        ],
+        "zhifa": [
+          "理气解郁化痰醒神",
+          "健脾益气养心安神",
+          "清心泻火涤痰醒神",
+          "滋阴降火安神定志",
+          "豁痰化瘀调畅气血"
+        ],
+        "bingzheng": [
+          "癫狂"
+        ],
+        "zhengzhuang": [
+          "精神抑郁",
+          "表情淡漠",
+          "沉默痴呆",
+          "狂躁刚暴",
+          "喧扰不宁",
+          "动而多怒"
+        ],
+        "fangming": [
+          "逍遥散合顺气导痰汤",
+          "养心汤合越鞠丸",
+          "生铁落饮",
+          "二阴煎合琥珀养心丹",
+          "癫狂梦醒汤"
+        ],
+        "yaoming": [],
+        "xuewei": [],
+        "jingluo": [],
+        "siqi": [],
+        "wuwei": [],
+        "guijing": [],
+        "keywords": [
+          "中医内科",
+          "癫狂"
+        ]
+      }
+    },
+    {
+      "id": "juezheng_001",
+      "book": "中医内科学",
+      "type": "zhinan",
+      "tier": 1,
+      "category": "linchuang",
+      "subcategory": "neike",
+      "path": "library\\linchuang\\neike\\xinxi\\juezheng\\juezheng_001.md",
+      "weight": 8,
+      "title": "厥证",
+      "chapter": "心系病证",
+      "conditions": {
+        "zhengxing": [
+          "气厥实证",
+          "气厥虚证",
+          "血厥实证",
+          "血厥虚证",
+          "痰厥",
+          "食厥"
+        ],
+        "zhifa": [
+          "开窍顺气解郁",
+          "补气回阳醒神",
+          "平肝潜阳理气通瘀",
+          "补养气血",
+          "行气豁痰",
+          "和中消导"
+        ],
+        "bingzheng": [
+          "厥证"
+        ],
+        "zhengzhuang": [
+          "突然昏倒",
+          "不省人事",
+          "四肢厥冷",
+          "移时苏醒"
+        ],
+        "fangming": [
+          "通关散合五磨饮子",
+          "参附汤合四味回阳饮",
+          "羚角钩藤汤合通瘀煎",
+          "独参汤送服人参养营汤",
+          "导痰汤",
+          "神术散合保和丸"
+        ],
+        "yaoming": [],
+        "xuewei": [],
+        "jingluo": [],
+        "siqi": [],
+        "wuwei": [],
+        "guijing": [],
+        "keywords": [
+          "中医内科",
+          "厥证"
+        ]
+      }
+    },
+    {
+      "id": "xianbing_001",
+      "book": "中医内科学",
+      "type": "zhinan",
+      "tier": 1,
+      "category": "linchuang",
+      "subcategory": "neike",
+      "path": "library\\linchuang\\neike\\xinxi\\xianbing\\xianbing_001.md",
+      "weight": 8,
+      "title": "痫病",
+      "chapter": "心系病证",
+      "conditions": {
+        "zhengxing": [
+          "风痰闭阻证",
+          "痰火扰神证",
+          "瘀阻脑络证",
+          "心脾两虚证",
+          "心肾亏虚证"
+        ],
+        "zhifa": [
+          "涤痰息风开窍定痫",
+          "清热泻火化痰开窍",
+          "活血化瘀息风通络",
+          "补益气血健脾宁心",
+          "补益心肾潜阳安神"
+        ],
+        "bingzheng": [
+          "痫病"
+        ],
+        "zhengzhuang": [
+          "突然仆倒",
+          "昏不知人",
+          "口吐涎沫",
+          "两目上视",
+          "四肢抽搐",
+          "移时苏醒"
+        ],
+        "fangming": [
+          "定痫丸",
+          "龙胆泻肝汤合涤痰汤",
+          "通窍活血汤",
+          "六君子汤合归脾汤",
+          "左归丸合天王补心丹"
+        ],
+        "yaoming": [],
+        "xuewei": [],
+        "jingluo": [],
+        "siqi": [],
+        "wuwei": [],
+        "guijing": [],
+        "keywords": [
+          "中医内科",
+          "痫病"
+        ]
+      }
+    },
+    {
+      "id": "xinji_001",
+      "book": "中医内科学",
+      "type": "zhinan",
+      "tier": 1,
+      "category": "linchuang",
+      "subcategory": "neike",
+      "path": "library\\linchuang\\neike\\xinxi\\xinji\\xinji_001.md",
+      "weight": 8,
+      "title": "心悸",
+      "chapter": "心系病证",
+      "conditions": {
+        "zhengxing": [
+          "心虚胆怯证",
+          "心血不足证",
+          "阴虚火旺证",
+          "心阳不振证",
+          "水饮凌心证",
+          "瘀阻心脉证",
+          "痰火扰心证"
+        ],
+        "zhifa": [
+          "镇惊定志养心安神",
+          "补血养心益气安神",
+          "滋阴清火养心安神",
+          "温补心阳安神定悸",
+          "振奋心阳化气行水",
+          "活血化瘀理气通络",
+          "清热化痰宁心安神"
+        ],
+        "bingzheng": [
+          "心悸"
+        ],
+        "zhengzhuang": [
+          "心中悸动",
+          "惊惕不安",
+          "甚则不能自主",
+          "脉参伍不调"
+        ],
+        "fangming": [
+          "安神定志丸",
+          "归脾汤",
+          "天王补心丹合朱砂安神丸",
+          "桂枝甘草龙骨牡蛎汤合参附汤",
+          "苓桂术甘汤",
+          "桃仁红花煎",
+          "黄连温胆汤"
+        ],
+        "yaoming": [],
+        "xuewei": [],
+        "jingluo": [],
+        "siqi": [],
+        "wuwei": [],
+        "guijing": [],
+        "keywords": [
+          "中医内科",
+          "心悸"
+        ]
+      }
+    },
+    {
+      "id": "xiongbi_001",
+      "book": "中医内科学",
+      "type": "zhinan",
+      "tier": 1,
+      "category": "linchuang",
+      "subcategory": "neike",
+      "path": "library\\linchuang\\neike\\xinxi\\xiongbi\\xiongbi_001.md",
+      "weight": 8,
+      "title": "胸痹",
+      "chapter": "心系病证",
+      "conditions": {
+        "zhengxing": [
+          "心血瘀阻证",
+          "气滞心胸证",
+          "痰浊闭阻证",
+          "寒凝心脉证",
+          "气阴两虚证",
+          "心肾阴虚证",
+          "心肾阳虚证"
+        ],
+        "zhifa": [
+          "活血化瘀通脉止痛",
+          "疏肝理气活血通络",
+          "通阳泄浊豁痰宣痹",
+          "辛温散寒宣通心阳",
+          "益气养阴活血通脉",
+          "滋阴清火养心和络",
+          "温补阳气振奋心阳"
+        ],
+        "bingzheng": [
+          "胸痹"
+        ],
+        "zhengzhuang": [
+          "胸部闷痛",
+          "甚则胸痛彻背",
+          "喘息不得卧",
+          "短气"
+        ],
+        "fangming": [
+          "血府逐瘀汤",
+          "柴胡疏肝散",
+          "瓜蒌薤白半夏汤合涤痰汤",
+          "枳实薤白桂枝汤合当归四逆汤",
+          "生脉散合人参养荣汤",
+          "天王补心丹合炙甘草汤",
+          "参附汤合右归饮"
+        ],
+        "yaoming": [],
+        "xuewei": [],
+        "jingluo": [],
+        "siqi": [],
+        "wuwei": [],
+        "guijing": [],
+        "keywords": [
+          "中医内科",
+          "胸痹"
         ]
       }
     },

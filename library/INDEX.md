@@ -1,6 +1,6 @@
 # TCM-Library · 全库总索引
 
-> 中医知识百科全书检索库 · 当前收录 1630 条（按目录自动生成）
+> 中医知识百科全书检索库 · 当前收录 1990 条（按目录自动生成）
 
 ## 收录进度
 
@@ -10,7 +10,7 @@
 | zhenduan | 中医诊断 | 0 | 0 | — |
 | zhongyao | 中药学 | 701 | 701 | [索引](./library/zhongyao/INDEX.md) |
 | fangji | 方剂学 | 1 | 1 | [索引](./library/fangji/INDEX.md) |
-| zhenjiu | 针灸推拿 | 1 | 1 | [索引](./library/zhenjiu/INDEX.md) |
+| zhenjiu | 针灸推拿 | 361 | 361 | [索引](./library/zhenjiu/INDEX.md) |
 | linchuang | 中医临床 | 0 | 0 | — |
 | yangsheng | 养生康复 | 0 | 0 | — |
 | yishi | 医史医家 | 0 | 0 | — |
@@ -40,7 +40,7 @@
 - **zhenduan** · 中医诊断（待收录）
 - **zhongyao** · 中药学（701 部书，701 条）
 - **fangji** · 方剂学（1 部书，1 条）
-- **zhenjiu** · 针灸推拿（1 部书，1 条）
+- **zhenjiu** · 针灸推拿（361 部书，361 条）
 - **linchuang** · 中医临床（待收录）
 - **yangsheng** · 养生康复（待收录）
 - **yishi** · 医史医家（待收录）

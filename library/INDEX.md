@@ -1,6 +1,6 @@
 # TCM-Library · 全库总索引
 
-> 中医知识百科全书检索库 · 当前收录 2398 条（按目录自动生成）
+> 中医知识百科全书检索库 · 当前收录 2402 条（按目录自动生成）
 
 ## 收录进度
 
@@ -9,7 +9,7 @@
 | jichu | 中医基础理论 | 0 | 0 | — |
 | zhenduan | 中医诊断 | 52 | 52 | [索引](./library/zhenduan/INDEX.md) |
 | zhongyao | 中药学 | 701 | 701 | [索引](./library/zhongyao/INDEX.md) |
-| fangji | 方剂学 | 40 | 40 | [索引](./library/fangji/INDEX.md) |
+| fangji | 方剂学 | 44 | 44 | [索引](./library/fangji/INDEX.md) |
 | zhenjiu | 针灸推拿 | 385 | 385 | [索引](./library/zhenjiu/INDEX.md) |
 | linchuang | 中医临床 | 59 | 59 | [索引](./library/linchuang/INDEX.md) |
 | yangsheng | 养生康复 | 0 | 0 | — |
@@ -39,7 +39,7 @@
 - **jichu** · 中医基础理论（待收录）
 - **zhenduan** · 中医诊断（52 部书，52 条）
 - **zhongyao** · 中药学（701 部书，701 条）
-- **fangji** · 方剂学（40 部书，40 条）
+- **fangji** · 方剂学（44 部书，44 条）
 - **zhenjiu** · 针灸推拿（385 部书，385 条）
 - **linchuang** · 中医临床（59 部书，59 条）
 - **yangsheng** · 养生康复（待收录）

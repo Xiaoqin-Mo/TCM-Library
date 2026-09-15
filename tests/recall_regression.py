@@ -33,7 +33,7 @@ def main() -> None:
     results = []
     # 结构化维度命中
     results.append(check("按证型 太阳中风",
-                         ids({"zhengxing": ["太阳中风"]}), ["guizhitang_001", "zhangzhongjing_002"]))
+                         ids({"zhengxing": ["太阳中风"]}), ["guizhijiagegengtang_001", "guizhitang_001", "zhangzhongjing_002"]))
     # 治法命中随经方等新条目扩充而增长：旧基线必须仍在（防回归），抽查新增经方确认纳入
     for name, got, base, new in (
         ("按治法 解表散寒", ids({"zhifa": ["解表散寒"]}),
@@ -88,14 +88,14 @@ def main() -> None:
         results.append(ok)
     # 同字段多值 OR：任一命中即该字段命中（桂枝汤 zhengxing 含太阳中风）
     results.append(check("同字段多值 OR",
-                         ids({"zhengxing": ["太阳中风", "风寒束表"]}), ["guizhitang_001", "zhangzhongjing_002"]))
+                         ids({"zhengxing": ["太阳中风", "风寒束表"]}), ["guizhijiagegengtang_001", "guizhitang_001", "zhangzhongjing_002"]))
     # 跨字段 AND：zhengxing 命中但 zhifa 不命中 → 不召回
     results.append(check("跨字段 AND 不匹配",
                          ids({"zhengxing": ["太阳中风"], "zhifa": ["发汗解表"]}), []))
     # 维度间 OR + 排序：桂枝汤 命中特异性 2（zhengxing+yaoming）> 麻黄 1
     r = query(MANIFEST, {"zhengxing": ["太阳中风"], "yaoming": ["桂枝"]}, include_general=False)
     top = [e["id"] for e in r[:1]]
-    results.append(check("特异性优先排序", top, ["guizhitang_001"]))
+    results.append(check("特异性优先排序", top, ["guizhijiagegengtang_001"]))
     # keywords 包含召回
     # keywords 包含召回：新增经方亦纳入，改为「旧基线全含 + 抽查」
     jj = ids({"keywords": ["解表剂"]})
@@ -108,7 +108,7 @@ def main() -> None:
     # 空查询静默（不返回全部）
     results.append(check("空查询静默", ids({}), []))
     # 结构完整性
-    results.append(check("manifest 非空", [str(MANIFEST["total"])], ["2398"]))
+    results.append(check("manifest 非空", [str(MANIFEST["total"])], ["2402"]))
     results.append(check("match_fields 齐全",
                          MANIFEST["match_fields"],
                          ["zhengxing", "zhifa", "bingzheng", "zhengzhuang",

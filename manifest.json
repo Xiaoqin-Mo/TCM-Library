@@ -6936,6 +6936,14 @@
       "count": 1
     },
     {
+      "dir": "zhongyao\\huoxuehuayu\\maqianzifen",
+      "tier": 2,
+      "tier_name": "重要",
+      "category": "zhongyao",
+      "subcategory": "huoxuehuayu",
+      "count": 1
+    },
+    {
       "dir": "zhongyao\\huoxuehuayu\\mengchong",
       "tier": 1,
       "tier_name": "核心",
@@ -9531,14 +9539,6 @@
       "dir": "zhongyao\\qufengshi\\luxiancao",
       "tier": 1,
       "tier_name": "核心",
-      "category": "zhongyao",
-      "subcategory": "qufengshi",
-      "count": 1
-    },
-    {
-      "dir": "zhongyao\\qufengshi\\maqianzifen",
-      "tier": 2,
-      "tier_name": "重要",
       "category": "zhongyao",
       "subcategory": "qufengshi",
       "count": 1
@@ -86923,6 +86923,69 @@
       }
     },
     {
+      "id": "maqianzifen_001",
+      "book": "中国药典（2025年版）一部",
+      "type": "yaowu",
+      "tier": 2,
+      "category": "zhongyao",
+      "subcategory": "huoxuehuayu",
+      "path": "library\\zhongyao\\huoxuehuayu\\maqianzifen\\maqianzifen_001.md",
+      "weight": 6,
+      "title": "马钱子粉",
+      "chapter": "活血化瘀药",
+      "conditions": {
+        "zhengxing": [
+          "风湿顽痹",
+          "瘀血",
+          "痰结"
+        ],
+        "zhifa": [
+          "通络止痛",
+          "散结消肿"
+        ],
+        "bingzheng": [
+          "跌打损伤",
+          "骨折肿痛",
+          "风湿顽痹",
+          "麻木瘫痪",
+          "痈疽疮毒",
+          "咽喉肿痛"
+        ],
+        "zhengzhuang": [
+          "瘀肿疼痛",
+          "顽痹麻木"
+        ],
+        "fangming": [
+          "九分散",
+          "马钱子散"
+        ],
+        "yaoming": [
+          "马钱子粉"
+        ],
+        "xuewei": [],
+        "jingluo": [],
+        "siqi": [
+          "温"
+        ],
+        "wuwei": [
+          "苦"
+        ],
+        "guijing": [
+          "肝经",
+          "脾经"
+        ],
+        "keywords": [
+          "马钱科",
+          "马钱",
+          "成熟种子",
+          "砂烫粉碎",
+          "控制士的宁含量",
+          "大毒",
+          "中国药典"
+        ]
+      }
+    },
+    {
       "id": "mengchong_001",
       "book": "中国药典（2025年版）一部",
       "type": "yaowu",
@@ -106413,69 +106476,6 @@
           "鹿蹄草",
           "全草",
           "祛风湿强筋骨",
-          "中国药典"
-        ]
-      }
-    },
-    {
-      "id": "maqianzifen_001",
-      "book": "中国药典（2025年版）一部",
-      "type": "yaowu",
-      "tier": 2,
-      "category": "zhongyao",
-      "subcategory": "qufengshi",
-      "path": "library\\zhongyao\\qufengshi\\maqianzifen\\maqianzifen_001.md",
-      "weight": 6,
-      "title": "马钱子粉",
-      "chapter": "祛风湿药",
-      "conditions": {
-        "zhengxing": [
-          "风湿顽痹",
-          "瘀血",
-          "痰结"
-        ],
-        "zhifa": [
-          "通络止痛",
-          "散结消肿"
-        ],
-        "bingzheng": [
-          "跌打损伤",
-          "骨折肿痛",
-          "风湿顽痹",
-          "麻木瘫痪",
-          "痈疽疮毒",
-          "咽喉肿痛"
-        ],
-        "zhengzhuang": [
-          "瘀肿疼痛",
-          "顽痹麻木"
-        ],
-        "fangming": [
-          "九分散",
-          "马钱子散"
-        ],
-        "yaoming": [
-          "马钱子粉"
-        ],
-        "xuewei": [],
-        "jingluo": [],
-        "siqi": [
-          "温"
-        ],
-        "wuwei": [
-          "苦"
-        ],
-        "guijing": [
-          "肝经",
-          "脾经"
-        ],
-        "keywords": [
-          "马钱科",
-          "马钱",
-          "成熟种子",
-          "砂烫粉碎",
-          "控制士的宁含量",
-          "大毒",
           "中国药典"
         ]
       }

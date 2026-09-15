@@ -1,4 +1,4 @@
-# zhongyao\anshen\xiaomai · 索引
+# zhongyao/anshen/xiaomai · 索引
 
 > 中药学 / 安神药 · 条目数 1
 

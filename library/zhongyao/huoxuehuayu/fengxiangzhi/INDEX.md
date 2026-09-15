@@ -1,4 +1,4 @@
-# zhongyao\huoxuehuayu\fengxiangzhi · 索引
+# zhongyao/huoxuehuayu/fengxiangzhi · 索引
 
 > 中药学 / 活血化瘀药 · 条目数 1
 

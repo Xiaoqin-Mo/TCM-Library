@@ -1,4 +1,4 @@
-# linchuang\wenbing\xuefenzheng · 索引
+# linchuang/wenbing/xuefenzheng · 索引
 
 > 中医临床 / 温病 · 条目数 1
 

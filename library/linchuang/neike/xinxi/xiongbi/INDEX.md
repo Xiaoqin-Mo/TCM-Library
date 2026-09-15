@@ -1,4 +1,4 @@
-# linchuang\neike\xinxi\xiongbi · 索引
+# linchuang/neike/xinxi/xiongbi · 索引
 
 > 中医临床 / 内科 · 条目数 1
 

@@ -1,4 +1,4 @@
-# linchuang\neike\piweixi\yege · 索引
+# linchuang/neike/piweixi/yege · 索引
 
 > 中医临床 / 内科 · 条目数 1
 

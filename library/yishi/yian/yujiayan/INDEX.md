@@ -1,4 +1,4 @@
-# yishi\yian\yujiayan · 索引
+# yishi/yian/yujiayan · 索引
 
 > 医史医家 / 医案 · 条目数 3
 

@@ -1,4 +1,4 @@
-# jingdian\nanjing · 索引
+# jingdian/nanjing · 索引
 
 > 经典医籍 / 难经 · 条目数 81
 

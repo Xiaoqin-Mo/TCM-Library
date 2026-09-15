@@ -1,4 +1,4 @@
-# zhenduan\bianzheng\weiqi_yingxue · 索引
+# zhenduan/bianzheng/weiqi_yingxue · 索引
 
 > 中医诊断 / 辨证 · 条目数 1
 

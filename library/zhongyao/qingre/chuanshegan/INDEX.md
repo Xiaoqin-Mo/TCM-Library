@@ -1,4 +1,4 @@
-# zhongyao\qingre\chuanshegan · 索引
+# zhongyao/qingre/chuanshegan · 索引
 
 > 中药学 / 清热药 · 条目数 1
 

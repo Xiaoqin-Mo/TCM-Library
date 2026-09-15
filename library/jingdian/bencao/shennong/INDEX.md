@@ -1,4 +1,4 @@
-# jingdian\bencao\shennong · 索引
+# jingdian/bencao/shennong · 索引
 
 > 经典医籍 / 本草经典 · 条目数 144
 

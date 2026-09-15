@@ -1,4 +1,4 @@
-# zhenduan\bianzheng\qixu_qixian · 索引
+# zhenduan/bianzheng/qixu_qixian · 索引
 
 > 中医诊断 / 辨证 · 条目数 1
 

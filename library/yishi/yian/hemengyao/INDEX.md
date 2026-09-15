@@ -1,4 +1,4 @@
-# yishi\yian\hemengyao · 索引
+# yishi/yian/hemengyao · 索引
 
 > 医史医家 / 医案 · 条目数 1
 

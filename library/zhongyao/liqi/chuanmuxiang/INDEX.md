@@ -1,4 +1,4 @@
-# zhongyao\liqi\chuanmuxiang · 索引
+# zhongyao/liqi/chuanmuxiang · 索引
 
 > 中药学 / 理气药 · 条目数 1
 

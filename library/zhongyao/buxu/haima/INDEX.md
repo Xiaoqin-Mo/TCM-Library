@@ -1,4 +1,4 @@
-# zhongyao\buxu\haima · 索引
+# zhongyao/buxu/haima · 索引
 
 > 中药学 / 补虚药 · 条目数 1
 

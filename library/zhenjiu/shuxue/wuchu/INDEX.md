@@ -1,4 +1,4 @@
-# zhenjiu\shuxue\wuchu · 索引
+# zhenjiu/shuxue/wuchu · 索引
 
 > 针灸推拿 / 腧穴 · 条目数 1
 

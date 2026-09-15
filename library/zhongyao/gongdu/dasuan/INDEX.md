@@ -1,4 +1,4 @@
-# zhongyao\gongdu\dasuan · 索引
+# zhongyao/gongdu/dasuan · 索引
 
 > 中药学 / 攻毒杀虫止痒药 · 条目数 1
 

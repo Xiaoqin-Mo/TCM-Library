@@ -1,4 +1,4 @@
-# jingdian\wenbing\wenrelun\banzhen · 索引
+# jingdian/wenbing/wenrelun/banzhen · 索引
 
 > 经典医籍 / 温病经典 · 条目数 1
 

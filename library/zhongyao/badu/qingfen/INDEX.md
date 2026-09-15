@@ -1,4 +1,4 @@
-# zhongyao\badu\qingfen · 索引
+# zhongyao/badu/qingfen · 索引
 
 > 中药学 / 拔毒化腐生肌药 · 条目数 1
 

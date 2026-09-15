@@ -1,4 +1,4 @@
-# zhenduan\siyang\wennv · 索引
+# zhenduan/siyang/wennv · 索引
 
 > 中医诊断 / 四诊 · 条目数 1
 

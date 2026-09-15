@@ -1,4 +1,4 @@
-# zhongyao\jiebiao\fuping · 索引
+# zhongyao/jiebiao/fuping · 索引
 
 > 中药学 / 解表药 · 条目数 1
 

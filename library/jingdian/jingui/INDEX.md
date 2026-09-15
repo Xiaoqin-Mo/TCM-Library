@@ -1,4 +1,4 @@
-# jingdian\jingui · 索引
+# jingdian/jingui · 索引
 
 > 经典医籍 / 金匮要略 · 条目数 25
 

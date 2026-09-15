@@ -1,4 +1,4 @@
-# zhongyao\xiexia\zhuyazao · 索引
+# zhongyao/xiexia/zhuyazao · 索引
 
 > 中药学 / 泻下药 · 条目数 1
 

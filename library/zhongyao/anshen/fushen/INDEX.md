@@ -1,4 +1,4 @@
-# zhongyao\anshen\fushen · 索引
+# zhongyao/anshen/fushen · 索引
 
 > 中药学 / 安神药 · 条目数 1
 

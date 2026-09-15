@@ -6,6 +6,6 @@
 
 | 书目 | 条目数 | 索引 |
 | --- | --- | --- |
-| zhenjiu/shuxue/zusanli | 1 | [索引](./zhenjiu/shuxue/zusanli/INDEX.md) |
+| zhenjiu\shuxue\zusanli | 1 | [索引](./zhenjiu\shuxue\zusanli/INDEX.md) |
 
 [返回总索引](../INDEX.md)

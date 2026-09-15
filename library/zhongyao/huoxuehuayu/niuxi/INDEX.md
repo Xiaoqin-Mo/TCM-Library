@@ -1,4 +1,4 @@
-# zhongyao/huoxuehuayu/niuxi · 索引
+# zhongyao\huoxuehuayu\niuxi · 索引
 
 > 中药学 / 活血化瘀药 · 条目数 1
 

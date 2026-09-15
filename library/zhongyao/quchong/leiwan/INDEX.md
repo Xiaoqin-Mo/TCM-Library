@@ -1,4 +1,4 @@
-# zhongyao/quchong/leiwan · 索引
+# zhongyao\quchong\leiwan · 索引
 
 > 中药学 / 驱虫药 · 条目数 1
 

@@ -1,4 +1,4 @@
-# zhongyao/zhixue/songhuafen · 索引
+# zhongyao\zhixue\songhuafen · 索引
 
 > 中药学 / 止血药 · 条目数 1
 

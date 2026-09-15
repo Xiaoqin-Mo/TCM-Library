@@ -1,4 +1,4 @@
-# zhongyao/quchong/hecaoya · 索引
+# zhongyao\quchong\hecaoya · 索引
 
 > 中药学 / 驱虫药 · 条目数 1
 

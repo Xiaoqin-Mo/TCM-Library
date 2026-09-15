@@ -1,4 +1,4 @@
-# zhongyao/shouse/shanzhuyu · 索引
+# zhongyao\shouse\shanzhuyu · 索引
 
 > 中药学 / 收涩药 · 条目数 1
 

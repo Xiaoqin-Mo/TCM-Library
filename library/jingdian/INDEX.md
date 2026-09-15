@@ -6,12 +6,12 @@
 
 | 书目 | 条目数 | 索引 |
 | --- | --- | --- |
-| jingdian/neijing/suwen | 1 | [索引](./jingdian/neijing/suwen/INDEX.md) |
+| jingdian\neijing\suwen | 1 | [索引](./jingdian\neijing\suwen/INDEX.md) |
 
 ## shanghan · 伤寒论
 
 | 书目 | 条目数 | 索引 |
 | --- | --- | --- |
-| jingdian/shanghan | 1 | [索引](./jingdian/shanghan/INDEX.md) |
+| jingdian\shanghan | 1 | [索引](./jingdian\shanghan/INDEX.md) |
 
 [返回总索引](../INDEX.md)

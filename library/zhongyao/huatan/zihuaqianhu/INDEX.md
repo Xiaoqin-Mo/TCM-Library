@@ -1,4 +1,4 @@
-# zhongyao/huatan/zihuaqianhu · 索引
+# zhongyao\huatan\zihuaqianhu · 索引
 
 > 中药学 / 化痰止咳平喘药 · 条目数 1
 

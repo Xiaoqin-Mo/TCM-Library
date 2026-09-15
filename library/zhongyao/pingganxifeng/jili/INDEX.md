@@ -1,4 +1,4 @@
-# zhongyao/pingganxifeng/jili · 索引
+# zhongyao\pingganxifeng\jili · 索引
 
 > 中药学 / 平肝息风药 · 条目数 1
 

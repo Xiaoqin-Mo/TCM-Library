@@ -18,7 +18,7 @@
   "roots": {
     "fangji": {
       "jingfang": {
-        "dir": "fangji\\jingfang\\guizhitang",
+        "dir": "fangji\\jingfang\\zhuyeshigaotang",
         "count": 1
       }
     },
@@ -576,7 +576,319 @@
   ],
   "books": [
     {
+      "dir": "fangji\\jingfang\\baihutang",
+      "tier": 1,
+      "tier_name": "核心",
+      "category": "fangji",
+      "subcategory": "jingfang",
+      "count": 1
+    },
+    {
+      "dir": "fangji\\jingfang\\baitouwengtang",
+      "tier": 1,
+      "tier_name": "核心",
+      "category": "fangji",
+      "subcategory": "jingfang",
+      "count": 1
+    },
+    {
+      "dir": "fangji\\jingfang\\banxiaxiexintang",
+      "tier": 1,
+      "tier_name": "核心",
+      "category": "fangji",
+      "subcategory": "jingfang",
+      "count": 1
+    },
+    {
+      "dir": "fangji\\jingfang\\dachaihutang",
+      "tier": 1,
+      "tier_name": "核心",
+      "category": "fangji",
+      "subcategory": "jingfang",
+      "count": 1
+    },
+    {
+      "dir": "fangji\\jingfang\\dachengqitang",
+      "tier": 1,
+      "tier_name": "核心",
+      "category": "fangji",
+      "subcategory": "jingfang",
+      "count": 1
+    },
+    {
+      "dir": "fangji\\jingfang\\dajianzhongtang",
+      "tier": 1,
+      "tier_name": "核心",
+      "category": "fangji",
+      "subcategory": "jingfang",
+      "count": 1
+    },
+    {
+      "dir": "fangji\\jingfang\\dangguishaoyaosan",
+      "tier": 1,
+      "tier_name": "核心",
+      "category": "fangji",
+      "subcategory": "jingfang",
+      "count": 1
+    },
+    {
+      "dir": "fangji\\jingfang\\danguisinitang",
+      "tier": 1,
+      "tier_name": "核心",
+      "category": "fangji",
+      "subcategory": "jingfang",
+      "count": 1
+    },
+    {
+      "dir": "fangji\\jingfang\\daqinglongtang",
+      "tier": 1,
+      "tier_name": "核心",
+      "category": "fangji",
+      "subcategory": "jingfang",
+      "count": 1
+    },
+    {
+      "dir": "fangji\\jingfang\\didangtang",
+      "tier": 1,
+      "tier_name": "核心",
+      "category": "fangji",
+      "subcategory": "jingfang",
+      "count": 1
+    },
+    {
+      "dir": "fangji\\jingfang\\gancaoxiexintang",
+      "tier": 1,
+      "tier_name": "核心",
+      "category": "fangji",
+      "subcategory": "jingfang",
+      "count": 1
+    },
+    {
+      "dir": "fangji\\jingfang\\gegenatang",
+      "tier": 1,
+      "tier_name": "核心",
+      "category": "fangji",
+      "subcategory": "jingfang",
+      "count": 1
+    },
+    {
+      "dir": "fangji\\jingfang\\guizhifulingwan",
+      "tier": 1,
+      "tier_name": "核心",
+      "category": "fangji",
+      "subcategory": "jingfang",
+      "count": 1
+    },
+    {
       "dir": "fangji\\jingfang\\guizhitang",
+      "tier": 1,
+      "tier_name": "核心",
+      "category": "fangji",
+      "subcategory": "jingfang",
+      "count": 1
+    },
+    {
+      "dir": "fangji\\jingfang\\huanglianejiaotang",
+      "tier": 1,
+      "tier_name": "核心",
+      "category": "fangji",
+      "subcategory": "jingfang",
+      "count": 1
+    },
+    {
+      "dir": "fangji\\jingfang\\lizhongwan",
+      "tier": 1,
+      "tier_name": "核心",
+      "category": "fangji",
+      "subcategory": "jingfang",
+      "count": 1
+    },
+    {
+      "dir": "fangji\\jingfang\\mahuangtang",
+      "tier": 1,
+      "tier_name": "核心",
+      "category": "fangji",
+      "subcategory": "jingfang",
+      "count": 1
+    },
+    {
+      "dir": "fangji\\jingfang\\mahuangxingrenshigao",
+      "tier": 1,
+      "tier_name": "核心",
+      "category": "fangji",
+      "subcategory": "jingfang",
+      "count": 1
+    },
+    {
+      "dir": "fangji\\jingfang\\shengjiangxiexintang",
+      "tier": 1,
+      "tier_name": "核心",
+      "category": "fangji",
+      "subcategory": "jingfang",
+      "count": 1
+    },
+    {
+      "dir": "fangji\\jingfang\\shenqiwan",
+      "tier": 1,
+      "tier_name": "核心",
+      "category": "fangji",
+      "subcategory": "jingfang",
+      "count": 1
+    },
+    {
+      "dir": "fangji\\jingfang\\shizaotang",
+      "tier": 1,
+      "tier_name": "核心",
+      "category": "fangji",
+      "subcategory": "jingfang",
+      "count": 1
+    },
+    {
+      "dir": "fangji\\jingfang\\sinisan",
+      "tier": 1,
+      "tier_name": "核心",
+      "category": "fangji",
+      "subcategory": "jingfang",
+      "count": 1
+    },
+    {
+      "dir": "fangji\\jingfang\\sinitang",
+      "tier": 1,
+      "tier_name": "核心",
+      "category": "fangji",
+      "subcategory": "jingfang",
+      "count": 1
+    },
+    {
+      "dir": "fangji\\jingfang\\taohechengqitang",
+      "tier": 1,
+      "tier_name": "核心",
+      "category": "fangji",
+      "subcategory": "jingfang",
+      "count": 1
+    },
+    {
+      "dir": "fangji\\jingfang\\tiaoweichengqitang",
+      "tier": 1,
+      "tier_name": "核心",
+      "category": "fangji",
+      "subcategory": "jingfang",
+      "count": 1
+    },
+    {
+      "dir": "fangji\\jingfang\\wenjingtang",
+      "tier": 1,
+      "tier_name": "核心",
+      "category": "fangji",
+      "subcategory": "jingfang",
+      "count": 1
+    },
+    {
+      "dir": "fangji\\jingfang\\wulingsan",
+      "tier": 1,
+      "tier_name": "核心",
+      "category": "fangji",
+      "subcategory": "jingfang",
+      "count": 1
+    },
+    {
+      "dir": "fangji\\jingfang\\wumeiwan",
+      "tier": 1,
+      "tier_name": "核心",
+      "category": "fangji",
+      "subcategory": "jingfang",
+      "count": 1
+    },
+    {
+      "dir": "fangji\\jingfang\\wuzhuyutang",
+      "tier": 1,
+      "tier_name": "核心",
+      "category": "fangji",
+      "subcategory": "jingfang",
+      "count": 1
+    },
+    {
+      "dir": "fangji\\jingfang\\xiaochaihutang",
+      "tier": 1,
+      "tier_name": "核心",
+      "category": "fangji",
+      "subcategory": "jingfang",
+      "count": 1
+    },
+    {
+      "dir": "fangji\\jingfang\\xiaochengqitang",
+      "tier": 1,
+      "tier_name": "核心",
+      "category": "fangji",
+      "subcategory": "jingfang",
+      "count": 1
+    },
+    {
+      "dir": "fangji\\jingfang\\xiaojianzhongtang",
+      "tier": 1,
+      "tier_name": "核心",
+      "category": "fangji",
+      "subcategory": "jingfang",
+      "count": 1
+    },
+    {
+      "dir": "fangji\\jingfang\\xiaoqinglongtang",
+      "tier": 1,
+      "tier_name": "核心",
+      "category": "fangji",
+      "subcategory": "jingfang",
+      "count": 1
+    },
+    {
+      "dir": "fangji\\jingfang\\xuanfudaizhetang",
+      "tier": 1,
+      "tier_name": "核心",
+      "category": "fangji",
+      "subcategory": "jingfang",
+      "count": 1
+    },
+    {
+      "dir": "fangji\\jingfang\\yinchenhaotang",
+      "tier": 1,
+      "tier_name": "核心",
+      "category": "fangji",
+      "subcategory": "jingfang",
+      "count": 1
+    },
+    {
+      "dir": "fangji\\jingfang\\zhenwutang",
+      "tier": 1,
+      "tier_name": "核心",
+      "category": "fangji",
+      "subcategory": "jingfang",
+      "count": 1
+    },
+    {
+      "dir": "fangji\\jingfang\\zhigancaotang",
+      "tier": 1,
+      "tier_name": "核心",
+      "category": "fangji",
+      "subcategory": "jingfang",
+      "count": 1
+    },
+    {
+      "dir": "fangji\\jingfang\\zhizichitang",
+      "tier": 1,
+      "tier_name": "核心",
+      "category": "fangji",
+      "subcategory": "jingfang",
+      "count": 1
+    },
+    {
+      "dir": "fangji\\jingfang\\zhulingtang",
+      "tier": 1,
+      "tier_name": "核心",
+      "category": "fangji",
+      "subcategory": "jingfang",
+      "count": 1
+    },
+    {
+      "dir": "fangji\\jingfang\\zhuyeshigaotang",
       "tier": 1,
       "tier_name": "核心",
       "category": "fangji",
@@ -10696,8 +11008,677 @@
       "count": 1
     }
   ],
-  "total": 2215,
+  "total": 2254,
   "entries": [
+    {
+      "id": "baihutang_002",
+      "book": "伤寒论",
+      "type": "fangji",
+      "tier": 1,
+      "category": "fangji",
+      "subcategory": "jingfang",
+      "path": "library\\fangji\\jingfang\\baihutang\\baihutang_002.md",
+      "weight": 8,
+      "title": "白虎汤方",
+      "chapter": "辨太阳病脉证并治下",
+      "conditions": {
+        "zhengxing": [
+          "阳明气分热盛"
+        ],
+        "zhifa": [
+          "清热生津"
+        ],
+        "bingzheng": [
+          "高热",
+          "中暑"
+        ],
+        "zhengzhuang": [
+          "身大热",
+          "汗大出",
+          "口大渴",
+          "脉洪大",
+          "面赤",
+          "恶热"
+        ],
+        "fangming": [
+          "白虎汤"
+        ],
+        "yaoming": [
+          "知母",
+          "石膏",
+          "甘草",
+          "粳米"
+        ],
+        "xuewei": [],
+        "jingluo": [],
+        "siqi": [],
+        "wuwei": [],
+        "guijing": [],
+        "keywords": [
+          "清热剂",
+          "清气分热"
+        ]
+      }
+    },
+    {
+      "id": "baitouwengtang_001",
+      "book": "伤寒论",
+      "type": "fangji",
+      "tier": 1,
+      "category": "fangji",
+      "subcategory": "jingfang",
+      "path": "library\\fangji\\jingfang\\baitouwengtang\\baitouwengtang_001.md",
+      "weight": 8,
+      "title": "白头翁汤方",
+      "chapter": "辨厥阴病脉证并治",
+      "conditions": {
+        "zhengxing": [
+          "热毒痢疾"
+        ],
+        "zhifa": [
+          "清热解毒",
+          "凉血止痢"
+        ],
+        "bingzheng": [
+          "痢疾"
+        ],
+        "zhengzhuang": [
+          "下利脓血",
+          "腹痛",
+          "里急后重",
+          "肛门灼热",
+          "渴欲饮水",
+          "舌红苔黄"
+        ],
+        "fangming": [
+          "白头翁汤"
+        ],
+        "yaoming": [
+          "白头翁",
+          "黄柏",
+          "黄连",
+          "秦皮"
+        ],
+        "xuewei": [],
+        "jingluo": [],
+        "siqi": [],
+        "wuwei": [],
+        "guijing": [],
+        "keywords": [
+          "清热剂",
+          "清热解毒"
+        ]
+      }
+    },
+    {
+      "id": "banxiaxiexintang_001",
+      "book": "金匮要略",
+      "type": "fangji",
+      "tier": 1,
+      "category": "fangji",
+      "subcategory": "jingfang",
+      "path": "library\\fangji\\jingfang\\banxiaxiexintang\\banxiaxiexintang_001.md",
+      "weight": 8,
+      "title": "半夏泻心汤方",
+      "chapter": "呕吐哕下利病脉证治第十七",
+      "conditions": {
+        "zhengxing": [
+          "寒热错杂",
+          "心下痞"
+        ],
+        "zhifa": [
+          "和胃降逆",
+          "开结除痞"
+        ],
+        "bingzheng": [
+          "胃炎",
+          "消化不良"
+        ],
+        "zhengzhuang": [
+          "心下痞满",
+          "呕吐",
+          "肠鸣下利",
+          "舌苔腻"
+        ],
+        "fangming": [
+          "半夏泻心汤"
+        ],
+        "yaoming": [
+          "半夏",
+          "黄芩",
+          "干姜",
+          "人参",
+          "甘草",
+          "黄连",
+          "大枣"
+        ],
+        "xuewei": [],
+        "jingluo": [],
+        "siqi": [],
+        "wuwei": [],
+        "guijing": [],
+        "keywords": [
+          "和解剂",
+          "调和肠胃"
+        ]
+      }
+    },
+    {
+      "id": "dachaihutang_001",
+      "book": "伤寒论",
+      "type": "fangji",
+      "tier": 1,
+      "category": "fangji",
+      "subcategory": "jingfang",
+      "path": "library\\fangji\\jingfang\\dachaihutang\\dachaihutang_001.md",
+      "weight": 8,
+      "title": "大柴胡汤方",
+      "chapter": "辨太阳病脉证并治下",
+      "conditions": {
+        "zhengxing": [
+          "少阳阳明合病"
+        ],
+        "zhifa": [
+          "和解少阳",
+          "内泻热结"
+        ],
+        "bingzheng": [
+          "急性胆囊炎",
+          "胰腺炎",
+          "便秘"
+        ],
+        "zhengzhuang": [
+          "往来寒热",
+          "胸胁苦满",
+          "呕不止",
+          "心下急",
+          "郁郁微烦",
+          "大便不通"
+        ],
+        "fangming": [
+          "大柴胡汤"
+        ],
+        "yaoming": [
+          "柴胡",
+          "黄芩",
+          "芍药",
+          "半夏",
+          "生姜",
+          "枳实",
+          "大枣",
+          "大黄"
+        ],
+        "xuewei": [],
+        "jingluo": [],
+        "siqi": [],
+        "wuwei": [],
+        "guijing": [],
+        "keywords": [
+          "和解剂",
+          "表里双解"
+        ]
+      }
+    },
+    {
+      "id": "dachengqitang_001",
+      "book": "伤寒论",
+      "type": "fangji",
+      "tier": 1,
+      "category": "fangji",
+      "subcategory": "jingfang",
+      "path": "library\\fangji\\jingfang\\dachengqitang\\dachengqitang_001.md",
+      "weight": 8,
+      "title": "大承气汤方",
+      "chapter": "辨阳明病脉证并治",
+      "conditions": {
+        "zhengxing": [
+          "阳明腑实"
+        ],
+        "zhifa": [
+          "峻下热结"
+        ],
+        "bingzheng": [
+          "肠梗阻",
+          "急性胰腺炎"
+        ],
+        "zhengzhuang": [
+          "痞满燥实坚",
+          "大便不通",
+          "腹满痛拒按",
+          "潮热谵语",
+          "脉沉实",
+          "苔黄燥"
+        ],
+        "fangming": [
+          "大承气汤"
+        ],
+        "yaoming": [
+          "大黄",
+          "厚朴",
+          "枳实",
+          "芒硝"
+        ],
+        "xuewei": [],
+        "jingluo": [],
+        "siqi": [],
+        "wuwei": [],
+        "guijing": [],
+        "keywords": [
+          "泻下剂",
+          "寒下"
+        ]
+      }
+    },
+    {
+      "id": "dajianzhongtang_001",
+      "book": "金匮要略",
+      "type": "fangji",
+      "tier": 1,
+      "category": "fangji",
+      "subcategory": "jingfang",
+      "path": "library\\fangji\\jingfang\\dajianzhongtang\\dajianzhongtang_001.md",
+      "weight": 8,
+      "title": "大建中汤方",
+      "chapter": "腹满寒疝宿食病脉证治第十",
+      "conditions": {
+        "zhengxing": [
+          "中阳衰弱"
+        ],
+        "zhifa": [
+          "温中补虚",
+          "降逆止痛"
+        ],
+        "bingzheng": [
+          "腹痛"
+        ],
+        "zhengzhuang": [
+          "心胸中大寒痛",
+          "呕不能食",
+          "腹中寒",
+          "上冲皮起",
+          "出见有头足",
+          "上下痛而不可触近"
+        ],
+        "fangming": [
+          "大建中汤"
+        ],
+        "yaoming": [
+          "蜀椒",
+          "干姜",
+          "人参",
+          "胶饴"
+        ],
+        "xuewei": [],
+        "jingluo": [],
+        "siqi": [],
+        "wuwei": [],
+        "guijing": [],
+        "keywords": [
+          "温里剂",
+          "温中散寒"
+        ]
+      }
+    },
+    {
+      "id": "dangguishaoyaosan_001",
+      "book": "金匮要略",
+      "type": "fangji",
+      "tier": 1,
+      "category": "fangji",
+      "subcategory": "jingfang",
+      "path": "library\\fangji\\jingfang\\dangguishaoyaosan\\dangguishaoyaosan_001.md",
+      "weight": 8,
+      "title": "当归芍药散方",
+      "chapter": "妇人妊娠病脉证并治第二十",
+      "conditions": {
+        "zhengxing": [
+          "肝脾不和"
+        ],
+        "zhifa": [
+          "养血调肝",
+          "健脾利湿"
+        ],
+        "bingzheng": [
+          "痛经",
+          "妊娠腹痛",
+          "水肿"
+        ],
+        "zhengzhuang": [
+          "腹中诸疾痛",
+          "小便不利",
+          "足跗浮肿",
+          "头眩"
+        ],
+        "fangming": [
+          "当归芍药散"
+        ],
+        "yaoming": [
+          "当归",
+          "芍药",
+          "茯苓",
+          "白术",
+          "泽泻",
+          "芎"
+        ],
+        "xuewei": [],
+        "jingluo": [],
+        "siqi": [],
+        "wuwei": [],
+        "guijing": [],
+        "keywords": [
+          "理血剂",
+          "调和肝脾"
+        ]
+      }
+    },
+    {
+      "id": "danguisinitang_001",
+      "book": "伤寒论",
+      "type": "fangji",
+      "tier": 1,
+      "category": "fangji",
+      "subcategory": "jingfang",
+      "path": "library\\fangji\\jingfang\\danguisinitang\\danguisinitang_001.md",
+      "weight": 8,
+      "title": "当归四逆汤方",
+      "chapter": "辨厥阴病脉证并治",
+      "conditions": {
+        "zhengxing": [
+          "血虚寒厥"
+        ],
+        "zhifa": [
+          "温经散寒",
+          "养血通脉"
+        ],
+        "bingzheng": [
+          "手足厥寒",
+          "冻疮",
+          "痛经"
+        ],
+        "zhengzhuang": [
+          "手足厥寒",
+          "脉细欲绝",
+          "四肢末端冷痛"
+        ],
+        "fangming": [
+          "当归四逆汤"
+        ],
+        "yaoming": [
+          "当归",
+          "桂枝",
+          "芍药",
+          "细辛",
+          "甘草",
+          "通草",
+          "大枣"
+        ],
+        "xuewei": [],
+        "jingluo": [],
+        "siqi": [],
+        "wuwei": [],
+        "guijing": [],
+        "keywords": [
+          "温里剂",
+          "温经散寒"
+        ]
+      }
+    },
+    {
+      "id": "daqinglongtang_001",
+      "book": "伤寒论",
+      "type": "fangji",
+      "tier": 1,
+      "category": "fangji",
+      "subcategory": "jingfang",
+      "path": "library\\fangji\\jingfang\\daqinglongtang\\daqinglongtang_001.md",
+      "weight": 8,
+      "title": "大青龙汤方",
+      "chapter": "辨太阳病脉证并治中",
+      "conditions": {
+        "zhengxing": [
+          "外寒里热"
+        ],
+        "zhifa": [
+          "发汗解表",
+          "清热除烦"
+        ],
+        "bingzheng": [
+          "感冒",
+          "烦躁"
+        ],
+        "zhengzhuang": [
+          "恶寒发热",
+          "无汗",
+          "烦躁",
+          "身疼痛",
+          "脉浮紧"
+        ],
+        "fangming": [
+          "大青龙汤"
+        ],
+        "yaoming": [
+          "麻黄",
+          "桂枝",
+          "甘草",
+          "杏仁",
+          "生姜",
+          "大枣",
+          "石膏"
+        ],
+        "xuewei": [],
+        "jingluo": [],
+        "siqi": [],
+        "wuwei": [],
+        "guijing": [],
+        "keywords": [
+          "解表剂",
+          "辛温解表"
+        ]
+      }
+    },
+    {
+      "id": "didangtang_001",
+      "book": "伤寒论",
+      "type": "fangji",
+      "tier": 1,
+      "category": "fangji",
+      "subcategory": "jingfang",
+      "path": "library\\fangji\\jingfang\\didangtang\\didangtang_001.md",
+      "weight": 8,
+      "title": "抵当汤方",
+      "chapter": "辨太阳病脉证并治中",
+      "conditions": {
+        "zhengxing": [
+          "下焦蓄血"
+        ],
+        "zhifa": [
+          "破血逐瘀"
+        ],
+        "bingzheng": [
+          "蓄血证"
+        ],
+        "zhengzhuang": [
+          "少腹硬满",
+          "其人发狂",
+          "小便自利",
+          "脉沉结"
+        ],
+        "fangming": [
+          "抵当汤"
+        ],
+        "yaoming": [
+          "水蛭",
+          "虻虫",
+          "桃仁",
+          "大黄"
+        ],
+        "xuewei": [],
+        "jingluo": [],
+        "siqi": [],
+        "wuwei": [],
+        "guijing": [],
+        "keywords": [
+          "理血剂",
+          "活血祛瘀"
+        ]
+      }
+    },
+    {
+      "id": "gancaoxiexintang_001",
+      "book": "伤寒论",
+      "type": "fangji",
+      "tier": 1,
+      "category": "fangji",
+      "subcategory": "jingfang",
+      "path": "library\\fangji\\jingfang\\gancaoxiexintang\\gancaoxiexintang_001.md",
+      "weight": 8,
+      "title": "甘草泻心汤方",
+      "chapter": "辨太阳病脉证并治下",
+      "conditions": {
+        "zhengxing": [
+          "寒热错杂",
+          "心下痞"
+        ],
+        "zhifa": [
+          "益气和胃",
+          "消痞止利"
+        ],
+        "bingzheng": [
+          "胃炎",
+          "腹泻"
+        ],
+        "zhengzhuang": [
+          "心下痞硬而满",
+          "下利日数十行",
+          "谷不化",
+          "干呕",
+          "心烦不得安"
+        ],
+        "fangming": [
+          "甘草泻心汤"
+        ],
+        "yaoming": [
+          "甘草",
+          "黄芩",
+          "干姜",
+          "半夏",
+          "大枣",
+          "黄连"
+        ],
+        "xuewei": [],
+        "jingluo": [],
+        "siqi": [],
+        "wuwei": [],
+        "guijing": [],
+        "keywords": [
+          "和解剂",
+          "调和肠胃"
+        ]
+      }
+    },
+    {
+      "id": "gegenatang_001",
+      "book": "伤寒论",
+      "type": "fangji",
+      "tier": 1,
+      "category": "fangji",
+      "subcategory": "jingfang",
+      "path": "library\\fangji\\jingfang\\gegenatang\\gegenatang_001.md",
+      "weight": 8,
+      "title": "葛根汤方",
+      "chapter": "辨太阳病脉证并治上",
+      "conditions": {
+        "zhengxing": [
+          "风寒表实"
+        ],
+        "zhifa": [
+          "发汗解表",
+          "升津舒筋"
+        ],
+        "bingzheng": [
+          "感冒",
+          "项背强痛"
+        ],
+        "zhengzhuang": [
+          "恶寒发热",
+          "无汗",
+          "项背强几几",
+          "脉浮紧"
+        ],
+        "fangming": [
+          "葛根汤"
+        ],
+        "yaoming": [
+          "葛根",
+          "麻黄",
+          "桂枝",
+          "芍药",
+          "甘草",
+          "生姜",
+          "大枣"
+        ],
+        "xuewei": [],
+        "jingluo": [],
+        "siqi": [],
+        "wuwei": [],
+        "guijing": [],
+        "keywords": [
+          "解表剂",
+          "辛温解表"
+        ]
+      }
+    },
+    {
+      "id": "guizhifulingwan_001",
+      "book": "金匮要略",
+      "type": "fangji",
+      "tier": 1,
+      "category": "fangji",
+      "subcategory": "jingfang",
+      "path": "library\\fangji\\jingfang\\guizhifulingwan\\guizhifulingwan_001.md",
+      "weight": 8,
+      "title": "桂枝茯苓丸方",
+      "chapter": "妇人妊娠病脉证并治第二十",
+      "conditions": {
+        "zhengxing": [
+          "瘀血留结"
+        ],
+        "zhifa": [
+          "活血化瘀",
+          "缓消癥块"
+        ],
+        "bingzheng": [
+          "子宫肌瘤",
+          "痛经",
+          "产后恶露不尽"
+        ],
+        "zhengzhuang": [
+          "癥块",
+          "少腹疼痛",
+          "漏下不止",
+          "经行不畅"
+        ],
+        "fangming": [
+          "桂枝茯苓丸"
+        ],
+        "yaoming": [
+          "桂枝",
+          "茯苓",
+          "牡丹皮",
+          "桃仁",
+          "芍药"
+        ],
+        "xuewei": [],
+        "jingluo": [],
+        "siqi": [],
+        "wuwei": [],
+        "guijing": [],
+        "keywords": [
+          "理血剂",
+          "活血祛瘀"
+        ]
+      }
+    },
     {
       "id": "guizhitang_001",
       "book": "伤寒论",
@@ -10747,6 +11728,1342 @@
           "解表剂",
           "辛温解表",
           "群方之冠"
+        ]
+      }
+    },
+    {
+      "id": "huanglianejiaotang_001",
+      "book": "伤寒论",
+      "type": "fangji",
+      "tier": 1,
+      "category": "fangji",
+      "subcategory": "jingfang",
+      "path": "library\\fangji\\jingfang\\huanglianejiaotang\\huanglianejiaotang_001.md",
+      "weight": 8,
+      "title": "黄连阿胶汤方",
+      "chapter": "辨少阴病脉证并治",
+      "conditions": {
+        "zhengxing": [
+          "阴虚火旺"
+        ],
+        "zhifa": [
+          "滋阴降火",
+          "除烦安神"
+        ],
+        "bingzheng": [
+          "失眠",
+          "焦虑"
+        ],
+        "zhengzhuang": [
+          "心中烦",
+          "不得卧",
+          "舌红少苔",
+          "脉细数"
+        ],
+        "fangming": [
+          "黄连阿胶汤"
+        ],
+        "yaoming": [
+          "黄连",
+          "黄芩",
+          "芍药",
+          "鸡子黄",
+          "阿胶"
+        ],
+        "xuewei": [],
+        "jingluo": [],
+        "siqi": [],
+        "wuwei": [],
+        "guijing": [],
+        "keywords": [
+          "安神剂",
+          "重镇安神"
+        ]
+      }
+    },
+    {
+      "id": "lizhongwan_001",
+      "book": "伤寒论",
+      "type": "fangji",
+      "tier": 1,
+      "category": "fangji",
+      "subcategory": "jingfang",
+      "path": "library\\fangji\\jingfang\\lizhongwan\\lizhongwan_001.md",
+      "weight": 8,
+      "title": "理中丸方",
+      "chapter": "辨霍乱病脉证并治",
+      "conditions": {
+        "zhengxing": [
+          "脾胃虚寒"
+        ],
+        "zhifa": [
+          "温中祛寒",
+          "补气健脾"
+        ],
+        "bingzheng": [
+          "胃痛",
+          "腹泻"
+        ],
+        "zhengzhuang": [
+          "脘腹冷痛",
+          "呕吐",
+          "下利清稀",
+          "畏寒肢冷",
+          "食少"
+        ],
+        "fangming": [
+          "理中丸"
+        ],
+        "yaoming": [
+          "人参",
+          "干姜",
+          "甘草",
+          "白术"
+        ],
+        "xuewei": [],
+        "jingluo": [],
+        "siqi": [],
+        "wuwei": [],
+        "guijing": [],
+        "keywords": [
+          "温里剂",
+          "温中散寒"
+        ]
+      }
+    },
+    {
+      "id": "mahuangtang_001",
+      "book": "伤寒论",
+      "type": "fangji",
+      "tier": 1,
+      "category": "fangji",
+      "subcategory": "jingfang",
+      "path": "library\\fangji\\jingfang\\mahuangtang\\mahuangtang_001.md",
+      "weight": 8,
+      "title": "麻黄汤方",
+      "chapter": "辨太阳病脉证并治中",
+      "conditions": {
+        "zhengxing": [
+          "风寒表实"
+        ],
+        "zhifa": [
+          "发汗解表",
+          "宣肺平喘"
+        ],
+        "bingzheng": [
+          "感冒",
+          "咳喘"
+        ],
+        "zhengzhuang": [
+          "恶寒发热",
+          "无汗",
+          "头痛",
+          "身痛",
+          "脉浮紧"
+        ],
+        "fangming": [
+          "麻黄汤"
+        ],
+        "yaoming": [
+          "麻黄",
+          "桂枝",
+          "甘草",
+          "杏仁"
+        ],
+        "xuewei": [],
+        "jingluo": [],
+        "siqi": [],
+        "wuwei": [],
+        "guijing": [],
+        "keywords": [
+          "解表剂",
+          "辛温解表"
+        ]
+      }
+    },
+    {
+      "id": "mahuangxingrenshigao_001",
+      "book": "伤寒论",
+      "type": "fangji",
+      "tier": 1,
+      "category": "fangji",
+      "subcategory": "jingfang",
+      "path": "library\\fangji\\jingfang\\mahuangxingrenshigao\\mahuangxingrenshigao_001.md",
+      "weight": 8,
+      "title": "麻黄杏仁甘草石膏汤方",
+      "chapter": "辨太阳病脉证并治中",
+      "conditions": {
+        "zhengxing": [
+          "表邪未解",
+          "邪热壅肺"
+        ],
+        "zhifa": [
+          "辛凉宣泄",
+          "清肺平喘"
+        ],
+        "bingzheng": [
+          "感冒",
+          "咳喘"
+        ],
+        "zhengzhuang": [
+          "身热不解",
+          "咳喘气急",
+          "鼻煽",
+          "口渴",
+          "有汗或无汗"
+        ],
+        "fangming": [
+          "麻黄杏仁甘草石膏汤"
+        ],
+        "yaoming": [
+          "麻黄",
+          "杏仁",
+          "甘草",
+          "石膏"
+        ],
+        "xuewei": [],
+        "jingluo": [],
+        "siqi": [],
+        "wuwei": [],
+        "guijing": [],
+        "keywords": [
+          "解表剂",
+          "辛凉解表"
+        ]
+      }
+    },
+    {
+      "id": "shengjiangxiexintang_001",
+      "book": "伤寒论",
+      "type": "fangji",
+      "tier": 1,
+      "category": "fangji",
+      "subcategory": "jingfang",
+      "path": "library\\fangji\\jingfang\\shengjiangxiexintang\\shengjiangxiexintang_001.md",
+      "weight": 8,
+      "title": "生姜泻心汤方",
+      "chapter": "辨太阳病脉证并治下",
+      "conditions": {
+        "zhengxing": [
+          "寒热错杂",
+          "心下痞"
+        ],
+        "zhifa": [
+          "和胃散水",
+          "消痞止利"
+        ],
+        "bingzheng": [
+          "胃炎",
+          "消化不良"
+        ],
+        "zhengzhuang": [
+          "心下痞硬",
+          "干噫食臭",
+          "胁下有水气",
+          "腹中雷鸣下利"
+        ],
+        "fangming": [
+          "生姜泻心汤"
+        ],
+        "yaoming": [
+          "生姜",
+          "甘草",
+          "人参",
+          "干姜",
+          "黄芩",
+          "半夏",
+          "黄连",
+          "大枣"
+        ],
+        "xuewei": [],
+        "jingluo": [],
+        "siqi": [],
+        "wuwei": [],
+        "guijing": [],
+        "keywords": [
+          "和解剂",
+          "调和肠胃"
+        ]
+      }
+    },
+    {
+      "id": "shenqiwan_001",
+      "book": "金匮要略",
+      "type": "fangji",
+      "tier": 1,
+      "category": "fangji",
+      "subcategory": "jingfang",
+      "path": "library\\fangji\\jingfang\\shenqiwan\\shenqiwan_001.md",
+      "weight": 8,
+      "title": "肾气丸方",
+      "chapter": "血痹虚劳病脉证并治第六",
+      "conditions": {
+        "zhengxing": [
+          "肾阳不足"
+        ],
+        "zhifa": [
+          "补肾助阳"
+        ],
+        "bingzheng": [
+          "腰痛",
+          "水肿",
+          "阳痿",
+          "消渴"
+        ],
+        "zhengzhuang": [
+          "腰痛脚软",
+          "小便不利或反多",
+          "畏寒肢冷",
+          "下半身常有冷感",
+          "舌淡胖"
+        ],
+        "fangming": [
+          "肾气丸"
+        ],
+        "yaoming": [
+          "干地黄",
+          "薯蓣",
+          "山茱萸",
+          "泽泻",
+          "茯苓",
+          "牡丹皮",
+          "桂枝",
+          "附子"
+        ],
+        "xuewei": [],
+        "jingluo": [],
+        "siqi": [],
+        "wuwei": [],
+        "guijing": [],
+        "keywords": [
+          "补益剂",
+          "补阳"
+        ]
+      }
+    },
+    {
+      "id": "shizaotang_001",
+      "book": "伤寒论",
+      "type": "fangji",
+      "tier": 1,
+      "category": "fangji",
+      "subcategory": "jingfang",
+      "path": "library\\fangji\\jingfang\\shizaotang\\shizaotang_001.md",
+      "weight": 8,
+      "title": "十枣汤方",
+      "chapter": "辨太阳病脉证并治下",
+      "conditions": {
+        "zhengxing": [
+          "悬饮",
+          "水肿"
+        ],
+        "zhifa": [
+          "攻逐水饮"
+        ],
+        "bingzheng": [
+          "胸水",
+          "腹水"
+        ],
+        "zhengzhuang": [
+          "咳唾胸胁引痛",
+          "心下痞硬",
+          "干呕短气",
+          "水肿腹胀"
+        ],
+        "fangming": [
+          "十枣汤"
+        ],
+        "yaoming": [
+          "芫花",
+          "甘遂",
+          "大戟",
+          "大枣"
+        ],
+        "xuewei": [],
+        "jingluo": [],
+        "siqi": [],
+        "wuwei": [],
+        "guijing": [],
+        "keywords": [
+          "泻下剂",
+          "逐水"
+        ]
+      }
+    },
+    {
+      "id": "sinisan_001",
+      "book": "伤寒论",
+      "type": "fangji",
+      "tier": 1,
+      "category": "fangji",
+      "subcategory": "jingfang",
+      "path": "library\\fangji\\jingfang\\sinisan\\sinisan_001.md",
+      "weight": 8,
+      "title": "四逆散方",
+      "chapter": "辨少阴病脉证并治",
+      "conditions": {
+        "zhengxing": [
+          "阳郁厥逆",
+          "肝脾不和"
+        ],
+        "zhifa": [
+          "透邪解郁",
+          "疏肝理脾"
+        ],
+        "bingzheng": [
+          "肋间神经痛",
+          "胃肠功能紊乱"
+        ],
+        "zhengzhuang": [
+          "手足不温",
+          "胁肋胀闷",
+          "脘腹疼痛",
+          "或泄利下重"
+        ],
+        "fangming": [
+          "四逆散"
+        ],
+        "yaoming": [
+          "甘草",
+          "枳实",
+          "柴胡",
+          "芍药"
+        ],
+        "xuewei": [],
+        "jingluo": [],
+        "siqi": [],
+        "wuwei": [],
+        "guijing": [],
+        "keywords": [
+          "和解剂",
+          "调和肝脾"
+        ]
+      }
+    },
+    {
+      "id": "sinitang_001",
+      "book": "伤寒论",
+      "type": "fangji",
+      "tier": 1,
+      "category": "fangji",
+      "subcategory": "jingfang",
+      "path": "library\\fangji\\jingfang\\sinitang\\sinitang_001.md",
+      "weight": 8,
+      "title": "四逆汤方",
+      "chapter": "辨太阳病脉证并治上",
+      "conditions": {
+        "zhengxing": [
+          "少阴寒化",
+          "亡阳"
+        ],
+        "zhifa": [
+          "回阳救逆"
+        ],
+        "bingzheng": [
+          "休克",
+          "心衰"
+        ],
+        "zhengzhuang": [
+          "四肢厥逆",
+          "恶寒蜷卧",
+          "下利清谷",
+          "脉微欲绝",
+          "神衰欲寐"
+        ],
+        "fangming": [
+          "四逆汤"
+        ],
+        "yaoming": [
+          "甘草",
+          "干姜",
+          "附子"
+        ],
+        "xuewei": [],
+        "jingluo": [],
+        "siqi": [],
+        "wuwei": [],
+        "guijing": [],
+        "keywords": [
+          "温里剂",
+          "回阳救逆"
+        ]
+      }
+    },
+    {
+      "id": "taohechengqitang_001",
+      "book": "伤寒论",
+      "type": "fangji",
+      "tier": 1,
+      "category": "fangji",
+      "subcategory": "jingfang",
+      "path": "library\\fangji\\jingfang\\taohechengqitang\\taohechengqitang_001.md",
+      "weight": 8,
+      "title": "桃核承气汤方",
+      "chapter": "辨太阳病脉证并治中",
+      "conditions": {
+        "zhengxing": [
+          "下焦蓄血"
+        ],
+        "zhifa": [
+          "逐瘀泻热"
+        ],
+        "bingzheng": [
+          "痛经",
+          "闭经",
+          "产后恶露不下"
+        ],
+        "zhengzhuang": [
+          "少腹急结",
+          "其人如狂",
+          "小便自利",
+          "大便色黑"
+        ],
+        "fangming": [
+          "桃核承气汤"
+        ],
+        "yaoming": [
+          "桃仁",
+          "大黄",
+          "桂枝",
+          "甘草",
+          "芒硝"
+        ],
+        "xuewei": [],
+        "jingluo": [],
+        "siqi": [],
+        "wuwei": [],
+        "guijing": [],
+        "keywords": [
+          "理血剂",
+          "活血祛瘀"
+        ]
+      }
+    },
+    {
+      "id": "tiaoweichengqitang_001",
+      "book": "伤寒论",
+      "type": "fangji",
+      "tier": 1,
+      "category": "fangji",
+      "subcategory": "jingfang",
+      "path": "library\\fangji\\jingfang\\tiaoweichengqitang\\tiaoweichengqitang_001.md",
+      "weight": 8,
+      "title": "调胃承气汤方",
+      "chapter": "辨太阳病脉证并治中",
+      "conditions": {
+        "zhengxing": [
+          "阳明腑实"
+        ],
+        "zhifa": [
+          "缓下热结"
+        ],
+        "bingzheng": [
+          "便秘"
+        ],
+        "zhengzhuang": [
+          "大便不通",
+          "蒸蒸发热",
+          "心烦",
+          "腹胀满",
+          "口渴"
+        ],
+        "fangming": [
+          "调胃承气汤"
+        ],
+        "yaoming": [
+          "大黄",
+          "甘草",
+          "芒硝"
+        ],
+        "xuewei": [],
+        "jingluo": [],
+        "siqi": [],
+        "wuwei": [],
+        "guijing": [],
+        "keywords": [
+          "泻下剂",
+          "寒下"
+        ]
+      }
+    },
+    {
+      "id": "wenjingtang_001",
+      "book": "金匮要略",
+      "type": "fangji",
+      "tier": 1,
+      "category": "fangji",
+      "subcategory": "jingfang",
+      "path": "library\\fangji\\jingfang\\wenjingtang\\wenjingtang_001.md",
+      "weight": 8,
+      "title": "温经汤方",
+      "chapter": "妇人杂病脉证并治第二十二",
+      "conditions": {
+        "zhengxing": [
+          "冲任虚寒",
+          "瘀血阻滞"
+        ],
+        "zhifa": [
+          "温经散寒",
+          "养血祛瘀"
+        ],
+        "bingzheng": [
+          "月经不调",
+          "痛经",
+          "不孕"
+        ],
+        "zhengzhuang": [
+          "月经不调",
+          "小腹冷痛",
+          "暮即发热",
+          "手心烦热",
+          "唇口干燥",
+          "久不受孕"
+        ],
+        "fangming": [
+          "温经汤"
+        ],
+        "yaoming": [
+          "吴茱萸",
+          "当归",
+          "芎",
+          "芍药",
+          "人参",
+          "桂枝",
+          "阿胶",
+          "牡丹皮",
+          "生姜",
+          "甘草",
+          "半夏",
+          "麦门冬"
+        ],
+        "xuewei": [],
+        "jingluo": [],
+        "siqi": [],
+        "wuwei": [],
+        "guijing": [],
+        "keywords": [
+          "理血剂",
+          "温经散寒"
+        ]
+      }
+    },
+    {
+      "id": "wulingsan_001",
+      "book": "伤寒论",
+      "type": "fangji",
+      "tier": 1,
+      "category": "fangji",
+      "subcategory": "jingfang",
+      "path": "library\\fangji\\jingfang\\wulingsan\\wulingsan_001.md",
+      "weight": 8,
+      "title": "五苓散方",
+      "chapter": "辨太阳病脉证并治中",
+      "conditions": {
+        "zhengxing": [
+          "太阳蓄水"
+        ],
+        "zhifa": [
+          "利水渗湿",
+          "温阳化气"
+        ],
+        "bingzheng": [
+          "水肿",
+          "小便不利"
+        ],
+        "zhengzhuang": [
+          "小便不利",
+          "渴欲饮水",
+          "水入即吐",
+          "水肿",
+          "脉浮"
+        ],
+        "fangming": [
+          "五苓散"
+        ],
+        "yaoming": [
+          "猪苓",
+          "泽泻",
+          "白术",
+          "茯苓",
+          "桂枝"
+        ],
+        "xuewei": [],
+        "jingluo": [],
+        "siqi": [],
+        "wuwei": [],
+        "guijing": [],
+        "keywords": [
+          "祛湿剂",
+          "利水渗湿"
+        ]
+      }
+    },
+    {
+      "id": "wumeiwan_001",
+      "book": "伤寒论",
+      "type": "fangji",
+      "tier": 1,
+      "category": "fangji",
+      "subcategory": "jingfang",
+      "path": "library\\fangji\\jingfang\\wumeiwan\\wumeiwan_001.md",
+      "weight": 8,
+      "title": "乌梅丸方",
+      "chapter": "辨厥阴病脉证并治",
+      "conditions": {
+        "zhengxing": [
+          "蛔厥"
+        ],
+        "zhifa": [
+          "安蛔止痛"
+        ],
+        "bingzheng": [
+          "蛔虫病",
+          "久利"
+        ],
+        "zhengzhuang": [
+          "蛔厥",
+          "腹痛时作",
+          "烦闷呕吐",
+          "手足厥冷",
+          "久利"
+        ],
+        "fangming": [
+          "乌梅丸"
+        ],
+        "yaoming": [
+          "乌梅",
+          "细辛",
+          "干姜",
+          "黄连",
+          "当归",
+          "附子",
+          "蜀椒",
+          "桂枝",
+          "人参",
+          "黄柏"
+        ],
+        "xuewei": [],
+        "jingluo": [],
+        "siqi": [],
+        "wuwei": [],
+        "guijing": [],
+        "keywords": [
+          "杀虫剂",
+          "安蛔"
+        ]
+      }
+    },
+    {
+      "id": "wuzhuyutang_001",
+      "book": "伤寒论",
+      "type": "fangji",
+      "tier": 1,
+      "category": "fangji",
+      "subcategory": "jingfang",
+      "path": "library\\fangji\\jingfang\\wuzhuyutang\\wuzhuyutang_001.md",
+      "weight": 8,
+      "title": "吴茱萸汤方",
+      "chapter": "辨阳明病脉证并治",
+      "conditions": {
+        "zhengxing": [
+          "肝胃虚寒"
+        ],
+        "zhifa": [
+          "温中补虚",
+          "降逆止呕"
+        ],
+        "bingzheng": [
+          "呕吐",
+          "头痛"
+        ],
+        "zhengzhuang": [
+          "食谷欲呕",
+          "巅顶头痛",
+          "干呕吐涎沫",
+          "手足逆冷",
+          "烦躁欲死"
+        ],
+        "fangming": [
+          "吴茱萸汤"
+        ],
+        "yaoming": [
+          "吴茱萸",
+          "人参",
+          "生姜",
+          "大枣"
+        ],
+        "xuewei": [],
+        "jingluo": [],
+        "siqi": [],
+        "wuwei": [],
+        "guijing": [],
+        "keywords": [
+          "温里剂",
+          "温中散寒"
+        ]
+      }
+    },
+    {
+      "id": "xiaochaihutang_001",
+      "book": "伤寒论",
+      "type": "fangji",
+      "tier": 1,
+      "category": "fangji",
+      "subcategory": "jingfang",
+      "path": "library\\fangji\\jingfang\\xiaochaihutang\\xiaochaihutang_001.md",
+      "weight": 8,
+      "title": "小柴胡汤方",
+      "chapter": "辨太阳病脉证并治中",
+      "conditions": {
+        "zhengxing": [
+          "少阳证"
+        ],
+        "zhifa": [
+          "和解少阳"
+        ],
+        "bingzheng": [
+          "伤寒少阳病",
+          "发热"
+        ],
+        "zhengzhuang": [
+          "往来寒热",
+          "胸胁苦满",
+          "默默不欲饮食",
+          "心烦喜呕",
+          "口苦",
+          "咽干",
+          "目眩"
+        ],
+        "fangming": [
+          "小柴胡汤"
+        ],
+        "yaoming": [
+          "柴胡",
+          "黄芩",
+          "人参",
+          "半夏",
+          "甘草",
+          "生姜",
+          "大枣"
+        ],
+        "xuewei": [],
+        "jingluo": [],
+        "siqi": [],
+        "wuwei": [],
+        "guijing": [],
+        "keywords": [
+          "和解剂",
+          "和解少阳"
+        ]
+      }
+    },
+    {
+      "id": "xiaochengqitang_001",
+      "book": "伤寒论",
+      "type": "fangji",
+      "tier": 1,
+      "category": "fangji",
+      "subcategory": "jingfang",
+      "path": "library\\fangji\\jingfang\\xiaochengqitang\\xiaochengqitang_001.md",
+      "weight": 8,
+      "title": "小承气汤方",
+      "chapter": "辨阳明病脉证并治",
+      "conditions": {
+        "zhengxing": [
+          "阳明腑实"
+        ],
+        "zhifa": [
+          "轻下热结"
+        ],
+        "bingzheng": [
+          "便秘"
+        ],
+        "zhengzhuang": [
+          "大便不通",
+          "腹满",
+          "潮热",
+          "谵语",
+          "脉滑疾"
+        ],
+        "fangming": [
+          "小承气汤"
+        ],
+        "yaoming": [
+          "大黄",
+          "厚朴",
+          "枳实"
+        ],
+        "xuewei": [],
+        "jingluo": [],
+        "siqi": [],
+        "wuwei": [],
+        "guijing": [],
+        "keywords": [
+          "泻下剂",
+          "寒下"
+        ]
+      }
+    },
+    {
+      "id": "xiaojianzhongtang_001",
+      "book": "伤寒论",
+      "type": "fangji",
+      "tier": 1,
+      "category": "fangji",
+      "subcategory": "jingfang",
+      "path": "library\\fangji\\jingfang\\xiaojianzhongtang\\xiaojianzhongtang_001.md",
+      "weight": 8,
+      "title": "小建中汤方",
+      "chapter": "辨太阳病脉证并治中",
+      "conditions": {
+        "zhengxing": [
+          "中焦虚寒"
+        ],
+        "zhifa": [
+          "温中补虚",
+          "和里缓急"
+        ],
+        "bingzheng": [
+          "胃痛",
+          "腹痛"
+        ],
+        "zhengzhuang": [
+          "腹中拘急疼痛",
+          "喜温喜按",
+          "心悸",
+          "虚劳里急",
+          "面色无华"
+        ],
+        "fangming": [
+          "小建中汤"
+        ],
+        "yaoming": [
+          "桂枝",
+          "甘草",
+          "大枣",
+          "芍药",
+          "生姜",
+          "胶饴"
+        ],
+        "xuewei": [],
+        "jingluo": [],
+        "siqi": [],
+        "wuwei": [],
+        "guijing": [],
+        "keywords": [
+          "温里剂",
+          "温中补虚"
+        ]
+      }
+    },
+    {
+      "id": "xiaoqinglongtang_001",
+      "book": "伤寒论",
+      "type": "fangji",
+      "tier": 1,
+      "category": "fangji",
+      "subcategory": "jingfang",
+      "path": "library\\fangji\\jingfang\\xiaoqinglongtang\\xiaoqinglongtang_001.md",
+      "weight": 8,
+      "title": "小青龙汤方",
+      "chapter": "辨太阳病脉证并治中",
+      "conditions": {
+        "zhengxing": [
+          "外寒里饮"
+        ],
+        "zhifa": [
+          "解表散寒",
+          "温肺化饮"
+        ],
+        "bingzheng": [
+          "感冒",
+          "咳喘"
+        ],
+        "zhengzhuang": [
+          "恶寒发热",
+          "无汗",
+          "咳喘",
+          "痰涎清稀",
+          "干呕"
+        ],
+        "fangming": [
+          "小青龙汤"
+        ],
+        "yaoming": [
+          "麻黄",
+          "芍药",
+          "细辛",
+          "干姜",
+          "甘草",
+          "桂枝",
+          "五味子",
+          "半夏"
+        ],
+        "xuewei": [],
+        "jingluo": [],
+        "siqi": [],
+        "wuwei": [],
+        "guijing": [],
+        "keywords": [
+          "解表剂",
+          "温化寒饮"
+        ]
+      }
+    },
+    {
+      "id": "xuanfudaizhetang_001",
+      "book": "伤寒论",
+      "type": "fangji",
+      "tier": 1,
+      "category": "fangji",
+      "subcategory": "jingfang",
+      "path": "library\\fangji\\jingfang\\xuanfudaizhetang\\xuanfudaizhetang_001.md",
+      "weight": 8,
+      "title": "旋覆代赭汤方",
+      "chapter": "辨太阳病脉证并治下",
+      "conditions": {
+        "zhengxing": [
+          "胃虚痰阻"
+        ],
+        "zhifa": [
+          "降逆化痰",
+          "益气和胃"
+        ],
+        "bingzheng": [
+          "呕吐",
+          "呃逆"
+        ],
+        "zhengzhuang": [
+          "心下痞硬",
+          "噫气不除",
+          "反胃呕吐",
+          "呃逆"
+        ],
+        "fangming": [
+          "旋覆代赭汤"
+        ],
+        "yaoming": [
+          "旋覆花",
+          "人参",
+          "生姜",
+          "代赭石",
+          "甘草",
+          "半夏",
+          "大枣"
+        ],
+        "xuewei": [],
+        "jingluo": [],
+        "siqi": [],
+        "wuwei": [],
+        "guijing": [],
+        "keywords": [
+          "理气剂",
+          "降逆"
+        ]
+      }
+    },
+    {
+      "id": "yinchenhaotang_001",
+      "book": "金匮要略",
+      "type": "fangji",
+      "tier": 1,
+      "category": "fangji",
+      "subcategory": "jingfang",
+      "path": "library\\fangji\\jingfang\\yinchenhaotang\\yinchenhaotang_001.md",
+      "weight": 8,
+      "title": "茵陈蒿汤方",
+      "chapter": "黄疸病脉证并治第十五",
+      "conditions": {
+        "zhengxing": [
+          "湿热黄疸"
+        ],
+        "zhifa": [
+          "清热利湿",
+          "退黄"
+        ],
+        "bingzheng": [
+          "黄疸"
+        ],
+        "zhengzhuang": [
+          "一身面目俱黄",
+          "黄色鲜明",
+          "小便不利",
+          "腹微满",
+          "口渴",
+          "苔黄腻"
+        ],
+        "fangming": [
+          "茵陈蒿汤"
+        ],
+        "yaoming": [
+          "茵陈蒿",
+          "栀子",
+          "大黄"
+        ],
+        "xuewei": [],
+        "jingluo": [],
+        "siqi": [],
+        "wuwei": [],
+        "guijing": [],
+        "keywords": [
+          "祛湿剂",
+          "清热祛湿"
+        ]
+      }
+    },
+    {
+      "id": "zhenwutang_001",
+      "book": "伤寒论",
+      "type": "fangji",
+      "tier": 1,
+      "category": "fangji",
+      "subcategory": "jingfang",
+      "path": "library\\fangji\\jingfang\\zhenwutang\\zhenwutang_001.md",
+      "weight": 8,
+      "title": "真武汤方",
+      "chapter": "辨太阳病脉证并治中",
+      "conditions": {
+        "zhengxing": [
+          "阳虚水泛"
+        ],
+        "zhifa": [
+          "温阳利水"
+        ],
+        "bingzheng": [
+          "水肿",
+          "心衰"
+        ],
+        "zhengzhuang": [
+          "小便不利",
+          "四肢沉重疼痛",
+          "腹痛下利",
+          "肢体浮肿",
+          "或咳或悸",
+          "头眩"
+        ],
+        "fangming": [
+          "真武汤"
+        ],
+        "yaoming": [
+          "茯苓",
+          "芍药",
+          "白术",
+          "生姜",
+          "附子"
+        ],
+        "xuewei": [],
+        "jingluo": [],
+        "siqi": [],
+        "wuwei": [],
+        "guijing": [],
+        "keywords": [
+          "温里剂",
+          "温阳利水"
+        ]
+      }
+    },
+    {
+      "id": "zhigancaotang_001",
+      "book": "伤寒论",
+      "type": "fangji",
+      "tier": 1,
+      "category": "fangji",
+      "subcategory": "jingfang",
+      "path": "library\\fangji\\jingfang\\zhigancaotang\\zhigancaotang_001.md",
+      "weight": 8,
+      "title": "炙甘草汤方",
+      "chapter": "辨太阳病脉证并治下",
+      "conditions": {
+        "zhengxing": [
+          "心阴心阳两虚"
+        ],
+        "zhifa": [
+          "滋阴养血",
+          "益气温阳",
+          "复脉"
+        ],
+        "bingzheng": [
+          "心律不齐",
+          "心悸"
+        ],
+        "zhengzhuang": [
+          "脉结代",
+          "心动悸",
+          "虚羸少气",
+          "舌光少苔"
+        ],
+        "fangming": [
+          "炙甘草汤"
+        ],
+        "yaoming": [
+          "甘草",
+          "生姜",
+          "人参",
+          "生地黄",
+          "桂枝",
+          "阿胶",
+          "麦门冬",
+          "麻仁",
+          "大枣"
+        ],
+        "xuewei": [],
+        "jingluo": [],
+        "siqi": [],
+        "wuwei": [],
+        "guijing": [],
+        "keywords": [
+          "补益剂",
+          "气血双补"
+        ]
+      }
+    },
+    {
+      "id": "zhizichitang_001",
+      "book": "伤寒论",
+      "type": "fangji",
+      "tier": 1,
+      "category": "fangji",
+      "subcategory": "jingfang",
+      "path": "library\\fangji\\jingfang\\zhizichitang\\zhizichitang_001.md",
+      "weight": 8,
+      "title": "栀子豉汤方",
+      "chapter": "辨太阳病脉证并治中",
+      "conditions": {
+        "zhengxing": [
+          "热扰胸膈"
+        ],
+        "zhifa": [
+          "清热除烦"
+        ],
+        "bingzheng": [
+          "热病心烦"
+        ],
+        "zhengzhuang": [
+          "虚烦不得眠",
+          "心中懊憹",
+          "反复颠倒",
+          "胸中窒"
+        ],
+        "fangming": [
+          "栀子豉汤"
+        ],
+        "yaoming": [
+          "栀子",
+          "香豉"
+        ],
+        "xuewei": [],
+        "jingluo": [],
+        "siqi": [],
+        "wuwei": [],
+        "guijing": [],
+        "keywords": [
+          "清热剂",
+          "清脏腑热"
+        ]
+      }
+    },
+    {
+      "id": "zhulingtang_001",
+      "book": "伤寒论",
+      "type": "fangji",
+      "tier": 1,
+      "category": "fangji",
+      "subcategory": "jingfang",
+      "path": "library\\fangji\\jingfang\\zhulingtang\\zhulingtang_001.md",
+      "weight": 8,
+      "title": "猪苓汤方",
+      "chapter": "辨阳明病脉证并治",
+      "conditions": {
+        "zhengxing": [
+          "阴虚水热互结"
+        ],
+        "zhifa": [
+          "利水养阴",
+          "清热"
+        ],
+        "bingzheng": [
+          "泌尿系感染",
+          "血尿"
+        ],
+        "zhengzhuang": [
+          "小便不利",
+          "渴欲饮水",
+          "心烦不得眠",
+          "或下利",
+          "或咳呕"
+        ],
+        "fangming": [
+          "猪苓汤"
+        ],
+        "yaoming": [
+          "猪苓",
+          "茯苓",
+          "泽泻",
+          "阿胶",
+          "滑石"
+        ],
+        "xuewei": [],
+        "jingluo": [],
+        "siqi": [],
+        "wuwei": [],
+        "guijing": [],
+        "keywords": [
+          "祛湿剂",
+          "利水渗湿"
+        ]
+      }
+    },
+    {
+      "id": "zhuyeshigaotang_001",
+      "book": "伤寒论",
+      "type": "fangji",
+      "tier": 1,
+      "category": "fangji",
+      "subcategory": "jingfang",
+      "path": "library\\fangji\\jingfang\\zhuyeshigaotang\\zhuyeshigaotang_001.md",
+      "weight": 8,
+      "title": "竹叶石膏汤方",
+      "chapter": "辨阴阳易差后劳复病脉证并治",
+      "conditions": {
+        "zhengxing": [
+          "余热未清",
+          "气津两伤"
+        ],
+        "zhifa": [
+          "清热生津",
+          "益气和胃"
+        ],
+        "bingzheng": [
+          "热病后期"
+        ],
+        "zhengzhuang": [
+          "身热多汗",
+          "气逆欲呕",
+          "虚羸少气",
+          "口干喜饮",
+          "舌红少苔",
+          "脉虚数"
+        ],
+        "fangming": [
+          "竹叶石膏汤"
+        ],
+        "yaoming": [
+          "竹叶",
+          "石膏",
+          "半夏",
+          "麦门冬",
+          "人参",
+          "甘草",
+          "粳米"
+        ],
+        "xuewei": [],
+        "jingluo": [],
+        "siqi": [],
+        "wuwei": [],
+        "guijing": [],
+        "keywords": [
+          "清热剂",
+          "清气分热"
         ]
       }
     },

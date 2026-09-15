@@ -1,20 +1,20 @@
 # TCM-Library · 全库总索引
 
-> 中医知识百科全书检索库 · 当前收录 411 条（按目录自动生成）
+> 中医知识百科全书检索库 · 当前收录 2402 条（按目录自动生成）
 
 ## 收录进度
 
 | 分类 | 中文名 | 书目数 | 条目数 | 索引 |
 | --- | --- | --- | --- | --- |
 | jichu | 中医基础理论 | 0 | 0 | — |
-| zhenduan | 中医诊断 | 0 | 0 | — |
-| zhongyao | 中药学 | 407 | 407 | [索引](./library/zhongyao/INDEX.md) |
-| fangji | 方剂学 | 1 | 1 | [索引](./library/fangji/INDEX.md) |
-| zhenjiu | 针灸推拿 | 1 | 1 | [索引](./library/zhenjiu/INDEX.md) |
-| linchuang | 中医临床 | 0 | 0 | — |
+| zhenduan | 中医诊断 | 52 | 52 | [索引](./library/zhenduan/INDEX.md) |
+| zhongyao | 中药学 | 701 | 701 | [索引](./library/zhongyao/INDEX.md) |
+| fangji | 方剂学 | 44 | 44 | [索引](./library/fangji/INDEX.md) |
+| zhenjiu | 针灸推拿 | 385 | 385 | [索引](./library/zhenjiu/INDEX.md) |
+| linchuang | 中医临床 | 59 | 59 | [索引](./library/linchuang/INDEX.md) |
 | yangsheng | 养生康复 | 0 | 0 | — |
-| yishi | 医史医家 | 0 | 0 | — |
-| jingdian | 经典医籍 | 2 | 2 | [索引](./library/jingdian/INDEX.md) |
+| yishi | 医史医家 | 22 | 50 | [索引](./library/yishi/INDEX.md) |
+| jingdian | 经典医籍 | 46 | 1111 | [索引](./library/jingdian/INDEX.md) |
 | xiandai | 现代中医 | 0 | 0 | — |
 
 ## 检索字段速查
@@ -37,14 +37,14 @@
 ## 分类导航
 
 - **jichu** · 中医基础理论（待收录）
-- **zhenduan** · 中医诊断（待收录）
-- **zhongyao** · 中药学（407 部书，407 条）
-- **fangji** · 方剂学（1 部书，1 条）
-- **zhenjiu** · 针灸推拿（1 部书，1 条）
-- **linchuang** · 中医临床（待收录）
+- **zhenduan** · 中医诊断（52 部书，52 条）
+- **zhongyao** · 中药学（701 部书，701 条）
+- **fangji** · 方剂学（44 部书，44 条）
+- **zhenjiu** · 针灸推拿（385 部书，385 条）
+- **linchuang** · 中医临床（59 部书，59 条）
 - **yangsheng** · 养生康复（待收录）
-- **yishi** · 医史医家（待收录）
-- **jingdian** · 经典医籍（2 部书，2 条）
+- **yishi** · 医史医家（22 部书，50 条）
+- **jingdian** · 经典医籍（46 部书，1111 条）
 - **xiandai** · 现代中医（待收录）
 
 > 本文件由 `scripts/build_index.py` 确定性生成，勿手改。

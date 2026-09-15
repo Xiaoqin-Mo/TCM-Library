@@ -14,3 +14,6 @@ venv/
 
 # 本地构建产物（manifest.json 为仓库权威产物，不入 ignore）
 *.tmp
+
+# 本批次暂存区（勿提交）
+.staging/

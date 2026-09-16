@@ -58,6 +58,12 @@
         "count": 1
       }
     },
+    "xiandai": {
+      "zhidao": {
+        "dir": "xiandai/zhidao/zhongfeng",
+        "count": 1
+      }
+    },
     "yangsheng": {
       "daoyin": {
         "dir": "yangsheng/daoyin/zhanzhuang",
@@ -1791,6 +1797,150 @@
       "tier_name": "核心",
       "category": "linchuang",
       "subcategory": "wenbing",
+      "count": 1
+    },
+    {
+      "dir": "xiandai/zhidao/bianmi",
+      "tier": 1,
+      "tier_name": "核心",
+      "category": "xiandai",
+      "subcategory": "zhidao",
+      "count": 1
+    },
+    {
+      "dir": "xiandai/zhidao/bizheng",
+      "tier": 1,
+      "tier_name": "核心",
+      "category": "xiandai",
+      "subcategory": "zhidao",
+      "count": 1
+    },
+    {
+      "dir": "xiandai/zhidao/bumei",
+      "tier": 1,
+      "tier_name": "核心",
+      "category": "xiandai",
+      "subcategory": "zhidao",
+      "count": 1
+    },
+    {
+      "dir": "xiandai/zhidao/chuanzheng",
+      "tier": 1,
+      "tier_name": "核心",
+      "category": "xiandai",
+      "subcategory": "zhidao",
+      "count": 1
+    },
+    {
+      "dir": "xiandai/zhidao/ganmao",
+      "tier": 1,
+      "tier_name": "核心",
+      "category": "xiandai",
+      "subcategory": "zhidao",
+      "count": 1
+    },
+    {
+      "dir": "xiandai/zhidao/kesou",
+      "tier": 1,
+      "tier_name": "核心",
+      "category": "xiandai",
+      "subcategory": "zhidao",
+      "count": 1
+    },
+    {
+      "dir": "xiandai/zhidao/linzheng",
+      "tier": 1,
+      "tier_name": "核心",
+      "category": "xiandai",
+      "subcategory": "zhidao",
+      "count": 1
+    },
+    {
+      "dir": "xiandai/zhidao/shuizhong",
+      "tier": 1,
+      "tier_name": "核心",
+      "category": "xiandai",
+      "subcategory": "zhidao",
+      "count": 1
+    },
+    {
+      "dir": "xiandai/zhidao/toutong",
+      "tier": 1,
+      "tier_name": "核心",
+      "category": "xiandai",
+      "subcategory": "zhidao",
+      "count": 1
+    },
+    {
+      "dir": "xiandai/zhidao/weitong",
+      "tier": 1,
+      "tier_name": "核心",
+      "category": "xiandai",
+      "subcategory": "zhidao",
+      "count": 1
+    },
+    {
+      "dir": "xiandai/zhidao/xiaobing",
+      "tier": 1,
+      "tier_name": "核心",
+      "category": "xiandai",
+      "subcategory": "zhidao",
+      "count": 1
+    },
+    {
+      "dir": "xiandai/zhidao/xiaoke",
+      "tier": 1,
+      "tier_name": "核心",
+      "category": "xiandai",
+      "subcategory": "zhidao",
+      "count": 1
+    },
+    {
+      "dir": "xiandai/zhidao/xiexie",
+      "tier": 1,
+      "tier_name": "核心",
+      "category": "xiandai",
+      "subcategory": "zhidao",
+      "count": 1
+    },
+    {
+      "dir": "xiandai/zhidao/xinji",
+      "tier": 1,
+      "tier_name": "核心",
+      "category": "xiandai",
+      "subcategory": "zhidao",
+      "count": 1
+    },
+    {
+      "dir": "xiandai/zhidao/xiongbi",
+      "tier": 1,
+      "tier_name": "核心",
+      "category": "xiandai",
+      "subcategory": "zhidao",
+      "count": 1
+    },
+    {
+      "dir": "xiandai/zhidao/xuanyun",
+      "tier": 1,
+      "tier_name": "核心",
+      "category": "xiandai",
+      "subcategory": "zhidao",
+      "count": 1
+    },
+    {
+      "dir": "xiandai/zhidao/xulao",
+      "tier": 1,
+      "tier_name": "核心",
+      "category": "xiandai",
+      "subcategory": "zhidao",
+      "count": 1
+    },
+    {
+      "dir": "xiandai/zhidao/zhongfeng",
+      "tier": 1,
+      "tier_name": "核心",
+      "category": "xiandai",
+      "subcategory": "zhidao",
       "count": 1
     },
     {
@@ -11746,7 +11896,7 @@
       "count": 1
     }
   ],
-  "total": 2486,
+  "total": 2504,
   "entries": [
     {
       "id": "baihutang_002",
@@ -59168,6 +59318,847 @@
           "卫气营血",
           "营分证",
           "透热转气"
+        ]
+      }
+    },
+    {
+      "id": "bianmi_002",
+      "book": "中医临床诊疗指南/专家共识（要点归纳）",
+      "type": "zhinan",
+      "tier": 1,
+      "category": "xiandai",
+      "subcategory": "zhidao",
+      "path": "library/xiandai/zhidao/bianmi/bianmi_002.md",
+      "weight": 8,
+      "title": "便秘·辨证论治要点",
+      "chapter": "现代中医",
+      "conditions": {
+        "zhengxing": [
+          "热秘",
+          "气秘",
+          "虚秘",
+          "冷秘"
+        ],
+        "zhifa": [
+          "通腑导滞",
+          "辨虚实"
+        ],
+        "bingzheng": [
+          "便秘"
+        ],
+        "zhengzhuang": [
+          "大便干结",
+          "排便费力"
+        ],
+        "fangming": [],
+        "yaoming": [],
+        "xuewei": [],
+        "jingluo": [],
+        "siqi": [],
+        "wuwei": [],
+        "guijing": [],
+        "keywords": [
+          "便秘",
+          "诊疗指南",
+          "通腑导滞",
+          "辨证论治",
+          "热秘",
+          "气秘"
+        ]
+      }
+    },
+    {
+      "id": "bizheng_002",
+      "book": "中医临床诊疗指南/专家共识（要点归纳）",
+      "type": "zhinan",
+      "tier": 1,
+      "category": "xiandai",
+      "subcategory": "zhidao",
+      "path": "library/xiandai/zhidao/bizheng/bizheng_002.md",
+      "weight": 8,
+      "title": "痹证·辨证论治要点",
+      "chapter": "现代中医",
+      "conditions": {
+        "zhengxing": [
+          "行痹",
+          "痛痹",
+          "着痹",
+          "热痹"
+        ],
+        "zhifa": [
+          "祛风散寒除湿",
+          "通痹止痛"
+        ],
+        "bingzheng": [
+          "痹证"
+        ],
+        "zhengzhuang": [
+          "关节疼痛",
+          "屈伸不利"
+        ],
+        "fangming": [],
+        "yaoming": [],
+        "xuewei": [],
+        "jingluo": [],
+        "siqi": [],
+        "wuwei": [],
+        "guijing": [],
+        "keywords": [
+          "痹证",
+          "诊疗指南",
+          "祛风散寒除湿",
+          "通痹止痛",
+          "行痹",
+          "热痹",
+          "辨证论治"
+        ]
+      }
+    },
+    {
+      "id": "bumei_002",
+      "book": "中医临床诊疗指南/专家共识（要点归纳）",
+      "type": "zhinan",
+      "tier": 1,
+      "category": "xiandai",
+      "subcategory": "zhidao",
+      "path": "library/xiandai/zhidao/bumei/bumei_002.md",
+      "weight": 8,
+      "title": "不寐·辨证论治要点",
+      "chapter": "现代中医",
+      "conditions": {
+        "zhengxing": [
+          "肝火扰心",
+          "痰热扰心",
+          "心脾两虚",
+          "心肾不交"
+        ],
+        "zhifa": [
+          "安神定志",
+          "补虚泻实"
+        ],
+        "bingzheng": [
+          "不寐"
+        ],
+        "zhengzhuang": [
+          "失眠",
+          "多梦"
+        ],
+        "fangming": [],
+        "yaoming": [],
+        "xuewei": [],
+        "jingluo": [],
+        "siqi": [],
+        "wuwei": [],
+        "guijing": [],
+        "keywords": [
+          "不寐",
+          "失眠",
+          "诊疗指南",
+          "肝火扰心",
+          "痰热扰心",
+          "心脾两虚",
+          "心肾不交",
+          "安神定志"
+        ]
+      }
+    },
+    {
+      "id": "chuanzheng_002",
+      "book": "中医临床诊疗指南/专家共识（要点归纳）",
+      "type": "zhinan",
+      "tier": 1,
+      "category": "xiandai",
+      "subcategory": "zhidao",
+      "path": "library/xiandai/zhidao/chuanzheng/chuanzheng_002.md",
+      "weight": 8,
+      "title": "喘证·辨证论治要点",
+      "chapter": "现代中医",
+      "conditions": {
+        "zhengxing": [
+          "实喘",
+          "虚喘"
+        ],
+        "zhifa": [
+          "实喘祛邪平喘",
+          "虚喘补肺肾"
+        ],
+        "bingzheng": [
+          "喘证"
+        ],
+        "zhengzhuang": [
+          "呼吸困难",
+          "喘促"
+        ],
+        "fangming": [],
+        "yaoming": [],
+        "xuewei": [],
+        "jingluo": [],
+        "siqi": [],
+        "wuwei": [],
+        "guijing": [],
+        "keywords": [
+          "喘证",
+          "诊疗指南",
+          "实喘",
+          "虚喘",
+          "祛邪平喘",
+          "补肺肾",
+          "辨证论治"
+        ]
+      }
+    },
+    {
+      "id": "ganmao_002",
+      "book": "中医临床诊疗指南/专家共识（要点归纳）",
+      "type": "zhinan",
+      "tier": 1,
+      "category": "xiandai",
+      "subcategory": "zhidao",
+      "path": "library/xiandai/zhidao/ganmao/ganmao_002.md",
+      "weight": 8,
+      "title": "感冒·辨证论治要点",
+      "chapter": "现代中医",
+      "conditions": {
+        "zhengxing": [
+          "风寒束表",
+          "风热犯表"
+        ],
+        "zhifa": [
+          "辛温解表",
+          "辛凉解表"
+        ],
+        "bingzheng": [
+          "感冒"
+        ],
+        "zhengzhuang": [
+          "恶寒发热",
+          "鼻塞流涕",
+          "头痛"
+        ],
+        "fangming": [],
+        "yaoming": [],
+        "xuewei": [],
+        "jingluo": [],
+        "siqi": [],
+        "wuwei": [],
+        "guijing": [],
+        "keywords": [
+          "感冒",
+          "诊疗指南",
+          "风寒束表",
+          "风热犯表",
+          "辛温解表",
+          "辛凉解表",
+          "辨证论治"
+        ]
+      }
+    },
+    {
+      "id": "kesou_002",
+      "book": "中医临床诊疗指南/专家共识（要点归纳）",
+      "type": "zhinan",
+      "tier": 1,
+      "category": "xiandai",
+      "subcategory": "zhidao",
+      "path": "library/xiandai/zhidao/kesou/kesou_002.md",
+      "weight": 8,
+      "title": "咳嗽·辨证论治要点",
+      "chapter": "现代中医",
+      "conditions": {
+        "zhengxing": [
+          "风寒犯肺",
+          "风热犯肺",
+          "痰湿蕴肺",
+          "痰热郁肺"
+        ],
+        "zhifa": [
+          "宣肺止咳"
+        ],
+        "bingzheng": [
+          "咳嗽"
+        ],
+        "zhengzhuang": [
+          "咳嗽",
+          "咯痰"
+        ],
+        "fangming": [],
+        "yaoming": [],
+        "xuewei": [],
+        "jingluo": [],
+        "siqi": [],
+        "wuwei": [],
+        "guijing": [],
+        "keywords": [
+          "咳嗽",
+          "诊疗指南",
+          "风寒犯肺",
+          "风热犯肺",
+          "痰湿蕴肺",
+          "痰热郁肺",
+          "宣肺止咳",
+          "辨证论治"
+        ]
+      }
+    },
+    {
+      "id": "linzheng_002",
+      "book": "中医临床诊疗指南/专家共识（要点归纳）",
+      "type": "zhinan",
+      "tier": 1,
+      "category": "xiandai",
+      "subcategory": "zhidao",
+      "path": "library/xiandai/zhidao/linzheng/linzheng_002.md",
+      "weight": 8,
+      "title": "淋证·辨证论治要点",
+      "chapter": "现代中医",
+      "conditions": {
+        "zhengxing": [
+          "热淋",
+          "石淋",
+          "血淋",
+          "膏淋",
+          "劳淋"
+        ],
+        "zhifa": [
+          "清热利湿通淋"
+        ],
+        "bingzheng": [
+          "淋证"
+        ],
+        "zhengzhuang": [
+          "小便频急",
+          "淋沥涩痛"
+        ],
+        "fangming": [],
+        "yaoming": [],
+        "xuewei": [],
+        "jingluo": [],
+        "siqi": [],
+        "wuwei": [],
+        "guijing": [],
+        "keywords": [
+          "淋证",
+          "诊疗指南",
+          "清热利湿通淋",
+          "热淋",
+          "石淋",
+          "辨证论治"
+        ]
+      }
+    },
+    {
+      "id": "shuizhong_002",
+      "book": "中医临床诊疗指南/专家共识（要点归纳）",
+      "type": "zhinan",
+      "tier": 1,
+      "category": "xiandai",
+      "subcategory": "zhidao",
+      "path": "library/xiandai/zhidao/shuizhong/shuizhong_002.md",
+      "weight": 8,
+      "title": "水肿·辨证论治要点",
+      "chapter": "现代中医",
+      "conditions": {
+        "zhengxing": [
+          "阳水",
+          "阴水",
+          "风水相搏"
+        ],
+        "zhifa": [
+          "宣肺利水",
+          "健脾温肾"
+        ],
+        "bingzheng": [
+          "水肿"
+        ],
+        "zhengzhuang": [
+          "头面肢体浮肿"
+        ],
+        "fangming": [],
+        "yaoming": [],
+        "xuewei": [],
+        "jingluo": [],
+        "siqi": [],
+        "wuwei": [],
+        "guijing": [],
+        "keywords": [
+          "水肿",
+          "诊疗指南",
+          "宣肺利水",
+          "健脾温肾",
+          "阳水",
+          "阴水",
+          "辨证论治"
+        ]
+      }
+    },
+    {
+      "id": "toutong_002",
+      "book": "中医临床诊疗指南/专家共识（要点归纳）",
+      "type": "zhinan",
+      "tier": 1,
+      "category": "xiandai",
+      "subcategory": "zhidao",
+      "path": "library/xiandai/zhidao/toutong/toutong_002.md",
+      "weight": 8,
+      "title": "头痛·辨证论治要点",
+      "chapter": "现代中医",
+      "conditions": {
+        "zhengxing": [
+          "外感头痛",
+          "内伤头痛",
+          "肝阳头痛"
+        ],
+        "zhifa": [
+          "疏风止痛",
+          "平肝潜阳"
+        ],
+        "bingzheng": [
+          "头痛"
+        ],
+        "zhengzhuang": [
+          "头痛"
+        ],
+        "fangming": [],
+        "yaoming": [],
+        "xuewei": [],
+        "jingluo": [],
+        "siqi": [],
+        "wuwei": [],
+        "guijing": [],
+        "keywords": [
+          "头痛",
+          "诊疗指南",
+          "外感头痛",
+          "内伤头痛",
+          "肝阳头痛",
+          "疏风止痛",
+          "平肝潜阳",
+          "辨证论治"
+        ]
+      }
+    },
+    {
+      "id": "weitong_002",
+      "book": "中医临床诊疗指南/专家共识（要点归纳）",
+      "type": "zhinan",
+      "tier": 1,
+      "category": "xiandai",
+      "subcategory": "zhidao",
+      "path": "library/xiandai/zhidao/weitong/weitong_002.md",
+      "weight": 8,
+      "title": "胃痛·辨证论治要点",
+      "chapter": "现代中医",
+      "conditions": {
+        "zhengxing": [
+          "寒邪客胃",
+          "饮食伤胃",
+          "肝气犯胃",
+          "脾胃虚寒"
+        ],
+        "zhifa": [
+          "理气和胃止痛"
+        ],
+        "bingzheng": [
+          "胃痛"
+        ],
+        "zhengzhuang": [
+          "胃脘痛",
+          "嗳气反酸"
+        ],
+        "fangming": [],
+        "yaoming": [],
+        "xuewei": [],
+        "jingluo": [],
+        "siqi": [],
+        "wuwei": [],
+        "guijing": [],
+        "keywords": [
+          "胃痛",
+          "胃脘痛",
+          "诊疗指南",
+          "寒邪客胃",
+          "饮食伤胃",
+          "肝气犯胃",
+          "脾胃虚寒",
+          "理气和胃止痛"
+        ]
+      }
+    },
+    {
+      "id": "xiaobing_002",
+      "book": "中医临床诊疗指南/专家共识（要点归纳）",
+      "type": "zhinan",
+      "tier": 1,
+      "category": "xiandai",
+      "subcategory": "zhidao",
+      "path": "library/xiandai/zhidao/xiaobing/xiaobing_002.md",
+      "weight": 8,
+      "title": "哮病·辨证论治要点",
+      "chapter": "现代中医",
+      "conditions": {
+        "zhengxing": [
+          "发作期寒哮热哮",
+          "缓解期肺脾肾两虚"
+        ],
+        "zhifa": [
+          "发时治标",
+          "平时治本"
+        ],
+        "bingzheng": [
+          "哮病"
+        ],
+        "zhengzhuang": [
+          "喉中哮鸣",
+          "喘促"
+        ],
+        "fangming": [],
+        "yaoming": [],
+        "xuewei": [],
+        "jingluo": [],
+        "siqi": [],
+        "wuwei": [],
+        "guijing": [],
+        "keywords": [
+          "哮病",
+          "诊疗指南",
+          "寒哮",
+          "热哮",
+          "发时治标平时治本",
+          "缓解期",
+          "辨证论治"
+        ]
+      }
+    },
+    {
+      "id": "xiaoke_002",
+      "book": "中医临床诊疗指南/专家共识（要点归纳）",
+      "type": "zhinan",
+      "tier": 1,
+      "category": "xiandai",
+      "subcategory": "zhidao",
+      "path": "library/xiandai/zhidao/xiaoke/xiaoke_002.md",
+      "weight": 8,
+      "title": "消渴·辨证论治要点",
+      "chapter": "现代中医",
+      "conditions": {
+        "zhengxing": [
+          "上消肺热津伤",
+          "中消胃热炽盛",
+          "下消肾阴亏虚"
+        ],
+        "zhifa": [
+          "清热润燥",
+          "养阴生津"
+        ],
+        "bingzheng": [
+          "消渴"
+        ],
+        "zhengzhuang": [
+          "多饮",
+          "多食",
+          "多尿",
+          "形体消瘦"
+        ],
+        "fangming": [],
+        "yaoming": [],
+        "xuewei": [],
+        "jingluo": [],
+        "siqi": [],
+        "wuwei": [],
+        "guijing": [],
+        "keywords": [
+          "消渴",
+          "诊疗指南",
+          "清热润燥",
+          "养阴生津",
+          "三多一少",
+          "辨证论治"
+        ]
+      }
+    },
+    {
+      "id": "xiexie_002",
+      "book": "中医临床诊疗指南/专家共识（要点归纳）",
+      "type": "zhinan",
+      "tier": 1,
+      "category": "xiandai",
+      "subcategory": "zhidao",
+      "path": "library/xiandai/zhidao/xiexie/xiexie_002.md",
+      "weight": 8,
+      "title": "泄泻·辨证论治要点",
+      "chapter": "现代中医",
+      "conditions": {
+        "zhengxing": [
+          "寒湿内盛",
+          "湿热伤中",
+          "食滞肠胃",
+          "脾胃虚弱",
+          "肾阳虚衰"
+        ],
+        "zhifa": [
+          "运脾化湿",
+          "分利小便"
+        ],
+        "bingzheng": [
+          "泄泻"
+        ],
+        "zhengzhuang": [
+          "大便稀溏",
+          "腹痛肠鸣"
+        ],
+        "fangming": [],
+        "yaoming": [],
+        "xuewei": [],
+        "jingluo": [],
+        "siqi": [],
+        "wuwei": [],
+        "guijing": [],
+        "keywords": [
+          "泄泻",
+          "诊疗指南",
+          "运脾化湿",
+          "辨证论治",
+          "寒湿内盛",
+          "脾胃虚弱"
+        ]
+      }
+    },
+    {
+      "id": "xinji_002",
+      "book": "中医临床诊疗指南/专家共识（要点归纳）",
+      "type": "zhinan",
+      "tier": 1,
+      "category": "xiandai",
+      "subcategory": "zhidao",
+      "path": "library/xiandai/zhidao/xinji/xinji_002.md",
+      "weight": 8,
+      "title": "心悸·辨证论治要点",
+      "chapter": "现代中医",
+      "conditions": {
+        "zhengxing": [
+          "心虚胆怯",
+          "心血不足",
+          "心阳不振",
+          "阴虚火旺",
+          "瘀阻心脉"
+        ],
+        "zhifa": [
+          "镇惊安神",
+          "补益心血"
+        ],
+        "bingzheng": [
+          "心悸"
+        ],
+        "zhengzhuang": [
+          "心悸",
+          "怔忡"
+        ],
+        "fangming": [],
+        "yaoming": [],
+        "xuewei": [],
+        "jingluo": [],
+        "siqi": [],
+        "wuwei": [],
+        "guijing": [],
+        "keywords": [
+          "心悸",
+          "诊疗指南",
+          "心虚胆怯",
+          "心血不足",
+          "心阳不振",
+          "阴虚火旺",
+          "瘀阻心脉",
+          "辨证论治"
+        ]
+      }
+    },
+    {
+      "id": "xiongbi_002",
+      "book": "中医临床诊疗指南/专家共识（要点归纳）",
+      "type": "zhinan",
+      "tier": 1,
+      "category": "xiandai",
+      "subcategory": "zhidao",
+      "path": "library/xiandai/zhidao/xiongbi/xiongbi_002.md",
+      "weight": 8,
+      "title": "胸痹心痛·辨证论治要点",
+      "chapter": "现代中医",
+      "conditions": {
+        "zhengxing": [
+          "心血瘀阻",
+          "气滞心胸",
+          "痰浊闭阻",
+          "气阴两虚"
+        ],
+        "zhifa": [
+          "活血化瘀",
+          "通脉止痛"
+        ],
+        "bingzheng": [
+          "胸痹"
+        ],
+        "zhengzhuang": [
+          "胸闷",
+          "心痛"
+        ],
+        "fangming": [],
+        "yaoming": [],
+        "xuewei": [],
+        "jingluo": [],
+        "siqi": [],
+        "wuwei": [],
+        "guijing": [],
+        "keywords": [
+          "胸痹",
+          "胸痹心痛",
+          "诊疗指南",
+          "心血瘀阻",
+          "气滞心胸",
+          "痰浊闭阻",
+          "气阴两虚",
+          "通脉止痛"
+        ]
+      }
+    },
+    {
+      "id": "xuanyun_002",
+      "book": "中医临床诊疗指南/专家共识（要点归纳）",
+      "type": "zhinan",
+      "tier": 1,
+      "category": "xiandai",
+      "subcategory": "zhidao",
+      "path": "library/xiandai/zhidao/xuanyun/xuanyun_002.md",
+      "weight": 8,
+      "title": "眩晕·辨证论治要点",
+      "chapter": "现代中医",
+      "conditions": {
+        "zhengxing": [
+          "肝阳上亢",
+          "气血亏虚",
+          "痰湿中阻",
+          "肾精不足"
+        ],
+        "zhifa": [
+          "平肝潜阳",
+          "补养气血"
+        ],
+        "bingzheng": [
+          "眩晕"
+        ],
+        "zhengzhuang": [
+          "头晕",
+          "目眩"
+        ],
+        "fangming": [],
+        "yaoming": [],
+        "xuewei": [],
+        "jingluo": [],
+        "siqi": [],
+        "wuwei": [],
+        "guijing": [],
+        "keywords": [
+          "眩晕",
+          "诊疗指南",
+          "肝阳上亢",
+          "气血亏虚",
+          "痰湿中阻",
+          "肾精不足",
+          "平肝潜阳",
+          "辨证论治"
+        ]
+      }
+    },
+    {
+      "id": "xulao_002",
+      "book": "中医临床诊疗指南/专家共识（要点归纳）",
+      "type": "zhinan",
+      "tier": 1,
+      "category": "xiandai",
+      "subcategory": "zhidao",
+      "path": "library/xiandai/zhidao/xulao/xulao_002.md",
+      "weight": 8,
+      "title": "虚劳·辨证论治要点",
+      "chapter": "现代中医",
+      "conditions": {
+        "zhengxing": [
+          "气虚",
+          "血虚",
+          "阴虚",
+          "阳虚"
+        ],
+        "zhifa": [
+          "补益气血阴阳"
+        ],
+        "bingzheng": [
+          "虚劳"
+        ],
+        "zhengzhuang": [
+          "神疲体倦",
+          "气血阴阳亏虚"
+        ],
+        "fangming": [],
+        "yaoming": [],
+        "xuewei": [],
+        "jingluo": [],
+        "siqi": [],
+        "wuwei": [],
+        "guijing": [],
+        "keywords": [
+          "虚劳",
+          "诊疗指南",
+          "补益气血阴阳",
+          "气虚",
+          "血虚",
+          "阴虚",
+          "阳虚",
+          "辨证论治"
+        ]
+      }
+    },
+    {
+      "id": "zhongfeng_002",
+      "book": "中医临床诊疗指南/专家共识（要点归纳）",
+      "type": "zhinan",
+      "tier": 1,
+      "category": "xiandai",
+      "subcategory": "zhidao",
+      "path": "library/xiandai/zhidao/zhongfeng/zhongfeng_002.md",
+      "weight": 8,
+      "title": "中风·辨证论治要点",
+      "chapter": "现代中医",
+      "conditions": {
+        "zhengxing": [
+          "中经络",
+          "中脏腑",
+          "风痰瘀血"
+        ],
+        "zhifa": [
+          "平肝息风",
+          "化痰通络"
+        ],
+        "bingzheng": [
+          "中风"
+        ],
+        "zhengzhuang": [
+          "半身不遂",
+          "口舌歪斜",
+          "言语不利"
+        ],
+        "fangming": [],
+        "yaoming": [],
+        "xuewei": [],
+        "jingluo": [],
+        "siqi": [],
+        "wuwei": [],
+        "guijing": [],
+        "keywords": [
+          "中风",
+          "诊疗指南",
+          "平肝息风",
+          "化痰通络",
+          "中经络",
+          "中脏腑",
+          "辨证论治"
         ]
       }
     },

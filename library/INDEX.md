@@ -1,6 +1,6 @@
 # TCM-Library · 全库总索引
 
-> 中医知识百科全书检索库 · 当前收录 2486 条（按目录自动生成）
+> 中医知识百科全书检索库 · 当前收录 2504 条（按目录自动生成）
 
 ## 收录进度
 
@@ -15,7 +15,7 @@
 | yangsheng | 养生康复 | 42 | 42 | [索引](./library/yangsheng/INDEX.md) |
 | yishi | 医史医家 | 64 | 92 | [索引](./library/yishi/INDEX.md) |
 | jingdian | 经典医籍 | 46 | 1111 | [索引](./library/jingdian/INDEX.md) |
-| xiandai | 现代中医 | 0 | 0 | — |
+| xiandai | 现代中医 | 18 | 18 | [索引](./library/xiandai/INDEX.md) |
 
 ## 检索字段速查
 

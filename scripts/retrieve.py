@@ -111,6 +111,7 @@ def main() -> None:
     ap.add_argument("--guijing", action="append", default=[], help="归经：如 肺经/脾经")
     ap.add_argument("--keyword", action="append", default=[], help="开放主题词（可多次）")
     ap.add_argument("--limit", type=int, default=20)
+    ap.add_argument("--offset", type=int, default=0, help="跳过前 N 条（与 --limit 配合分页）")
     ap.add_argument("--detail", action="store_true")
     ap.add_argument("--show-fields", action="store_true", help="显示受支持的结构化字段")
     args = ap.parse_args()
@@ -138,9 +139,11 @@ def main() -> None:
         "keywords": args.keyword,
     }
     manifest = load_manifest()
-    results = query(manifest, cond, include_general=False, limit=args.limit)
-    print(f"命中 {len(results)} 条：")
-    print_results(results, detail=args.detail)
+    results = query(manifest, cond, include_general=False, limit=None)
+    total = len(results)
+    page = results[args.offset:args.offset + args.limit]
+    print(f"命中 {total} 条，显示第 {args.offset + 1}–{args.offset + len(page)} 条：")
+    print_results(page, detail=args.detail)
 
 
 if __name__ == "__main__":

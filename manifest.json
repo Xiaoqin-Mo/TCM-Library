@@ -58,10 +58,42 @@
         "count": 1
       }
     },
+    "xiandai": {
+      "jiaocai": {
+        "dir": "xiandai/jiaocai/zhuweibing",
+        "count": 1
+      },
+      "zhidao": {
+        "dir": "xiandai/zhidao/zhongfeng",
+        "count": 1
+      }
+    },
+    "yangsheng": {
+      "daoyin": {
+        "dir": "yangsheng/daoyin/zhanzhuang",
+        "count": 1
+      },
+      "qiju": {
+        "dir": "yangsheng/qiju/ziwujue",
+        "count": 1
+      },
+      "shiliao": {
+        "dir": "yangsheng/shiliao/yiyirenzhou",
+        "count": 1
+      }
+    },
     "yishi": {
+      "xuepai": {
+        "dir": "yishi/xuepai/zhongxihuitongxuepai",
+        "count": 1
+      },
       "yian": {
         "dir": "yishi/yian/zhudanxi",
         "count": 3
+      },
+      "yijia": {
+        "dir": "yishi/yijia/zhuzhenheng",
+        "count": 1
       }
     },
     "zhenduan": {
@@ -1772,6 +1804,710 @@
       "count": 1
     },
     {
+      "dir": "xiandai/jiaocai/aijiu",
+      "tier": 1,
+      "tier_name": "核心",
+      "category": "xiandai",
+      "subcategory": "jiaocai",
+      "count": 1
+    },
+    {
+      "dir": "xiandai/jiaocai/baguan",
+      "tier": 1,
+      "tier_name": "核心",
+      "category": "xiandai",
+      "subcategory": "jiaocai",
+      "count": 1
+    },
+    {
+      "dir": "xiandai/jiaocai/dongbingxiazhi",
+      "tier": 1,
+      "tier_name": "核心",
+      "category": "xiandai",
+      "subcategory": "jiaocai",
+      "count": 1
+    },
+    {
+      "dir": "xiandai/jiaocai/ertongtiaoyang",
+      "tier": 1,
+      "tier_name": "核心",
+      "category": "xiandai",
+      "subcategory": "jiaocai",
+      "count": 1
+    },
+    {
+      "dir": "xiandai/jiaocai/erxueyadou",
+      "tier": 1,
+      "tier_name": "核心",
+      "category": "xiandai",
+      "subcategory": "jiaocai",
+      "count": 1
+    },
+    {
+      "dir": "xiandai/jiaocai/gaofang",
+      "tier": 1,
+      "tier_name": "核心",
+      "category": "xiandai",
+      "subcategory": "jiaocai",
+      "count": 1
+    },
+    {
+      "dir": "xiandai/jiaocai/guasha",
+      "tier": 1,
+      "tier_name": "核心",
+      "category": "xiandai",
+      "subcategory": "jiaocai",
+      "count": 1
+    },
+    {
+      "dir": "xiandai/jiaocai/kangfuqihu",
+      "tier": 1,
+      "tier_name": "核心",
+      "category": "xiandai",
+      "subcategory": "jiaocai",
+      "count": 1
+    },
+    {
+      "dir": "xiandai/jiaocai/manbingguanli",
+      "tier": 1,
+      "tier_name": "核心",
+      "category": "xiandai",
+      "subcategory": "jiaocai",
+      "count": 1
+    },
+    {
+      "dir": "xiandai/jiaocai/qingzhidiao",
+      "tier": 1,
+      "tier_name": "核心",
+      "category": "xiandai",
+      "subcategory": "jiaocai",
+      "count": 1
+    },
+    {
+      "dir": "xiandai/jiaocai/sijiyangsheng",
+      "tier": 1,
+      "tier_name": "核心",
+      "category": "xiandai",
+      "subcategory": "jiaocai",
+      "count": 1
+    },
+    {
+      "dir": "xiandai/jiaocai/tizhijiufen",
+      "tier": 1,
+      "tier_name": "核心",
+      "category": "xiandai",
+      "subcategory": "jiaocai",
+      "count": 1
+    },
+    {
+      "dir": "xiandai/jiaocai/tuina",
+      "tier": 1,
+      "tier_name": "核心",
+      "category": "xiandai",
+      "subcategory": "jiaocai",
+      "count": 1
+    },
+    {
+      "dir": "xiandai/jiaocai/xueweitie",
+      "tier": 1,
+      "tier_name": "核心",
+      "category": "xiandai",
+      "subcategory": "jiaocai",
+      "count": 1
+    },
+    {
+      "dir": "xiandai/jiaocai/yajiankang",
+      "tier": 1,
+      "tier_name": "核心",
+      "category": "xiandai",
+      "subcategory": "jiaocai",
+      "count": 1
+    },
+    {
+      "dir": "xiandai/jiaocai/yaoshan",
+      "tier": 1,
+      "tier_name": "核心",
+      "category": "xiandai",
+      "subcategory": "jiaocai",
+      "count": 1
+    },
+    {
+      "dir": "xiandai/jiaocai/yundao",
+      "tier": 1,
+      "tier_name": "核心",
+      "category": "xiandai",
+      "subcategory": "jiaocai",
+      "count": 1
+    },
+    {
+      "dir": "xiandai/jiaocai/zhuweibing",
+      "tier": 1,
+      "tier_name": "核心",
+      "category": "xiandai",
+      "subcategory": "jiaocai",
+      "count": 1
+    },
+    {
+      "dir": "xiandai/zhidao/bianmi",
+      "tier": 1,
+      "tier_name": "核心",
+      "category": "xiandai",
+      "subcategory": "zhidao",
+      "count": 1
+    },
+    {
+      "dir": "xiandai/zhidao/bizheng",
+      "tier": 1,
+      "tier_name": "核心",
+      "category": "xiandai",
+      "subcategory": "zhidao",
+      "count": 1
+    },
+    {
+      "dir": "xiandai/zhidao/bumei",
+      "tier": 1,
+      "tier_name": "核心",
+      "category": "xiandai",
+      "subcategory": "zhidao",
+      "count": 1
+    },
+    {
+      "dir": "xiandai/zhidao/chuanzheng",
+      "tier": 1,
+      "tier_name": "核心",
+      "category": "xiandai",
+      "subcategory": "zhidao",
+      "count": 1
+    },
+    {
+      "dir": "xiandai/zhidao/ganmao",
+      "tier": 1,
+      "tier_name": "核心",
+      "category": "xiandai",
+      "subcategory": "zhidao",
+      "count": 1
+    },
+    {
+      "dir": "xiandai/zhidao/kesou",
+      "tier": 1,
+      "tier_name": "核心",
+      "category": "xiandai",
+      "subcategory": "zhidao",
+      "count": 1
+    },
+    {
+      "dir": "xiandai/zhidao/linzheng",
+      "tier": 1,
+      "tier_name": "核心",
+      "category": "xiandai",
+      "subcategory": "zhidao",
+      "count": 1
+    },
+    {
+      "dir": "xiandai/zhidao/shuizhong",
+      "tier": 1,
+      "tier_name": "核心",
+      "category": "xiandai",
+      "subcategory": "zhidao",
+      "count": 1
+    },
+    {
+      "dir": "xiandai/zhidao/toutong",
+      "tier": 1,
+      "tier_name": "核心",
+      "category": "xiandai",
+      "subcategory": "zhidao",
+      "count": 1
+    },
+    {
+      "dir": "xiandai/zhidao/weitong",
+      "tier": 1,
+      "tier_name": "核心",
+      "category": "xiandai",
+      "subcategory": "zhidao",
+      "count": 1
+    },
+    {
+      "dir": "xiandai/zhidao/xiaobing",
+      "tier": 1,
+      "tier_name": "核心",
+      "category": "xiandai",
+      "subcategory": "zhidao",
+      "count": 1
+    },
+    {
+      "dir": "xiandai/zhidao/xiaoke",
+      "tier": 1,
+      "tier_name": "核心",
+      "category": "xiandai",
+      "subcategory": "zhidao",
+      "count": 1
+    },
+    {
+      "dir": "xiandai/zhidao/xiexie",
+      "tier": 1,
+      "tier_name": "核心",
+      "category": "xiandai",
+      "subcategory": "zhidao",
+      "count": 1
+    },
+    {
+      "dir": "xiandai/zhidao/xinji",
+      "tier": 1,
+      "tier_name": "核心",
+      "category": "xiandai",
+      "subcategory": "zhidao",
+      "count": 1
+    },
+    {
+      "dir": "xiandai/zhidao/xiongbi",
+      "tier": 1,
+      "tier_name": "核心",
+      "category": "xiandai",
+      "subcategory": "zhidao",
+      "count": 1
+    },
+    {
+      "dir": "xiandai/zhidao/xuanyun",
+      "tier": 1,
+      "tier_name": "核心",
+      "category": "xiandai",
+      "subcategory": "zhidao",
+      "count": 1
+    },
+    {
+      "dir": "xiandai/zhidao/xulao",
+      "tier": 1,
+      "tier_name": "核心",
+      "category": "xiandai",
+      "subcategory": "zhidao",
+      "count": 1
+    },
+    {
+      "dir": "xiandai/zhidao/zhongfeng",
+      "tier": 1,
+      "tier_name": "核心",
+      "category": "xiandai",
+      "subcategory": "zhidao",
+      "count": 1
+    },
+    {
+      "dir": "yangsheng/daoyin/baduanjin",
+      "tier": 1,
+      "tier_name": "核心",
+      "category": "yangsheng",
+      "subcategory": "daoyin",
+      "count": 1
+    },
+    {
+      "dir": "yangsheng/daoyin/cugudao",
+      "tier": 1,
+      "tier_name": "核心",
+      "category": "yangsheng",
+      "subcategory": "daoyin",
+      "count": 1
+    },
+    {
+      "dir": "yangsheng/daoyin/daoyinanqiao",
+      "tier": 1,
+      "tier_name": "核心",
+      "category": "yangsheng",
+      "subcategory": "daoyin",
+      "count": 1
+    },
+    {
+      "dir": "yangsheng/daoyin/dianzufa",
+      "tier": 1,
+      "tier_name": "核心",
+      "category": "yangsheng",
+      "subcategory": "daoyin",
+      "count": 1
+    },
+    {
+      "dir": "yangsheng/daoyin/kouchiyanjin",
+      "tier": 1,
+      "tier_name": "核心",
+      "category": "yangsheng",
+      "subcategory": "daoyin",
+      "count": 1
+    },
+    {
+      "dir": "yangsheng/daoyin/liuzijue",
+      "tier": 1,
+      "tier_name": "核心",
+      "category": "yangsheng",
+      "subcategory": "daoyin",
+      "count": 1
+    },
+    {
+      "dir": "yangsheng/daoyin/mawangdui",
+      "tier": 1,
+      "tier_name": "核心",
+      "category": "yangsheng",
+      "subcategory": "daoyin",
+      "count": 1
+    },
+    {
+      "dir": "yangsheng/daoyin/mingtiangu",
+      "tier": 1,
+      "tier_name": "核心",
+      "category": "yangsheng",
+      "subcategory": "daoyin",
+      "count": 1
+    },
+    {
+      "dir": "yangsheng/daoyin/momianyuyan",
+      "tier": 1,
+      "tier_name": "核心",
+      "category": "yangsheng",
+      "subcategory": "daoyin",
+      "count": 1
+    },
+    {
+      "dir": "yangsheng/daoyin/roufufa",
+      "tier": 1,
+      "tier_name": "核心",
+      "category": "yangsheng",
+      "subcategory": "daoyin",
+      "count": 1
+    },
+    {
+      "dir": "yangsheng/daoyin/taijiquan",
+      "tier": 1,
+      "tier_name": "核心",
+      "category": "yangsheng",
+      "subcategory": "daoyin",
+      "count": 1
+    },
+    {
+      "dir": "yangsheng/daoyin/tunatiaoxi",
+      "tier": 1,
+      "tier_name": "核心",
+      "category": "yangsheng",
+      "subcategory": "daoyin",
+      "count": 1
+    },
+    {
+      "dir": "yangsheng/daoyin/wuqinxi",
+      "tier": 1,
+      "tier_name": "核心",
+      "category": "yangsheng",
+      "subcategory": "daoyin",
+      "count": 1
+    },
+    {
+      "dir": "yangsheng/daoyin/xiongjingniaoshen",
+      "tier": 1,
+      "tier_name": "核心",
+      "category": "yangsheng",
+      "subcategory": "daoyin",
+      "count": 1
+    },
+    {
+      "dir": "yangsheng/daoyin/yijinjing",
+      "tier": 1,
+      "tier_name": "核心",
+      "category": "yangsheng",
+      "subcategory": "daoyin",
+      "count": 1
+    },
+    {
+      "dir": "yangsheng/daoyin/zhanzhuang",
+      "tier": 1,
+      "tier_name": "核心",
+      "category": "yangsheng",
+      "subcategory": "daoyin",
+      "count": 1
+    },
+    {
+      "dir": "yangsheng/qiju/bifenghan",
+      "tier": 1,
+      "tier_name": "核心",
+      "category": "yangsheng",
+      "subcategory": "qiju",
+      "count": 1
+    },
+    {
+      "dir": "yangsheng/qiju/chunwuqiudong",
+      "tier": 1,
+      "tier_name": "核心",
+      "category": "yangsheng",
+      "subcategory": "qiju",
+      "count": 1
+    },
+    {
+      "dir": "yangsheng/qiju/dongjingjiehe",
+      "tier": 1,
+      "tier_name": "核心",
+      "category": "yangsheng",
+      "subcategory": "qiju",
+      "count": 1
+    },
+    {
+      "dir": "yangsheng/qiju/laoyishidu",
+      "tier": 1,
+      "tier_name": "核心",
+      "category": "yangsheng",
+      "subcategory": "qiju",
+      "count": 1
+    },
+    {
+      "dir": "yangsheng/qiju/qingzhitiaoshe",
+      "tier": 1,
+      "tier_name": "核心",
+      "category": "yangsheng",
+      "subcategory": "qiju",
+      "count": 1
+    },
+    {
+      "dir": "yangsheng/qiju/qiqingzhibing",
+      "tier": 1,
+      "tier_name": "核心",
+      "category": "yangsheng",
+      "subcategory": "qiju",
+      "count": 1
+    },
+    {
+      "dir": "yangsheng/qiju/shuimianweisheng",
+      "tier": 1,
+      "tier_name": "核心",
+      "category": "yangsheng",
+      "subcategory": "qiju",
+      "count": 1
+    },
+    {
+      "dir": "yangsheng/qiju/sishiqiju",
+      "tier": 1,
+      "tier_name": "核心",
+      "category": "yangsheng",
+      "subcategory": "qiju",
+      "count": 1
+    },
+    {
+      "dir": "yangsheng/qiju/tiandanxuwu",
+      "tier": 1,
+      "tier_name": "核心",
+      "category": "yangsheng",
+      "subcategory": "qiju",
+      "count": 1
+    },
+    {
+      "dir": "yangsheng/qiju/ziwujue",
+      "tier": 1,
+      "tier_name": "核心",
+      "category": "yangsheng",
+      "subcategory": "qiju",
+      "count": 1
+    },
+    {
+      "dir": "yangsheng/shiliao/baiheyinergeng",
+      "tier": 1,
+      "tier_name": "核心",
+      "category": "yangsheng",
+      "subcategory": "shiliao",
+      "count": 1
+    },
+    {
+      "dir": "yangsheng/shiliao/chenpicha",
+      "tier": 1,
+      "tier_name": "核心",
+      "category": "yangsheng",
+      "subcategory": "shiliao",
+      "count": 1
+    },
+    {
+      "dir": "yangsheng/shiliao/dongguatang",
+      "tier": 1,
+      "tier_name": "核心",
+      "category": "yangsheng",
+      "subcategory": "shiliao",
+      "count": 1
+    },
+    {
+      "dir": "yangsheng/shiliao/fengningmengyin",
+      "tier": 1,
+      "tier_name": "核心",
+      "category": "yangsheng",
+      "subcategory": "shiliao",
+      "count": 1
+    },
+    {
+      "dir": "yangsheng/shiliao/fulingbing",
+      "tier": 1,
+      "tier_name": "核心",
+      "category": "yangsheng",
+      "subcategory": "shiliao",
+      "count": 1
+    },
+    {
+      "dir": "yangsheng/shiliao/gouqijuhuacha",
+      "tier": 1,
+      "tier_name": "核心",
+      "category": "yangsheng",
+      "subcategory": "shiliao",
+      "count": 1
+    },
+    {
+      "dir": "yangsheng/shiliao/guiyuanhongzaocha",
+      "tier": 1,
+      "tier_name": "核心",
+      "category": "yangsheng",
+      "subcategory": "shiliao",
+      "count": 1
+    },
+    {
+      "dir": "yangsheng/shiliao/heizhimahu",
+      "tier": 1,
+      "tier_name": "核心",
+      "category": "yangsheng",
+      "subcategory": "shiliao",
+      "count": 1
+    },
+    {
+      "dir": "yangsheng/shiliao/jiangzaocha",
+      "tier": 1,
+      "tier_name": "核心",
+      "category": "yangsheng",
+      "subcategory": "shiliao",
+      "count": 1
+    },
+    {
+      "dir": "yangsheng/shiliao/lianzigeng",
+      "tier": 1,
+      "tier_name": "核心",
+      "category": "yangsheng",
+      "subcategory": "shiliao",
+      "count": 1
+    },
+    {
+      "dir": "yangsheng/shiliao/luobotang",
+      "tier": 1,
+      "tier_name": "核心",
+      "category": "yangsheng",
+      "subcategory": "shiliao",
+      "count": 1
+    },
+    {
+      "dir": "yangsheng/shiliao/lvdoutang",
+      "tier": 1,
+      "tier_name": "核心",
+      "category": "yangsheng",
+      "subcategory": "shiliao",
+      "count": 1
+    },
+    {
+      "dir": "yangsheng/shiliao/shanyaozhou",
+      "tier": 1,
+      "tier_name": "核心",
+      "category": "yangsheng",
+      "subcategory": "shiliao",
+      "count": 1
+    },
+    {
+      "dir": "yangsheng/shiliao/shanzhayin",
+      "tier": 1,
+      "tier_name": "核心",
+      "category": "yangsheng",
+      "subcategory": "shiliao",
+      "count": 1
+    },
+    {
+      "dir": "yangsheng/shiliao/xiaomizhou",
+      "tier": 1,
+      "tier_name": "核心",
+      "category": "yangsheng",
+      "subcategory": "shiliao",
+      "count": 1
+    },
+    {
+      "dir": "yangsheng/shiliao/yiyirenzhou",
+      "tier": 1,
+      "tier_name": "核心",
+      "category": "yangsheng",
+      "subcategory": "shiliao",
+      "count": 1
+    },
+    {
+      "dir": "yishi/xuepai/danxixuepai",
+      "tier": 1,
+      "tier_name": "核心",
+      "category": "yishi",
+      "subcategory": "xuepai",
+      "count": 1
+    },
+    {
+      "dir": "yishi/xuepai/gongxuexuepai",
+      "tier": 1,
+      "tier_name": "核心",
+      "category": "yishi",
+      "subcategory": "xuepai",
+      "count": 1
+    },
+    {
+      "dir": "yishi/xuepai/hejianxuepai",
+      "tier": 1,
+      "tier_name": "核心",
+      "category": "yishi",
+      "subcategory": "xuepai",
+      "count": 1
+    },
+    {
+      "dir": "yishi/xuepai/huoshenxuepai",
+      "tier": 1,
+      "tier_name": "核心",
+      "category": "yishi",
+      "subcategory": "xuepai",
+      "count": 1
+    },
+    {
+      "dir": "yishi/xuepai/jingfangxuepai",
+      "tier": 1,
+      "tier_name": "核心",
+      "category": "yishi",
+      "subcategory": "xuepai",
+      "count": 1
+    },
+    {
+      "dir": "yishi/xuepai/shanghanxuepai",
+      "tier": 1,
+      "tier_name": "核心",
+      "category": "yishi",
+      "subcategory": "xuepai",
+      "count": 1
+    },
+    {
+      "dir": "yishi/xuepai/wenbingxuepai",
+      "tier": 1,
+      "tier_name": "核心",
+      "category": "yishi",
+      "subcategory": "xuepai",
+      "count": 1
+    },
+    {
+      "dir": "yishi/xuepai/wenbuxuepai",
+      "tier": 1,
+      "tier_name": "核心",
+      "category": "yishi",
+      "subcategory": "xuepai",
+      "count": 1
+    },
+    {
+      "dir": "yishi/xuepai/yishuixuepai",
+      "tier": 1,
+      "tier_name": "核心",
+      "category": "yishi",
+      "subcategory": "xuepai",
+      "count": 1
+    },
+    {
+      "dir": "yishi/xuepai/zhongxihuitongxuepai",
+      "tier": 1,
+      "tier_name": "核心",
+      "category": "yishi",
+      "subcategory": "xuepai",
+      "count": 1
+    },
+    {
       "dir": "yishi/yian/chengzhongling",
       "tier": 1,
       "tier_name": "核心",
@@ -1946,6 +2682,262 @@
       "category": "yishi",
       "subcategory": "yian",
       "count": 3
+    },
+    {
+      "dir": "yishi/yijia/bianque",
+      "tier": 1,
+      "tier_name": "核心",
+      "category": "yishi",
+      "subcategory": "yijia",
+      "count": 1
+    },
+    {
+      "dir": "yishi/yijia/chaoyuanfang",
+      "tier": 1,
+      "tier_name": "核心",
+      "category": "yishi",
+      "subcategory": "yijia",
+      "count": 1
+    },
+    {
+      "dir": "yishi/yijia/chensiduo",
+      "tier": 1,
+      "tier_name": "核心",
+      "category": "yishi",
+      "subcategory": "yijia",
+      "count": 1
+    },
+    {
+      "dir": "yishi/yijia/chenxiuyuan",
+      "tier": 1,
+      "tier_name": "核心",
+      "category": "yishi",
+      "subcategory": "yijia",
+      "count": 1
+    },
+    {
+      "dir": "yishi/yijia/chunuyi",
+      "tier": 1,
+      "tier_name": "核心",
+      "category": "yishi",
+      "subcategory": "yijia",
+      "count": 1
+    },
+    {
+      "dir": "yishi/yijia/fushan",
+      "tier": 1,
+      "tier_name": "核心",
+      "category": "yishi",
+      "subcategory": "yijia",
+      "count": 1
+    },
+    {
+      "dir": "yishi/yijia/gehong",
+      "tier": 1,
+      "tier_name": "核心",
+      "category": "yishi",
+      "subcategory": "yijia",
+      "count": 1
+    },
+    {
+      "dir": "yishi/yijia/huangfumi",
+      "tier": 1,
+      "tier_name": "核心",
+      "category": "yishi",
+      "subcategory": "yijia",
+      "count": 1
+    },
+    {
+      "dir": "yishi/yijia/huangyuanyu",
+      "tier": 1,
+      "tier_name": "核心",
+      "category": "yishi",
+      "subcategory": "yijia",
+      "count": 1
+    },
+    {
+      "dir": "yishi/yijia/huatuo",
+      "tier": 1,
+      "tier_name": "核心",
+      "category": "yishi",
+      "subcategory": "yijia",
+      "count": 1
+    },
+    {
+      "dir": "yishi/yijia/ligao",
+      "tier": 1,
+      "tier_name": "核心",
+      "category": "yishi",
+      "subcategory": "yijia",
+      "count": 1
+    },
+    {
+      "dir": "yishi/yijia/liuwansu",
+      "tier": 1,
+      "tier_name": "核心",
+      "category": "yishi",
+      "subcategory": "yijia",
+      "count": 1
+    },
+    {
+      "dir": "yishi/yijia/panganshi",
+      "tier": 1,
+      "tier_name": "核心",
+      "category": "yishi",
+      "subcategory": "yijia",
+      "count": 1
+    },
+    {
+      "dir": "yishi/yijia/qianyi",
+      "tier": 1,
+      "tier_name": "核心",
+      "category": "yishi",
+      "subcategory": "yijia",
+      "count": 1
+    },
+    {
+      "dir": "yishi/yijia/sunsimiao",
+      "tier": 1,
+      "tier_name": "核心",
+      "category": "yishi",
+      "subcategory": "yijia",
+      "count": 1
+    },
+    {
+      "dir": "yishi/yijia/taohongjing",
+      "tier": 1,
+      "tier_name": "核心",
+      "category": "yishi",
+      "subcategory": "yijia",
+      "count": 1
+    },
+    {
+      "dir": "yishi/yijia/wanghaogu",
+      "tier": 1,
+      "tier_name": "核心",
+      "category": "yishi",
+      "subcategory": "yijia",
+      "count": 1
+    },
+    {
+      "dir": "yishi/yijia/wangqingren",
+      "tier": 1,
+      "tier_name": "核心",
+      "category": "yishi",
+      "subcategory": "yijia",
+      "count": 1
+    },
+    {
+      "dir": "yishi/yijia/wangshuhe",
+      "tier": 1,
+      "tier_name": "核心",
+      "category": "yishi",
+      "subcategory": "yijia",
+      "count": 1
+    },
+    {
+      "dir": "yishi/yijia/wangtao",
+      "tier": 1,
+      "tier_name": "核心",
+      "category": "yishi",
+      "subcategory": "yijia",
+      "count": 1
+    },
+    {
+      "dir": "yishi/yijia/wuyouxing",
+      "tier": 1,
+      "tier_name": "核心",
+      "category": "yishi",
+      "subcategory": "yijia",
+      "count": 1
+    },
+    {
+      "dir": "yishi/yijia/xudachun",
+      "tier": 1,
+      "tier_name": "核心",
+      "category": "yishi",
+      "subcategory": "yijia",
+      "count": 1
+    },
+    {
+      "dir": "yishi/yijia/xueji",
+      "tier": 1,
+      "tier_name": "核心",
+      "category": "yishi",
+      "subcategory": "yijia",
+      "count": 1
+    },
+    {
+      "dir": "yishi/yijia/xuexue",
+      "tier": 1,
+      "tier_name": "核心",
+      "category": "yishi",
+      "subcategory": "yijia",
+      "count": 1
+    },
+    {
+      "dir": "yishi/yijia/xushuwei",
+      "tier": 1,
+      "tier_name": "核心",
+      "category": "yishi",
+      "subcategory": "yijia",
+      "count": 1
+    },
+    {
+      "dir": "yishi/yijia/yetianshi",
+      "tier": 1,
+      "tier_name": "核心",
+      "category": "yishi",
+      "subcategory": "yijia",
+      "count": 1
+    },
+    {
+      "dir": "yishi/yijia/yujiayan",
+      "tier": 1,
+      "tier_name": "核心",
+      "category": "yishi",
+      "subcategory": "yijia",
+      "count": 1
+    },
+    {
+      "dir": "yishi/yijia/zhangcongzheng",
+      "tier": 1,
+      "tier_name": "核心",
+      "category": "yishi",
+      "subcategory": "yijia",
+      "count": 1
+    },
+    {
+      "dir": "yishi/yijia/zhangjiebin",
+      "tier": 1,
+      "tier_name": "核心",
+      "category": "yishi",
+      "subcategory": "yijia",
+      "count": 1
+    },
+    {
+      "dir": "yishi/yijia/zhangyuansu",
+      "tier": 1,
+      "tier_name": "核心",
+      "category": "yishi",
+      "subcategory": "yijia",
+      "count": 1
+    },
+    {
+      "dir": "yishi/yijia/zhangzhongjing",
+      "tier": 1,
+      "tier_name": "核心",
+      "category": "yishi",
+      "subcategory": "yijia",
+      "count": 1
+    },
+    {
+      "dir": "yishi/yijia/zhuzhenheng",
+      "tier": 1,
+      "tier_name": "核心",
+      "category": "yishi",
+      "subcategory": "yijia",
+      "count": 1
     },
     {
       "dir": "zhenduan/bianzheng/biaoli",
@@ -11052,7 +12044,7 @@
       "count": 1
     }
   ],
-  "total": 2402,
+  "total": 2522,
   "entries": [
     {
       "id": "baihutang_002",
@@ -58478,6 +59470,3879 @@
       }
     },
     {
+      "id": "aijiu_001",
+      "book": "中医临床诊疗指南/专家共识（要点归纳）",
+      "type": "zhinan",
+      "tier": 1,
+      "category": "xiandai",
+      "subcategory": "jiaocai",
+      "path": "library/xiandai/jiaocai/aijiu/aijiu_001.md",
+      "weight": 8,
+      "title": "艾灸·适宜技术操作要点",
+      "chapter": "现代中医",
+      "conditions": {
+        "zhengxing": [
+          "虚寒证",
+          "阳虚"
+        ],
+        "zhifa": [
+          "艾灸",
+          "温经散寒"
+        ],
+        "bingzheng": [
+          "虚寒证",
+          "阳虚"
+        ],
+        "zhengzhuang": [
+          "畏寒",
+          "脘腹冷痛"
+        ],
+        "fangming": [],
+        "yaoming": [
+          "艾叶",
+          "艾绒"
+        ],
+        "xuewei": [],
+        "jingluo": [],
+        "siqi": [
+          "温"
+        ],
+        "wuwei": [
+          "辛",
+          "苦"
+        ],
+        "guijing": [
+          "脾经",
+          "肾经"
+        ],
+        "keywords": [
+          "艾灸",
+          "隔姜灸",
+          "温针灸",
+          "适宜技术",
+          "温经散寒",
+          "虚寒"
+        ]
+      }
+    },
+    {
+      "id": "baguan_001",
+      "book": "中医临床诊疗指南/专家共识（要点归纳）",
+      "type": "zhinan",
+      "tier": 1,
+      "category": "xiandai",
+      "subcategory": "jiaocai",
+      "path": "library/xiandai/jiaocai/baguan/baguan_001.md",
+      "weight": 8,
+      "title": "拔罐·适宜技术操作要点",
+      "chapter": "现代中医",
+      "conditions": {
+        "zhengxing": [],
+        "zhifa": [
+          "拔罐",
+          "疏通经络"
+        ],
+        "bingzheng": [
+          "外感风寒",
+          "肩背酸痛"
+        ],
+        "zhengzhuang": [
+          "肩背酸痛",
+          "恶寒"
+        ],
+        "fangming": [],
+        "yaoming": [],
+        "xuewei": [],
+        "jingluo": [],
+        "siqi": [],
+        "wuwei": [],
+        "guijing": [],
+        "keywords": [
+          "拔罐",
+          "留罐",
+          "走罐",
+          "适宜技术",
+          "疏通经络",
+          "外感风寒"
+        ]
+      }
+    },
+    {
+      "id": "dongbingxiazhi_001",
+      "book": "中医临床诊疗指南/专家共识（要点归纳）",
+      "type": "zhinan",
+      "tier": 1,
+      "category": "xiandai",
+      "subcategory": "jiaocai",
+      "path": "library/xiandai/jiaocai/dongbingxiazhi/dongbingxiazhi_001.md",
+      "weight": 8,
+      "title": "冬病夏治·三伏贴调治要点",
+      "chapter": "现代中医",
+      "conditions": {
+        "zhengxing": [
+          "虚寒证"
+        ],
+        "zhifa": [
+          "冬病夏治",
+          "三伏贴"
+        ],
+        "bingzheng": [
+          "慢性咳喘",
+          "虚寒证"
+        ],
+        "zhengzhuang": [],
+        "fangming": [],
+        "yaoming": [],
+        "xuewei": [
+          "肺俞",
+          "定喘",
+          "膏肓"
+        ],
+        "jingluo": [],
+        "siqi": [],
+        "wuwei": [],
+        "guijing": [],
+        "keywords": [
+          "冬病夏治",
+          "三伏贴",
+          "夏至调治",
+          "天灸",
+          "虚寒证",
+          "治未病"
+        ]
+      }
+    },
+    {
+      "id": "ertongtiaoyang_001",
+      "book": "中医临床诊疗指南/专家共识（要点归纳）",
+      "type": "zhinan",
+      "tier": 1,
+      "category": "xiandai",
+      "subcategory": "jiaocai",
+      "path": "library/xiandai/jiaocai/ertongtiaoyang/ertongtiaoyang_001.md",
+      "weight": 8,
+      "title": "儿童中医调养·护养脾胃要点",
+      "chapter": "现代中医",
+      "conditions": {
+        "zhengxing": [],
+        "zhifa": [
+          "小儿推拿",
+          "护养脾胃"
+        ],
+        "bingzheng": [
+          "儿童调养"
+        ],
+        "zhengzhuang": [
+          "反复感冒",
+          "消化不良"
+        ],
+        "fangming": [],
+        "yaoming": [],
+        "xuewei": [
+          "脾经",
+          "腹",
+          "足三里"
+        ],
+        "jingluo": [],
+        "siqi": [],
+        "wuwei": [],
+        "guijing": [],
+        "keywords": [
+          "儿童中医",
+          "小儿推拿",
+          "护养脾胃",
+          "反复感冒",
+          "消化不良",
+          "治未病"
+        ]
+      }
+    },
+    {
+      "id": "erxueyadou_001",
+      "book": "中医临床诊疗指南/专家共识（要点归纳）",
+      "type": "zhinan",
+      "tier": 1,
+      "category": "xiandai",
+      "subcategory": "jiaocai",
+      "path": "library/xiandai/jiaocai/erxueyadou/erxueyadou_001.md",
+      "weight": 8,
+      "title": "耳穴压豆·适宜技术操作要点",
+      "chapter": "现代中医",
+      "conditions": {
+        "zhengxing": [],
+        "zhifa": [
+          "耳穴压豆"
+        ],
+        "bingzheng": [
+          "失眠",
+          "便秘"
+        ],
+        "zhengzhuang": [
+          "失眠",
+          "便秘"
+        ],
+        "fangming": [],
+        "yaoming": [
+          "王不留行籽"
+        ],
+        "xuewei": [
+          "神门",
+          "心",
+          "内分泌",
+          "皮质下"
+        ],
+        "jingluo": [],
+        "siqi": [],
+        "wuwei": [],
+        "guijing": [],
+        "keywords": [
+          "耳穴",
+          "压豆",
+          "王不留行",
+          "适宜技术",
+          "耳穴压丸"
+        ]
+      }
+    },
+    {
+      "id": "gaofang_001",
+      "book": "中医临床诊疗指南/专家共识（要点归纳）",
+      "type": "zhinan",
+      "tier": 1,
+      "category": "xiandai",
+      "subcategory": "jiaocai",
+      "path": "library/xiandai/jiaocai/gaofang/gaofang_001.md",
+      "weight": 8,
+      "title": "膏方调理·冬令进补要点",
+      "chapter": "现代中医",
+      "conditions": {
+        "zhengxing": [],
+        "zhifa": [
+          "膏方调补"
+        ],
+        "bingzheng": [
+          "虚损",
+          "亚健康"
+        ],
+        "zhengzhuang": [],
+        "fangming": [],
+        "yaoming": [
+          "滋补膏方"
+        ],
+        "xuewei": [],
+        "jingluo": [],
+        "siqi": [],
+        "wuwei": [],
+        "guijing": [],
+        "keywords": [
+          "膏方",
+          "膏滋",
+          "冬令进补",
+          "膏方调补",
+          "治未病"
+        ]
+      }
+    },
+    {
+      "id": "guasha_001",
+      "book": "中医临床诊疗指南/专家共识（要点归纳）",
+      "type": "zhinan",
+      "tier": 1,
+      "category": "xiandai",
+      "subcategory": "jiaocai",
+      "path": "library/xiandai/jiaocai/guasha/guasha_001.md",
+      "weight": 8,
+      "title": "刮痧·适宜技术操作要点",
+      "chapter": "现代中医",
+      "conditions": {
+        "zhengxing": [],
+        "zhifa": [
+          "刮痧",
+          "透痧外出"
+        ],
+        "bingzheng": [
+          "外感",
+          "肌肤痧证"
+        ],
+        "zhengzhuang": [
+          "项背强痛",
+          "头昏"
+        ],
+        "fangming": [],
+        "yaoming": [],
+        "xuewei": [],
+        "jingluo": [],
+        "siqi": [],
+        "wuwei": [],
+        "guijing": [],
+        "keywords": [
+          "刮痧",
+          "出痧",
+          "适宜技术",
+          "透痧外出",
+          "项背强痛"
+        ]
+      }
+    },
+    {
+      "id": "kangfuqihu_001",
+      "book": "中医临床诊疗指南/专家共识（要点归纳）",
+      "type": "zhinan",
+      "tier": 1,
+      "category": "xiandai",
+      "subcategory": "jiaocai",
+      "path": "library/xiandai/jiaocai/kangfuqihu/kangfuqihu_001.md",
+      "weight": 8,
+      "title": "康复期调护·病后恢复要点",
+      "chapter": "现代中医",
+      "conditions": {
+        "zhengxing": [],
+        "zhifa": [
+          "康复调护"
+        ],
+        "bingzheng": [
+          "病后康复"
+        ],
+        "zhengzhuang": [
+          "病后体虚"
+        ],
+        "fangming": [],
+        "yaoming": [],
+        "xuewei": [],
+        "jingluo": [],
+        "siqi": [],
+        "wuwei": [],
+        "guijing": [],
+        "keywords": [
+          "康复",
+          "病后调护",
+          "恢复期",
+          "病后体虚",
+          "治未病"
+        ]
+      }
+    },
+    {
+      "id": "manbingguanli_001",
+      "book": "中医临床诊疗指南/专家共识（要点归纳）",
+      "type": "zhinan",
+      "tier": 1,
+      "category": "xiandai",
+      "subcategory": "jiaocai",
+      "path": "library/xiandai/jiaocai/manbingguanli/manbingguanli_001.md",
+      "weight": 8,
+      "title": "慢性病中医管理·随访调治要点",
+      "chapter": "现代中医",
+      "conditions": {
+        "zhengxing": [],
+        "zhifa": [
+          "慢病调治",
+          "随访管理"
+        ],
+        "bingzheng": [
+          "慢性病"
+        ],
+        "zhengzhuang": [],
+        "fangming": [],
+        "yaoming": [],
+        "xuewei": [],
+        "jingluo": [],
+        "siqi": [],
+        "wuwei": [],
+        "guijing": [],
+        "keywords": [
+          "慢病管理",
+          "中医随访",
+          "健康管理",
+          "慢性病",
+          "治未病"
+        ]
+      }
+    },
+    {
+      "id": "qingzhidiao_001",
+      "book": "中医临床诊疗指南/专家共识（要点归纳）",
+      "type": "zhinan",
+      "tier": 1,
+      "category": "xiandai",
+      "subcategory": "jiaocai",
+      "path": "library/xiandai/jiaocai/qingzhidiao/qingzhidiao_001.md",
+      "weight": 8,
+      "title": "情志调摄规范·七情调摄要点",
+      "chapter": "现代中医",
+      "conditions": {
+        "zhengxing": [],
+        "zhifa": [
+          "七情调摄"
+        ],
+        "bingzheng": [
+          "情志调摄"
+        ],
+        "zhengzhuang": [
+          "情志失调"
+        ],
+        "fangming": [],
+        "yaoming": [],
+        "xuewei": [],
+        "jingluo": [],
+        "siqi": [],
+        "wuwei": [],
+        "guijing": [],
+        "keywords": [
+          "情志调摄",
+          "七情",
+          "喜怒有节",
+          "治未病",
+          "心理调摄"
+        ]
+      }
+    },
+    {
+      "id": "sijiyangsheng_001",
+      "book": "中医临床诊疗指南/专家共识（要点归纳）",
+      "type": "zhinan",
+      "tier": 1,
+      "category": "xiandai",
+      "subcategory": "jiaocai",
+      "path": "library/xiandai/jiaocai/sijiyangsheng/sijiyangsheng_001.md",
+      "weight": 8,
+      "title": "四季养生指导原则·顺时养生要点",
+      "chapter": "现代中医",
+      "conditions": {
+        "zhengxing": [],
+        "zhifa": [
+          "顺时养生"
+        ],
+        "bingzheng": [
+          "四时调摄"
+        ],
+        "zhengzhuang": [
+          "季节调护"
+        ],
+        "fangming": [],
+        "yaoming": [],
+        "xuewei": [],
+        "jingluo": [],
+        "siqi": [],
+        "wuwei": [],
+        "guijing": [],
+        "keywords": [
+          "四季养生",
+          "顺时养生",
+          "四气调神",
+          "春生夏长",
+          "秋收冬藏",
+          "治未病"
+        ]
+      }
+    },
+    {
+      "id": "tizhijiufen_001",
+      "book": "中医临床诊疗指南/专家共识（要点归纳）",
+      "type": "zhinan",
+      "tier": 1,
+      "category": "xiandai",
+      "subcategory": "jiaocai",
+      "path": "library/xiandai/jiaocai/tizhijiufen/tizhijiufen_001.md",
+      "weight": 8,
+      "title": "中医体质九分法·体质分类要点",
+      "chapter": "现代中医",
+      "conditions": {
+        "zhengxing": [
+          "平和质",
+          "气虚质",
+          "阳虚质",
+          "阴虚质",
+          "痰湿质",
+          "湿热质",
+          "血瘀质",
+          "气郁质",
+          "特禀质"
+        ],
+        "zhifa": [
+          "体质辨识",
+          "辨体施养"
+        ],
+        "bingzheng": [
+          "体质偏颇"
+        ],
+        "zhengzhuang": [],
+        "fangming": [],
+        "yaoming": [],
+        "xuewei": [],
+        "jingluo": [],
+        "siqi": [],
+        "wuwei": [],
+        "guijing": [],
+        "keywords": [
+          "中医体质",
+          "九分法",
+          "体质分类与判定",
+          "平和质",
+          "气虚质",
+          "辨体施养",
+          "治未病"
+        ]
+      }
+    },
+    {
+      "id": "tuina_001",
+      "book": "中医临床诊疗指南/专家共识（要点归纳）",
+      "type": "zhinan",
+      "tier": 1,
+      "category": "xiandai",
+      "subcategory": "jiaocai",
+      "path": "library/xiandai/jiaocai/tuina/tuina_001.md",
+      "weight": 8,
+      "title": "推拿·适宜技术操作要点",
+      "chapter": "现代中医",
+      "conditions": {
+        "zhengxing": [],
+        "zhifa": [
+          "推拿",
+          "理筋整复"
+        ],
+        "bingzheng": [
+          "颈肩腰腿痛"
+        ],
+        "zhengzhuang": [
+          "颈肩酸痛",
+          "腰腿痛"
+        ],
+        "fangming": [],
+        "yaoming": [],
+        "xuewei": [],
+        "jingluo": [],
+        "siqi": [],
+        "wuwei": [],
+        "guijing": [],
+        "keywords": [
+          "推拿",
+          "按摩",
+          "手法",
+          "适宜技术",
+          "理筋整复",
+          "颈肩腰腿痛"
+        ]
+      }
+    },
+    {
+      "id": "xueweitie_001",
+      "book": "中医临床诊疗指南/专家共识（要点归纳）",
+      "type": "zhinan",
+      "tier": 1,
+      "category": "xiandai",
+      "subcategory": "jiaocai",
+      "path": "library/xiandai/jiaocai/xueweitie/xueweitie_001.md",
+      "weight": 8,
+      "title": "穴位贴敷·适宜技术操作要点",
+      "chapter": "现代中医",
+      "conditions": {
+        "zhengxing": [],
+        "zhifa": [
+          "穴位贴敷"
+        ],
+        "bingzheng": [
+          "咳喘",
+          "痹证"
+        ],
+        "zhengzhuang": [
+          "反复咳喘",
+          "关节酸痛"
+        ],
+        "fangming": [],
+        "yaoming": [],
+        "xuewei": [
+          "肺俞",
+          "定喘",
+          "风门"
+        ],
+        "jingluo": [],
+        "siqi": [],
+        "wuwei": [],
+        "guijing": [],
+        "keywords": [
+          "穴位贴敷",
+          "三伏贴",
+          "膏药",
+          "适宜技术",
+          "冬病夏治"
+        ]
+      }
+    },
+    {
+      "id": "yajiankang_001",
+      "book": "中医临床诊疗指南/专家共识（要点归纳）",
+      "type": "zhinan",
+      "tier": 1,
+      "category": "xiandai",
+      "subcategory": "jiaocai",
+      "path": "library/xiandai/jiaocai/yajiankang/yajiankang_001.md",
+      "weight": 8,
+      "title": "亚健康状态辨识·状态调摄要点",
+      "chapter": "现代中医",
+      "conditions": {
+        "zhengxing": [],
+        "zhifa": [
+          "状态辨识",
+          "调摄"
+        ],
+        "bingzheng": [
+          "亚健康"
+        ],
+        "zhengzhuang": [
+          "疲劳",
+          "睡眠不佳"
+        ],
+        "fangming": [],
+        "yaoming": [],
+        "xuewei": [],
+        "jingluo": [],
+        "siqi": [],
+        "wuwei": [],
+        "guijing": [],
+        "keywords": [
+          "亚健康",
+          "状态辨识",
+          "疲劳",
+          "睡眠不佳",
+          "治未病"
+        ]
+      }
+    },
+    {
+      "id": "yaoshan_001",
+      "book": "中医临床诊疗指南/专家共识（要点归纳）",
+      "type": "zhinan",
+      "tier": 1,
+      "category": "xiandai",
+      "subcategory": "jiaocai",
+      "path": "library/xiandai/jiaocai/yaoshan/yaoshan_001.md",
+      "weight": 8,
+      "title": "药膳食疗规范·辨证施膳要点",
+      "chapter": "现代中医",
+      "conditions": {
+        "zhengxing": [],
+        "zhifa": [
+          "辨证施膳"
+        ],
+        "bingzheng": [
+          "食养"
+        ],
+        "zhengzhuang": [],
+        "fangming": [],
+        "yaoming": [
+          "药食同源"
+        ],
+        "xuewei": [],
+        "jingluo": [],
+        "siqi": [],
+        "wuwei": [],
+        "guijing": [],
+        "keywords": [
+          "药膳",
+          "辨证施膳",
+          "食养规范",
+          "药食同源",
+          "治未病"
+        ]
+      }
+    },
+    {
+      "id": "yundao_001",
+      "book": "中医临床诊疗指南/专家共识（要点归纳）",
+      "type": "zhinan",
+      "tier": 1,
+      "category": "xiandai",
+      "subcategory": "jiaocai",
+      "path": "library/xiandai/jiaocai/yundao/yundao_001.md",
+      "weight": 8,
+      "title": "运动导引规范·传统功法健身要点",
+      "chapter": "现代中医",
+      "conditions": {
+        "zhengxing": [],
+        "zhifa": [
+          "导引",
+          "八段锦",
+          "太极拳"
+        ],
+        "bingzheng": [
+          "运动调摄"
+        ],
+        "zhengzhuang": [],
+        "fangming": [],
+        "yaoming": [],
+        "xuewei": [],
+        "jingluo": [],
+        "siqi": [],
+        "wuwei": [],
+        "guijing": [],
+        "keywords": [
+          "运动导引",
+          "传统功法",
+          "健身",
+          "八段锦",
+          "太极拳",
+          "治未病"
+        ]
+      }
+    },
+    {
+      "id": "zhuweibing_001",
+      "book": "中医临床诊疗指南/专家共识（要点归纳）",
+      "type": "zhinan",
+      "tier": 1,
+      "category": "xiandai",
+      "subcategory": "jiaocai",
+      "path": "library/xiandai/jiaocai/zhuweibing/zhuweibing_001.md",
+      "weight": 8,
+      "title": "治未病四大状态·三级预防要点",
+      "chapter": "现代中医",
+      "conditions": {
+        "zhengxing": [
+          "未病",
+          "欲病",
+          "已病",
+          "瘥后"
+        ],
+        "zhifa": [
+          "未病先防",
+          "既病防变",
+          "瘥后防复"
+        ],
+        "bingzheng": [
+          "治未病"
+        ],
+        "zhengzhuang": [],
+        "fangming": [],
+        "yaoming": [],
+        "xuewei": [],
+        "jingluo": [],
+        "siqi": [],
+        "wuwei": [],
+        "guijing": [],
+        "keywords": [
+          "治未病",
+          "未病先防",
+          "既病防变",
+          "瘥后防复",
+          "三级预防",
+          "健康管理"
+        ]
+      }
+    },
+    {
+      "id": "bianmi_002",
+      "book": "中医临床诊疗指南/专家共识（要点归纳）",
+      "type": "zhinan",
+      "tier": 1,
+      "category": "xiandai",
+      "subcategory": "zhidao",
+      "path": "library/xiandai/zhidao/bianmi/bianmi_002.md",
+      "weight": 8,
+      "title": "便秘·辨证论治要点",
+      "chapter": "现代中医",
+      "conditions": {
+        "zhengxing": [
+          "热秘",
+          "气秘",
+          "虚秘",
+          "冷秘"
+        ],
+        "zhifa": [
+          "通腑导滞",
+          "辨虚实"
+        ],
+        "bingzheng": [
+          "便秘"
+        ],
+        "zhengzhuang": [
+          "大便干结",
+          "排便费力"
+        ],
+        "fangming": [],
+        "yaoming": [],
+        "xuewei": [],
+        "jingluo": [],
+        "siqi": [],
+        "wuwei": [],
+        "guijing": [],
+        "keywords": [
+          "便秘",
+          "诊疗指南",
+          "通腑导滞",
+          "辨证论治",
+          "热秘",
+          "气秘"
+        ]
+      }
+    },
+    {
+      "id": "bizheng_002",
+      "book": "中医临床诊疗指南/专家共识（要点归纳）",
+      "type": "zhinan",
+      "tier": 1,
+      "category": "xiandai",
+      "subcategory": "zhidao",
+      "path": "library/xiandai/zhidao/bizheng/bizheng_002.md",
+      "weight": 8,
+      "title": "痹证·辨证论治要点",
+      "chapter": "现代中医",
+      "conditions": {
+        "zhengxing": [
+          "行痹",
+          "痛痹",
+          "着痹",
+          "热痹"
+        ],
+        "zhifa": [
+          "祛风散寒除湿",
+          "通痹止痛"
+        ],
+        "bingzheng": [
+          "痹证"
+        ],
+        "zhengzhuang": [
+          "关节疼痛",
+          "屈伸不利"
+        ],
+        "fangming": [],
+        "yaoming": [],
+        "xuewei": [],
+        "jingluo": [],
+        "siqi": [],
+        "wuwei": [],
+        "guijing": [],
+        "keywords": [
+          "痹证",
+          "诊疗指南",
+          "祛风散寒除湿",
+          "通痹止痛",
+          "行痹",
+          "热痹",
+          "辨证论治"
+        ]
+      }
+    },
+    {
+      "id": "bumei_002",
+      "book": "中医临床诊疗指南/专家共识（要点归纳）",
+      "type": "zhinan",
+      "tier": 1,
+      "category": "xiandai",
+      "subcategory": "zhidao",
+      "path": "library/xiandai/zhidao/bumei/bumei_002.md",
+      "weight": 8,
+      "title": "不寐·辨证论治要点",
+      "chapter": "现代中医",
+      "conditions": {
+        "zhengxing": [
+          "肝火扰心",
+          "痰热扰心",
+          "心脾两虚",
+          "心肾不交"
+        ],
+        "zhifa": [
+          "安神定志",
+          "补虚泻实"
+        ],
+        "bingzheng": [
+          "不寐"
+        ],
+        "zhengzhuang": [
+          "失眠",
+          "多梦"
+        ],
+        "fangming": [],
+        "yaoming": [],
+        "xuewei": [],
+        "jingluo": [],
+        "siqi": [],
+        "wuwei": [],
+        "guijing": [],
+        "keywords": [
+          "不寐",
+          "失眠",
+          "诊疗指南",
+          "肝火扰心",
+          "痰热扰心",
+          "心脾两虚",
+          "心肾不交",
+          "安神定志"
+        ]
+      }
+    },
+    {
+      "id": "chuanzheng_002",
+      "book": "中医临床诊疗指南/专家共识（要点归纳）",
+      "type": "zhinan",
+      "tier": 1,
+      "category": "xiandai",
+      "subcategory": "zhidao",
+      "path": "library/xiandai/zhidao/chuanzheng/chuanzheng_002.md",
+      "weight": 8,
+      "title": "喘证·辨证论治要点",
+      "chapter": "现代中医",
+      "conditions": {
+        "zhengxing": [
+          "实喘",
+          "虚喘"
+        ],
+        "zhifa": [
+          "实喘祛邪平喘",
+          "虚喘补肺肾"
+        ],
+        "bingzheng": [
+          "喘证"
+        ],
+        "zhengzhuang": [
+          "呼吸困难",
+          "喘促"
+        ],
+        "fangming": [],
+        "yaoming": [],
+        "xuewei": [],
+        "jingluo": [],
+        "siqi": [],
+        "wuwei": [],
+        "guijing": [],
+        "keywords": [
+          "喘证",
+          "诊疗指南",
+          "实喘",
+          "虚喘",
+          "祛邪平喘",
+          "补肺肾",
+          "辨证论治"
+        ]
+      }
+    },
+    {
+      "id": "ganmao_002",
+      "book": "中医临床诊疗指南/专家共识（要点归纳）",
+      "type": "zhinan",
+      "tier": 1,
+      "category": "xiandai",
+      "subcategory": "zhidao",
+      "path": "library/xiandai/zhidao/ganmao/ganmao_002.md",
+      "weight": 8,
+      "title": "感冒·辨证论治要点",
+      "chapter": "现代中医",
+      "conditions": {
+        "zhengxing": [
+          "风寒束表",
+          "风热犯表"
+        ],
+        "zhifa": [
+          "辛温解表",
+          "辛凉解表"
+        ],
+        "bingzheng": [
+          "感冒"
+        ],
+        "zhengzhuang": [
+          "恶寒发热",
+          "鼻塞流涕",
+          "头痛"
+        ],
+        "fangming": [],
+        "yaoming": [],
+        "xuewei": [],
+        "jingluo": [],
+        "siqi": [],
+        "wuwei": [],
+        "guijing": [],
+        "keywords": [
+          "感冒",
+          "诊疗指南",
+          "风寒束表",
+          "风热犯表",
+          "辛温解表",
+          "辛凉解表",
+          "辨证论治"
+        ]
+      }
+    },
+    {
+      "id": "kesou_002",
+      "book": "中医临床诊疗指南/专家共识（要点归纳）",
+      "type": "zhinan",
+      "tier": 1,
+      "category": "xiandai",
+      "subcategory": "zhidao",
+      "path": "library/xiandai/zhidao/kesou/kesou_002.md",
+      "weight": 8,
+      "title": "咳嗽·辨证论治要点",
+      "chapter": "现代中医",
+      "conditions": {
+        "zhengxing": [
+          "风寒犯肺",
+          "风热犯肺",
+          "痰湿蕴肺",
+          "痰热郁肺"
+        ],
+        "zhifa": [
+          "宣肺止咳"
+        ],
+        "bingzheng": [
+          "咳嗽"
+        ],
+        "zhengzhuang": [
+          "咳嗽",
+          "咯痰"
+        ],
+        "fangming": [],
+        "yaoming": [],
+        "xuewei": [],
+        "jingluo": [],
+        "siqi": [],
+        "wuwei": [],
+        "guijing": [],
+        "keywords": [
+          "咳嗽",
+          "诊疗指南",
+          "风寒犯肺",
+          "风热犯肺",
+          "痰湿蕴肺",
+          "痰热郁肺",
+          "宣肺止咳",
+          "辨证论治"
+        ]
+      }
+    },
+    {
+      "id": "linzheng_002",
+      "book": "中医临床诊疗指南/专家共识（要点归纳）",
+      "type": "zhinan",
+      "tier": 1,
+      "category": "xiandai",
+      "subcategory": "zhidao",
+      "path": "library/xiandai/zhidao/linzheng/linzheng_002.md",
+      "weight": 8,
+      "title": "淋证·辨证论治要点",
+      "chapter": "现代中医",
+      "conditions": {
+        "zhengxing": [
+          "热淋",
+          "石淋",
+          "血淋",
+          "膏淋",
+          "劳淋"
+        ],
+        "zhifa": [
+          "清热利湿通淋"
+        ],
+        "bingzheng": [
+          "淋证"
+        ],
+        "zhengzhuang": [
+          "小便频急",
+          "淋沥涩痛"
+        ],
+        "fangming": [],
+        "yaoming": [],
+        "xuewei": [],
+        "jingluo": [],
+        "siqi": [],
+        "wuwei": [],
+        "guijing": [],
+        "keywords": [
+          "淋证",
+          "诊疗指南",
+          "清热利湿通淋",
+          "热淋",
+          "石淋",
+          "辨证论治"
+        ]
+      }
+    },
+    {
+      "id": "shuizhong_002",
+      "book": "中医临床诊疗指南/专家共识（要点归纳）",
+      "type": "zhinan",
+      "tier": 1,
+      "category": "xiandai",
+      "subcategory": "zhidao",
+      "path": "library/xiandai/zhidao/shuizhong/shuizhong_002.md",
+      "weight": 8,
+      "title": "水肿·辨证论治要点",
+      "chapter": "现代中医",
+      "conditions": {
+        "zhengxing": [
+          "阳水",
+          "阴水",
+          "风水相搏"
+        ],
+        "zhifa": [
+          "宣肺利水",
+          "健脾温肾"
+        ],
+        "bingzheng": [
+          "水肿"
+        ],
+        "zhengzhuang": [
+          "头面肢体浮肿"
+        ],
+        "fangming": [],
+        "yaoming": [],
+        "xuewei": [],
+        "jingluo": [],
+        "siqi": [],
+        "wuwei": [],
+        "guijing": [],
+        "keywords": [
+          "水肿",
+          "诊疗指南",
+          "宣肺利水",
+          "健脾温肾",
+          "阳水",
+          "阴水",
+          "辨证论治"
+        ]
+      }
+    },
+    {
+      "id": "toutong_002",
+      "book": "中医临床诊疗指南/专家共识（要点归纳）",
+      "type": "zhinan",
+      "tier": 1,
+      "category": "xiandai",
+      "subcategory": "zhidao",
+      "path": "library/xiandai/zhidao/toutong/toutong_002.md",
+      "weight": 8,
+      "title": "头痛·辨证论治要点",
+      "chapter": "现代中医",
+      "conditions": {
+        "zhengxing": [
+          "外感头痛",
+          "内伤头痛",
+          "肝阳头痛"
+        ],
+        "zhifa": [
+          "疏风止痛",
+          "平肝潜阳"
+        ],
+        "bingzheng": [
+          "头痛"
+        ],
+        "zhengzhuang": [
+          "头痛"
+        ],
+        "fangming": [],
+        "yaoming": [],
+        "xuewei": [],
+        "jingluo": [],
+        "siqi": [],
+        "wuwei": [],
+        "guijing": [],
+        "keywords": [
+          "头痛",
+          "诊疗指南",
+          "外感头痛",
+          "内伤头痛",
+          "肝阳头痛",
+          "疏风止痛",
+          "平肝潜阳",
+          "辨证论治"
+        ]
+      }
+    },
+    {
+      "id": "weitong_002",
+      "book": "中医临床诊疗指南/专家共识（要点归纳）",
+      "type": "zhinan",
+      "tier": 1,
+      "category": "xiandai",
+      "subcategory": "zhidao",
+      "path": "library/xiandai/zhidao/weitong/weitong_002.md",
+      "weight": 8,
+      "title": "胃痛·辨证论治要点",
+      "chapter": "现代中医",
+      "conditions": {
+        "zhengxing": [
+          "寒邪客胃",
+          "饮食伤胃",
+          "肝气犯胃",
+          "脾胃虚寒"
+        ],
+        "zhifa": [
+          "理气和胃止痛"
+        ],
+        "bingzheng": [
+          "胃痛"
+        ],
+        "zhengzhuang": [
+          "胃脘痛",
+          "嗳气反酸"
+        ],
+        "fangming": [],
+        "yaoming": [],
+        "xuewei": [],
+        "jingluo": [],
+        "siqi": [],
+        "wuwei": [],
+        "guijing": [],
+        "keywords": [
+          "胃痛",
+          "胃脘痛",
+          "诊疗指南",
+          "寒邪客胃",
+          "饮食伤胃",
+          "肝气犯胃",
+          "脾胃虚寒",
+          "理气和胃止痛"
+        ]
+      }
+    },
+    {
+      "id": "xiaobing_002",
+      "book": "中医临床诊疗指南/专家共识（要点归纳）",
+      "type": "zhinan",
+      "tier": 1,
+      "category": "xiandai",
+      "subcategory": "zhidao",
+      "path": "library/xiandai/zhidao/xiaobing/xiaobing_002.md",
+      "weight": 8,
+      "title": "哮病·辨证论治要点",
+      "chapter": "现代中医",
+      "conditions": {
+        "zhengxing": [
+          "发作期寒哮热哮",
+          "缓解期肺脾肾两虚"
+        ],
+        "zhifa": [
+          "发时治标",
+          "平时治本"
+        ],
+        "bingzheng": [
+          "哮病"
+        ],
+        "zhengzhuang": [
+          "喉中哮鸣",
+          "喘促"
+        ],
+        "fangming": [],
+        "yaoming": [],
+        "xuewei": [],
+        "jingluo": [],
+        "siqi": [],
+        "wuwei": [],
+        "guijing": [],
+        "keywords": [
+          "哮病",
+          "诊疗指南",
+          "寒哮",
+          "热哮",
+          "发时治标平时治本",
+          "缓解期",
+          "辨证论治"
+        ]
+      }
+    },
+    {
+      "id": "xiaoke_002",
+      "book": "中医临床诊疗指南/专家共识（要点归纳）",
+      "type": "zhinan",
+      "tier": 1,
+      "category": "xiandai",
+      "subcategory": "zhidao",
+      "path": "library/xiandai/zhidao/xiaoke/xiaoke_002.md",
+      "weight": 8,
+      "title": "消渴·辨证论治要点",
+      "chapter": "现代中医",
+      "conditions": {
+        "zhengxing": [
+          "上消肺热津伤",
+          "中消胃热炽盛",
+          "下消肾阴亏虚"
+        ],
+        "zhifa": [
+          "清热润燥",
+          "养阴生津"
+        ],
+        "bingzheng": [
+          "消渴"
+        ],
+        "zhengzhuang": [
+          "多饮",
+          "多食",
+          "多尿",
+          "形体消瘦"
+        ],
+        "fangming": [],
+        "yaoming": [],
+        "xuewei": [],
+        "jingluo": [],
+        "siqi": [],
+        "wuwei": [],
+        "guijing": [],
+        "keywords": [
+          "消渴",
+          "诊疗指南",
+          "清热润燥",
+          "养阴生津",
+          "三多一少",
+          "辨证论治"
+        ]
+      }
+    },
+    {
+      "id": "xiexie_002",
+      "book": "中医临床诊疗指南/专家共识（要点归纳）",
+      "type": "zhinan",
+      "tier": 1,
+      "category": "xiandai",
+      "subcategory": "zhidao",
+      "path": "library/xiandai/zhidao/xiexie/xiexie_002.md",
+      "weight": 8,
+      "title": "泄泻·辨证论治要点",
+      "chapter": "现代中医",
+      "conditions": {
+        "zhengxing": [
+          "寒湿内盛",
+          "湿热伤中",
+          "食滞肠胃",
+          "脾胃虚弱",
+          "肾阳虚衰"
+        ],
+        "zhifa": [
+          "运脾化湿",
+          "分利小便"
+        ],
+        "bingzheng": [
+          "泄泻"
+        ],
+        "zhengzhuang": [
+          "大便稀溏",
+          "腹痛肠鸣"
+        ],
+        "fangming": [],
+        "yaoming": [],
+        "xuewei": [],
+        "jingluo": [],
+        "siqi": [],
+        "wuwei": [],
+        "guijing": [],
+        "keywords": [
+          "泄泻",
+          "诊疗指南",
+          "运脾化湿",
+          "辨证论治",
+          "寒湿内盛",
+          "脾胃虚弱"
+        ]
+      }
+    },
+    {
+      "id": "xinji_002",
+      "book": "中医临床诊疗指南/专家共识（要点归纳）",
+      "type": "zhinan",
+      "tier": 1,
+      "category": "xiandai",
+      "subcategory": "zhidao",
+      "path": "library/xiandai/zhidao/xinji/xinji_002.md",
+      "weight": 8,
+      "title": "心悸·辨证论治要点",
+      "chapter": "现代中医",
+      "conditions": {
+        "zhengxing": [
+          "心虚胆怯",
+          "心血不足",
+          "心阳不振",
+          "阴虚火旺",
+          "瘀阻心脉"
+        ],
+        "zhifa": [
+          "镇惊安神",
+          "补益心血"
+        ],
+        "bingzheng": [
+          "心悸"
+        ],
+        "zhengzhuang": [
+          "心悸",
+          "怔忡"
+        ],
+        "fangming": [],
+        "yaoming": [],
+        "xuewei": [],
+        "jingluo": [],
+        "siqi": [],
+        "wuwei": [],
+        "guijing": [],
+        "keywords": [
+          "心悸",
+          "诊疗指南",
+          "心虚胆怯",
+          "心血不足",
+          "心阳不振",
+          "阴虚火旺",
+          "瘀阻心脉",
+          "辨证论治"
+        ]
+      }
+    },
+    {
+      "id": "xiongbi_002",
+      "book": "中医临床诊疗指南/专家共识（要点归纳）",
+      "type": "zhinan",
+      "tier": 1,
+      "category": "xiandai",
+      "subcategory": "zhidao",
+      "path": "library/xiandai/zhidao/xiongbi/xiongbi_002.md",
+      "weight": 8,
+      "title": "胸痹心痛·辨证论治要点",
+      "chapter": "现代中医",
+      "conditions": {
+        "zhengxing": [
+          "心血瘀阻",
+          "气滞心胸",
+          "痰浊闭阻",
+          "气阴两虚"
+        ],
+        "zhifa": [
+          "活血化瘀",
+          "通脉止痛"
+        ],
+        "bingzheng": [
+          "胸痹"
+        ],
+        "zhengzhuang": [
+          "胸闷",
+          "心痛"
+        ],
+        "fangming": [],
+        "yaoming": [],
+        "xuewei": [],
+        "jingluo": [],
+        "siqi": [],
+        "wuwei": [],
+        "guijing": [],
+        "keywords": [
+          "胸痹",
+          "胸痹心痛",
+          "诊疗指南",
+          "心血瘀阻",
+          "气滞心胸",
+          "痰浊闭阻",
+          "气阴两虚",
+          "通脉止痛"
+        ]
+      }
+    },
+    {
+      "id": "xuanyun_002",
+      "book": "中医临床诊疗指南/专家共识（要点归纳）",
+      "type": "zhinan",
+      "tier": 1,
+      "category": "xiandai",
+      "subcategory": "zhidao",
+      "path": "library/xiandai/zhidao/xuanyun/xuanyun_002.md",
+      "weight": 8,
+      "title": "眩晕·辨证论治要点",
+      "chapter": "现代中医",
+      "conditions": {
+        "zhengxing": [
+          "肝阳上亢",
+          "气血亏虚",
+          "痰湿中阻",
+          "肾精不足"
+        ],
+        "zhifa": [
+          "平肝潜阳",
+          "补养气血"
+        ],
+        "bingzheng": [
+          "眩晕"
+        ],
+        "zhengzhuang": [
+          "头晕",
+          "目眩"
+        ],
+        "fangming": [],
+        "yaoming": [],
+        "xuewei": [],
+        "jingluo": [],
+        "siqi": [],
+        "wuwei": [],
+        "guijing": [],
+        "keywords": [
+          "眩晕",
+          "诊疗指南",
+          "肝阳上亢",
+          "气血亏虚",
+          "痰湿中阻",
+          "肾精不足",
+          "平肝潜阳",
+          "辨证论治"
+        ]
+      }
+    },
+    {
+      "id": "xulao_002",
+      "book": "中医临床诊疗指南/专家共识（要点归纳）",
+      "type": "zhinan",
+      "tier": 1,
+      "category": "xiandai",
+      "subcategory": "zhidao",
+      "path": "library/xiandai/zhidao/xulao/xulao_002.md",
+      "weight": 8,
+      "title": "虚劳·辨证论治要点",
+      "chapter": "现代中医",
+      "conditions": {
+        "zhengxing": [
+          "气虚",
+          "血虚",
+          "阴虚",
+          "阳虚"
+        ],
+        "zhifa": [
+          "补益气血阴阳"
+        ],
+        "bingzheng": [
+          "虚劳"
+        ],
+        "zhengzhuang": [
+          "神疲体倦",
+          "气血阴阳亏虚"
+        ],
+        "fangming": [],
+        "yaoming": [],
+        "xuewei": [],
+        "jingluo": [],
+        "siqi": [],
+        "wuwei": [],
+        "guijing": [],
+        "keywords": [
+          "虚劳",
+          "诊疗指南",
+          "补益气血阴阳",
+          "气虚",
+          "血虚",
+          "阴虚",
+          "阳虚",
+          "辨证论治"
+        ]
+      }
+    },
+    {
+      "id": "zhongfeng_002",
+      "book": "中医临床诊疗指南/专家共识（要点归纳）",
+      "type": "zhinan",
+      "tier": 1,
+      "category": "xiandai",
+      "subcategory": "zhidao",
+      "path": "library/xiandai/zhidao/zhongfeng/zhongfeng_002.md",
+      "weight": 8,
+      "title": "中风·辨证论治要点",
+      "chapter": "现代中医",
+      "conditions": {
+        "zhengxing": [
+          "中经络",
+          "中脏腑",
+          "风痰瘀血"
+        ],
+        "zhifa": [
+          "平肝息风",
+          "化痰通络"
+        ],
+        "bingzheng": [
+          "中风"
+        ],
+        "zhengzhuang": [
+          "半身不遂",
+          "口舌歪斜",
+          "言语不利"
+        ],
+        "fangming": [],
+        "yaoming": [],
+        "xuewei": [],
+        "jingluo": [],
+        "siqi": [],
+        "wuwei": [],
+        "guijing": [],
+        "keywords": [
+          "中风",
+          "诊疗指南",
+          "平肝息风",
+          "化痰通络",
+          "中经络",
+          "中脏腑",
+          "辨证论治"
+        ]
+      }
+    },
+    {
+      "id": "baduanjin_001",
+      "book": "中医养生（古籍要义归纳）",
+      "type": "chapter",
+      "tier": 1,
+      "category": "yangsheng",
+      "subcategory": "daoyin",
+      "path": "library/yangsheng/daoyin/baduanjin/baduanjin_001.md",
+      "weight": 8,
+      "title": "八段锦·立式导引八式",
+      "chapter": "导引功法",
+      "conditions": {
+        "zhengxing": [],
+        "zhifa": [
+          "调和气血",
+          "舒展筋骨",
+          "调理脏腑"
+        ],
+        "bingzheng": [],
+        "zhengzhuang": [
+          "疲劳",
+          "肢体沉重"
+        ],
+        "fangming": [],
+        "yaoming": [],
+        "xuewei": [],
+        "jingluo": [],
+        "siqi": [],
+        "wuwei": [],
+        "guijing": [],
+        "keywords": [
+          "八段锦",
+          "导引",
+          "功法",
+          "双手托天理三焦",
+          "调理脾胃须单举",
+          "摇头摆尾去心火",
+          "养生保健"
+        ]
+      }
+    },
+    {
+      "id": "cugudao_001",
+      "book": "中医养生（古籍要义归纳）",
+      "type": "chapter",
+      "tier": 1,
+      "category": "yangsheng",
+      "subcategory": "daoyin",
+      "path": "library/yangsheng/daoyin/cugudao/cugudao_001.md",
+      "weight": 8,
+      "title": "撮谷道·提肛缩臀古法养生",
+      "chapter": "导引功法",
+      "conditions": {
+        "zhengxing": [],
+        "zhifa": [
+          "提肛",
+          "撮谷道"
+        ],
+        "bingzheng": [],
+        "zhengzhuang": [],
+        "fangming": [],
+        "yaoming": [],
+        "xuewei": [],
+        "jingluo": [],
+        "siqi": [],
+        "wuwei": [],
+        "guijing": [],
+        "keywords": [
+          "撮谷道",
+          "提肛",
+          "谷道",
+          "养生",
+          "撮提",
+          "肛门收提"
+        ]
+      }
+    },
+    {
+      "id": "daoyinanqiao_001",
+      "book": "中医养生（古籍要义归纳）",
+      "type": "chapter",
+      "tier": 1,
+      "category": "yangsheng",
+      "subcategory": "daoyin",
+      "path": "library/yangsheng/daoyin/daoyinanqiao/daoyinanqiao_001.md",
+      "weight": 8,
+      "title": "导引按跷·中央之治法",
+      "chapter": "导引功法",
+      "conditions": {
+        "zhengxing": [],
+        "zhifa": [
+          "导引按跷"
+        ],
+        "bingzheng": [],
+        "zhengzhuang": [
+          "痿厥寒热",
+          "肢体懈怠"
+        ],
+        "fangming": [],
+        "yaoming": [],
+        "xuewei": [],
+        "jingluo": [],
+        "siqi": [],
+        "wuwei": [],
+        "guijing": [],
+        "keywords": [
+          "导引按跷",
+          "素问",
+          "按跷",
+          "导引",
+          "外治法",
+          "异法方宜论"
+        ]
+      }
+    },
+    {
+      "id": "dianzufa_001",
+      "book": "中医养生（古籍要义归纳）",
+      "type": "chapter",
+      "tier": 1,
+      "category": "yangsheng",
+      "subcategory": "daoyin",
+      "path": "library/yangsheng/daoyin/dianzufa/dianzufa_001.md",
+      "weight": 8,
+      "title": "踮足法·提踵踮足引气血下行",
+      "chapter": "导引功法",
+      "conditions": {
+        "zhengxing": [],
+        "zhifa": [
+          "提踵",
+          "踮足"
+        ],
+        "bingzheng": [],
+        "zhengzhuang": [],
+        "fangming": [],
+        "yaoming": [],
+        "xuewei": [],
+        "jingluo": [],
+        "siqi": [],
+        "wuwei": [],
+        "guijing": [],
+        "keywords": [
+          "踮足",
+          "踮脚",
+          "提踵",
+          "养生",
+          "导引"
+        ]
+      }
+    },
+    {
+      "id": "kouchiyanjin_001",
+      "book": "中医养生（古籍要义归纳）",
+      "type": "chapter",
+      "tier": 1,
+      "category": "yangsheng",
+      "subcategory": "daoyin",
+      "path": "library/yangsheng/daoyin/kouchiyanjin/kouchiyanjin_001.md",
+      "weight": 8,
+      "title": "叩齿咽津·清晨叩齿漱津吞服",
+      "chapter": "导引功法",
+      "conditions": {
+        "zhengxing": [],
+        "zhifa": [
+          "叩齿",
+          "咽津"
+        ],
+        "bingzheng": [],
+        "zhengzhuang": [],
+        "fangming": [],
+        "yaoming": [],
+        "xuewei": [],
+        "jingluo": [],
+        "siqi": [],
+        "wuwei": [],
+        "guijing": [],
+        "keywords": [
+          "叩齿",
+          "咽津",
+          "漱玉津",
+          "养生",
+          "鼓漱",
+          "赤龙搅海"
+        ]
+      }
+    },
+    {
+      "id": "liuzijue_001",
+      "book": "中医养生（古籍要义归纳）",
+      "type": "chapter",
+      "tier": 1,
+      "category": "yangsheng",
+      "subcategory": "daoyin",
+      "path": "library/yangsheng/daoyin/liuzijue/liuzijue_001.md",
+      "weight": 8,
+      "title": "六字诀·六字吐纳调畅脏腑",
+      "chapter": "导引功法",
+      "conditions": {
+        "zhengxing": [],
+        "zhifa": [
+          "吐纳",
+          "调畅脏腑"
+        ],
+        "bingzheng": [],
+        "zhengzhuang": [],
+        "fangming": [],
+        "yaoming": [],
+        "xuewei": [],
+        "jingluo": [],
+        "siqi": [],
+        "wuwei": [],
+        "guijing": [],
+        "keywords": [
+          "六字诀",
+          "嘘",
+          "呵",
+          "呼",
+          "呬",
+          "吹",
+          "嘻",
+          "吐纳",
+          "养生",
+          "六字气诀"
+        ]
+      }
+    },
+    {
+      "id": "mawangdui_001",
+      "book": "中医养生（古籍要义归纳）",
+      "type": "chapter",
+      "tier": 1,
+      "category": "yangsheng",
+      "subcategory": "daoyin",
+      "path": "library/yangsheng/daoyin/mawangdui/mawangdui_001.md",
+      "weight": 8,
+      "title": "马王堆导引术·西汉帛画导引图复原",
+      "chapter": "导引功法",
+      "conditions": {
+        "zhengxing": [],
+        "zhifa": [
+          "仿生导引",
+          "形体导引"
+        ],
+        "bingzheng": [],
+        "zhengzhuang": [],
+        "fangming": [],
+        "yaoming": [],
+        "xuewei": [],
+        "jingluo": [],
+        "siqi": [],
+        "wuwei": [],
+        "guijing": [],
+        "keywords": [
+          "马王堆",
+          "导引图",
+          "西汉",
+          "出土文献",
+          "仿生",
+          "导引",
+          "帛画"
+        ]
+      }
+    },
+    {
+      "id": "mingtiangu_001",
+      "book": "中医养生（古籍要义归纳）",
+      "type": "chapter",
+      "tier": 1,
+      "category": "yangsheng",
+      "subcategory": "daoyin",
+      "path": "library/yangsheng/daoyin/mingtiangu/mingtiangu_001.md",
+      "weight": 8,
+      "title": "鸣天鼓·掩耳叩脑古法醒脑",
+      "chapter": "导引功法",
+      "conditions": {
+        "zhengxing": [],
+        "zhifa": [
+          "鸣天鼓",
+          "醒脑"
+        ],
+        "bingzheng": [],
+        "zhengzhuang": [],
+        "fangming": [],
+        "yaoming": [],
+        "xuewei": [],
+        "jingluo": [],
+        "siqi": [],
+        "wuwei": [],
+        "guijing": [],
+        "keywords": [
+          "鸣天鼓",
+          "掩耳",
+          "叩击",
+          "养生",
+          "醒脑"
+        ]
+      }
+    },
+    {
+      "id": "momianyuyan_001",
+      "book": "中医养生（古籍要义归纳）",
+      "type": "chapter",
+      "tier": 1,
+      "category": "yangsheng",
+      "subcategory": "daoyin",
+      "path": "library/yangsheng/daoyin/momianyuyan/momianyuyan_001.md",
+      "weight": 8,
+      "title": "摩面浴眼·干洗脸熨目古法",
+      "chapter": "导引功法",
+      "conditions": {
+        "zhengxing": [],
+        "zhifa": [
+          "浴面",
+          "熨目"
+        ],
+        "bingzheng": [],
+        "zhengzhuang": [],
+        "fangming": [],
+        "yaoming": [],
+        "xuewei": [],
+        "jingluo": [],
+        "siqi": [],
+        "wuwei": [],
+        "guijing": [],
+        "keywords": [
+          "摩面",
+          "浴面",
+          "干洗脸",
+          "熨目",
+          "养生"
+        ]
+      }
+    },
+    {
+      "id": "roufufa_001",
+      "book": "中医养生（古籍要义归纳）",
+      "type": "chapter",
+      "tier": 1,
+      "category": "yangsheng",
+      "subcategory": "daoyin",
+      "path": "library/yangsheng/daoyin/roufufa/roufufa_001.md",
+      "weight": 8,
+      "title": "揉腹法·摩腹绕脐古法养生",
+      "chapter": "导引功法",
+      "conditions": {
+        "zhengxing": [],
+        "zhifa": [
+          "摩腹",
+          "健脾助运"
+        ],
+        "bingzheng": [],
+        "zhengzhuang": [],
+        "fangming": [],
+        "yaoming": [],
+        "xuewei": [],
+        "jingluo": [],
+        "siqi": [],
+        "wuwei": [],
+        "guijing": [],
+        "keywords": [
+          "揉腹",
+          "摩腹",
+          "绕脐",
+          "养生",
+          "摩腹法"
+        ]
+      }
+    },
+    {
+      "id": "taijiquan_001",
+      "book": "中医养生（古籍要义归纳）",
+      "type": "chapter",
+      "tier": 1,
+      "category": "yangsheng",
+      "subcategory": "daoyin",
+      "path": "library/yangsheng/daoyin/taijiquan/taijiquan_001.md",
+      "weight": 8,
+      "title": "太极拳·阴阳开合松柔圆活",
+      "chapter": "导引功法",
+      "conditions": {
+        "zhengxing": [],
+        "zhifa": [
+          "松柔圆活",
+          "动静结合",
+          "以意领气"
+        ],
+        "bingzheng": [],
+        "zhengzhuang": [],
+        "fangming": [],
+        "yaoming": [],
+        "xuewei": [],
+        "jingluo": [],
+        "siqi": [],
+        "wuwei": [],
+        "guijing": [],
+        "keywords": [
+          "太极拳",
+          "阴阳",
+          "陈式",
+          "杨式",
+          "内家拳",
+          "导引",
+          "养生",
+          "刚柔并济"
+        ]
+      }
+    },
+    {
+      "id": "tunatiaoxi_001",
+      "book": "中医养生（古籍要义归纳）",
+      "type": "chapter",
+      "tier": 1,
+      "category": "yangsheng",
+      "subcategory": "daoyin",
+      "path": "library/yangsheng/daoyin/tunatiaoxi/tunatiaoxi_001.md",
+      "weight": 8,
+      "title": "吐纳调息·吐故纳新腹式呼吸",
+      "chapter": "导引功法",
+      "conditions": {
+        "zhengxing": [],
+        "zhifa": [
+          "吐纳",
+          "调息",
+          "腹式呼吸"
+        ],
+        "bingzheng": [],
+        "zhengzhuang": [],
+        "fangming": [],
+        "yaoming": [],
+        "xuewei": [],
+        "jingluo": [],
+        "siqi": [],
+        "wuwei": [],
+        "guijing": [],
+        "keywords": [
+          "吐纳",
+          "调息",
+          "吐故纳新",
+          "呼吸养生",
+          "腹式呼吸"
+        ]
+      }
+    },
+    {
+      "id": "wuqinxi_001",
+      "book": "中医养生（古籍要义归纳）",
+      "type": "chapter",
+      "tier": 1,
+      "category": "yangsheng",
+      "subcategory": "daoyin",
+      "path": "library/yangsheng/daoyin/wuqinxi/wuqinxi_001.md",
+      "weight": 8,
+      "title": "五禽戏·华佗仿生导引五式",
+      "chapter": "导引功法",
+      "conditions": {
+        "zhengxing": [],
+        "zhifa": [
+          "模仿导引",
+          "舒展关节"
+        ],
+        "bingzheng": [],
+        "zhengzhuang": [
+          "疲劳",
+          "肢体沉重"
+        ],
+        "fangming": [],
+        "yaoming": [],
+        "xuewei": [],
+        "jingluo": [],
+        "siqi": [],
+        "wuwei": [],
+        "guijing": [],
+        "keywords": [
+          "五禽戏",
+          "华佗",
+          "虎戏",
+          "鹿戏",
+          "熊戏",
+          "猿戏",
+          "鸟戏",
+          "导引",
+          "仿生"
+        ]
+      }
+    },
+    {
+      "id": "xiongjingniaoshen_001",
+      "book": "中医养生（古籍要义归纳）",
+      "type": "chapter",
+      "tier": 1,
+      "category": "yangsheng",
+      "subcategory": "daoyin",
+      "path": "library/yangsheng/daoyin/xiongjingniaoshen/xiongjingniaoshen_001.md",
+      "weight": 8,
+      "title": "熊经鸟伸·庄子仿生导引原型",
+      "chapter": "导引功法",
+      "conditions": {
+        "zhengxing": [],
+        "zhifa": [
+          "仿生导引"
+        ],
+        "bingzheng": [],
+        "zhengzhuang": [],
+        "fangming": [],
+        "yaoming": [],
+        "xuewei": [],
+        "jingluo": [],
+        "siqi": [],
+        "wuwei": [],
+        "guijing": [],
+        "keywords": [
+          "熊经鸟伸",
+          "庄子",
+          "导引",
+          "仿生",
+          "刻意"
+        ]
+      }
+    },
+    {
+      "id": "yijinjing_001",
+      "book": "中医养生（古籍要义归纳）",
+      "type": "chapter",
+      "tier": 1,
+      "category": "yangsheng",
+      "subcategory": "daoyin",
+      "path": "library/yangsheng/daoyin/yijinjing/yijinjing_001.md",
+      "weight": 8,
+      "title": "易筋经·立式伸筋拔骨十二势",
+      "chapter": "导引功法",
+      "conditions": {
+        "zhengxing": [],
+        "zhifa": [
+          "伸筋拔骨",
+          "强身"
+        ],
+        "bingzheng": [],
+        "zhengzhuang": [
+          "肢体僵硬",
+          "疲劳"
+        ],
+        "fangming": [],
+        "yaoming": [],
+        "xuewei": [],
+        "jingluo": [],
+        "siqi": [],
+        "wuwei": [],
+        "guijing": [],
+        "keywords": [
+          "易筋经",
+          "十二势",
+          "导引",
+          "明清",
+          "达摩",
+          "立式功法"
+        ]
+      }
+    },
+    {
+      "id": "zhanzhuang_001",
+      "book": "中医养生（古籍要义归纳）",
+      "type": "chapter",
+      "tier": 1,
+      "category": "yangsheng",
+      "subcategory": "daoyin",
+      "path": "library/yangsheng/daoyin/zhanzhuang/zhanzhuang_001.md",
+      "weight": 8,
+      "title": "站桩功·静立式桩功凝神松静",
+      "chapter": "导引功法",
+      "conditions": {
+        "zhengxing": [],
+        "zhifa": [
+          "站桩",
+          "松静"
+        ],
+        "bingzheng": [],
+        "zhengzhuang": [],
+        "fangming": [],
+        "yaoming": [],
+        "xuewei": [],
+        "jingluo": [],
+        "siqi": [],
+        "wuwei": [],
+        "guijing": [],
+        "keywords": [
+          "站桩",
+          "桩功",
+          "静功",
+          "养生",
+          "松静"
+        ]
+      }
+    },
+    {
+      "id": "bifenghan_001",
+      "book": "中医养生（古籍要义归纳）",
+      "type": "chapter",
+      "tier": 1,
+      "category": "yangsheng",
+      "subcategory": "qiju",
+      "path": "library/yangsheng/qiju/bifenghan/bifenghan_001.md",
+      "weight": 8,
+      "title": "避风寒·虚邪贼风避之有时",
+      "chapter": "起居情志",
+      "conditions": {
+        "zhengxing": [],
+        "zhifa": [
+          "避风寒",
+          "顾护阳气"
+        ],
+        "bingzheng": [],
+        "zhengzhuang": [
+          "汗出当风不适"
+        ],
+        "fangming": [],
+        "yaoming": [],
+        "xuewei": [],
+        "jingluo": [],
+        "siqi": [],
+        "wuwei": [],
+        "guijing": [],
+        "keywords": [
+          "避风寒",
+          "虚邪贼风",
+          "起居调摄",
+          "避风",
+          "护阳",
+          "养生"
+        ]
+      }
+    },
+    {
+      "id": "chunwuqiudong_001",
+      "book": "中医养生（古籍要义归纳）",
+      "type": "chapter",
+      "tier": 1,
+      "category": "yangsheng",
+      "subcategory": "qiju",
+      "path": "library/yangsheng/qiju/chunwuqiudong/chunwuqiudong_001.md",
+      "weight": 8,
+      "title": "春捂秋冻·顺应寒温渐次增减衣",
+      "chapter": "起居情志",
+      "conditions": {
+        "zhengxing": [],
+        "zhifa": [
+          "春捂秋冻",
+          "适应寒温"
+        ],
+        "bingzheng": [],
+        "zhengzhuang": [
+          "乍寒乍暖不适"
+        ],
+        "fangming": [],
+        "yaoming": [],
+        "xuewei": [],
+        "jingluo": [],
+        "siqi": [],
+        "wuwei": [],
+        "guijing": [],
+        "keywords": [
+          "春捂秋冻",
+          "防寒",
+          "顺应气候",
+          "增减衣",
+          "起居调摄",
+          "养生"
+        ]
+      }
+    },
+    {
+      "id": "dongjingjiehe_001",
+      "book": "中医养生（古籍要义归纳）",
+      "type": "chapter",
+      "tier": 1,
+      "category": "yangsheng",
+      "subcategory": "qiju",
+      "path": "library/yangsheng/qiju/dongjingjiehe/dongjingjiehe_001.md",
+      "weight": 8,
+      "title": "动静结合·动以养形静以养神",
+      "chapter": "起居情志",
+      "conditions": {
+        "zhengxing": [],
+        "zhifa": [
+          "动静结合",
+          "形神共养"
+        ],
+        "bingzheng": [],
+        "zhengzhuang": [],
+        "fangming": [],
+        "yaoming": [],
+        "xuewei": [],
+        "jingluo": [],
+        "siqi": [],
+        "wuwei": [],
+        "guijing": [],
+        "keywords": [
+          "动静结合",
+          "动以养形",
+          "静以养神",
+          "形神共养",
+          "养生"
+        ]
+      }
+    },
+    {
+      "id": "laoyishidu_001",
+      "book": "中医养生（古籍要义归纳）",
+      "type": "chapter",
+      "tier": 1,
+      "category": "yangsheng",
+      "subcategory": "qiju",
+      "path": "library/yangsheng/qiju/laoyishidu/laoyishidu_001.md",
+      "weight": 8,
+      "title": "劳逸适度·形劳而不倦劳逸平衡",
+      "chapter": "起居情志",
+      "conditions": {
+        "zhengxing": [],
+        "zhifa": [
+          "劳逸适度",
+          "形神共养"
+        ],
+        "bingzheng": [],
+        "zhengzhuang": [
+          "过劳",
+          "过逸"
+        ],
+        "fangming": [],
+        "yaoming": [],
+        "xuewei": [],
+        "jingluo": [],
+        "siqi": [],
+        "wuwei": [],
+        "guijing": [],
+        "keywords": [
+          "劳逸适度",
+          "不妄作劳",
+          "起居养生",
+          "形劳而不倦",
+          "养生"
+        ]
+      }
+    },
+    {
+      "id": "qingzhitiaoshe_001",
+      "book": "中医养生（古籍要义归纳）",
+      "type": "chapter",
+      "tier": 1,
+      "category": "yangsheng",
+      "subcategory": "qiju",
+      "path": "library/yangsheng/qiju/qingzhitiaoshe/qingzhitiaoshe_001.md",
+      "weight": 8,
+      "title": "情志调摄·七情平和喜怒有节",
+      "chapter": "起居情志",
+      "conditions": {
+        "zhengxing": [],
+        "zhifa": [
+          "情志调摄",
+          "七情平和"
+        ],
+        "bingzheng": [],
+        "zhengzhuang": [
+          "情绪波动"
+        ],
+        "fangming": [],
+        "yaoming": [],
+        "xuewei": [],
+        "jingluo": [],
+        "siqi": [],
+        "wuwei": [],
+        "guijing": [],
+        "keywords": [
+          "情志",
+          "七情",
+          "调神",
+          "喜怒有节",
+          "养生",
+          "情志养生"
+        ]
+      }
+    },
+    {
+      "id": "qiqingzhibing_001",
+      "book": "中医养生（古籍要义归纳）",
+      "type": "chapter",
+      "tier": 1,
+      "category": "yangsheng",
+      "subcategory": "qiju",
+      "path": "library/yangsheng/qiju/qiqingzhibing/qiqingzhibing_001.md",
+      "weight": 8,
+      "title": "七情致病与调摄·喜怒过则伤脏宜调和",
+      "chapter": "起居情志",
+      "conditions": {
+        "zhengxing": [],
+        "zhifa": [
+          "调和七情"
+        ],
+        "bingzheng": [
+          "七情内伤"
+        ],
+        "zhengzhuang": [
+          "情志失调"
+        ],
+        "fangming": [],
+        "yaoming": [],
+        "xuewei": [],
+        "jingluo": [],
+        "siqi": [],
+        "wuwei": [],
+        "guijing": [],
+        "keywords": [
+          "七情",
+          "七情内伤",
+          "情志致病",
+          "调摄",
+          "养生"
+        ]
+      }
+    },
+    {
+      "id": "shuimianweisheng_001",
+      "book": "中医养生（古籍要义归纳）",
+      "type": "chapter",
+      "tier": 1,
+      "category": "yangsheng",
+      "subcategory": "qiju",
+      "path": "library/yangsheng/qiju/shuimianweisheng/shuimianweisheng_001.md",
+      "weight": 8,
+      "title": "睡眠卫生·作息规律寝卧有节",
+      "chapter": "起居情志",
+      "conditions": {
+        "zhengxing": [],
+        "zhifa": [
+          "睡眠调摄",
+          "作息规律"
+        ],
+        "bingzheng": [],
+        "zhengzhuang": [
+          "作息失调"
+        ],
+        "fangming": [],
+        "yaoming": [],
+        "xuewei": [],
+        "jingluo": [],
+        "siqi": [],
+        "wuwei": [],
+        "guijing": [],
+        "keywords": [
+          "睡眠",
+          "寝卧",
+          "起居卫生",
+          "作息规律",
+          "养生"
+        ]
+      }
+    },
+    {
+      "id": "sishiqiju_001",
+      "book": "中医养生（古籍要义归纳）",
+      "type": "chapter",
+      "tier": 1,
+      "category": "yangsheng",
+      "subcategory": "qiju",
+      "path": "library/yangsheng/qiju/sishiqiju/sishiqiju_001.md",
+      "weight": 8,
+      "title": "四时起居·顺应四时",
+      "chapter": "起居情志",
+      "conditions": {
+        "zhengxing": [],
+        "zhifa": [
+          "顺应四时",
+          "起居有常"
+        ],
+        "bingzheng": [],
+        "zhengzhuang": [
+          "作息失调"
+        ],
+        "fangming": [],
+        "yaoming": [],
+        "xuewei": [],
+        "jingluo": [],
+        "siqi": [],
+        "wuwei": [],
+        "guijing": [],
+        "keywords": [
+          "四时起居",
+          "四季养生",
+          "四气调神",
+          "春夏养阳秋冬养阴",
+          "起居有常",
+          "养生"
+        ]
+      }
+    },
+    {
+      "id": "tiandanxuwu_001",
+      "book": "中医养生（古籍要义归纳）",
+      "type": "chapter",
+      "tier": 1,
+      "category": "yangsheng",
+      "subcategory": "qiju",
+      "path": "library/yangsheng/qiju/tiandanxuwu/tiandanxuwu_001.md",
+      "weight": 8,
+      "title": "恬淡虚无·精神内守病安从来",
+      "chapter": "起居情志",
+      "conditions": {
+        "zhengxing": [],
+        "zhifa": [
+          "恬淡虚无",
+          "精神内守"
+        ],
+        "bingzheng": [],
+        "zhengzhuang": [
+          "心神外驰",
+          "多思虑"
+        ],
+        "fangming": [],
+        "yaoming": [],
+        "xuewei": [],
+        "jingluo": [],
+        "siqi": [],
+        "wuwei": [],
+        "guijing": [],
+        "keywords": [
+          "恬淡虚无",
+          "精神内守",
+          "上古天真论",
+          "调神",
+          "养生",
+          "真气从之"
+        ]
+      }
+    },
+    {
+      "id": "ziwujue_001",
+      "book": "中医养生（古籍要义归纳）",
+      "type": "chapter",
+      "tier": 1,
+      "category": "yangsheng",
+      "subcategory": "qiju",
+      "path": "library/yangsheng/qiju/ziwujue/ziwujue_001.md",
+      "weight": 8,
+      "title": "子午觉·子时大睡午时小憩",
+      "chapter": "起居情志",
+      "conditions": {
+        "zhengxing": [],
+        "zhifa": [
+          "子午觉",
+          "作息调摄"
+        ],
+        "bingzheng": [],
+        "zhengzhuang": [
+          "作息失调",
+          "睡眠不规律"
+        ],
+        "fangming": [],
+        "yaoming": [],
+        "xuewei": [],
+        "jingluo": [],
+        "siqi": [],
+        "wuwei": [],
+        "guijing": [],
+        "keywords": [
+          "子午觉",
+          "子时",
+          "午时",
+          "睡眠养生",
+          "作息",
+          "养生"
+        ]
+      }
+    },
+    {
+      "id": "baiheyinergeng_001",
+      "book": "中医养生（古籍要义归纳）",
+      "type": "chapter",
+      "tier": 1,
+      "category": "yangsheng",
+      "subcategory": "shiliao",
+      "path": "library/yangsheng/shiliao/baiheyinergeng/baiheyinergeng_001.md",
+      "weight": 8,
+      "title": "百合银耳羹·润肺润燥甜羹",
+      "chapter": "食疗养生",
+      "conditions": {
+        "zhengxing": [],
+        "zhifa": [
+          "润肺润燥"
+        ],
+        "bingzheng": [],
+        "zhengzhuang": [
+          "秋燥口干",
+          "干咳少痰"
+        ],
+        "fangming": [],
+        "yaoming": [
+          "百合",
+          "银耳",
+          "冰糖"
+        ],
+        "xuewei": [],
+        "jingluo": [],
+        "siqi": [
+          "平"
+        ],
+        "wuwei": [
+          "甘"
+        ],
+        "guijing": [
+          "肺经",
+          "胃经"
+        ],
+        "keywords": [
+          "百合银耳羹",
+          "食疗",
+          "甜羹",
+          "润肺",
+          "润燥",
+          "百合",
+          "银耳",
+          "养生"
+        ]
+      }
+    },
+    {
+      "id": "chenpicha_001",
+      "book": "中医养生（古籍要义归纳）",
+      "type": "chapter",
+      "tier": 1,
+      "category": "yangsheng",
+      "subcategory": "shiliao",
+      "path": "library/yangsheng/shiliao/chenpicha/chenpicha_001.md",
+      "weight": 8,
+      "title": "陈皮茶·陈皮代茶物理气健脾",
+      "chapter": "食疗养生",
+      "conditions": {
+        "zhengxing": [],
+        "zhifa": [
+          "理气健脾"
+        ],
+        "bingzheng": [],
+        "zhengzhuang": [],
+        "fangming": [],
+        "yaoming": [
+          "陈皮"
+        ],
+        "xuewei": [],
+        "jingluo": [],
+        "siqi": [
+          "温"
+        ],
+        "wuwei": [
+          "辛",
+          "苦"
+        ],
+        "guijing": [
+          "脾经",
+          "肺经"
+        ],
+        "keywords": [
+          "陈皮茶",
+          "食疗",
+          "代茶饮",
+          "理气健脾",
+          "陈皮",
+          "养生",
+          "体质有异食用前自行斟酌"
+        ]
+      }
+    },
+    {
+      "id": "dongguatang_001",
+      "book": "中医养生（古籍要义归纳）",
+      "type": "chapter",
+      "tier": 1,
+      "category": "yangsheng",
+      "subcategory": "shiliao",
+      "path": "library/yangsheng/shiliao/dongguatang/dongguatang_001.md",
+      "weight": 8,
+      "title": "冬瓜汤·清利解暑家常汤",
+      "chapter": "食疗养生",
+      "conditions": {
+        "zhengxing": [],
+        "zhifa": [
+          "清利"
+        ],
+        "bingzheng": [],
+        "zhengzhuang": [],
+        "fangming": [],
+        "yaoming": [
+          "冬瓜"
+        ],
+        "xuewei": [],
+        "jingluo": [],
+        "siqi": [
+          "微寒"
+        ],
+        "wuwei": [
+          "甘",
+          "淡"
+        ],
+        "guijing": [
+          "脾经",
+          "胃经",
+          "大肠经",
+          "小肠经"
+        ],
+        "keywords": [
+          "冬瓜汤",
+          "食疗",
+          "汤饮",
+          "清利",
+          "解暑",
+          "养生",
+          "体质有异食用前自行斟酌"
+        ]
+      }
+    },
+    {
+      "id": "fengningmengyin_001",
+      "book": "中医养生（古籍要义归纳）",
+      "type": "chapter",
+      "tier": 1,
+      "category": "yangsheng",
+      "subcategory": "shiliao",
+      "path": "library/yangsheng/shiliao/fengningmengyin/fengningmengyin_001.md",
+      "weight": 8,
+      "title": "蜂蜜柠檬饮·蜜冲柠檬生津润燥",
+      "chapter": "食疗养生",
+      "conditions": {
+        "zhengxing": [],
+        "zhifa": [
+          "生津润燥"
+        ],
+        "bingzheng": [],
+        "zhengzhuang": [],
+        "fangming": [],
+        "yaoming": [
+          "蜂蜜",
+          "柠檬"
+        ],
+        "xuewei": [],
+        "jingluo": [],
+        "siqi": [
+          "平"
+        ],
+        "wuwei": [
+          "甘",
+          "酸"
+        ],
+        "guijing": [
+          "肺经",
+          "大肠经"
+        ],
+        "keywords": [
+          "蜂蜜柠檬饮",
+          "食疗",
+          "代茶饮",
+          "生津润燥",
+          "蜂蜜",
+          "柠檬",
+          "养生",
+          "体质有异食用前自行斟酌"
+        ]
+      }
+    },
+    {
+      "id": "fulingbing_001",
+      "book": "中医养生（古籍要义归纳）",
+      "type": "chapter",
+      "tier": 1,
+      "category": "yangsheng",
+      "subcategory": "shiliao",
+      "path": "library/yangsheng/shiliao/fulingbing/fulingbing_001.md",
+      "weight": 8,
+      "title": "茯苓饼·茯苓粉和粉制饼健脾渗湿",
+      "chapter": "食疗养生",
+      "conditions": {
+        "zhengxing": [],
+        "zhifa": [
+          "健脾渗湿"
+        ],
+        "bingzheng": [],
+        "zhengzhuang": [],
+        "fangming": [],
+        "yaoming": [
+          "茯苓",
+          "面粉"
+        ],
+        "xuewei": [],
+        "jingluo": [],
+        "siqi": [
+          "平"
+        ],
+        "wuwei": [
+          "甘",
+          "淡"
+        ],
+        "guijing": [
+          "心经",
+          "脾经",
+          "肾经"
+        ],
+        "keywords": [
+          "茯苓饼",
+          "食疗",
+          "糕点",
+          "健脾渗湿",
+          "茯苓",
+          "养生",
+          "体质有异食用前自行斟酌"
+        ]
+      }
+    },
+    {
+      "id": "gouqijuhuacha_001",
+      "book": "中医养生（古籍要义归纳）",
+      "type": "chapter",
+      "tier": 1,
+      "category": "yangsheng",
+      "subcategory": "shiliao",
+      "path": "library/yangsheng/shiliao/gouqijuhuacha/gouqijuhuacha_001.md",
+      "weight": 8,
+      "title": "枸杞菊花茶·清肝明目代茶饮",
+      "chapter": "食疗养生",
+      "conditions": {
+        "zhengxing": [],
+        "zhifa": [
+          "清肝明目"
+        ],
+        "bingzheng": [],
+        "zhengzhuang": [
+          "目干涩",
+          "视物疲劳"
+        ],
+        "fangming": [],
+        "yaoming": [
+          "枸杞子",
+          "菊花"
+        ],
+        "xuewei": [],
+        "jingluo": [],
+        "siqi": [
+          "平"
+        ],
+        "wuwei": [
+          "甘",
+          "苦"
+        ],
+        "guijing": [
+          "肝经",
+          "肾经"
+        ],
+        "keywords": [
+          "枸杞菊花茶",
+          "食疗",
+          "代茶饮",
+          "清肝明目",
+          "枸杞子",
+          "菊花",
+          "养生"
+        ]
+      }
+    },
+    {
+      "id": "guiyuanhongzaocha_001",
+      "book": "中医养生（古籍要义归纳）",
+      "type": "chapter",
+      "tier": 1,
+      "category": "yangsheng",
+      "subcategory": "shiliao",
+      "path": "library/yangsheng/shiliao/guiyuanhongzaocha/guiyuanhongzaocha_001.md",
+      "weight": 8,
+      "title": "桂圆红枣茶·养心补血代茶饮",
+      "chapter": "食疗养生",
+      "conditions": {
+        "zhengxing": [],
+        "zhifa": [
+          "养心补血"
+        ],
+        "bingzheng": [],
+        "zhengzhuang": [
+          "面色少华",
+          "心悸怔忡"
+        ],
+        "fangming": [],
+        "yaoming": [
+          "龙眼肉",
+          "大枣"
+        ],
+        "xuewei": [],
+        "jingluo": [],
+        "siqi": [
+          "温"
+        ],
+        "wuwei": [
+          "甘"
+        ],
+        "guijing": [
+          "心经",
+          "脾经"
+        ],
+        "keywords": [
+          "桂圆红枣茶",
+          "食疗",
+          "代茶饮",
+          "养心补血",
+          "龙眼肉",
+          "大枣",
+          "养生"
+        ]
+      }
+    },
+    {
+      "id": "heizhimahu_001",
+      "book": "中医养生（古籍要义归纳）",
+      "type": "chapter",
+      "tier": 1,
+      "category": "yangsheng",
+      "subcategory": "shiliao",
+      "path": "library/yangsheng/shiliao/heizhimahu/heizhimahu_001.md",
+      "weight": 8,
+      "title": "黑芝麻糊·滋养润燥糊食",
+      "chapter": "食疗养生",
+      "conditions": {
+        "zhengxing": [],
+        "zhifa": [
+          "滋养润燥"
+        ],
+        "bingzheng": [],
+        "zhengzhuang": [
+          "肠燥便干"
+        ],
+        "fangming": [],
+        "yaoming": [
+          "黑芝麻",
+          "糯米粉",
+          "糖"
+        ],
+        "xuewei": [],
+        "jingluo": [],
+        "siqi": [
+          "平"
+        ],
+        "wuwei": [
+          "甘"
+        ],
+        "guijing": [
+          "肝经",
+          "肾经",
+          "大肠经"
+        ],
+        "keywords": [
+          "黑芝麻糊",
+          "食疗",
+          "糊食",
+          "滋养润燥",
+          "黑芝麻",
+          "养生",
+          "药食同源"
+        ]
+      }
+    },
+    {
+      "id": "jiangzaocha_001",
+      "book": "中医养生（古籍要义归纳）",
+      "type": "chapter",
+      "tier": 1,
+      "category": "yangsheng",
+      "subcategory": "shiliao",
+      "path": "library/yangsheng/shiliao/jiangzaocha/jiangzaocha_001.md",
+      "weight": 8,
+      "title": "姜枣茶·温中散寒代茶饮",
+      "chapter": "食疗养生",
+      "conditions": {
+        "zhengxing": [],
+        "zhifa": [
+          "温中和胃"
+        ],
+        "bingzheng": [],
+        "zhengzhuang": [
+          "胃脘发凉",
+          "喜温喜按"
+        ],
+        "fangming": [],
+        "yaoming": [
+          "生姜",
+          "大枣"
+        ],
+        "xuewei": [],
+        "jingluo": [],
+        "siqi": [
+          "温"
+        ],
+        "wuwei": [
+          "辛",
+          "甘"
+        ],
+        "guijing": [
+          "脾经",
+          "胃经",
+          "肺经"
+        ],
+        "keywords": [
+          "姜枣茶",
+          "食疗",
+          "代茶饮",
+          "温中和胃",
+          "生姜",
+          "大枣",
+          "养生"
+        ]
+      }
+    },
+    {
+      "id": "lianzigeng_001",
+      "book": "中医养生（古籍要义归纳）",
+      "type": "chapter",
+      "tier": 1,
+      "category": "yangsheng",
+      "subcategory": "shiliao",
+      "path": "library/yangsheng/shiliao/lianzigeng/lianzigeng_001.md",
+      "weight": 8,
+      "title": "莲子羹·养心健脾甜羹",
+      "chapter": "食疗养生",
+      "conditions": {
+        "zhengxing": [],
+        "zhifa": [
+          "养心安神",
+          "健脾"
+        ],
+        "bingzheng": [],
+        "zhengzhuang": [
+          "心烦",
+          "食少"
+        ],
+        "fangming": [],
+        "yaoming": [
+          "莲子",
+          "冰糖"
+        ],
+        "xuewei": [],
+        "jingluo": [],
+        "siqi": [
+          "平"
+        ],
+        "wuwei": [
+          "甘"
+        ],
+        "guijing": [
+          "脾经",
+          "肾经",
+          "心经"
+        ],
+        "keywords": [
+          "莲子羹",
+          "食疗",
+          "甜羹",
+          "养心安神",
+          "健脾",
+          "养生",
+          "药食同源"
+        ]
+      }
+    },
+    {
+      "id": "luobotang_001",
+      "book": "中医养生（古籍要义归纳）",
+      "type": "chapter",
+      "tier": 1,
+      "category": "yangsheng",
+      "subcategory": "shiliao",
+      "path": "library/yangsheng/shiliao/luobotang/luobotang_001.md",
+      "weight": 8,
+      "title": "萝卜汤·下气消食家常汤",
+      "chapter": "食疗养生",
+      "conditions": {
+        "zhengxing": [],
+        "zhifa": [
+          "下气消食"
+        ],
+        "bingzheng": [],
+        "zhengzhuang": [
+          "食积腹胀",
+          "嗳气"
+        ],
+        "fangming": [],
+        "yaoming": [
+          "白萝卜"
+        ],
+        "xuewei": [],
+        "jingluo": [],
+        "siqi": [
+          "凉"
+        ],
+        "wuwei": [
+          "辛",
+          "甘"
+        ],
+        "guijing": [
+          "肺经",
+          "胃经"
+        ],
+        "keywords": [
+          "萝卜汤",
+          "食疗",
+          "家常汤",
+          "下气消食",
+          "白萝卜",
+          "养生",
+          "药食同源"
+        ]
+      }
+    },
+    {
+      "id": "lvdoutang_001",
+      "book": "中医养生（古籍要义归纳）",
+      "type": "chapter",
+      "tier": 1,
+      "category": "yangsheng",
+      "subcategory": "shiliao",
+      "path": "library/yangsheng/shiliao/lvdoutang/lvdoutang_001.md",
+      "weight": 8,
+      "title": "绿豆汤·绿豆煮汤清热解暑",
+      "chapter": "食疗养生",
+      "conditions": {
+        "zhengxing": [],
+        "zhifa": [
+          "清热解暑"
+        ],
+        "bingzheng": [],
+        "zhengzhuang": [],
+        "fangming": [],
+        "yaoming": [
+          "绿豆"
+        ],
+        "xuewei": [],
+        "jingluo": [],
+        "siqi": [
+          "凉"
+        ],
+        "wuwei": [
+          "甘"
+        ],
+        "guijing": [
+          "心经",
+          "胃经"
+        ],
+        "keywords": [
+          "绿豆汤",
+          "食疗",
+          "汤饮",
+          "清热解暑",
+          "绿豆",
+          "养生",
+          "体质有异食用前自行斟酌"
+        ]
+      }
+    },
+    {
+      "id": "shanyaozhou_001",
+      "book": "中医养生（古籍要义归纳）",
+      "type": "chapter",
+      "tier": 1,
+      "category": "yangsheng",
+      "subcategory": "shiliao",
+      "path": "library/yangsheng/shiliao/shanyaozhou/shanyaozhou_001.md",
+      "weight": 8,
+      "title": "山药粥·药膳食养",
+      "chapter": "食疗养生",
+      "conditions": {
+        "zhengxing": [],
+        "zhifa": [
+          "健脾益胃"
+        ],
+        "bingzheng": [],
+        "zhengzhuang": [
+          "食少体倦"
+        ],
+        "fangming": [],
+        "yaoming": [
+          "山药",
+          "粳米"
+        ],
+        "xuewei": [],
+        "jingluo": [],
+        "siqi": [
+          "平"
+        ],
+        "wuwei": [
+          "甘"
+        ],
+        "guijing": [
+          "脾经",
+          "胃经",
+          "肺经"
+        ],
+        "keywords": [
+          "山药粥",
+          "食疗",
+          "药粥",
+          "健脾",
+          "养生",
+          "体质有异食用前自行斟酌"
+        ]
+      }
+    },
+    {
+      "id": "shanzhayin_001",
+      "book": "中医养生（古籍要义归纳）",
+      "type": "chapter",
+      "tier": 1,
+      "category": "yangsheng",
+      "subcategory": "shiliao",
+      "path": "library/yangsheng/shiliao/shanzhayin/shanzhayin_001.md",
+      "weight": 8,
+      "title": "山楂饮·山楂煮水消食代茶饮",
+      "chapter": "食疗养生",
+      "conditions": {
+        "zhengxing": [],
+        "zhifa": [
+          "消食化滞"
+        ],
+        "bingzheng": [],
+        "zhengzhuang": [],
+        "fangming": [],
+        "yaoming": [
+          "山楂",
+          "冰糖"
+        ],
+        "xuewei": [],
+        "jingluo": [],
+        "siqi": [
+          "微温"
+        ],
+        "wuwei": [
+          "酸",
+          "甘"
+        ],
+        "guijing": [
+          "脾经",
+          "胃经",
+          "肝经"
+        ],
+        "keywords": [
+          "山楂饮",
+          "食疗",
+          "代茶饮",
+          "消食化滞",
+          "山楂",
+          "养生",
+          "体质有异食用前自行斟酌"
+        ]
+      }
+    },
+    {
+      "id": "xiaomizhou_001",
+      "book": "中医养生（古籍要义归纳）",
+      "type": "chapter",
+      "tier": 1,
+      "category": "yangsheng",
+      "subcategory": "shiliao",
+      "path": "library/yangsheng/shiliao/xiaomizhou/xiaomizhou_001.md",
+      "weight": 8,
+      "title": "小米粥·小米熬粥健脾和胃",
+      "chapter": "食疗养生",
+      "conditions": {
+        "zhengxing": [],
+        "zhifa": [
+          "健脾和胃"
+        ],
+        "bingzheng": [],
+        "zhengzhuang": [],
+        "fangming": [],
+        "yaoming": [
+          "小米"
+        ],
+        "xuewei": [],
+        "jingluo": [],
+        "siqi": [
+          "凉"
+        ],
+        "wuwei": [
+          "甘",
+          "咸"
+        ],
+        "guijing": [
+          "脾经",
+          "胃经",
+          "肾经"
+        ],
+        "keywords": [
+          "小米粥",
+          "食疗",
+          "药粥",
+          "健脾和胃",
+          "小米",
+          "养生",
+          "体质有异食用前自行斟酌"
+        ]
+      }
+    },
+    {
+      "id": "yiyirenzhou_001",
+      "book": "中医养生（古籍要义归纳）",
+      "type": "chapter",
+      "tier": 1,
+      "category": "yangsheng",
+      "subcategory": "shiliao",
+      "path": "library/yangsheng/shiliao/yiyirenzhou/yiyirenzhou_001.md",
+      "weight": 8,
+      "title": "薏苡仁粥·健脾渗湿药粥",
+      "chapter": "食疗养生",
+      "conditions": {
+        "zhengxing": [],
+        "zhifa": [
+          "健脾渗湿"
+        ],
+        "bingzheng": [],
+        "zhengzhuang": [
+          "身体困重",
+          "食少"
+        ],
+        "fangming": [],
+        "yaoming": [
+          "薏苡仁",
+          "粳米"
+        ],
+        "xuewei": [],
+        "jingluo": [],
+        "siqi": [
+          "凉"
+        ],
+        "wuwei": [
+          "甘",
+          "淡"
+        ],
+        "guijing": [
+          "脾经",
+          "胃经",
+          "肺经"
+        ],
+        "keywords": [
+          "薏苡仁粥",
+          "食疗",
+          "药粥",
+          "健脾渗湿",
+          "薏米",
+          "养生",
+          "药食同源"
+        ]
+      }
+    },
+    {
+      "id": "danxixuepai_001",
+      "book": "中医各家学说",
+      "type": "chapter",
+      "tier": 1,
+      "category": "yishi",
+      "subcategory": "xuepai",
+      "path": "library/yishi/xuepai/danxixuepai/danxixuepai_001.md",
+      "weight": 8,
+      "title": "丹溪学派·阳有余阴不足倡导滋阴降火",
+      "chapter": "流派",
+      "conditions": {
+        "zhengxing": [
+          "阴虚火旺",
+          "阴精不足",
+          "六郁"
+        ],
+        "zhifa": [
+          "滋阴降火",
+          "滋阴",
+          "解郁",
+          "泻火"
+        ],
+        "bingzheng": [
+          "内伤杂病",
+          "阴虚火旺",
+          "郁证"
+        ],
+        "zhengzhuang": [
+          "潮热",
+          "盗汗",
+          "咳嗽",
+          "咯血",
+          "痞满"
+        ],
+        "fangming": [
+          "大补阴丸",
+          "越鞠丸",
+          "保和丸",
+          "二妙散"
+        ],
+        "yaoming": [
+          "熟地黄",
+          "龟板",
+          "黄柏",
+          "知母",
+          "苍术",
+          "川芎",
+          "栀子"
+        ],
+        "xuewei": [],
+        "jingluo": [],
+        "siqi": [],
+        "wuwei": [],
+        "guijing": [],
+        "keywords": [
+          "丹溪学派",
+          "朱震亨",
+          "朱丹溪",
+          "滋阴派",
+          "格致余论",
+          "阳有余阴不足",
+          "戴原礼",
+          "王纶",
+          "六郁"
+        ]
+      }
+    },
+    {
+      "id": "gongxuexuepai_001",
+      "book": "中医各家学说",
+      "type": "chapter",
+      "tier": 1,
+      "category": "yishi",
+      "subcategory": "xuepai",
+      "path": "library/yishi/xuepai/gongxuexuepai/gongxuexuepai_001.md",
+      "weight": 8,
+      "title": "攻邪学派·病由邪生攻邪已善行汗吐下",
+      "chapter": "流派",
+      "conditions": {
+        "zhengxing": [
+          "邪实",
+          "风寒",
+          "痰涎",
+          "宿食"
+        ],
+        "zhifa": [
+          "汗法",
+          "吐法",
+          "下法",
+          "攻邪"
+        ],
+        "bingzheng": [
+          "外感风寒",
+          "痰饮",
+          "宿食积滞",
+          "瘟疫"
+        ],
+        "zhengzhuang": [],
+        "fangming": [],
+        "yaoming": [],
+        "xuewei": [],
+        "jingluo": [],
+        "siqi": [],
+        "wuwei": [],
+        "guijing": [],
+        "keywords": [
+          "攻邪学派",
+          "张从正",
+          "张子和",
+          "汗吐下",
+          "儒门事亲",
+          "攻邪已病",
+          "金元四大家"
+        ]
+      }
+    },
+    {
+      "id": "hejianxuepai_001",
+      "book": "中医各家学说",
+      "type": "chapter",
+      "tier": 1,
+      "category": "yishi",
+      "subcategory": "xuepai",
+      "path": "library/yishi/xuepai/hejianxuepai/hejianxuepai_001.md",
+      "weight": 8,
+      "title": "河间学派·主火热论善用寒凉",
+      "chapter": "流派",
+      "conditions": {
+        "zhengxing": [
+          "火热证",
+          "六气皆能化火",
+          "五志过极皆为热甚"
+        ],
+        "zhifa": [
+          "寒凉清热",
+          "泻火",
+          "表里双解"
+        ],
+        "bingzheng": [
+          "外感火热病",
+          "火热病机"
+        ],
+        "zhengzhuang": [
+          "大热",
+          "烦渴",
+          "脉数"
+        ],
+        "fangming": [
+          "防风通圣散",
+          "双解散",
+          "黄连解毒汤"
+        ],
+        "yaoming": [
+          "黄连",
+          "黄芩",
+          "石膏",
+          "滑石",
+          "薄荷",
+          "荆芥"
+        ],
+        "xuewei": [],
+        "jingluo": [],
+        "siqi": [],
+        "wuwei": [],
+        "guijing": [],
+        "keywords": [
+          "河间学派",
+          "刘完素",
+          "寒凉派",
+          "火热论",
+          "素问玄机原病式",
+          "六气皆从火化",
+          "张子和",
+          "朱丹溪"
+        ]
+      }
+    },
+    {
+      "id": "huoshenxuepai_001",
+      "book": "中医各家学说",
+      "type": "chapter",
+      "tier": 1,
+      "category": "yishi",
+      "subcategory": "xuepai",
+      "path": "library/yishi/xuepai/huoshenxuepai/huoshenxuepai_001.md",
+      "weight": 8,
+      "title": "火神学派·重阳气善用姜附主阴阳辨证",
+      "chapter": "流派",
+      "conditions": {
+        "zhengxing": [],
+        "zhifa": [
+          "重阳",
+          "温阳"
+        ],
+        "bingzheng": [
+          "阳虚证",
+          "阴证"
+        ],
+        "zhengzhuang": [],
+        "fangming": [
+          "四逆汤",
+          "白通汤",
+          "麻黄附子细辛汤"
+        ],
+        "yaoming": [
+          "附子",
+          "干姜",
+          "肉桂",
+          "生姜"
+        ],
+        "xuewei": [],
+        "jingluo": [],
+        "siqi": [],
+        "wuwei": [],
+        "guijing": [],
+        "keywords": [
+          "火神学派",
+          "郑钦安",
+          "郑寿全",
+          "郑户",
+          "重阳",
+          "姜附",
+          "元阳"
+        ]
+      }
+    },
+    {
+      "id": "jingfangxuepai_001",
+      "book": "中医各家学说",
+      "type": "chapter",
+      "tier": 1,
+      "category": "yishi",
+      "subcategory": "xuepai",
+      "path": "library/yishi/xuepai/jingfangxuepai/jingfangxuepai_001.md",
+      "weight": 8,
+      "title": "经方学派·尊崇仲圣经方重方证对应",
+      "chapter": "流派",
+      "conditions": {
+        "zhengxing": [],
+        "zhifa": [
+          "方证对应",
+          "辨证论治"
+        ],
+        "bingzheng": [
+          "伤寒",
+          "杂病",
+          "外感热病"
+        ],
+        "zhengzhuang": [],
+        "fangming": [
+          "桂枝汤",
+          "麻黄汤",
+          "小柴胡汤",
+          "白虎汤",
+          "承气汤",
+          "四逆汤"
+        ],
+        "yaoming": [],
+        "xuewei": [],
+        "jingluo": [],
+        "siqi": [],
+        "wuwei": [],
+        "guijing": [],
+        "keywords": [
+          "经方学派",
+          "张仲景",
+          "经方",
+          "伤寒论",
+          "金匮要略",
+          "方证对应",
+          "辨证论治"
+        ]
+      }
+    },
+    {
+      "id": "shanghanxuepai_001",
+      "book": "中医各家学说",
+      "type": "chapter",
+      "tier": 1,
+      "category": "yishi",
+      "subcategory": "xuepai",
+      "path": "library/yishi/xuepai/shanghanxuepai/shanghanxuepai_001.md",
+      "weight": 8,
+      "title": "伤寒学派·以六经辨证阐发伤寒论",
+      "chapter": "流派",
+      "conditions": {
+        "zhengxing": [
+          "伤寒六经证治",
+          "六经辨证"
+        ],
+        "zhifa": [
+          "辨证论治",
+          "六经辨证",
+          "八纲辨证"
+        ],
+        "bingzheng": [
+          "伤寒",
+          "外感热病",
+          "杂病"
+        ],
+        "zhengzhuang": [],
+        "fangming": [
+          "桂枝汤",
+          "麻黄汤",
+          "小柴胡汤",
+          "白虎汤",
+          "承气汤",
+          "四逆汤"
+        ],
+        "yaoming": [],
+        "xuewei": [],
+        "jingluo": [],
+        "siqi": [],
+        "wuwei": [],
+        "guijing": [],
+        "keywords": [
+          "伤寒学派",
+          "张仲景",
+          "伤寒论",
+          "六经辨证",
+          "辨证论治",
+          "经方",
+          "王叔和",
+          "成无己"
+        ]
+      }
+    },
+    {
+      "id": "wenbingxuepai_001",
+      "book": "中医各家学说",
+      "type": "chapter",
+      "tier": 1,
+      "category": "yishi",
+      "subcategory": "xuepai",
+      "path": "library/yishi/xuepai/wenbingxuepai/wenbingxuepai_001.md",
+      "weight": 8,
+      "title": "温病学派·创卫气营血与三焦辨证治温热",
+      "chapter": "流派",
+      "conditions": {
+        "zhengxing": [],
+        "zhifa": [
+          "卫气营血辨证",
+          "三焦辨证",
+          "温病辨证"
+        ],
+        "bingzheng": [
+          "温病",
+          "温热病",
+          "湿热病"
+        ],
+        "zhengzhuang": [],
+        "fangming": [
+          "银翘散",
+          "桑菊饮",
+          "清营汤"
+        ],
+        "yaoming": [],
+        "xuewei": [],
+        "jingluo": [],
+        "siqi": [],
+        "wuwei": [],
+        "guijing": [],
+        "keywords": [
+          "温病学派",
+          "叶天士",
+          "吴鞠通",
+          "薛雪",
+          "王孟英",
+          "卫气营血",
+          "三焦辨证",
+          "温热论"
+        ]
+      }
+    },
+    {
+      "id": "wenbuxuepai_001",
+      "book": "中医各家学说",
+      "type": "chapter",
+      "tier": 1,
+      "category": "yishi",
+      "subcategory": "xuepai",
+      "path": "library/yishi/xuepai/wenbuxuepai/wenbuxuepai_001.md",
+      "weight": 8,
+      "title": "温补学派·重阳气命门善用温补",
+      "chapter": "流派",
+      "conditions": {
+        "zhengxing": [],
+        "zhifa": [
+          "温补",
+          "温补肾命"
+        ],
+        "bingzheng": [
+          "命门火衰",
+          "虚寒证",
+          "元阳虚损"
+        ],
+        "zhengzhuang": [],
+        "fangming": [
+          "左归丸",
+          "右归丸",
+          "肾气丸"
+        ],
+        "yaoming": [
+          "附子",
+          "肉桂",
+          "熟地黄",
+          "干姜"
+        ],
+        "xuewei": [],
+        "jingluo": [],
+        "siqi": [],
+        "wuwei": [],
+        "guijing": [],
+        "keywords": [
+          "温补学派",
+          "薛己",
+          "张介宾",
+          "张景岳",
+          "赵献可",
+          "命门",
+          "温补"
+        ]
+      }
+    },
+    {
+      "id": "yishuixuepai_001",
+      "book": "中医各家学说",
+      "type": "chapter",
+      "tier": 1,
+      "category": "yishi",
+      "subcategory": "xuepai",
+      "path": "library/yishi/xuepai/yishuixuepai/yishuixuepai_001.md",
+      "weight": 8,
+      "title": "易水学派·以脏腑寒热虚实为辨证用药纲领",
+      "chapter": "流派",
+      "conditions": {
+        "zhengxing": [
+          "脏腑寒热虚实",
+          "脾胃气虚",
+          "阴证"
+        ],
+        "zhifa": [
+          "脏腑辨证",
+          "补脾胃",
+          "温阳散寒",
+          "药物归经"
+        ],
+        "bingzheng": [
+          "内伤杂病",
+          "脾胃病",
+          "阴证"
+        ],
+        "zhengzhuang": [],
+        "fangming": [
+          "补中益气汤",
+          "升阳益胃汤"
+        ],
+        "yaoming": [
+          "黄芪",
+          "人参",
+          "白术",
+          "升麻",
+          "柴胡"
+        ],
+        "xuewei": [],
+        "jingluo": [],
+        "siqi": [],
+        "wuwei": [],
+        "guijing": [],
+        "keywords": [
+          "易水学派",
+          "张元素",
+          "脏腑辨证",
+          "医学启源",
+          "珍珠囊",
+          "李杲",
+          "李东垣",
+          "王好古",
+          "罗天益",
+          "补土派"
+        ]
+      }
+    },
+    {
+      "id": "zhongxihuitongxuepai_001",
+      "book": "中医各家学说",
+      "type": "chapter",
+      "tier": 1,
+      "category": "yishi",
+      "subcategory": "xuepai",
+      "path": "library/yishi/xuepai/zhongxihuitongxuepai/zhongxihuitongxuepai_001.md",
+      "weight": 8,
+      "title": "中西汇通学派·熔古今中西医理于一炉",
+      "chapter": "流派",
+      "conditions": {
+        "zhengxing": [],
+        "zhifa": [],
+        "bingzheng": [],
+        "zhengzhuang": [],
+        "fangming": [
+          "活络效灵丹",
+          "镇肝熄风汤"
+        ],
+        "yaoming": [],
+        "xuewei": [],
+        "jingluo": [],
+        "siqi": [],
+        "wuwei": [],
+        "guijing": [],
+        "keywords": [
+          "中西汇通学派",
+          "唐宗海",
+          "张锡纯",
+          "中西汇通",
+          "医学衷中参西录"
+        ]
+      }
+    },
+    {
       "id": "chengzhongling_001",
       "book": "医学心悟",
       "type": "yian",
@@ -60891,6 +65756,1407 @@
           "阴虚火旺",
           "阳有余阴不足",
           "滋阴降火"
+        ]
+      }
+    },
+    {
+      "id": "bianque_001",
+      "book": "中医各家学说",
+      "type": "yijia",
+      "tier": 1,
+      "category": "yishi",
+      "subcategory": "yijia",
+      "path": "library/yishi/yijia/bianque/bianque_001.md",
+      "weight": 8,
+      "title": "扁鹊·切脉诊法奠定望闻问切",
+      "chapter": "医家",
+      "conditions": {
+        "zhengxing": [],
+        "zhifa": [],
+        "bingzheng": [],
+        "zhengzhuang": [],
+        "fangming": [],
+        "yaoming": [],
+        "xuewei": [],
+        "jingluo": [],
+        "siqi": [],
+        "wuwei": [],
+        "guijing": [],
+        "keywords": [
+          "扁鹊",
+          "秦越人",
+          "战国",
+          "难经",
+          "脉诊",
+          "望闻问切",
+          "切脉",
+          "史记·扁鹊仓公列传"
+        ]
+      }
+    },
+    {
+      "id": "chaoyuanfang_001",
+      "book": "中医各家学说",
+      "type": "yijia",
+      "tier": 1,
+      "category": "yishi",
+      "subcategory": "yijia",
+      "path": "library/yishi/yijia/chaoyuanfang/chaoyuanfang_001.md",
+      "weight": 8,
+      "title": "巢元方·奉敕撰诸病源候论开创病因证候学",
+      "chapter": "医家",
+      "conditions": {
+        "zhengxing": [],
+        "zhifa": [],
+        "bingzheng": [
+          "诸病源候",
+          "病因病机",
+          "证候学"
+        ],
+        "zhengzhuang": [],
+        "fangming": [],
+        "yaoming": [],
+        "xuewei": [],
+        "jingluo": [],
+        "siqi": [],
+        "wuwei": [],
+        "guijing": [],
+        "keywords": [
+          "巢元方",
+          "隋",
+          "诸病源候论",
+          "巢氏病源",
+          "病因证候学",
+          "病因病机"
+        ]
+      }
+    },
+    {
+      "id": "chensiduo_001",
+      "book": "中医各家学说",
+      "type": "yijia",
+      "tier": 1,
+      "category": "yishi",
+      "subcategory": "yijia",
+      "path": "library/yishi/yijia/chensiduo/chensiduo_001.md",
+      "weight": 8,
+      "title": "陈士铎·著辨证录石室秘录别开医径",
+      "chapter": "医家",
+      "conditions": {
+        "zhengxing": [],
+        "zhifa": [
+          "辨证论治"
+        ],
+        "bingzheng": [],
+        "zhengzhuang": [],
+        "fangming": [],
+        "yaoming": [],
+        "xuewei": [],
+        "jingluo": [],
+        "siqi": [],
+        "wuwei": [],
+        "guijing": [],
+        "keywords": [
+          "陈士铎",
+          "清",
+          "辨证录",
+          "石室秘录",
+          "外经微言"
+        ]
+      }
+    },
+    {
+      "id": "chenxiuyuan_001",
+      "book": "中医各家学说",
+      "type": "yijia",
+      "tier": 1,
+      "category": "yishi",
+      "subcategory": "yijia",
+      "path": "library/yishi/yijia/chenxiuyuan/chenxiuyuan_001.md",
+      "weight": 8,
+      "title": "陈修园·著医学三字经普及经典浅注",
+      "chapter": "医家",
+      "conditions": {
+        "zhengxing": [],
+        "zhifa": [],
+        "bingzheng": [],
+        "zhengzhuang": [],
+        "fangming": [],
+        "yaoming": [],
+        "xuewei": [],
+        "jingluo": [],
+        "siqi": [],
+        "wuwei": [],
+        "guijing": [],
+        "keywords": [
+          "陈修园",
+          "陈念祖",
+          "清",
+          "医学三字经",
+          "伤寒论浅注",
+          "金匮要略浅注",
+          "医学普及"
+        ]
+      }
+    },
+    {
+      "id": "chunuyi_001",
+      "book": "中医各家学说",
+      "type": "yijia",
+      "tier": 1,
+      "category": "yishi",
+      "subcategory": "yijia",
+      "path": "library/yishi/yijia/chunuyi/chunuyi_001.md",
+      "weight": 8,
+      "title": "淳于意·创诊籍为现存最早医案",
+      "chapter": "医家",
+      "conditions": {
+        "zhengxing": [],
+        "zhifa": [],
+        "bingzheng": [],
+        "zhengzhuang": [],
+        "fangming": [],
+        "yaoming": [],
+        "xuewei": [],
+        "jingluo": [],
+        "siqi": [],
+        "wuwei": [],
+        "guijing": [],
+        "keywords": [
+          "淳于意",
+          "仓公",
+          "太仓公",
+          "西汉",
+          "诊籍",
+          "史记",
+          "医案",
+          "脉诊"
+        ]
+      }
+    },
+    {
+      "id": "fushan_001",
+      "book": "中医各家学说",
+      "type": "yijia",
+      "tier": 1,
+      "category": "yishi",
+      "subcategory": "yijia",
+      "path": "library/yishi/yijia/fushan/fushan_001.md",
+      "weight": 8,
+      "title": "傅山·著傅青主女科擅妇科理血调经",
+      "chapter": "医家",
+      "conditions": {
+        "zhengxing": [],
+        "zhifa": [],
+        "bingzheng": [
+          "妇科",
+          "带下",
+          "崩漏",
+          "月经不调"
+        ],
+        "zhengzhuang": [],
+        "fangming": [
+          "完带汤",
+          "易黄汤",
+          "清经散",
+          "定经汤"
+        ],
+        "yaoming": [],
+        "xuewei": [],
+        "jingluo": [],
+        "siqi": [],
+        "wuwei": [],
+        "guijing": [],
+        "keywords": [
+          "傅山",
+          "傅青主",
+          "明末清初",
+          "傅青主女科",
+          "妇科",
+          "带下",
+          "完带汤"
+        ]
+      }
+    },
+    {
+      "id": "gehong_001",
+      "book": "中医各家学说",
+      "type": "yijia",
+      "tier": 1,
+      "category": "yishi",
+      "subcategory": "yijia",
+      "path": "library/yishi/yijia/gehong/gehong_001.md",
+      "weight": 8,
+      "title": "葛洪·肘后备急方集急症简易方",
+      "chapter": "医家",
+      "conditions": {
+        "zhengxing": [],
+        "zhifa": [
+          "急症救治",
+          "简易方"
+        ],
+        "bingzheng": [
+          "急症",
+          "天行瘟疫",
+          "天花",
+          "恙虫病"
+        ],
+        "zhengzhuang": [],
+        "fangming": [
+          "肘后备急方"
+        ],
+        "yaoming": [],
+        "xuewei": [],
+        "jingluo": [],
+        "siqi": [],
+        "wuwei": [],
+        "guijing": [],
+        "keywords": [
+          "葛洪",
+          "抱朴子",
+          "东晋",
+          "肘后备急方",
+          "抱朴子",
+          "炼丹",
+          "急症",
+          "道教",
+          "天花",
+          "恙虫病"
+        ]
+      }
+    },
+    {
+      "id": "huangfumi_001",
+      "book": "中医各家学说",
+      "type": "yijia",
+      "tier": 1,
+      "category": "yishi",
+      "subcategory": "yijia",
+      "path": "library/yishi/yijia/huangfumi/huangfumi_001.md",
+      "weight": 8,
+      "title": "皇甫谧·著针灸甲乙经厘定腧穴刺灸",
+      "chapter": "医家",
+      "conditions": {
+        "zhengxing": [],
+        "zhifa": [
+          "针灸",
+          "刺法",
+          "灸法"
+        ],
+        "bingzheng": [],
+        "zhengzhuang": [],
+        "fangming": [],
+        "yaoming": [],
+        "xuewei": [],
+        "jingluo": [],
+        "siqi": [],
+        "wuwei": [],
+        "guijing": [],
+        "keywords": [
+          "皇甫谧",
+          "西晋",
+          "针灸甲乙经",
+          "针灸学",
+          "腧穴",
+          "针灸",
+          "皇甫士安",
+          "玄晏先生"
+        ]
+      }
+    },
+    {
+      "id": "huangyuanyu_001",
+      "book": "中医各家学说",
+      "type": "yijia",
+      "tier": 1,
+      "category": "yishi",
+      "subcategory": "yijia",
+      "path": "library/yishi/yijia/huangyuanyu/huangyuanyu_001.md",
+      "weight": 8,
+      "title": "黄元御·著四圣心源阐一气周流中气升降",
+      "chapter": "医家",
+      "conditions": {
+        "zhengxing": [],
+        "zhifa": [
+          "中气升降",
+          "一气周流"
+        ],
+        "bingzheng": [],
+        "zhengzhuang": [],
+        "fangming": [],
+        "yaoming": [],
+        "xuewei": [],
+        "jingluo": [],
+        "siqi": [],
+        "wuwei": [],
+        "guijing": [],
+        "keywords": [
+          "黄元御",
+          "清",
+          "四圣心源",
+          "一气周流",
+          "中气升降",
+          "玉楸子"
+        ]
+      }
+    },
+    {
+      "id": "huatuo_004",
+      "book": "中医各家学说",
+      "type": "yijia",
+      "tier": 1,
+      "category": "yishi",
+      "subcategory": "yijia",
+      "path": "library/yishi/yijia/huatuo/huatuo_004.md",
+      "weight": 8,
+      "title": "华佗·麻沸散创外科与五禽戏养生",
+      "chapter": "医家",
+      "conditions": {
+        "zhengxing": [],
+        "zhifa": [
+          "外科手术",
+          "麻醉镇痛",
+          "导引养生"
+        ],
+        "bingzheng": [
+          "外科疾患"
+        ],
+        "zhengzhuang": [],
+        "fangming": [],
+        "yaoming": [
+          "麻沸散"
+        ],
+        "xuewei": [],
+        "jingluo": [],
+        "siqi": [],
+        "wuwei": [],
+        "guijing": [],
+        "keywords": [
+          "华佗",
+          "华旉",
+          "东汉",
+          "麻沸散",
+          "五禽戏",
+          "外科",
+          "中藏经",
+          "麻醉",
+          "导引"
+        ]
+      }
+    },
+    {
+      "id": "ligao_001",
+      "book": "中医各家学说",
+      "type": "yijia",
+      "tier": 1,
+      "category": "yishi",
+      "subcategory": "yijia",
+      "path": "library/yishi/yijia/ligao/ligao_001.md",
+      "weight": 8,
+      "title": "李杲·补土派主内伤脾胃百病由生",
+      "chapter": "医家",
+      "conditions": {
+        "zhengxing": [
+          "脾胃气虚",
+          "气虚发热"
+        ],
+        "zhifa": [
+          "补中益气",
+          "升阳举陷",
+          "甘温除热"
+        ],
+        "bingzheng": [
+          "虚劳",
+          "内伤发热",
+          "脾胃病"
+        ],
+        "zhengzhuang": [
+          "身热",
+          "自汗",
+          "少气懒言",
+          "倦怠乏力"
+        ],
+        "fangming": [
+          "补中益气汤"
+        ],
+        "yaoming": [
+          "黄芪",
+          "人参",
+          "白术",
+          "炙甘草",
+          "当归",
+          "陈皮",
+          "升麻",
+          "柴胡"
+        ],
+        "xuewei": [],
+        "jingluo": [],
+        "siqi": [],
+        "wuwei": [],
+        "guijing": [],
+        "keywords": [
+          "李杲",
+          "李东垣",
+          "金",
+          "补土派",
+          "脾胃论",
+          "补中益气汤",
+          "易水学派",
+          "金元四大家",
+          "内伤脾胃",
+          "甘温除热"
+        ]
+      }
+    },
+    {
+      "id": "liuwansu_001",
+      "book": "中医各家学说",
+      "type": "yijia",
+      "tier": 1,
+      "category": "yishi",
+      "subcategory": "yijia",
+      "path": "library/yishi/yijia/liuwansu/liuwansu_001.md",
+      "weight": 8,
+      "title": "刘完素·主火热论创河间寒凉一派",
+      "chapter": "医家",
+      "conditions": {
+        "zhengxing": [],
+        "zhifa": [
+          "火热论",
+          "寒凉清热"
+        ],
+        "bingzheng": [
+          "火热病证",
+          "外感热病"
+        ],
+        "zhengzhuang": [],
+        "fangming": [
+          "防风通圣散",
+          "双解散",
+          "天水散"
+        ],
+        "yaoming": [],
+        "xuewei": [],
+        "jingluo": [],
+        "siqi": [],
+        "wuwei": [],
+        "guijing": [],
+        "keywords": [
+          "刘完素",
+          "刘河间",
+          "金",
+          "河间学派",
+          "寒凉派",
+          "素问玄机原病式",
+          "宣明论方",
+          "火热论"
+        ]
+      }
+    },
+    {
+      "id": "panganshi_001",
+      "book": "中医各家学说",
+      "type": "yijia",
+      "tier": 1,
+      "category": "yishi",
+      "subcategory": "yijia",
+      "path": "library/yishi/yijia/panganshi/panganshi_001.md",
+      "weight": 8,
+      "title": "庞安时·著伤寒总病论倡寒温分治",
+      "chapter": "医家",
+      "conditions": {
+        "zhengxing": [],
+        "zhifa": [
+          "寒温分治"
+        ],
+        "bingzheng": [
+          "伤寒",
+          "温病",
+          "外感热病"
+        ],
+        "zhengzhuang": [],
+        "fangming": [],
+        "yaoming": [],
+        "xuewei": [],
+        "jingluo": [],
+        "siqi": [],
+        "wuwei": [],
+        "guijing": [],
+        "keywords": [
+          "庞安时",
+          "北宋",
+          "伤寒总病论",
+          "伤寒学派",
+          "寒温分治",
+          "温病"
+        ]
+      }
+    },
+    {
+      "id": "qianyi_003",
+      "book": "中医各家学说",
+      "type": "yijia",
+      "tier": 1,
+      "category": "yishi",
+      "subcategory": "yijia",
+      "path": "library/yishi/yijia/qianyi/qianyi_003.md",
+      "weight": 8,
+      "title": "钱乙·创儿科五脏辨证著小儿药证直诀",
+      "chapter": "医家",
+      "conditions": {
+        "zhengxing": [],
+        "zhifa": [
+          "儿科五脏辨证"
+        ],
+        "bingzheng": [
+          "小儿科",
+          "痘疹",
+          "疳积"
+        ],
+        "zhengzhuang": [],
+        "fangming": [
+          "六味地黄丸",
+          "泻白散",
+          "导赤散",
+          "异功散"
+        ],
+        "yaoming": [],
+        "xuewei": [],
+        "jingluo": [],
+        "siqi": [],
+        "wuwei": [],
+        "guijing": [],
+        "keywords": [
+          "钱乙",
+          "钱仲阳",
+          "北宋",
+          "小儿药证直诀",
+          "儿科之圣",
+          "儿科",
+          "六味地黄丸",
+          "五脏辨证"
+        ]
+      }
+    },
+    {
+      "id": "sunsimiao_001",
+      "book": "中医各家学说",
+      "type": "yijia",
+      "tier": 1,
+      "category": "yishi",
+      "subcategory": "yijia",
+      "path": "library/yishi/yijia/sunsimiao/sunsimiao_001.md",
+      "weight": 8,
+      "title": "孙思邈·著千金方倡大医精诚立医德纲领",
+      "chapter": "医家",
+      "conditions": {
+        "zhengxing": [],
+        "zhifa": [],
+        "bingzheng": [],
+        "zhengzhuang": [],
+        "fangming": [],
+        "yaoming": [],
+        "xuewei": [],
+        "jingluo": [],
+        "siqi": [],
+        "wuwei": [],
+        "guijing": [],
+        "keywords": [
+          "孙思邈",
+          "孙真人",
+          "药王",
+          "唐",
+          "备急千金要方",
+          "千金翼方",
+          "大医精诚",
+          "医德"
+        ]
+      }
+    },
+    {
+      "id": "taohongjing_001",
+      "book": "中医各家学说",
+      "type": "yijia",
+      "tier": 1,
+      "category": "yishi",
+      "subcategory": "yijia",
+      "path": "library/yishi/yijia/taohongjing/taohongjing_001.md",
+      "weight": 8,
+      "title": "陶弘景·本草经集注重编神农本草",
+      "chapter": "医家",
+      "conditions": {
+        "zhengxing": [],
+        "zhifa": [],
+        "bingzheng": [],
+        "zhengzhuang": [],
+        "fangming": [],
+        "yaoming": [
+          "本草经集注",
+          "神农本草经"
+        ],
+        "xuewei": [],
+        "jingluo": [],
+        "siqi": [],
+        "wuwei": [],
+        "guijing": [],
+        "keywords": [
+          "陶弘景",
+          "华阳隐居",
+          "南朝梁",
+          "本草经集注",
+          "神农本草经",
+          "补阙肘后百一方",
+          "本草学",
+          "道教",
+          "炼丹"
+        ]
+      }
+    },
+    {
+      "id": "wanghaogu_001",
+      "book": "中医各家学说",
+      "type": "yijia",
+      "tier": 1,
+      "category": "yishi",
+      "subcategory": "yijia",
+      "path": "library/yishi/yijia/wanghaogu/wanghaogu_001.md",
+      "weight": 8,
+      "title": "王好古·阴证略例阐发易水阴寒证治",
+      "chapter": "医家",
+      "conditions": {
+        "zhengxing": [
+          "阴证",
+          "阴寒内盛",
+          "阳虚寒盛"
+        ],
+        "zhifa": [
+          "温阳散寒",
+          "回阳救逆",
+          "温养脾肾"
+        ],
+        "bingzheng": [
+          "阴证",
+          "伤寒阴证"
+        ],
+        "zhengzhuang": [
+          "四肢厥冷",
+          "脉沉微细",
+          "畏寒"
+        ],
+        "fangming": [],
+        "yaoming": [],
+        "xuewei": [],
+        "jingluo": [],
+        "siqi": [],
+        "wuwei": [],
+        "guijing": [],
+        "keywords": [
+          "王好古",
+          "王海藏",
+          "元",
+          "易水学派",
+          "阴证略例",
+          "阴证",
+          "伤寒",
+          "温阳"
+        ]
+      }
+    },
+    {
+      "id": "wangqingren_001",
+      "book": "中医各家学说",
+      "type": "yijia",
+      "tier": 1,
+      "category": "yishi",
+      "subcategory": "yijia",
+      "path": "library/yishi/yijia/wangqingren/wangqingren_001.md",
+      "weight": 8,
+      "title": "王清任·著医林改错亲见脏腑倡活血化瘀",
+      "chapter": "医家",
+      "conditions": {
+        "zhengxing": [],
+        "zhifa": [
+          "活血化瘀"
+        ],
+        "bingzheng": [
+          "瘀血证",
+          "气虚血瘀",
+          "中风后遗症"
+        ],
+        "zhengzhuang": [],
+        "fangming": [
+          "补阳还五汤",
+          "血府逐瘀汤",
+          "少腹逐瘀汤",
+          "通窍活血汤"
+        ],
+        "yaoming": [
+          "黄芪",
+          "桃仁",
+          "红花",
+          "川芎",
+          "当归",
+          "赤芍",
+          "地龙"
+        ],
+        "xuewei": [],
+        "jingluo": [],
+        "siqi": [],
+        "wuwei": [],
+        "guijing": [],
+        "keywords": [
+          "王清任",
+          "清",
+          "医林改错",
+          "瘀血",
+          "活血化瘀",
+          "补阳还五汤",
+          "血府逐瘀汤"
+        ]
+      }
+    },
+    {
+      "id": "wangshuhe_001",
+      "book": "中医各家学说",
+      "type": "yijia",
+      "tier": 1,
+      "category": "yishi",
+      "subcategory": "yijia",
+      "path": "library/yishi/yijia/wangshuhe/wangshuhe_001.md",
+      "weight": 8,
+      "title": "王叔和·撰脉经编次伤寒论",
+      "chapter": "医家",
+      "conditions": {
+        "zhengxing": [],
+        "zhifa": [
+          "脉诊",
+          "伤寒辨治"
+        ],
+        "bingzheng": [],
+        "zhengzhuang": [],
+        "fangming": [],
+        "yaoming": [],
+        "xuewei": [],
+        "jingluo": [],
+        "siqi": [],
+        "wuwei": [],
+        "guijing": [],
+        "keywords": [
+          "王叔和",
+          "王熙",
+          "西晋",
+          "脉经",
+          "伤寒论编次",
+          "脉学",
+          "寸口脉法",
+          "三部九候"
+        ]
+      }
+    },
+    {
+      "id": "wangtao_001",
+      "book": "中医各家学说",
+      "type": "yijia",
+      "tier": 1,
+      "category": "yishi",
+      "subcategory": "yijia",
+      "path": "library/yishi/yijia/wangtao/wangtao_001.md",
+      "weight": 8,
+      "title": "王焘·辑外台秘要汇存唐以前方书",
+      "chapter": "医家",
+      "conditions": {
+        "zhengxing": [],
+        "zhifa": [],
+        "bingzheng": [],
+        "zhengzhuang": [],
+        "fangming": [],
+        "yaoming": [],
+        "xuewei": [],
+        "jingluo": [],
+        "siqi": [],
+        "wuwei": [],
+        "guijing": [],
+        "keywords": [
+          "王焘",
+          "唐",
+          "外台秘要",
+          "方书汇编",
+          "文献辑佚"
+        ]
+      }
+    },
+    {
+      "id": "wuyouxing_001",
+      "book": "中医各家学说",
+      "type": "yijia",
+      "tier": 1,
+      "category": "yishi",
+      "subcategory": "yijia",
+      "path": "library/yishi/yijia/wuyouxing/wuyouxing_001.md",
+      "weight": 8,
+      "title": "吴有性·温疫论创戾气学说",
+      "chapter": "医家",
+      "conditions": {
+        "zhengxing": [
+          "温疫",
+          "湿热疫毒"
+        ],
+        "zhifa": [
+          "疏利透达",
+          "达原逐邪",
+          "分消湿热"
+        ],
+        "bingzheng": [
+          "温疫",
+          "温病",
+          "烈性传染病"
+        ],
+        "zhengzhuang": [
+          "憎寒壮热",
+          "头痛如劈",
+          "昼夜发热"
+        ],
+        "fangming": [
+          "达原饮"
+        ],
+        "yaoming": [
+          "槟榔",
+          "厚朴",
+          "草果",
+          "知母",
+          "黄芩",
+          "芍药"
+        ],
+        "xuewei": [],
+        "jingluo": [],
+        "siqi": [],
+        "wuwei": [],
+        "guijing": [],
+        "keywords": [
+          "吴有性",
+          "吴又可",
+          "明",
+          "温疫论",
+          "戾气",
+          "温病学派",
+          "达原饮",
+          "疠气",
+          "传染病"
+        ]
+      }
+    },
+    {
+      "id": "xudachun_001",
+      "book": "中医各家学说",
+      "type": "yijia",
+      "tier": 1,
+      "category": "yishi",
+      "subcategory": "yijia",
+      "path": "library/yishi/yijia/xudachun/xudachun_001.md",
+      "weight": 8,
+      "title": "徐大椿·著医学源流论穷医源重考据",
+      "chapter": "医家",
+      "conditions": {
+        "zhengxing": [],
+        "zhifa": [
+          "类方辨证"
+        ],
+        "bingzheng": [],
+        "zhengzhuang": [],
+        "fangming": [],
+        "yaoming": [],
+        "xuewei": [],
+        "jingluo": [],
+        "siqi": [],
+        "wuwei": [],
+        "guijing": [],
+        "keywords": [
+          "徐大椿",
+          "徐灵胎",
+          "清",
+          "医学源流论",
+          "伤寒论类方",
+          "洄溪",
+          "医论"
+        ]
+      }
+    },
+    {
+      "id": "xueji_001",
+      "book": "中医各家学说",
+      "type": "yijia",
+      "tier": 1,
+      "category": "yishi",
+      "subcategory": "yijia",
+      "path": "library/yishi/yijia/xueji/xueji_001.md",
+      "weight": 8,
+      "title": "薛己·温补学派先导兼擅内外妇儿",
+      "chapter": "医家",
+      "conditions": {
+        "zhengxing": [
+          "脾胃虚弱",
+          "命门火衰",
+          "脾肾阳虚"
+        ],
+        "zhifa": [
+          "温补脾肾",
+          "滋肾",
+          "培补元气"
+        ],
+        "bingzheng": [
+          "虚劳",
+          "内科杂病",
+          "外科疮疡"
+        ],
+        "zhengzhuang": [],
+        "fangming": [
+          "六味地黄丸",
+          "八味地黄丸",
+          "补中益气汤"
+        ],
+        "yaoming": [],
+        "xuewei": [],
+        "jingluo": [],
+        "siqi": [],
+        "wuwei": [],
+        "guijing": [],
+        "keywords": [
+          "薛己",
+          "薛立斋",
+          "明",
+          "温补学派",
+          "外科发挥",
+          "内科摘要",
+          "薛氏医案",
+          "六味地黄丸",
+          "八味丸"
+        ]
+      }
+    },
+    {
+      "id": "xuexue_001",
+      "book": "中医各家学说",
+      "type": "yijia",
+      "tier": 1,
+      "category": "yishi",
+      "subcategory": "yijia",
+      "path": "library/yishi/yijia/xuexue/xuexue_001.md",
+      "weight": 8,
+      "title": "薛雪·著湿热条辨专论湿热证治",
+      "chapter": "医家",
+      "conditions": {
+        "zhengxing": [],
+        "zhifa": [
+          "湿热辨证"
+        ],
+        "bingzheng": [
+          "湿热病",
+          "温病",
+          "湿温"
+        ],
+        "zhengzhuang": [],
+        "fangming": [],
+        "yaoming": [],
+        "xuewei": [],
+        "jingluo": [],
+        "siqi": [],
+        "wuwei": [],
+        "guijing": [],
+        "keywords": [
+          "薛雪",
+          "薛生白",
+          "清",
+          "湿热条辨",
+          "湿热病篇",
+          "温病学派"
+        ]
+      }
+    },
+    {
+      "id": "xushuwei_003",
+      "book": "中医各家学说",
+      "type": "yijia",
+      "tier": 1,
+      "category": "yishi",
+      "subcategory": "yijia",
+      "path": "library/yishi/yijia/xushuwei/xushuwei_003.md",
+      "weight": 8,
+      "title": "许叔微·以经释论著伤寒三书重辨证",
+      "chapter": "医家",
+      "conditions": {
+        "zhengxing": [],
+        "zhifa": [
+          "以经释论",
+          "辨证论治"
+        ],
+        "bingzheng": [
+          "伤寒",
+          "外感热病"
+        ],
+        "zhengzhuang": [],
+        "fangming": [],
+        "yaoming": [],
+        "xuewei": [],
+        "jingluo": [],
+        "siqi": [],
+        "wuwei": [],
+        "guijing": [],
+        "keywords": [
+          "许叔微",
+          "许知可",
+          "南宋",
+          "伤寒发微论",
+          "伤寒百证歌",
+          "伤寒九十论",
+          "伤寒学派",
+          "以经释论"
+        ]
+      }
+    },
+    {
+      "id": "yetianshi_009",
+      "book": "中医各家学说",
+      "type": "yijia",
+      "tier": 1,
+      "category": "yishi",
+      "subcategory": "yijia",
+      "path": "library/yishi/yijia/yetianshi/yetianshi_009.md",
+      "weight": 8,
+      "title": "叶桂·创卫气营血辨证为温病学派宗师",
+      "chapter": "医家",
+      "conditions": {
+        "zhengxing": [],
+        "zhifa": [
+          "卫气营血辨证",
+          "温病辨证",
+          "通络"
+        ],
+        "bingzheng": [
+          "温病",
+          "温热病",
+          "外感热病"
+        ],
+        "zhengzhuang": [],
+        "fangming": [],
+        "yaoming": [],
+        "xuewei": [],
+        "jingluo": [],
+        "siqi": [],
+        "wuwei": [],
+        "guijing": [],
+        "keywords": [
+          "叶桂",
+          "叶天士",
+          "清",
+          "温病学派",
+          "温热论",
+          "卫气营血辨证",
+          "络病"
+        ]
+      }
+    },
+    {
+      "id": "yujiayan_004",
+      "book": "中医各家学说",
+      "type": "yijia",
+      "tier": 1,
+      "category": "yishi",
+      "subcategory": "yijia",
+      "path": "library/yishi/yijia/yujiayan/yujiayan_004.md",
+      "weight": 8,
+      "title": "喻昌·尚论伤寒秋燥论立医门法律",
+      "chapter": "医家",
+      "conditions": {
+        "zhengxing": [],
+        "zhifa": [
+          "伤寒辨证",
+          "清燥润肺",
+          "逆流挽舟"
+        ],
+        "bingzheng": [
+          "伤寒",
+          "秋燥",
+          "痢疾"
+        ],
+        "zhengzhuang": [],
+        "fangming": [
+          "清燥救肺汤"
+        ],
+        "yaoming": [],
+        "xuewei": [],
+        "jingluo": [],
+        "siqi": [],
+        "wuwei": [],
+        "guijing": [],
+        "keywords": [
+          "喻昌",
+          "喻嘉言",
+          "明末清初",
+          "尚论篇",
+          "医门法律",
+          "秋燥论",
+          "寓意草",
+          "清燥救肺汤",
+          "伤寒"
+        ]
+      }
+    },
+    {
+      "id": "zhangcongzheng_001",
+      "book": "中医各家学说",
+      "type": "yijia",
+      "tier": 1,
+      "category": "yishi",
+      "subcategory": "yijia",
+      "path": "library/yishi/yijia/zhangcongzheng/zhangcongzheng_001.md",
+      "weight": 8,
+      "title": "张从正·主张攻邪著儒门事亲用汗吐下",
+      "chapter": "医家",
+      "conditions": {
+        "zhengxing": [],
+        "zhifa": [
+          "汗吐下三法",
+          "攻邪"
+        ],
+        "bingzheng": [
+          "外感邪气",
+          "痰饮宿食"
+        ],
+        "zhengzhuang": [],
+        "fangming": [
+          "浚川散",
+          "禹功散"
+        ],
+        "yaoming": [],
+        "xuewei": [],
+        "jingluo": [],
+        "siqi": [],
+        "wuwei": [],
+        "guijing": [],
+        "keywords": [
+          "张从正",
+          "张子和",
+          "金",
+          "攻邪学派",
+          "儒门事亲",
+          "汗吐下",
+          "攻邪"
+        ]
+      }
+    },
+    {
+      "id": "zhangjiebin_001",
+      "book": "中医各家学说",
+      "type": "yijia",
+      "tier": 1,
+      "category": "yishi",
+      "subcategory": "yijia",
+      "path": "library/yishi/yijia/zhangjiebin/zhangjiebin_001.md",
+      "weight": 8,
+      "title": "张介宾·温补学派主阳非有余真阴不足",
+      "chapter": "医家",
+      "conditions": {
+        "zhengxing": [
+          "真阴不足",
+          "阳虚"
+        ],
+        "zhifa": [
+          "温补",
+          "温补肾阳",
+          "滋养真阴"
+        ],
+        "bingzheng": [
+          "虚劳",
+          "内伤杂病"
+        ],
+        "zhengzhuang": [],
+        "fangming": [
+          "左归丸",
+          "右归丸",
+          "左归饮",
+          "右归饮",
+          "金水六君煎"
+        ],
+        "yaoming": [
+          "熟地黄",
+          "山茱萸",
+          "枸杞子",
+          "附子",
+          "肉桂",
+          "鹿角胶"
+        ],
+        "xuewei": [],
+        "jingluo": [],
+        "siqi": [],
+        "wuwei": [],
+        "guijing": [],
+        "keywords": [
+          "张介宾",
+          "张景岳",
+          "明",
+          "温补学派",
+          "景岳全书",
+          "类经",
+          "阳非有余",
+          "真阴不足",
+          "左归丸",
+          "右归丸"
+        ]
+      }
+    },
+    {
+      "id": "zhangyuansu_001",
+      "book": "中医各家学说",
+      "type": "yijia",
+      "tier": 1,
+      "category": "yishi",
+      "subcategory": "yijia",
+      "path": "library/yishi/yijia/zhangyuansu/zhangyuansu_001.md",
+      "weight": 8,
+      "title": "张元素·创易水学派脏腑寒热虚实辨证",
+      "chapter": "医家",
+      "conditions": {
+        "zhengxing": [
+          "脏腑寒热虚实辨证"
+        ],
+        "zhifa": [
+          "脏腑辨证",
+          "制方式",
+          "药物归经"
+        ],
+        "bingzheng": [],
+        "zhengzhuang": [],
+        "fangming": [],
+        "yaoming": [],
+        "xuewei": [],
+        "jingluo": [],
+        "siqi": [],
+        "wuwei": [],
+        "guijing": [],
+        "keywords": [
+          "张元素",
+          "张洁古",
+          "金",
+          "易水学派",
+          "医学启源",
+          "珍珠囊",
+          "脏腑辨证",
+          "归经"
+        ]
+      }
+    },
+    {
+      "id": "zhangzhongjing_003",
+      "book": "中医各家学说",
+      "type": "yijia",
+      "tier": 1,
+      "category": "yishi",
+      "subcategory": "yijia",
+      "path": "library/yishi/yijia/zhangzhongjing/zhangzhongjing_003.md",
+      "weight": 8,
+      "title": "张仲景·著伤寒杂病论确立辨证论治体系",
+      "chapter": "医家",
+      "conditions": {
+        "zhengxing": [
+          "伤寒六经证治"
+        ],
+        "zhifa": [
+          "辨证论治",
+          "六经辨证",
+          "八纲辨证"
+        ],
+        "bingzheng": [
+          "伤寒",
+          "杂病",
+          "外感热病"
+        ],
+        "zhengzhuang": [],
+        "fangming": [
+          "桂枝汤",
+          "麻黄汤",
+          "小柴胡汤",
+          "白虎汤",
+          "承气汤",
+          "四逆汤"
+        ],
+        "yaoming": [],
+        "xuewei": [],
+        "jingluo": [],
+        "siqi": [],
+        "wuwei": [],
+        "guijing": [],
+        "keywords": [
+          "张仲景",
+          "张机",
+          "张长沙",
+          "东汉",
+          "医圣",
+          "伤寒杂病论",
+          "伤寒论",
+          "金匮要略",
+          "辨证论治",
+          "六经辨证",
+          "经方学派"
+        ]
+      }
+    },
+    {
+      "id": "zhuzhenheng_001",
+      "book": "中医各家学说",
+      "type": "yijia",
+      "tier": 1,
+      "category": "yishi",
+      "subcategory": "yijia",
+      "path": "library/yishi/yijia/zhuzhenheng/zhuzhenheng_001.md",
+      "weight": 8,
+      "title": "朱震亨·滋阴派倡阳常有余阴常不足",
+      "chapter": "医家",
+      "conditions": {
+        "zhengxing": [
+          "阴虚火旺",
+          "阴精不足"
+        ],
+        "zhifa": [
+          "滋阴降火",
+          "滋阴",
+          "泻火"
+        ],
+        "bingzheng": [
+          "内伤杂病",
+          "阴虚火旺"
+        ],
+        "zhengzhuang": [
+          "潮热",
+          "盗汗",
+          "咳嗽",
+          "咯血"
+        ],
+        "fangming": [
+          "大补阴丸",
+          "越鞠丸",
+          "保和丸"
+        ],
+        "yaoming": [
+          "熟地黄",
+          "龟板",
+          "黄柏",
+          "知母"
+        ],
+        "xuewei": [],
+        "jingluo": [],
+        "siqi": [],
+        "wuwei": [],
+        "guijing": [],
+        "keywords": [
+          "朱震亨",
+          "朱丹溪",
+          "元",
+          "滋阴派",
+          "丹溪学派",
+          "格致余论",
+          "阳有余阴不足",
+          "金元四大家",
+          "六郁"
         ]
       }
     },

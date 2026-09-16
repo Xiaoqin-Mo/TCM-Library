@@ -87,8 +87,13 @@ def main() -> None:
         print(f"{'PASS' if ok else 'FAIL'}  {name}: 命中 {len(got)}，基线 {len(base)} 全含={set(base) <= got}，抽查 {new} 全含={set(new) <= got}")
         results.append(ok)
     # 同字段多值 OR：任一命中即该字段命中（桂枝汤 zhengxing 含太阳中风）
-    results.append(check("同字段多值 OR",
-                         ids({"zhengxing": ["太阳中风", "风寒束表"]}), ["guizhijiagegengtang_001", "guizhitang_001", "zhangzhongjing_002"]))
+    # 命中随新指南条目扩充（ganmao_002 含风寒束表），旧基线子集 + 抽查新增
+    or_got = set(ids({"zhengxing": ["太阳中风", "风寒束表"]}))
+    or_base = {"guizhijiagegengtang_001", "guizhitang_001", "zhangzhongjing_002"}
+    or_new = {"ganmao_002"}
+    ok = or_base <= or_got and or_new <= or_got
+    print(f"{'PASS' if ok else 'FAIL'}  同字段多值 OR: 命中 {len(or_got)}，基线全含={or_base <= or_got}，抽查新增全含={or_new <= or_got}")
+    results.append(ok)
     # 跨字段 AND：zhengxing 命中但 zhifa 不命中 → 不召回
     results.append(check("跨字段 AND 不匹配",
                          ids({"zhengxing": ["太阳中风"], "zhifa": ["发汗解表"]}), []))
@@ -108,7 +113,7 @@ def main() -> None:
     # 空查询静默（不返回全部）
     results.append(check("空查询静默", ids({}), []))
     # 结构完整性
-    results.append(check("manifest 非空", [str(MANIFEST["total"])], ["2402"]))
+    results.append(check("manifest 非空", [str(MANIFEST["total"])], ["2522"]))
     results.append(check("match_fields 齐全",
                          MANIFEST["match_fields"],
                          ["zhengxing", "zhifa", "bingzheng", "zhengzhuang",

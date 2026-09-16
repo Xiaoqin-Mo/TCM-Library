@@ -58,6 +58,12 @@
         "count": 1
       }
     },
+    "yangsheng": {
+      "daoyin": {
+        "dir": "yangsheng/daoyin/zhanzhuang",
+        "count": 1
+      }
+    },
     "yishi": {
       "xuepai": {
         "dir": "yishi/xuepai/zhongxihuitongxuepai",
@@ -1777,6 +1783,134 @@
       "tier_name": "核心",
       "category": "linchuang",
       "subcategory": "wenbing",
+      "count": 1
+    },
+    {
+      "dir": "yangsheng/daoyin/baduanjin",
+      "tier": 1,
+      "tier_name": "核心",
+      "category": "yangsheng",
+      "subcategory": "daoyin",
+      "count": 1
+    },
+    {
+      "dir": "yangsheng/daoyin/cugudao",
+      "tier": 1,
+      "tier_name": "核心",
+      "category": "yangsheng",
+      "subcategory": "daoyin",
+      "count": 1
+    },
+    {
+      "dir": "yangsheng/daoyin/daoyinanqiao",
+      "tier": 1,
+      "tier_name": "核心",
+      "category": "yangsheng",
+      "subcategory": "daoyin",
+      "count": 1
+    },
+    {
+      "dir": "yangsheng/daoyin/dianzufa",
+      "tier": 1,
+      "tier_name": "核心",
+      "category": "yangsheng",
+      "subcategory": "daoyin",
+      "count": 1
+    },
+    {
+      "dir": "yangsheng/daoyin/kouchiyanjin",
+      "tier": 1,
+      "tier_name": "核心",
+      "category": "yangsheng",
+      "subcategory": "daoyin",
+      "count": 1
+    },
+    {
+      "dir": "yangsheng/daoyin/liuzijue",
+      "tier": 1,
+      "tier_name": "核心",
+      "category": "yangsheng",
+      "subcategory": "daoyin",
+      "count": 1
+    },
+    {
+      "dir": "yangsheng/daoyin/mawangdui",
+      "tier": 1,
+      "tier_name": "核心",
+      "category": "yangsheng",
+      "subcategory": "daoyin",
+      "count": 1
+    },
+    {
+      "dir": "yangsheng/daoyin/mingtiangu",
+      "tier": 1,
+      "tier_name": "核心",
+      "category": "yangsheng",
+      "subcategory": "daoyin",
+      "count": 1
+    },
+    {
+      "dir": "yangsheng/daoyin/momianyuyan",
+      "tier": 1,
+      "tier_name": "核心",
+      "category": "yangsheng",
+      "subcategory": "daoyin",
+      "count": 1
+    },
+    {
+      "dir": "yangsheng/daoyin/roufufa",
+      "tier": 1,
+      "tier_name": "核心",
+      "category": "yangsheng",
+      "subcategory": "daoyin",
+      "count": 1
+    },
+    {
+      "dir": "yangsheng/daoyin/taijiquan",
+      "tier": 1,
+      "tier_name": "核心",
+      "category": "yangsheng",
+      "subcategory": "daoyin",
+      "count": 1
+    },
+    {
+      "dir": "yangsheng/daoyin/tunatiaoxi",
+      "tier": 1,
+      "tier_name": "核心",
+      "category": "yangsheng",
+      "subcategory": "daoyin",
+      "count": 1
+    },
+    {
+      "dir": "yangsheng/daoyin/wuqinxi",
+      "tier": 1,
+      "tier_name": "核心",
+      "category": "yangsheng",
+      "subcategory": "daoyin",
+      "count": 1
+    },
+    {
+      "dir": "yangsheng/daoyin/xiongjingniaoshen",
+      "tier": 1,
+      "tier_name": "核心",
+      "category": "yangsheng",
+      "subcategory": "daoyin",
+      "count": 1
+    },
+    {
+      "dir": "yangsheng/daoyin/yijinjing",
+      "tier": 1,
+      "tier_name": "核心",
+      "category": "yangsheng",
+      "subcategory": "daoyin",
+      "count": 1
+    },
+    {
+      "dir": "yangsheng/daoyin/zhanzhuang",
+      "tier": 1,
+      "tier_name": "核心",
+      "category": "yangsheng",
+      "subcategory": "daoyin",
       "count": 1
     },
     {
@@ -11396,7 +11530,7 @@
       "count": 1
     }
   ],
-  "total": 2444,
+  "total": 2460,
   "entries": [
     {
       "id": "baihutang_002",
@@ -58818,6 +58952,599 @@
           "卫气营血",
           "营分证",
           "透热转气"
+        ]
+      }
+    },
+    {
+      "id": "baduanjin_001",
+      "book": "中医养生（古籍要义归纳）",
+      "type": "chapter",
+      "tier": 1,
+      "category": "yangsheng",
+      "subcategory": "daoyin",
+      "path": "library/yangsheng/daoyin/baduanjin/baduanjin_001.md",
+      "weight": 8,
+      "title": "八段锦·立式导引八式",
+      "chapter": "导引功法",
+      "conditions": {
+        "zhengxing": [],
+        "zhifa": [
+          "调和气血",
+          "舒展筋骨",
+          "调理脏腑"
+        ],
+        "bingzheng": [],
+        "zhengzhuang": [
+          "疲劳",
+          "肢体沉重"
+        ],
+        "fangming": [],
+        "yaoming": [],
+        "xuewei": [],
+        "jingluo": [],
+        "siqi": [],
+        "wuwei": [],
+        "guijing": [],
+        "keywords": [
+          "八段锦",
+          "导引",
+          "功法",
+          "双手托天理三焦",
+          "调理脾胃须单举",
+          "摇头摆尾去心火",
+          "养生保健"
+        ]
+      }
+    },
+    {
+      "id": "cugudao_001",
+      "book": "中医养生（古籍要义归纳）",
+      "type": "chapter",
+      "tier": 1,
+      "category": "yangsheng",
+      "subcategory": "daoyin",
+      "path": "library/yangsheng/daoyin/cugudao/cugudao_001.md",
+      "weight": 8,
+      "title": "撮谷道·提肛缩臀古法养生",
+      "chapter": "导引功法",
+      "conditions": {
+        "zhengxing": [],
+        "zhifa": [
+          "提肛",
+          "撮谷道"
+        ],
+        "bingzheng": [],
+        "zhengzhuang": [],
+        "fangming": [],
+        "yaoming": [],
+        "xuewei": [],
+        "jingluo": [],
+        "siqi": [],
+        "wuwei": [],
+        "guijing": [],
+        "keywords": [
+          "撮谷道",
+          "提肛",
+          "谷道",
+          "养生",
+          "撮提",
+          "肛门收提"
+        ]
+      }
+    },
+    {
+      "id": "daoyinanqiao_001",
+      "book": "中医养生（古籍要义归纳）",
+      "type": "chapter",
+      "tier": 1,
+      "category": "yangsheng",
+      "subcategory": "daoyin",
+      "path": "library/yangsheng/daoyin/daoyinanqiao/daoyinanqiao_001.md",
+      "weight": 8,
+      "title": "导引按跷·中央之治法",
+      "chapter": "导引功法",
+      "conditions": {
+        "zhengxing": [],
+        "zhifa": [
+          "导引按跷"
+        ],
+        "bingzheng": [],
+        "zhengzhuang": [
+          "痿厥寒热",
+          "肢体懈怠"
+        ],
+        "fangming": [],
+        "yaoming": [],
+        "xuewei": [],
+        "jingluo": [],
+        "siqi": [],
+        "wuwei": [],
+        "guijing": [],
+        "keywords": [
+          "导引按跷",
+          "素问",
+          "按跷",
+          "导引",
+          "外治法",
+          "异法方宜论"
+        ]
+      }
+    },
+    {
+      "id": "dianzufa_001",
+      "book": "中医养生（古籍要义归纳）",
+      "type": "chapter",
+      "tier": 1,
+      "category": "yangsheng",
+      "subcategory": "daoyin",
+      "path": "library/yangsheng/daoyin/dianzufa/dianzufa_001.md",
+      "weight": 8,
+      "title": "踮足法·提踵踮足引气血下行",
+      "chapter": "导引功法",
+      "conditions": {
+        "zhengxing": [],
+        "zhifa": [
+          "提踵",
+          "踮足"
+        ],
+        "bingzheng": [],
+        "zhengzhuang": [],
+        "fangming": [],
+        "yaoming": [],
+        "xuewei": [],
+        "jingluo": [],
+        "siqi": [],
+        "wuwei": [],
+        "guijing": [],
+        "keywords": [
+          "踮足",
+          "踮脚",
+          "提踵",
+          "养生",
+          "导引"
+        ]
+      }
+    },
+    {
+      "id": "kouchiyanjin_001",
+      "book": "中医养生（古籍要义归纳）",
+      "type": "chapter",
+      "tier": 1,
+      "category": "yangsheng",
+      "subcategory": "daoyin",
+      "path": "library/yangsheng/daoyin/kouchiyanjin/kouchiyanjin_001.md",
+      "weight": 8,
+      "title": "叩齿咽津·清晨叩齿漱津吞服",
+      "chapter": "导引功法",
+      "conditions": {
+        "zhengxing": [],
+        "zhifa": [
+          "叩齿",
+          "咽津"
+        ],
+        "bingzheng": [],
+        "zhengzhuang": [],
+        "fangming": [],
+        "yaoming": [],
+        "xuewei": [],
+        "jingluo": [],
+        "siqi": [],
+        "wuwei": [],
+        "guijing": [],
+        "keywords": [
+          "叩齿",
+          "咽津",
+          "漱玉津",
+          "养生",
+          "鼓漱",
+          "赤龙搅海"
+        ]
+      }
+    },
+    {
+      "id": "liuzijue_001",
+      "book": "中医养生（古籍要义归纳）",
+      "type": "chapter",
+      "tier": 1,
+      "category": "yangsheng",
+      "subcategory": "daoyin",
+      "path": "library/yangsheng/daoyin/liuzijue/liuzijue_001.md",
+      "weight": 8,
+      "title": "六字诀·六字吐纳调畅脏腑",
+      "chapter": "导引功法",
+      "conditions": {
+        "zhengxing": [],
+        "zhifa": [
+          "吐纳",
+          "调畅脏腑"
+        ],
+        "bingzheng": [],
+        "zhengzhuang": [],
+        "fangming": [],
+        "yaoming": [],
+        "xuewei": [],
+        "jingluo": [],
+        "siqi": [],
+        "wuwei": [],
+        "guijing": [],
+        "keywords": [
+          "六字诀",
+          "嘘",
+          "呵",
+          "呼",
+          "呬",
+          "吹",
+          "嘻",
+          "吐纳",
+          "养生",
+          "六字气诀"
+        ]
+      }
+    },
+    {
+      "id": "mawangdui_001",
+      "book": "中医养生（古籍要义归纳）",
+      "type": "chapter",
+      "tier": 1,
+      "category": "yangsheng",
+      "subcategory": "daoyin",
+      "path": "library/yangsheng/daoyin/mawangdui/mawangdui_001.md",
+      "weight": 8,
+      "title": "马王堆导引术·西汉帛画导引图复原",
+      "chapter": "导引功法",
+      "conditions": {
+        "zhengxing": [],
+        "zhifa": [
+          "仿生导引",
+          "形体导引"
+        ],
+        "bingzheng": [],
+        "zhengzhuang": [],
+        "fangming": [],
+        "yaoming": [],
+        "xuewei": [],
+        "jingluo": [],
+        "siqi": [],
+        "wuwei": [],
+        "guijing": [],
+        "keywords": [
+          "马王堆",
+          "导引图",
+          "西汉",
+          "出土文献",
+          "仿生",
+          "导引",
+          "帛画"
+        ]
+      }
+    },
+    {
+      "id": "mingtiangu_001",
+      "book": "中医养生（古籍要义归纳）",
+      "type": "chapter",
+      "tier": 1,
+      "category": "yangsheng",
+      "subcategory": "daoyin",
+      "path": "library/yangsheng/daoyin/mingtiangu/mingtiangu_001.md",
+      "weight": 8,
+      "title": "鸣天鼓·掩耳叩脑古法醒脑",
+      "chapter": "导引功法",
+      "conditions": {
+        "zhengxing": [],
+        "zhifa": [
+          "鸣天鼓",
+          "醒脑"
+        ],
+        "bingzheng": [],
+        "zhengzhuang": [],
+        "fangming": [],
+        "yaoming": [],
+        "xuewei": [],
+        "jingluo": [],
+        "siqi": [],
+        "wuwei": [],
+        "guijing": [],
+        "keywords": [
+          "鸣天鼓",
+          "掩耳",
+          "叩击",
+          "养生",
+          "醒脑"
+        ]
+      }
+    },
+    {
+      "id": "momianyuyan_001",
+      "book": "中医养生（古籍要义归纳）",
+      "type": "chapter",
+      "tier": 1,
+      "category": "yangsheng",
+      "subcategory": "daoyin",
+      "path": "library/yangsheng/daoyin/momianyuyan/momianyuyan_001.md",
+      "weight": 8,
+      "title": "摩面浴眼·干洗脸熨目古法",
+      "chapter": "导引功法",
+      "conditions": {
+        "zhengxing": [],
+        "zhifa": [
+          "浴面",
+          "熨目"
+        ],
+        "bingzheng": [],
+        "zhengzhuang": [],
+        "fangming": [],
+        "yaoming": [],
+        "xuewei": [],
+        "jingluo": [],
+        "siqi": [],
+        "wuwei": [],
+        "guijing": [],
+        "keywords": [
+          "摩面",
+          "浴面",
+          "干洗脸",
+          "熨目",
+          "养生"
+        ]
+      }
+    },
+    {
+      "id": "roufufa_001",
+      "book": "中医养生（古籍要义归纳）",
+      "type": "chapter",
+      "tier": 1,
+      "category": "yangsheng",
+      "subcategory": "daoyin",
+      "path": "library/yangsheng/daoyin/roufufa/roufufa_001.md",
+      "weight": 8,
+      "title": "揉腹法·摩腹绕脐古法养生",
+      "chapter": "导引功法",
+      "conditions": {
+        "zhengxing": [],
+        "zhifa": [
+          "摩腹",
+          "健脾助运"
+        ],
+        "bingzheng": [],
+        "zhengzhuang": [],
+        "fangming": [],
+        "yaoming": [],
+        "xuewei": [],
+        "jingluo": [],
+        "siqi": [],
+        "wuwei": [],
+        "guijing": [],
+        "keywords": [
+          "揉腹",
+          "摩腹",
+          "绕脐",
+          "养生",
+          "摩腹法"
+        ]
+      }
+    },
+    {
+      "id": "taijiquan_001",
+      "book": "中医养生（古籍要义归纳）",
+      "type": "chapter",
+      "tier": 1,
+      "category": "yangsheng",
+      "subcategory": "daoyin",
+      "path": "library/yangsheng/daoyin/taijiquan/taijiquan_001.md",
+      "weight": 8,
+      "title": "太极拳·阴阳开合松柔圆活",
+      "chapter": "导引功法",
+      "conditions": {
+        "zhengxing": [],
+        "zhifa": [
+          "松柔圆活",
+          "动静结合",
+          "以意领气"
+        ],
+        "bingzheng": [],
+        "zhengzhuang": [],
+        "fangming": [],
+        "yaoming": [],
+        "xuewei": [],
+        "jingluo": [],
+        "siqi": [],
+        "wuwei": [],
+        "guijing": [],
+        "keywords": [
+          "太极拳",
+          "阴阳",
+          "陈式",
+          "杨式",
+          "内家拳",
+          "导引",
+          "养生",
+          "刚柔并济"
+        ]
+      }
+    },
+    {
+      "id": "tunatiaoxi_001",
+      "book": "中医养生（古籍要义归纳）",
+      "type": "chapter",
+      "tier": 1,
+      "category": "yangsheng",
+      "subcategory": "daoyin",
+      "path": "library/yangsheng/daoyin/tunatiaoxi/tunatiaoxi_001.md",
+      "weight": 8,
+      "title": "吐纳调息·吐故纳新腹式呼吸",
+      "chapter": "导引功法",
+      "conditions": {
+        "zhengxing": [],
+        "zhifa": [
+          "吐纳",
+          "调息",
+          "腹式呼吸"
+        ],
+        "bingzheng": [],
+        "zhengzhuang": [],
+        "fangming": [],
+        "yaoming": [],
+        "xuewei": [],
+        "jingluo": [],
+        "siqi": [],
+        "wuwei": [],
+        "guijing": [],
+        "keywords": [
+          "吐纳",
+          "调息",
+          "吐故纳新",
+          "呼吸养生",
+          "腹式呼吸"
+        ]
+      }
+    },
+    {
+      "id": "wuqinxi_001",
+      "book": "中医养生（古籍要义归纳）",
+      "type": "chapter",
+      "tier": 1,
+      "category": "yangsheng",
+      "subcategory": "daoyin",
+      "path": "library/yangsheng/daoyin/wuqinxi/wuqinxi_001.md",
+      "weight": 8,
+      "title": "五禽戏·华佗仿生导引五式",
+      "chapter": "导引功法",
+      "conditions": {
+        "zhengxing": [],
+        "zhifa": [
+          "模仿导引",
+          "舒展关节"
+        ],
+        "bingzheng": [],
+        "zhengzhuang": [
+          "疲劳",
+          "肢体沉重"
+        ],
+        "fangming": [],
+        "yaoming": [],
+        "xuewei": [],
+        "jingluo": [],
+        "siqi": [],
+        "wuwei": [],
+        "guijing": [],
+        "keywords": [
+          "五禽戏",
+          "华佗",
+          "虎戏",
+          "鹿戏",
+          "熊戏",
+          "猿戏",
+          "鸟戏",
+          "导引",
+          "仿生"
+        ]
+      }
+    },
+    {
+      "id": "xiongjingniaoshen_001",
+      "book": "中医养生（古籍要义归纳）",
+      "type": "chapter",
+      "tier": 1,
+      "category": "yangsheng",
+      "subcategory": "daoyin",
+      "path": "library/yangsheng/daoyin/xiongjingniaoshen/xiongjingniaoshen_001.md",
+      "weight": 8,
+      "title": "熊经鸟伸·庄子仿生导引原型",
+      "chapter": "导引功法",
+      "conditions": {
+        "zhengxing": [],
+        "zhifa": [
+          "仿生导引"
+        ],
+        "bingzheng": [],
+        "zhengzhuang": [],
+        "fangming": [],
+        "yaoming": [],
+        "xuewei": [],
+        "jingluo": [],
+        "siqi": [],
+        "wuwei": [],
+        "guijing": [],
+        "keywords": [
+          "熊经鸟伸",
+          "庄子",
+          "导引",
+          "仿生",
+          "刻意"
+        ]
+      }
+    },
+    {
+      "id": "yijinjing_001",
+      "book": "中医养生（古籍要义归纳）",
+      "type": "chapter",
+      "tier": 1,
+      "category": "yangsheng",
+      "subcategory": "daoyin",
+      "path": "library/yangsheng/daoyin/yijinjing/yijinjing_001.md",
+      "weight": 8,
+      "title": "易筋经·立式伸筋拔骨十二势",
+      "chapter": "导引功法",
+      "conditions": {
+        "zhengxing": [],
+        "zhifa": [
+          "伸筋拔骨",
+          "强身"
+        ],
+        "bingzheng": [],
+        "zhengzhuang": [
+          "肢体僵硬",
+          "疲劳"
+        ],
+        "fangming": [],
+        "yaoming": [],
+        "xuewei": [],
+        "jingluo": [],
+        "siqi": [],
+        "wuwei": [],
+        "guijing": [],
+        "keywords": [
+          "易筋经",
+          "十二势",
+          "导引",
+          "明清",
+          "达摩",
+          "立式功法"
+        ]
+      }
+    },
+    {
+      "id": "zhanzhuang_001",
+      "book": "中医养生（古籍要义归纳）",
+      "type": "chapter",
+      "tier": 1,
+      "category": "yangsheng",
+      "subcategory": "daoyin",
+      "path": "library/yangsheng/daoyin/zhanzhuang/zhanzhuang_001.md",
+      "weight": 8,
+      "title": "站桩功·静立式桩功凝神松静",
+      "chapter": "导引功法",
+      "conditions": {
+        "zhengxing": [],
+        "zhifa": [
+          "站桩",
+          "松静"
+        ],
+        "bingzheng": [],
+        "zhengzhuang": [],
+        "fangming": [],
+        "yaoming": [],
+        "xuewei": [],
+        "jingluo": [],
+        "siqi": [],
+        "wuwei": [],
+        "guijing": [],
+        "keywords": [
+          "站桩",
+          "桩功",
+          "静功",
+          "养生",
+          "松静"
         ]
       }
     },

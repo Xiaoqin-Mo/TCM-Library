@@ -1,6 +1,6 @@
 # yishi · 医史医家
 
-> 收录 66 条 · 下级 2 个子类
+> 收录 82 条 · 下级 2 个子类
 
 ## yian · 医案
 
@@ -35,19 +35,35 @@
 | --- | --- | --- |
 | yishi/yijia/bianque | 1 | [索引](./yishi/yijia/bianque/INDEX.md) |
 | yishi/yijia/chaoyuanfang | 1 | [索引](./yishi/yijia/chaoyuanfang/INDEX.md) |
+| yishi/yijia/chensiduo | 1 | [索引](./yishi/yijia/chensiduo/INDEX.md) |
+| yishi/yijia/chenxiuyuan | 1 | [索引](./yishi/yijia/chenxiuyuan/INDEX.md) |
 | yishi/yijia/chunuyi | 1 | [索引](./yishi/yijia/chunuyi/INDEX.md) |
+| yishi/yijia/fushan | 1 | [索引](./yishi/yijia/fushan/INDEX.md) |
 | yishi/yijia/gehong | 1 | [索引](./yishi/yijia/gehong/INDEX.md) |
 | yishi/yijia/huangfumi | 1 | [索引](./yishi/yijia/huangfumi/INDEX.md) |
+| yishi/yijia/huangyuanyu | 1 | [索引](./yishi/yijia/huangyuanyu/INDEX.md) |
 | yishi/yijia/huatuo | 1 | [索引](./yishi/yijia/huatuo/INDEX.md) |
+| yishi/yijia/ligao | 1 | [索引](./yishi/yijia/ligao/INDEX.md) |
 | yishi/yijia/liuwansu | 1 | [索引](./yishi/yijia/liuwansu/INDEX.md) |
 | yishi/yijia/panganshi | 1 | [索引](./yishi/yijia/panganshi/INDEX.md) |
 | yishi/yijia/qianyi | 1 | [索引](./yishi/yijia/qianyi/INDEX.md) |
 | yishi/yijia/sunsimiao | 1 | [索引](./yishi/yijia/sunsimiao/INDEX.md) |
 | yishi/yijia/taohongjing | 1 | [索引](./yishi/yijia/taohongjing/INDEX.md) |
+| yishi/yijia/wanghaogu | 1 | [索引](./yishi/yijia/wanghaogu/INDEX.md) |
+| yishi/yijia/wangqingren | 1 | [索引](./yishi/yijia/wangqingren/INDEX.md) |
 | yishi/yijia/wangshuhe | 1 | [索引](./yishi/yijia/wangshuhe/INDEX.md) |
 | yishi/yijia/wangtao | 1 | [索引](./yishi/yijia/wangtao/INDEX.md) |
+| yishi/yijia/wuyouxing | 1 | [索引](./yishi/yijia/wuyouxing/INDEX.md) |
+| yishi/yijia/xudachun | 1 | [索引](./yishi/yijia/xudachun/INDEX.md) |
+| yishi/yijia/xueji | 1 | [索引](./yishi/yijia/xueji/INDEX.md) |
+| yishi/yijia/xuexue | 1 | [索引](./yishi/yijia/xuexue/INDEX.md) |
 | yishi/yijia/xushuwei | 1 | [索引](./yishi/yijia/xushuwei/INDEX.md) |
+| yishi/yijia/yetianshi | 1 | [索引](./yishi/yijia/yetianshi/INDEX.md) |
+| yishi/yijia/yujiayan | 1 | [索引](./yishi/yijia/yujiayan/INDEX.md) |
 | yishi/yijia/zhangcongzheng | 1 | [索引](./yishi/yijia/zhangcongzheng/INDEX.md) |
+| yishi/yijia/zhangjiebin | 1 | [索引](./yishi/yijia/zhangjiebin/INDEX.md) |
+| yishi/yijia/zhangyuansu | 1 | [索引](./yishi/yijia/zhangyuansu/INDEX.md) |
 | yishi/yijia/zhangzhongjing | 1 | [索引](./yishi/yijia/zhangzhongjing/INDEX.md) |
+| yishi/yijia/zhuzhenheng | 1 | [索引](./yishi/yijia/zhuzhenheng/INDEX.md) |
 
 [返回总索引](../INDEX.md)

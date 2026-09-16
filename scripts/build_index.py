@@ -38,7 +38,7 @@ def collect() -> Dict[str, List[Dict]]:
         fm, _body = parse_frontmatter(open(fp, encoding="utf-8").read())
         if not fm or "id" not in fm:
             continue
-        rel = os.path.relpath(os.path.dirname(fp), LIBRARY_DIR)
+        rel = os.path.relpath(os.path.dirname(fp), LIBRARY_DIR).replace("\\", "/")
         title = fm.get("section_title") or fm.get("chapter") or fm.get("id")
         books[rel].append({
             "id": fm["id"],
@@ -53,7 +53,7 @@ def collect() -> Dict[str, List[Dict]]:
 
 
 def render_book_index(rel: str, entries: List[Dict]) -> str:
-    parts = rel.split(os.sep)
+    parts = rel.split("/")
     cat, sub = parts[0], (parts[1] if len(parts) > 1 else "")
     czh = CATEGORY_MAP.get(cat, {}).get("name_zh", cat)
     szh = ""
@@ -80,7 +80,7 @@ def render_category_index(cat: str, books: Dict[str, List[Dict]]) -> str:
     subs: Dict[str, List[Tuple[str, str]]] = defaultdict(list)
     total = 0
     for rel in sorted(books):
-        parts = rel.split(os.sep)
+        parts = rel.split("/")
         if parts[0] != cat:
             continue
         sub = parts[1] if len(parts) > 1 else "(root)"
@@ -118,7 +118,7 @@ def render_root_index(books: Dict[str, List[Dict]]) -> str:
         "| --- | --- | --- | --- | --- |",
     ]
     for cat, czh, _subs in CATEGORIES:
-        cat_books = [r for r in books if r.split(os.sep)[0] == cat]
+        cat_books = [r for r in books if r.split("/")[0] == cat]
         cat_total = sum(len(books[r]) for r in cat_books)
         link = f"[索引](./library/{cat}/INDEX.md)" if cat_books else "—"
         lines.append(f"| {cat} | {czh} | {len(cat_books)} | {cat_total} | {link} |")
@@ -145,8 +145,8 @@ def render_root_index(books: Dict[str, List[Dict]]) -> str:
         "",
     ]
     for cat, czh, _subs in CATEGORIES:
-        lines.append(f"- **{cat}** · {czh}" + (f"（{len([r for r in books if r.split(os.sep)[0] == cat])} 部书，"
-                     f"{sum(len(books[r]) for r in books if r.split(os.sep)[0] == cat)} 条）"
+        lines.append(f"- **{cat}** · {czh}" + (f"（{len([r for r in books if r.split('/')[0] == cat])} 部书，"
+                     f"{sum(len(books[r]) for r in books if r.split('/')[0] == cat)} 条）"
                      if any(r.split(os.sep)[0] == cat for r in books) else "（待收录）"))
     lines.append("")
     lines.append("> 本文件由 `scripts/build_index.py` 确定性生成，勿手改。")
@@ -159,16 +159,16 @@ def main() -> None:
     for rel, entries in books.items():
         p = os.path.join(LIBRARY_DIR, rel, "INDEX.md")
         os.makedirs(os.path.dirname(p), exist_ok=True)
-        with open(p, "w", encoding="utf-8") as f:
+        with open(p, "w", encoding="utf-8", newline="\n") as f:
             f.write(render_book_index(rel, entries))
     # 分类 INDEX.md（存在书的分类）
-    cats_with_books = {r.split(os.sep)[0] for r in books}
+    cats_with_books = {r.split("/")[0] for r in books}
     for cat in sorted(cats_with_books):
         p = os.path.join(LIBRARY_DIR, cat, "INDEX.md")
-        with open(p, "w", encoding="utf-8") as f:
+        with open(p, "w", encoding="utf-8", newline="\n") as f:
             f.write(render_category_index(cat, books))
     # 根 INDEX.md
-    with open(os.path.join(LIBRARY_DIR, "INDEX.md"), "w", encoding="utf-8") as f:
+    with open(os.path.join(LIBRARY_DIR, "INDEX.md"), "w", encoding="utf-8", newline="\n") as f:
         f.write(render_root_index(books))
     print(f"INDEX 生成完成：{len(books)} 部书，{sum(len(v) for v in books.values())} 条")
 

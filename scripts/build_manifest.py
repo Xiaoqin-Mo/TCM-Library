@@ -57,8 +57,9 @@ def build() -> Dict[str, Any]:
         fm, _body = parse_frontmatter(open(fp, encoding="utf-8").read())
         if not fm or "id" not in fm:
             continue
-        rel = os.path.relpath(fp, ROOT)
-        parts = os.path.relpath(os.path.dirname(fp), LIBRARY_DIR).split(os.sep)
+        rel = os.path.relpath(fp, ROOT).replace("\\", "/")
+        book_rel = os.path.relpath(os.path.dirname(fp), LIBRARY_DIR).replace("\\", "/")
+        parts = book_rel.split("/")
         category = parts[0]
         subcategory = parts[1] if len(parts) > 1 else ""
         weight = int(fm.get("weight", 0))
@@ -76,7 +77,7 @@ def build() -> Dict[str, Any]:
             "conditions": fm.get("conditions", {}),
         }
         entries.append(entry)
-        books[os.path.relpath(os.path.dirname(fp), LIBRARY_DIR)].append(entry)
+        books[book_rel].append(entry)
 
     entries.sort(key=lambda e: e["path"])
     book_list = []
@@ -84,7 +85,7 @@ def build() -> Dict[str, Any]:
         group = books[rel]
         weights = [e["weight"] for e in group]
         tier = tier_from_weight(max(weights))
-        parts = rel.split(os.sep)
+        parts = rel.split("/")
         book_list.append({
             "dir": rel,
             "tier": tier,
@@ -105,7 +106,7 @@ def build() -> Dict[str, Any]:
 
     roots: Dict[str, Dict[str, Any]] = {}
     for rel in sorted(books):
-        parts = rel.split(os.sep)
+        parts = rel.split("/")
         cat = parts[0]
         sub = parts[1] if len(parts) > 1 else ""
         roots.setdefault(cat, {})[sub] = {"dir": rel, "count": len(books[rel])}
@@ -128,7 +129,7 @@ def main() -> None:
     ap.add_argument("--out", default=DEFAULT_OUT)
     args = ap.parse_args()
     manifest = build()
-    with open(args.out, "w", encoding="utf-8") as f:
+    with open(args.out, "w", encoding="utf-8", newline="\n") as f:
         json.dump(manifest, f, ensure_ascii=False, indent=2, sort_keys=False)
         f.write("\n")
     print(f"manifest 生成完成：{manifest['total']} 条 → {args.out}")

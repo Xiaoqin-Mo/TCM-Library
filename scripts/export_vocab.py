@@ -84,7 +84,7 @@ def main() -> None:
     print(f"统计 {data['n']} 条：type {len(type_terms)} 种；"
           + "；".join(f"{f} {len(fields[f]['terms'])} 词" for f in COUNT_FIELDS))
     if not args.check:
-        with open(VOCAB_PATH, "w", encoding="utf-8") as f:
+        with open(VOCAB_PATH, "w", encoding="utf-8", newline="\n") as f:
             json.dump(vocab, f, ensure_ascii=False, indent=2)
             f.write("\n")
         print(f"已写回 {VOCAB_PATH}")

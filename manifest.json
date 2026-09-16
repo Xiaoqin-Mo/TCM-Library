@@ -62,6 +62,10 @@
       "yian": {
         "dir": "yishi/yian/zhudanxi",
         "count": 3
+      },
+      "yijia": {
+        "dir": "yishi/yijia/zhangzhongjing",
+        "count": 1
       }
     },
     "zhenduan": {
@@ -1946,6 +1950,134 @@
       "category": "yishi",
       "subcategory": "yian",
       "count": 3
+    },
+    {
+      "dir": "yishi/yijia/bianque",
+      "tier": 1,
+      "tier_name": "核心",
+      "category": "yishi",
+      "subcategory": "yijia",
+      "count": 1
+    },
+    {
+      "dir": "yishi/yijia/chaoyuanfang",
+      "tier": 1,
+      "tier_name": "核心",
+      "category": "yishi",
+      "subcategory": "yijia",
+      "count": 1
+    },
+    {
+      "dir": "yishi/yijia/chunuyi",
+      "tier": 1,
+      "tier_name": "核心",
+      "category": "yishi",
+      "subcategory": "yijia",
+      "count": 1
+    },
+    {
+      "dir": "yishi/yijia/gehong",
+      "tier": 1,
+      "tier_name": "核心",
+      "category": "yishi",
+      "subcategory": "yijia",
+      "count": 1
+    },
+    {
+      "dir": "yishi/yijia/huangfumi",
+      "tier": 1,
+      "tier_name": "核心",
+      "category": "yishi",
+      "subcategory": "yijia",
+      "count": 1
+    },
+    {
+      "dir": "yishi/yijia/huatuo",
+      "tier": 1,
+      "tier_name": "核心",
+      "category": "yishi",
+      "subcategory": "yijia",
+      "count": 1
+    },
+    {
+      "dir": "yishi/yijia/liuwansu",
+      "tier": 1,
+      "tier_name": "核心",
+      "category": "yishi",
+      "subcategory": "yijia",
+      "count": 1
+    },
+    {
+      "dir": "yishi/yijia/panganshi",
+      "tier": 1,
+      "tier_name": "核心",
+      "category": "yishi",
+      "subcategory": "yijia",
+      "count": 1
+    },
+    {
+      "dir": "yishi/yijia/qianyi",
+      "tier": 1,
+      "tier_name": "核心",
+      "category": "yishi",
+      "subcategory": "yijia",
+      "count": 1
+    },
+    {
+      "dir": "yishi/yijia/sunsimiao",
+      "tier": 1,
+      "tier_name": "核心",
+      "category": "yishi",
+      "subcategory": "yijia",
+      "count": 1
+    },
+    {
+      "dir": "yishi/yijia/taohongjing",
+      "tier": 1,
+      "tier_name": "核心",
+      "category": "yishi",
+      "subcategory": "yijia",
+      "count": 1
+    },
+    {
+      "dir": "yishi/yijia/wangshuhe",
+      "tier": 1,
+      "tier_name": "核心",
+      "category": "yishi",
+      "subcategory": "yijia",
+      "count": 1
+    },
+    {
+      "dir": "yishi/yijia/wangtao",
+      "tier": 1,
+      "tier_name": "核心",
+      "category": "yishi",
+      "subcategory": "yijia",
+      "count": 1
+    },
+    {
+      "dir": "yishi/yijia/xushuwei",
+      "tier": 1,
+      "tier_name": "核心",
+      "category": "yishi",
+      "subcategory": "yijia",
+      "count": 1
+    },
+    {
+      "dir": "yishi/yijia/zhangcongzheng",
+      "tier": 1,
+      "tier_name": "核心",
+      "category": "yishi",
+      "subcategory": "yijia",
+      "count": 1
+    },
+    {
+      "dir": "yishi/yijia/zhangzhongjing",
+      "tier": 1,
+      "tier_name": "核心",
+      "category": "yishi",
+      "subcategory": "yijia",
+      "count": 1
     },
     {
       "dir": "zhenduan/bianzheng/biaoli",
@@ -11052,7 +11184,7 @@
       "count": 1
     }
   ],
-  "total": 2402,
+  "total": 2418,
   "entries": [
     {
       "id": "baihutang_002",
@@ -60891,6 +61023,656 @@
           "阴虚火旺",
           "阳有余阴不足",
           "滋阴降火"
+        ]
+      }
+    },
+    {
+      "id": "bianque_001",
+      "book": "中医各家学说",
+      "type": "yijia",
+      "tier": 1,
+      "category": "yishi",
+      "subcategory": "yijia",
+      "path": "library/yishi/yijia/bianque/bianque_001.md",
+      "weight": 8,
+      "title": "扁鹊·切脉诊法奠定望闻问切",
+      "chapter": "医家",
+      "conditions": {
+        "zhengxing": [],
+        "zhifa": [],
+        "bingzheng": [],
+        "zhengzhuang": [],
+        "fangming": [],
+        "yaoming": [],
+        "xuewei": [],
+        "jingluo": [],
+        "siqi": [],
+        "wuwei": [],
+        "guijing": [],
+        "keywords": [
+          "扁鹊",
+          "秦越人",
+          "战国",
+          "难经",
+          "脉诊",
+          "望闻问切",
+          "切脉",
+          "史记·扁鹊仓公列传"
+        ]
+      }
+    },
+    {
+      "id": "chaoyuanfang_001",
+      "book": "中医各家学说",
+      "type": "yijia",
+      "tier": 1,
+      "category": "yishi",
+      "subcategory": "yijia",
+      "path": "library/yishi/yijia/chaoyuanfang/chaoyuanfang_001.md",
+      "weight": 8,
+      "title": "巢元方·奉敕撰诸病源候论开创病因证候学",
+      "chapter": "医家",
+      "conditions": {
+        "zhengxing": [],
+        "zhifa": [],
+        "bingzheng": [
+          "诸病源候",
+          "病因病机",
+          "证候学"
+        ],
+        "zhengzhuang": [],
+        "fangming": [],
+        "yaoming": [],
+        "xuewei": [],
+        "jingluo": [],
+        "siqi": [],
+        "wuwei": [],
+        "guijing": [],
+        "keywords": [
+          "巢元方",
+          "隋",
+          "诸病源候论",
+          "巢氏病源",
+          "病因证候学",
+          "病因病机"
+        ]
+      }
+    },
+    {
+      "id": "chunuyi_001",
+      "book": "中医各家学说",
+      "type": "yijia",
+      "tier": 1,
+      "category": "yishi",
+      "subcategory": "yijia",
+      "path": "library/yishi/yijia/chunuyi/chunuyi_001.md",
+      "weight": 8,
+      "title": "淳于意·创诊籍为现存最早医案",
+      "chapter": "医家",
+      "conditions": {
+        "zhengxing": [],
+        "zhifa": [],
+        "bingzheng": [],
+        "zhengzhuang": [],
+        "fangming": [],
+        "yaoming": [],
+        "xuewei": [],
+        "jingluo": [],
+        "siqi": [],
+        "wuwei": [],
+        "guijing": [],
+        "keywords": [
+          "淳于意",
+          "仓公",
+          "太仓公",
+          "西汉",
+          "诊籍",
+          "史记",
+          "医案",
+          "脉诊"
+        ]
+      }
+    },
+    {
+      "id": "gehong_001",
+      "book": "中医各家学说",
+      "type": "yijia",
+      "tier": 1,
+      "category": "yishi",
+      "subcategory": "yijia",
+      "path": "library/yishi/yijia/gehong/gehong_001.md",
+      "weight": 8,
+      "title": "葛洪·肘后备急方集急症简易方",
+      "chapter": "医家",
+      "conditions": {
+        "zhengxing": [],
+        "zhifa": [
+          "急症救治",
+          "简易方"
+        ],
+        "bingzheng": [
+          "急症",
+          "天行瘟疫",
+          "天花",
+          "恙虫病"
+        ],
+        "zhengzhuang": [],
+        "fangming": [
+          "肘后备急方"
+        ],
+        "yaoming": [],
+        "xuewei": [],
+        "jingluo": [],
+        "siqi": [],
+        "wuwei": [],
+        "guijing": [],
+        "keywords": [
+          "葛洪",
+          "抱朴子",
+          "东晋",
+          "肘后备急方",
+          "抱朴子",
+          "炼丹",
+          "急症",
+          "道教",
+          "天花",
+          "恙虫病"
+        ]
+      }
+    },
+    {
+      "id": "huangfumi_001",
+      "book": "中医各家学说",
+      "type": "yijia",
+      "tier": 1,
+      "category": "yishi",
+      "subcategory": "yijia",
+      "path": "library/yishi/yijia/huangfumi/huangfumi_001.md",
+      "weight": 8,
+      "title": "皇甫谧·著针灸甲乙经厘定腧穴刺灸",
+      "chapter": "医家",
+      "conditions": {
+        "zhengxing": [],
+        "zhifa": [
+          "针灸",
+          "刺法",
+          "灸法"
+        ],
+        "bingzheng": [],
+        "zhengzhuang": [],
+        "fangming": [],
+        "yaoming": [],
+        "xuewei": [],
+        "jingluo": [],
+        "siqi": [],
+        "wuwei": [],
+        "guijing": [],
+        "keywords": [
+          "皇甫谧",
+          "西晋",
+          "针灸甲乙经",
+          "针灸学",
+          "腧穴",
+          "针灸",
+          "皇甫士安",
+          "玄晏先生"
+        ]
+      }
+    },
+    {
+      "id": "huatuo_004",
+      "book": "中医各家学说",
+      "type": "yijia",
+      "tier": 1,
+      "category": "yishi",
+      "subcategory": "yijia",
+      "path": "library/yishi/yijia/huatuo/huatuo_004.md",
+      "weight": 8,
+      "title": "华佗·麻沸散创外科与五禽戏养生",
+      "chapter": "医家",
+      "conditions": {
+        "zhengxing": [],
+        "zhifa": [
+          "外科手术",
+          "麻醉镇痛",
+          "导引养生"
+        ],
+        "bingzheng": [
+          "外科疾患"
+        ],
+        "zhengzhuang": [],
+        "fangming": [],
+        "yaoming": [
+          "麻沸散"
+        ],
+        "xuewei": [],
+        "jingluo": [],
+        "siqi": [],
+        "wuwei": [],
+        "guijing": [],
+        "keywords": [
+          "华佗",
+          "华旉",
+          "东汉",
+          "麻沸散",
+          "五禽戏",
+          "外科",
+          "中藏经",
+          "麻醉",
+          "导引"
+        ]
+      }
+    },
+    {
+      "id": "liuwansu_001",
+      "book": "中医各家学说",
+      "type": "yijia",
+      "tier": 1,
+      "category": "yishi",
+      "subcategory": "yijia",
+      "path": "library/yishi/yijia/liuwansu/liuwansu_001.md",
+      "weight": 8,
+      "title": "刘完素·主火热论创河间寒凉一派",
+      "chapter": "医家",
+      "conditions": {
+        "zhengxing": [],
+        "zhifa": [
+          "火热论",
+          "寒凉清热"
+        ],
+        "bingzheng": [
+          "火热病证",
+          "外感热病"
+        ],
+        "zhengzhuang": [],
+        "fangming": [
+          "防风通圣散",
+          "双解散",
+          "天水散"
+        ],
+        "yaoming": [],
+        "xuewei": [],
+        "jingluo": [],
+        "siqi": [],
+        "wuwei": [],
+        "guijing": [],
+        "keywords": [
+          "刘完素",
+          "刘河间",
+          "金",
+          "河间学派",
+          "寒凉派",
+          "素问玄机原病式",
+          "宣明论方",
+          "火热论"
+        ]
+      }
+    },
+    {
+      "id": "panganshi_001",
+      "book": "中医各家学说",
+      "type": "yijia",
+      "tier": 1,
+      "category": "yishi",
+      "subcategory": "yijia",
+      "path": "library/yishi/yijia/panganshi/panganshi_001.md",
+      "weight": 8,
+      "title": "庞安时·著伤寒总病论倡寒温分治",
+      "chapter": "医家",
+      "conditions": {
+        "zhengxing": [],
+        "zhifa": [
+          "寒温分治"
+        ],
+        "bingzheng": [
+          "伤寒",
+          "温病",
+          "外感热病"
+        ],
+        "zhengzhuang": [],
+        "fangming": [],
+        "yaoming": [],
+        "xuewei": [],
+        "jingluo": [],
+        "siqi": [],
+        "wuwei": [],
+        "guijing": [],
+        "keywords": [
+          "庞安时",
+          "北宋",
+          "伤寒总病论",
+          "伤寒学派",
+          "寒温分治",
+          "温病"
+        ]
+      }
+    },
+    {
+      "id": "qianyi_003",
+      "book": "中医各家学说",
+      "type": "yijia",
+      "tier": 1,
+      "category": "yishi",
+      "subcategory": "yijia",
+      "path": "library/yishi/yijia/qianyi/qianyi_003.md",
+      "weight": 8,
+      "title": "钱乙·创儿科五脏辨证著小儿药证直诀",
+      "chapter": "医家",
+      "conditions": {
+        "zhengxing": [],
+        "zhifa": [
+          "儿科五脏辨证"
+        ],
+        "bingzheng": [
+          "小儿科",
+          "痘疹",
+          "疳积"
+        ],
+        "zhengzhuang": [],
+        "fangming": [
+          "六味地黄丸",
+          "泻白散",
+          "导赤散",
+          "异功散"
+        ],
+        "yaoming": [],
+        "xuewei": [],
+        "jingluo": [],
+        "siqi": [],
+        "wuwei": [],
+        "guijing": [],
+        "keywords": [
+          "钱乙",
+          "钱仲阳",
+          "北宋",
+          "小儿药证直诀",
+          "儿科之圣",
+          "儿科",
+          "六味地黄丸",
+          "五脏辨证"
+        ]
+      }
+    },
+    {
+      "id": "sunsimiao_001",
+      "book": "中医各家学说",
+      "type": "yijia",
+      "tier": 1,
+      "category": "yishi",
+      "subcategory": "yijia",
+      "path": "library/yishi/yijia/sunsimiao/sunsimiao_001.md",
+      "weight": 8,
+      "title": "孙思邈·著千金方倡大医精诚立医德纲领",
+      "chapter": "医家",
+      "conditions": {
+        "zhengxing": [],
+        "zhifa": [],
+        "bingzheng": [],
+        "zhengzhuang": [],
+        "fangming": [],
+        "yaoming": [],
+        "xuewei": [],
+        "jingluo": [],
+        "siqi": [],
+        "wuwei": [],
+        "guijing": [],
+        "keywords": [
+          "孙思邈",
+          "孙真人",
+          "药王",
+          "唐",
+          "备急千金要方",
+          "千金翼方",
+          "大医精诚",
+          "医德"
+        ]
+      }
+    },
+    {
+      "id": "taohongjing_001",
+      "book": "中医各家学说",
+      "type": "yijia",
+      "tier": 1,
+      "category": "yishi",
+      "subcategory": "yijia",
+      "path": "library/yishi/yijia/taohongjing/taohongjing_001.md",
+      "weight": 8,
+      "title": "陶弘景·本草经集注重编神农本草",
+      "chapter": "医家",
+      "conditions": {
+        "zhengxing": [],
+        "zhifa": [],
+        "bingzheng": [],
+        "zhengzhuang": [],
+        "fangming": [],
+        "yaoming": [
+          "本草经集注",
+          "神农本草经"
+        ],
+        "xuewei": [],
+        "jingluo": [],
+        "siqi": [],
+        "wuwei": [],
+        "guijing": [],
+        "keywords": [
+          "陶弘景",
+          "华阳隐居",
+          "南朝梁",
+          "本草经集注",
+          "神农本草经",
+          "补阙肘后百一方",
+          "本草学",
+          "道教",
+          "炼丹"
+        ]
+      }
+    },
+    {
+      "id": "wangshuhe_001",
+      "book": "中医各家学说",
+      "type": "yijia",
+      "tier": 1,
+      "category": "yishi",
+      "subcategory": "yijia",
+      "path": "library/yishi/yijia/wangshuhe/wangshuhe_001.md",
+      "weight": 8,
+      "title": "王叔和·撰脉经编次伤寒论",
+      "chapter": "医家",
+      "conditions": {
+        "zhengxing": [],
+        "zhifa": [
+          "脉诊",
+          "伤寒辨治"
+        ],
+        "bingzheng": [],
+        "zhengzhuang": [],
+        "fangming": [],
+        "yaoming": [],
+        "xuewei": [],
+        "jingluo": [],
+        "siqi": [],
+        "wuwei": [],
+        "guijing": [],
+        "keywords": [
+          "王叔和",
+          "王熙",
+          "西晋",
+          "脉经",
+          "伤寒论编次",
+          "脉学",
+          "寸口脉法",
+          "三部九候"
+        ]
+      }
+    },
+    {
+      "id": "wangtao_001",
+      "book": "中医各家学说",
+      "type": "yijia",
+      "tier": 1,
+      "category": "yishi",
+      "subcategory": "yijia",
+      "path": "library/yishi/yijia/wangtao/wangtao_001.md",
+      "weight": 8,
+      "title": "王焘·辑外台秘要汇存唐以前方书",
+      "chapter": "医家",
+      "conditions": {
+        "zhengxing": [],
+        "zhifa": [],
+        "bingzheng": [],
+        "zhengzhuang": [],
+        "fangming": [],
+        "yaoming": [],
+        "xuewei": [],
+        "jingluo": [],
+        "siqi": [],
+        "wuwei": [],
+        "guijing": [],
+        "keywords": [
+          "王焘",
+          "唐",
+          "外台秘要",
+          "方书汇编",
+          "文献辑佚"
+        ]
+      }
+    },
+    {
+      "id": "xushuwei_003",
+      "book": "中医各家学说",
+      "type": "yijia",
+      "tier": 1,
+      "category": "yishi",
+      "subcategory": "yijia",
+      "path": "library/yishi/yijia/xushuwei/xushuwei_003.md",
+      "weight": 8,
+      "title": "许叔微·以经释论著伤寒三书重辨证",
+      "chapter": "医家",
+      "conditions": {
+        "zhengxing": [],
+        "zhifa": [
+          "以经释论",
+          "辨证论治"
+        ],
+        "bingzheng": [
+          "伤寒",
+          "外感热病"
+        ],
+        "zhengzhuang": [],
+        "fangming": [],
+        "yaoming": [],
+        "xuewei": [],
+        "jingluo": [],
+        "siqi": [],
+        "wuwei": [],
+        "guijing": [],
+        "keywords": [
+          "许叔微",
+          "许知可",
+          "南宋",
+          "伤寒发微论",
+          "伤寒百证歌",
+          "伤寒九十论",
+          "伤寒学派",
+          "以经释论"
+        ]
+      }
+    },
+    {
+      "id": "zhangcongzheng_001",
+      "book": "中医各家学说",
+      "type": "yijia",
+      "tier": 1,
+      "category": "yishi",
+      "subcategory": "yijia",
+      "path": "library/yishi/yijia/zhangcongzheng/zhangcongzheng_001.md",
+      "weight": 8,
+      "title": "张从正·主张攻邪著儒门事亲用汗吐下",
+      "chapter": "医家",
+      "conditions": {
+        "zhengxing": [],
+        "zhifa": [
+          "汗吐下三法",
+          "攻邪"
+        ],
+        "bingzheng": [
+          "外感邪气",
+          "痰饮宿食"
+        ],
+        "zhengzhuang": [],
+        "fangming": [
+          "浚川散",
+          "禹功散"
+        ],
+        "yaoming": [],
+        "xuewei": [],
+        "jingluo": [],
+        "siqi": [],
+        "wuwei": [],
+        "guijing": [],
+        "keywords": [
+          "张从正",
+          "张子和",
+          "金",
+          "攻邪学派",
+          "儒门事亲",
+          "汗吐下",
+          "攻邪"
+        ]
+      }
+    },
+    {
+      "id": "zhangzhongjing_003",
+      "book": "中医各家学说",
+      "type": "yijia",
+      "tier": 1,
+      "category": "yishi",
+      "subcategory": "yijia",
+      "path": "library/yishi/yijia/zhangzhongjing/zhangzhongjing_003.md",
+      "weight": 8,
+      "title": "张仲景·著伤寒杂病论确立辨证论治体系",
+      "chapter": "医家",
+      "conditions": {
+        "zhengxing": [
+          "伤寒六经证治"
+        ],
+        "zhifa": [
+          "辨证论治",
+          "六经辨证",
+          "八纲辨证"
+        ],
+        "bingzheng": [
+          "伤寒",
+          "杂病",
+          "外感热病"
+        ],
+        "zhengzhuang": [],
+        "fangming": [
+          "桂枝汤",
+          "麻黄汤",
+          "小柴胡汤",
+          "白虎汤",
+          "承气汤",
+          "四逆汤"
+        ],
+        "yaoming": [],
+        "xuewei": [],
+        "jingluo": [],
+        "siqi": [],
+        "wuwei": [],
+        "guijing": [],
+        "keywords": [
+          "张仲景",
+          "张机",
+          "张长沙",
+          "东汉",
+          "医圣",
+          "伤寒杂病论",
+          "伤寒论",
+          "金匮要略",
+          "辨证论治",
+          "六经辨证",
+          "经方学派"
         ]
       }
     },

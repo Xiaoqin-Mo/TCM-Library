@@ -62,6 +62,10 @@
       "daoyin": {
         "dir": "yangsheng/daoyin/zhanzhuang",
         "count": 1
+      },
+      "shiliao": {
+        "dir": "yangsheng/shiliao/yiyirenzhou",
+        "count": 1
       }
     },
     "yishi": {
@@ -1911,6 +1915,134 @@
       "tier_name": "核心",
       "category": "yangsheng",
       "subcategory": "daoyin",
+      "count": 1
+    },
+    {
+      "dir": "yangsheng/shiliao/baiheyinergeng",
+      "tier": 1,
+      "tier_name": "核心",
+      "category": "yangsheng",
+      "subcategory": "shiliao",
+      "count": 1
+    },
+    {
+      "dir": "yangsheng/shiliao/chenpicha",
+      "tier": 1,
+      "tier_name": "核心",
+      "category": "yangsheng",
+      "subcategory": "shiliao",
+      "count": 1
+    },
+    {
+      "dir": "yangsheng/shiliao/dongguatang",
+      "tier": 1,
+      "tier_name": "核心",
+      "category": "yangsheng",
+      "subcategory": "shiliao",
+      "count": 1
+    },
+    {
+      "dir": "yangsheng/shiliao/fengningmengyin",
+      "tier": 1,
+      "tier_name": "核心",
+      "category": "yangsheng",
+      "subcategory": "shiliao",
+      "count": 1
+    },
+    {
+      "dir": "yangsheng/shiliao/fulingbing",
+      "tier": 1,
+      "tier_name": "核心",
+      "category": "yangsheng",
+      "subcategory": "shiliao",
+      "count": 1
+    },
+    {
+      "dir": "yangsheng/shiliao/gouqijuhuacha",
+      "tier": 1,
+      "tier_name": "核心",
+      "category": "yangsheng",
+      "subcategory": "shiliao",
+      "count": 1
+    },
+    {
+      "dir": "yangsheng/shiliao/guiyuanhongzaocha",
+      "tier": 1,
+      "tier_name": "核心",
+      "category": "yangsheng",
+      "subcategory": "shiliao",
+      "count": 1
+    },
+    {
+      "dir": "yangsheng/shiliao/heizhimahu",
+      "tier": 1,
+      "tier_name": "核心",
+      "category": "yangsheng",
+      "subcategory": "shiliao",
+      "count": 1
+    },
+    {
+      "dir": "yangsheng/shiliao/jiangzaocha",
+      "tier": 1,
+      "tier_name": "核心",
+      "category": "yangsheng",
+      "subcategory": "shiliao",
+      "count": 1
+    },
+    {
+      "dir": "yangsheng/shiliao/lianzigeng",
+      "tier": 1,
+      "tier_name": "核心",
+      "category": "yangsheng",
+      "subcategory": "shiliao",
+      "count": 1
+    },
+    {
+      "dir": "yangsheng/shiliao/luobotang",
+      "tier": 1,
+      "tier_name": "核心",
+      "category": "yangsheng",
+      "subcategory": "shiliao",
+      "count": 1
+    },
+    {
+      "dir": "yangsheng/shiliao/lvdoutang",
+      "tier": 1,
+      "tier_name": "核心",
+      "category": "yangsheng",
+      "subcategory": "shiliao",
+      "count": 1
+    },
+    {
+      "dir": "yangsheng/shiliao/shanyaozhou",
+      "tier": 1,
+      "tier_name": "核心",
+      "category": "yangsheng",
+      "subcategory": "shiliao",
+      "count": 1
+    },
+    {
+      "dir": "yangsheng/shiliao/shanzhayin",
+      "tier": 1,
+      "tier_name": "核心",
+      "category": "yangsheng",
+      "subcategory": "shiliao",
+      "count": 1
+    },
+    {
+      "dir": "yangsheng/shiliao/xiaomizhou",
+      "tier": 1,
+      "tier_name": "核心",
+      "category": "yangsheng",
+      "subcategory": "shiliao",
+      "count": 1
+    },
+    {
+      "dir": "yangsheng/shiliao/yiyirenzhou",
+      "tier": 1,
+      "tier_name": "核心",
+      "category": "yangsheng",
+      "subcategory": "shiliao",
       "count": 1
     },
     {
@@ -11530,7 +11662,7 @@
       "count": 1
     }
   ],
-  "total": 2460,
+  "total": 2476,
   "entries": [
     {
       "id": "baihutang_002",
@@ -59545,6 +59677,786 @@
           "静功",
           "养生",
           "松静"
+        ]
+      }
+    },
+    {
+      "id": "baiheyinergeng_001",
+      "book": "中医养生（古籍要义归纳）",
+      "type": "chapter",
+      "tier": 1,
+      "category": "yangsheng",
+      "subcategory": "shiliao",
+      "path": "library/yangsheng/shiliao/baiheyinergeng/baiheyinergeng_001.md",
+      "weight": 8,
+      "title": "百合银耳羹·润肺润燥甜羹",
+      "chapter": "食疗养生",
+      "conditions": {
+        "zhengxing": [],
+        "zhifa": [
+          "润肺润燥"
+        ],
+        "bingzheng": [],
+        "zhengzhuang": [
+          "秋燥口干",
+          "干咳少痰"
+        ],
+        "fangming": [],
+        "yaoming": [
+          "百合",
+          "银耳",
+          "冰糖"
+        ],
+        "xuewei": [],
+        "jingluo": [],
+        "siqi": [
+          "平"
+        ],
+        "wuwei": [
+          "甘"
+        ],
+        "guijing": [
+          "肺经",
+          "胃经"
+        ],
+        "keywords": [
+          "百合银耳羹",
+          "食疗",
+          "甜羹",
+          "润肺",
+          "润燥",
+          "百合",
+          "银耳",
+          "养生"
+        ]
+      }
+    },
+    {
+      "id": "chenpicha_001",
+      "book": "中医养生（古籍要义归纳）",
+      "type": "chapter",
+      "tier": 1,
+      "category": "yangsheng",
+      "subcategory": "shiliao",
+      "path": "library/yangsheng/shiliao/chenpicha/chenpicha_001.md",
+      "weight": 8,
+      "title": "陈皮茶·陈皮代茶物理气健脾",
+      "chapter": "食疗养生",
+      "conditions": {
+        "zhengxing": [],
+        "zhifa": [
+          "理气健脾"
+        ],
+        "bingzheng": [],
+        "zhengzhuang": [],
+        "fangming": [],
+        "yaoming": [
+          "陈皮"
+        ],
+        "xuewei": [],
+        "jingluo": [],
+        "siqi": [
+          "温"
+        ],
+        "wuwei": [
+          "辛",
+          "苦"
+        ],
+        "guijing": [
+          "脾经",
+          "肺经"
+        ],
+        "keywords": [
+          "陈皮茶",
+          "食疗",
+          "代茶饮",
+          "理气健脾",
+          "陈皮",
+          "养生",
+          "体质有异食用前自行斟酌"
+        ]
+      }
+    },
+    {
+      "id": "dongguatang_001",
+      "book": "中医养生（古籍要义归纳）",
+      "type": "chapter",
+      "tier": 1,
+      "category": "yangsheng",
+      "subcategory": "shiliao",
+      "path": "library/yangsheng/shiliao/dongguatang/dongguatang_001.md",
+      "weight": 8,
+      "title": "冬瓜汤·清利解暑家常汤",
+      "chapter": "食疗养生",
+      "conditions": {
+        "zhengxing": [],
+        "zhifa": [
+          "清利"
+        ],
+        "bingzheng": [],
+        "zhengzhuang": [],
+        "fangming": [],
+        "yaoming": [
+          "冬瓜"
+        ],
+        "xuewei": [],
+        "jingluo": [],
+        "siqi": [
+          "微寒"
+        ],
+        "wuwei": [
+          "甘",
+          "淡"
+        ],
+        "guijing": [
+          "脾经",
+          "胃经",
+          "大肠经",
+          "小肠经"
+        ],
+        "keywords": [
+          "冬瓜汤",
+          "食疗",
+          "汤饮",
+          "清利",
+          "解暑",
+          "养生",
+          "体质有异食用前自行斟酌"
+        ]
+      }
+    },
+    {
+      "id": "fengningmengyin_001",
+      "book": "中医养生（古籍要义归纳）",
+      "type": "chapter",
+      "tier": 1,
+      "category": "yangsheng",
+      "subcategory": "shiliao",
+      "path": "library/yangsheng/shiliao/fengningmengyin/fengningmengyin_001.md",
+      "weight": 8,
+      "title": "蜂蜜柠檬饮·蜜冲柠檬生津润燥",
+      "chapter": "食疗养生",
+      "conditions": {
+        "zhengxing": [],
+        "zhifa": [
+          "生津润燥"
+        ],
+        "bingzheng": [],
+        "zhengzhuang": [],
+        "fangming": [],
+        "yaoming": [
+          "蜂蜜",
+          "柠檬"
+        ],
+        "xuewei": [],
+        "jingluo": [],
+        "siqi": [
+          "平"
+        ],
+        "wuwei": [
+          "甘",
+          "酸"
+        ],
+        "guijing": [
+          "肺经",
+          "大肠经"
+        ],
+        "keywords": [
+          "蜂蜜柠檬饮",
+          "食疗",
+          "代茶饮",
+          "生津润燥",
+          "蜂蜜",
+          "柠檬",
+          "养生",
+          "体质有异食用前自行斟酌"
+        ]
+      }
+    },
+    {
+      "id": "fulingbing_001",
+      "book": "中医养生（古籍要义归纳）",
+      "type": "chapter",
+      "tier": 1,
+      "category": "yangsheng",
+      "subcategory": "shiliao",
+      "path": "library/yangsheng/shiliao/fulingbing/fulingbing_001.md",
+      "weight": 8,
+      "title": "茯苓饼·茯苓粉和粉制饼健脾渗湿",
+      "chapter": "食疗养生",
+      "conditions": {
+        "zhengxing": [],
+        "zhifa": [
+          "健脾渗湿"
+        ],
+        "bingzheng": [],
+        "zhengzhuang": [],
+        "fangming": [],
+        "yaoming": [
+          "茯苓",
+          "面粉"
+        ],
+        "xuewei": [],
+        "jingluo": [],
+        "siqi": [
+          "平"
+        ],
+        "wuwei": [
+          "甘",
+          "淡"
+        ],
+        "guijing": [
+          "心经",
+          "脾经",
+          "肾经"
+        ],
+        "keywords": [
+          "茯苓饼",
+          "食疗",
+          "糕点",
+          "健脾渗湿",
+          "茯苓",
+          "养生",
+          "体质有异食用前自行斟酌"
+        ]
+      }
+    },
+    {
+      "id": "gouqijuhuacha_001",
+      "book": "中医养生（古籍要义归纳）",
+      "type": "chapter",
+      "tier": 1,
+      "category": "yangsheng",
+      "subcategory": "shiliao",
+      "path": "library/yangsheng/shiliao/gouqijuhuacha/gouqijuhuacha_001.md",
+      "weight": 8,
+      "title": "枸杞菊花茶·清肝明目代茶饮",
+      "chapter": "食疗养生",
+      "conditions": {
+        "zhengxing": [],
+        "zhifa": [
+          "清肝明目"
+        ],
+        "bingzheng": [],
+        "zhengzhuang": [
+          "目干涩",
+          "视物疲劳"
+        ],
+        "fangming": [],
+        "yaoming": [
+          "枸杞子",
+          "菊花"
+        ],
+        "xuewei": [],
+        "jingluo": [],
+        "siqi": [
+          "平"
+        ],
+        "wuwei": [
+          "甘",
+          "苦"
+        ],
+        "guijing": [
+          "肝经",
+          "肾经"
+        ],
+        "keywords": [
+          "枸杞菊花茶",
+          "食疗",
+          "代茶饮",
+          "清肝明目",
+          "枸杞子",
+          "菊花",
+          "养生"
+        ]
+      }
+    },
+    {
+      "id": "guiyuanhongzaocha_001",
+      "book": "中医养生（古籍要义归纳）",
+      "type": "chapter",
+      "tier": 1,
+      "category": "yangsheng",
+      "subcategory": "shiliao",
+      "path": "library/yangsheng/shiliao/guiyuanhongzaocha/guiyuanhongzaocha_001.md",
+      "weight": 8,
+      "title": "桂圆红枣茶·养心补血代茶饮",
+      "chapter": "食疗养生",
+      "conditions": {
+        "zhengxing": [],
+        "zhifa": [
+          "养心补血"
+        ],
+        "bingzheng": [],
+        "zhengzhuang": [
+          "面色少华",
+          "心悸怔忡"
+        ],
+        "fangming": [],
+        "yaoming": [
+          "龙眼肉",
+          "大枣"
+        ],
+        "xuewei": [],
+        "jingluo": [],
+        "siqi": [
+          "温"
+        ],
+        "wuwei": [
+          "甘"
+        ],
+        "guijing": [
+          "心经",
+          "脾经"
+        ],
+        "keywords": [
+          "桂圆红枣茶",
+          "食疗",
+          "代茶饮",
+          "养心补血",
+          "龙眼肉",
+          "大枣",
+          "养生"
+        ]
+      }
+    },
+    {
+      "id": "heizhimahu_001",
+      "book": "中医养生（古籍要义归纳）",
+      "type": "chapter",
+      "tier": 1,
+      "category": "yangsheng",
+      "subcategory": "shiliao",
+      "path": "library/yangsheng/shiliao/heizhimahu/heizhimahu_001.md",
+      "weight": 8,
+      "title": "黑芝麻糊·滋养润燥糊食",
+      "chapter": "食疗养生",
+      "conditions": {
+        "zhengxing": [],
+        "zhifa": [
+          "滋养润燥"
+        ],
+        "bingzheng": [],
+        "zhengzhuang": [
+          "肠燥便干"
+        ],
+        "fangming": [],
+        "yaoming": [
+          "黑芝麻",
+          "糯米粉",
+          "糖"
+        ],
+        "xuewei": [],
+        "jingluo": [],
+        "siqi": [
+          "平"
+        ],
+        "wuwei": [
+          "甘"
+        ],
+        "guijing": [
+          "肝经",
+          "肾经",
+          "大肠经"
+        ],
+        "keywords": [
+          "黑芝麻糊",
+          "食疗",
+          "糊食",
+          "滋养润燥",
+          "黑芝麻",
+          "养生",
+          "药食同源"
+        ]
+      }
+    },
+    {
+      "id": "jiangzaocha_001",
+      "book": "中医养生（古籍要义归纳）",
+      "type": "chapter",
+      "tier": 1,
+      "category": "yangsheng",
+      "subcategory": "shiliao",
+      "path": "library/yangsheng/shiliao/jiangzaocha/jiangzaocha_001.md",
+      "weight": 8,
+      "title": "姜枣茶·温中散寒代茶饮",
+      "chapter": "食疗养生",
+      "conditions": {
+        "zhengxing": [],
+        "zhifa": [
+          "温中和胃"
+        ],
+        "bingzheng": [],
+        "zhengzhuang": [
+          "胃脘发凉",
+          "喜温喜按"
+        ],
+        "fangming": [],
+        "yaoming": [
+          "生姜",
+          "大枣"
+        ],
+        "xuewei": [],
+        "jingluo": [],
+        "siqi": [
+          "温"
+        ],
+        "wuwei": [
+          "辛",
+          "甘"
+        ],
+        "guijing": [
+          "脾经",
+          "胃经",
+          "肺经"
+        ],
+        "keywords": [
+          "姜枣茶",
+          "食疗",
+          "代茶饮",
+          "温中和胃",
+          "生姜",
+          "大枣",
+          "养生"
+        ]
+      }
+    },
+    {
+      "id": "lianzigeng_001",
+      "book": "中医养生（古籍要义归纳）",
+      "type": "chapter",
+      "tier": 1,
+      "category": "yangsheng",
+      "subcategory": "shiliao",
+      "path": "library/yangsheng/shiliao/lianzigeng/lianzigeng_001.md",
+      "weight": 8,
+      "title": "莲子羹·养心健脾甜羹",
+      "chapter": "食疗养生",
+      "conditions": {
+        "zhengxing": [],
+        "zhifa": [
+          "养心安神",
+          "健脾"
+        ],
+        "bingzheng": [],
+        "zhengzhuang": [
+          "心烦",
+          "食少"
+        ],
+        "fangming": [],
+        "yaoming": [
+          "莲子",
+          "冰糖"
+        ],
+        "xuewei": [],
+        "jingluo": [],
+        "siqi": [
+          "平"
+        ],
+        "wuwei": [
+          "甘"
+        ],
+        "guijing": [
+          "脾经",
+          "肾经",
+          "心经"
+        ],
+        "keywords": [
+          "莲子羹",
+          "食疗",
+          "甜羹",
+          "养心安神",
+          "健脾",
+          "养生",
+          "药食同源"
+        ]
+      }
+    },
+    {
+      "id": "luobotang_001",
+      "book": "中医养生（古籍要义归纳）",
+      "type": "chapter",
+      "tier": 1,
+      "category": "yangsheng",
+      "subcategory": "shiliao",
+      "path": "library/yangsheng/shiliao/luobotang/luobotang_001.md",
+      "weight": 8,
+      "title": "萝卜汤·下气消食家常汤",
+      "chapter": "食疗养生",
+      "conditions": {
+        "zhengxing": [],
+        "zhifa": [
+          "下气消食"
+        ],
+        "bingzheng": [],
+        "zhengzhuang": [
+          "食积腹胀",
+          "嗳气"
+        ],
+        "fangming": [],
+        "yaoming": [
+          "白萝卜"
+        ],
+        "xuewei": [],
+        "jingluo": [],
+        "siqi": [
+          "凉"
+        ],
+        "wuwei": [
+          "辛",
+          "甘"
+        ],
+        "guijing": [
+          "肺经",
+          "胃经"
+        ],
+        "keywords": [
+          "萝卜汤",
+          "食疗",
+          "家常汤",
+          "下气消食",
+          "白萝卜",
+          "养生",
+          "药食同源"
+        ]
+      }
+    },
+    {
+      "id": "lvdoutang_001",
+      "book": "中医养生（古籍要义归纳）",
+      "type": "chapter",
+      "tier": 1,
+      "category": "yangsheng",
+      "subcategory": "shiliao",
+      "path": "library/yangsheng/shiliao/lvdoutang/lvdoutang_001.md",
+      "weight": 8,
+      "title": "绿豆汤·绿豆煮汤清热解暑",
+      "chapter": "食疗养生",
+      "conditions": {
+        "zhengxing": [],
+        "zhifa": [
+          "清热解暑"
+        ],
+        "bingzheng": [],
+        "zhengzhuang": [],
+        "fangming": [],
+        "yaoming": [
+          "绿豆"
+        ],
+        "xuewei": [],
+        "jingluo": [],
+        "siqi": [
+          "凉"
+        ],
+        "wuwei": [
+          "甘"
+        ],
+        "guijing": [
+          "心经",
+          "胃经"
+        ],
+        "keywords": [
+          "绿豆汤",
+          "食疗",
+          "汤饮",
+          "清热解暑",
+          "绿豆",
+          "养生",
+          "体质有异食用前自行斟酌"
+        ]
+      }
+    },
+    {
+      "id": "shanyaozhou_001",
+      "book": "中医养生（古籍要义归纳）",
+      "type": "chapter",
+      "tier": 1,
+      "category": "yangsheng",
+      "subcategory": "shiliao",
+      "path": "library/yangsheng/shiliao/shanyaozhou/shanyaozhou_001.md",
+      "weight": 8,
+      "title": "山药粥·药膳食养",
+      "chapter": "食疗养生",
+      "conditions": {
+        "zhengxing": [],
+        "zhifa": [
+          "健脾益胃"
+        ],
+        "bingzheng": [],
+        "zhengzhuang": [
+          "食少体倦"
+        ],
+        "fangming": [],
+        "yaoming": [
+          "山药",
+          "粳米"
+        ],
+        "xuewei": [],
+        "jingluo": [],
+        "siqi": [
+          "平"
+        ],
+        "wuwei": [
+          "甘"
+        ],
+        "guijing": [
+          "脾经",
+          "胃经",
+          "肺经"
+        ],
+        "keywords": [
+          "山药粥",
+          "食疗",
+          "药粥",
+          "健脾",
+          "养生",
+          "体质有异食用前自行斟酌"
+        ]
+      }
+    },
+    {
+      "id": "shanzhayin_001",
+      "book": "中医养生（古籍要义归纳）",
+      "type": "chapter",
+      "tier": 1,
+      "category": "yangsheng",
+      "subcategory": "shiliao",
+      "path": "library/yangsheng/shiliao/shanzhayin/shanzhayin_001.md",
+      "weight": 8,
+      "title": "山楂饮·山楂煮水消食代茶饮",
+      "chapter": "食疗养生",
+      "conditions": {
+        "zhengxing": [],
+        "zhifa": [
+          "消食化滞"
+        ],
+        "bingzheng": [],
+        "zhengzhuang": [],
+        "fangming": [],
+        "yaoming": [
+          "山楂",
+          "冰糖"
+        ],
+        "xuewei": [],
+        "jingluo": [],
+        "siqi": [
+          "微温"
+        ],
+        "wuwei": [
+          "酸",
+          "甘"
+        ],
+        "guijing": [
+          "脾经",
+          "胃经",
+          "肝经"
+        ],
+        "keywords": [
+          "山楂饮",
+          "食疗",
+          "代茶饮",
+          "消食化滞",
+          "山楂",
+          "养生",
+          "体质有异食用前自行斟酌"
+        ]
+      }
+    },
+    {
+      "id": "xiaomizhou_001",
+      "book": "中医养生（古籍要义归纳）",
+      "type": "chapter",
+      "tier": 1,
+      "category": "yangsheng",
+      "subcategory": "shiliao",
+      "path": "library/yangsheng/shiliao/xiaomizhou/xiaomizhou_001.md",
+      "weight": 8,
+      "title": "小米粥·小米熬粥健脾和胃",
+      "chapter": "食疗养生",
+      "conditions": {
+        "zhengxing": [],
+        "zhifa": [
+          "健脾和胃"
+        ],
+        "bingzheng": [],
+        "zhengzhuang": [],
+        "fangming": [],
+        "yaoming": [
+          "小米"
+        ],
+        "xuewei": [],
+        "jingluo": [],
+        "siqi": [
+          "凉"
+        ],
+        "wuwei": [
+          "甘",
+          "咸"
+        ],
+        "guijing": [
+          "脾经",
+          "胃经",
+          "肾经"
+        ],
+        "keywords": [
+          "小米粥",
+          "食疗",
+          "药粥",
+          "健脾和胃",
+          "小米",
+          "养生",
+          "体质有异食用前自行斟酌"
+        ]
+      }
+    },
+    {
+      "id": "yiyirenzhou_001",
+      "book": "中医养生（古籍要义归纳）",
+      "type": "chapter",
+      "tier": 1,
+      "category": "yangsheng",
+      "subcategory": "shiliao",
+      "path": "library/yangsheng/shiliao/yiyirenzhou/yiyirenzhou_001.md",
+      "weight": 8,
+      "title": "薏苡仁粥·健脾渗湿药粥",
+      "chapter": "食疗养生",
+      "conditions": {
+        "zhengxing": [],
+        "zhifa": [
+          "健脾渗湿"
+        ],
+        "bingzheng": [],
+        "zhengzhuang": [
+          "身体困重",
+          "食少"
+        ],
+        "fangming": [],
+        "yaoming": [
+          "薏苡仁",
+          "粳米"
+        ],
+        "xuewei": [],
+        "jingluo": [],
+        "siqi": [
+          "凉"
+        ],
+        "wuwei": [
+          "甘",
+          "淡"
+        ],
+        "guijing": [
+          "脾经",
+          "胃经",
+          "肺经"
+        ],
+        "keywords": [
+          "薏苡仁粥",
+          "食疗",
+          "药粥",
+          "健脾渗湿",
+          "薏米",
+          "养生",
+          "药食同源"
         ]
       }
     },

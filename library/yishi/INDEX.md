@@ -1,6 +1,21 @@
 # yishi · 医史医家
 
-> 收录 82 条 · 下级 2 个子类
+> 收录 92 条 · 下级 3 个子类
+
+## xuepai · 学术流派
+
+| 书目 | 条目数 | 索引 |
+| --- | --- | --- |
+| yishi/xuepai/danxixuepai | 1 | [索引](./yishi/xuepai/danxixuepai/INDEX.md) |
+| yishi/xuepai/gongxuexuepai | 1 | [索引](./yishi/xuepai/gongxuexuepai/INDEX.md) |
+| yishi/xuepai/hejianxuepai | 1 | [索引](./yishi/xuepai/hejianxuepai/INDEX.md) |
+| yishi/xuepai/huoshenxuepai | 1 | [索引](./yishi/xuepai/huoshenxuepai/INDEX.md) |
+| yishi/xuepai/jingfangxuepai | 1 | [索引](./yishi/xuepai/jingfangxuepai/INDEX.md) |
+| yishi/xuepai/shanghanxuepai | 1 | [索引](./yishi/xuepai/shanghanxuepai/INDEX.md) |
+| yishi/xuepai/wenbingxuepai | 1 | [索引](./yishi/xuepai/wenbingxuepai/INDEX.md) |
+| yishi/xuepai/wenbuxuepai | 1 | [索引](./yishi/xuepai/wenbuxuepai/INDEX.md) |
+| yishi/xuepai/yishuixuepai | 1 | [索引](./yishi/xuepai/yishuixuepai/INDEX.md) |
+| yishi/xuepai/zhongxihuitongxuepai | 1 | [索引](./yishi/xuepai/zhongxihuitongxuepai/INDEX.md) |
 
 ## yian · 医案
 

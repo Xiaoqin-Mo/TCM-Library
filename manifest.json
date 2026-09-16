@@ -63,6 +63,10 @@
         "dir": "yangsheng/daoyin/zhanzhuang",
         "count": 1
       },
+      "qiju": {
+        "dir": "yangsheng/qiju/ziwujue",
+        "count": 1
+      },
       "shiliao": {
         "dir": "yangsheng/shiliao/yiyirenzhou",
         "count": 1
@@ -1915,6 +1919,86 @@
       "tier_name": "核心",
       "category": "yangsheng",
       "subcategory": "daoyin",
+      "count": 1
+    },
+    {
+      "dir": "yangsheng/qiju/bifenghan",
+      "tier": 1,
+      "tier_name": "核心",
+      "category": "yangsheng",
+      "subcategory": "qiju",
+      "count": 1
+    },
+    {
+      "dir": "yangsheng/qiju/chunwuqiudong",
+      "tier": 1,
+      "tier_name": "核心",
+      "category": "yangsheng",
+      "subcategory": "qiju",
+      "count": 1
+    },
+    {
+      "dir": "yangsheng/qiju/dongjingjiehe",
+      "tier": 1,
+      "tier_name": "核心",
+      "category": "yangsheng",
+      "subcategory": "qiju",
+      "count": 1
+    },
+    {
+      "dir": "yangsheng/qiju/laoyishidu",
+      "tier": 1,
+      "tier_name": "核心",
+      "category": "yangsheng",
+      "subcategory": "qiju",
+      "count": 1
+    },
+    {
+      "dir": "yangsheng/qiju/qingzhitiaoshe",
+      "tier": 1,
+      "tier_name": "核心",
+      "category": "yangsheng",
+      "subcategory": "qiju",
+      "count": 1
+    },
+    {
+      "dir": "yangsheng/qiju/qiqingzhibing",
+      "tier": 1,
+      "tier_name": "核心",
+      "category": "yangsheng",
+      "subcategory": "qiju",
+      "count": 1
+    },
+    {
+      "dir": "yangsheng/qiju/shuimianweisheng",
+      "tier": 1,
+      "tier_name": "核心",
+      "category": "yangsheng",
+      "subcategory": "qiju",
+      "count": 1
+    },
+    {
+      "dir": "yangsheng/qiju/sishiqiju",
+      "tier": 1,
+      "tier_name": "核心",
+      "category": "yangsheng",
+      "subcategory": "qiju",
+      "count": 1
+    },
+    {
+      "dir": "yangsheng/qiju/tiandanxuwu",
+      "tier": 1,
+      "tier_name": "核心",
+      "category": "yangsheng",
+      "subcategory": "qiju",
+      "count": 1
+    },
+    {
+      "dir": "yangsheng/qiju/ziwujue",
+      "tier": 1,
+      "tier_name": "核心",
+      "category": "yangsheng",
+      "subcategory": "qiju",
       "count": 1
     },
     {
@@ -11662,7 +11746,7 @@
       "count": 1
     }
   ],
-  "total": 2476,
+  "total": 2486,
   "entries": [
     {
       "id": "baihutang_002",
@@ -59677,6 +59761,384 @@
           "静功",
           "养生",
           "松静"
+        ]
+      }
+    },
+    {
+      "id": "bifenghan_001",
+      "book": "中医养生（古籍要义归纳）",
+      "type": "chapter",
+      "tier": 1,
+      "category": "yangsheng",
+      "subcategory": "qiju",
+      "path": "library/yangsheng/qiju/bifenghan/bifenghan_001.md",
+      "weight": 8,
+      "title": "避风寒·虚邪贼风避之有时",
+      "chapter": "起居情志",
+      "conditions": {
+        "zhengxing": [],
+        "zhifa": [
+          "避风寒",
+          "顾护阳气"
+        ],
+        "bingzheng": [],
+        "zhengzhuang": [
+          "汗出当风不适"
+        ],
+        "fangming": [],
+        "yaoming": [],
+        "xuewei": [],
+        "jingluo": [],
+        "siqi": [],
+        "wuwei": [],
+        "guijing": [],
+        "keywords": [
+          "避风寒",
+          "虚邪贼风",
+          "起居调摄",
+          "避风",
+          "护阳",
+          "养生"
+        ]
+      }
+    },
+    {
+      "id": "chunwuqiudong_001",
+      "book": "中医养生（古籍要义归纳）",
+      "type": "chapter",
+      "tier": 1,
+      "category": "yangsheng",
+      "subcategory": "qiju",
+      "path": "library/yangsheng/qiju/chunwuqiudong/chunwuqiudong_001.md",
+      "weight": 8,
+      "title": "春捂秋冻·顺应寒温渐次增减衣",
+      "chapter": "起居情志",
+      "conditions": {
+        "zhengxing": [],
+        "zhifa": [
+          "春捂秋冻",
+          "适应寒温"
+        ],
+        "bingzheng": [],
+        "zhengzhuang": [
+          "乍寒乍暖不适"
+        ],
+        "fangming": [],
+        "yaoming": [],
+        "xuewei": [],
+        "jingluo": [],
+        "siqi": [],
+        "wuwei": [],
+        "guijing": [],
+        "keywords": [
+          "春捂秋冻",
+          "防寒",
+          "顺应气候",
+          "增减衣",
+          "起居调摄",
+          "养生"
+        ]
+      }
+    },
+    {
+      "id": "dongjingjiehe_001",
+      "book": "中医养生（古籍要义归纳）",
+      "type": "chapter",
+      "tier": 1,
+      "category": "yangsheng",
+      "subcategory": "qiju",
+      "path": "library/yangsheng/qiju/dongjingjiehe/dongjingjiehe_001.md",
+      "weight": 8,
+      "title": "动静结合·动以养形静以养神",
+      "chapter": "起居情志",
+      "conditions": {
+        "zhengxing": [],
+        "zhifa": [
+          "动静结合",
+          "形神共养"
+        ],
+        "bingzheng": [],
+        "zhengzhuang": [],
+        "fangming": [],
+        "yaoming": [],
+        "xuewei": [],
+        "jingluo": [],
+        "siqi": [],
+        "wuwei": [],
+        "guijing": [],
+        "keywords": [
+          "动静结合",
+          "动以养形",
+          "静以养神",
+          "形神共养",
+          "养生"
+        ]
+      }
+    },
+    {
+      "id": "laoyishidu_001",
+      "book": "中医养生（古籍要义归纳）",
+      "type": "chapter",
+      "tier": 1,
+      "category": "yangsheng",
+      "subcategory": "qiju",
+      "path": "library/yangsheng/qiju/laoyishidu/laoyishidu_001.md",
+      "weight": 8,
+      "title": "劳逸适度·形劳而不倦劳逸平衡",
+      "chapter": "起居情志",
+      "conditions": {
+        "zhengxing": [],
+        "zhifa": [
+          "劳逸适度",
+          "形神共养"
+        ],
+        "bingzheng": [],
+        "zhengzhuang": [
+          "过劳",
+          "过逸"
+        ],
+        "fangming": [],
+        "yaoming": [],
+        "xuewei": [],
+        "jingluo": [],
+        "siqi": [],
+        "wuwei": [],
+        "guijing": [],
+        "keywords": [
+          "劳逸适度",
+          "不妄作劳",
+          "起居养生",
+          "形劳而不倦",
+          "养生"
+        ]
+      }
+    },
+    {
+      "id": "qingzhitiaoshe_001",
+      "book": "中医养生（古籍要义归纳）",
+      "type": "chapter",
+      "tier": 1,
+      "category": "yangsheng",
+      "subcategory": "qiju",
+      "path": "library/yangsheng/qiju/qingzhitiaoshe/qingzhitiaoshe_001.md",
+      "weight": 8,
+      "title": "情志调摄·七情平和喜怒有节",
+      "chapter": "起居情志",
+      "conditions": {
+        "zhengxing": [],
+        "zhifa": [
+          "情志调摄",
+          "七情平和"
+        ],
+        "bingzheng": [],
+        "zhengzhuang": [
+          "情绪波动"
+        ],
+        "fangming": [],
+        "yaoming": [],
+        "xuewei": [],
+        "jingluo": [],
+        "siqi": [],
+        "wuwei": [],
+        "guijing": [],
+        "keywords": [
+          "情志",
+          "七情",
+          "调神",
+          "喜怒有节",
+          "养生",
+          "情志养生"
+        ]
+      }
+    },
+    {
+      "id": "qiqingzhibing_001",
+      "book": "中医养生（古籍要义归纳）",
+      "type": "chapter",
+      "tier": 1,
+      "category": "yangsheng",
+      "subcategory": "qiju",
+      "path": "library/yangsheng/qiju/qiqingzhibing/qiqingzhibing_001.md",
+      "weight": 8,
+      "title": "七情致病与调摄·喜怒过则伤脏宜调和",
+      "chapter": "起居情志",
+      "conditions": {
+        "zhengxing": [],
+        "zhifa": [
+          "调和七情"
+        ],
+        "bingzheng": [
+          "七情内伤"
+        ],
+        "zhengzhuang": [
+          "情志失调"
+        ],
+        "fangming": [],
+        "yaoming": [],
+        "xuewei": [],
+        "jingluo": [],
+        "siqi": [],
+        "wuwei": [],
+        "guijing": [],
+        "keywords": [
+          "七情",
+          "七情内伤",
+          "情志致病",
+          "调摄",
+          "养生"
+        ]
+      }
+    },
+    {
+      "id": "shuimianweisheng_001",
+      "book": "中医养生（古籍要义归纳）",
+      "type": "chapter",
+      "tier": 1,
+      "category": "yangsheng",
+      "subcategory": "qiju",
+      "path": "library/yangsheng/qiju/shuimianweisheng/shuimianweisheng_001.md",
+      "weight": 8,
+      "title": "睡眠卫生·作息规律寝卧有节",
+      "chapter": "起居情志",
+      "conditions": {
+        "zhengxing": [],
+        "zhifa": [
+          "睡眠调摄",
+          "作息规律"
+        ],
+        "bingzheng": [],
+        "zhengzhuang": [
+          "作息失调"
+        ],
+        "fangming": [],
+        "yaoming": [],
+        "xuewei": [],
+        "jingluo": [],
+        "siqi": [],
+        "wuwei": [],
+        "guijing": [],
+        "keywords": [
+          "睡眠",
+          "寝卧",
+          "起居卫生",
+          "作息规律",
+          "养生"
+        ]
+      }
+    },
+    {
+      "id": "sishiqiju_001",
+      "book": "中医养生（古籍要义归纳）",
+      "type": "chapter",
+      "tier": 1,
+      "category": "yangsheng",
+      "subcategory": "qiju",
+      "path": "library/yangsheng/qiju/sishiqiju/sishiqiju_001.md",
+      "weight": 8,
+      "title": "四时起居·顺应四时",
+      "chapter": "起居情志",
+      "conditions": {
+        "zhengxing": [],
+        "zhifa": [
+          "顺应四时",
+          "起居有常"
+        ],
+        "bingzheng": [],
+        "zhengzhuang": [
+          "作息失调"
+        ],
+        "fangming": [],
+        "yaoming": [],
+        "xuewei": [],
+        "jingluo": [],
+        "siqi": [],
+        "wuwei": [],
+        "guijing": [],
+        "keywords": [
+          "四时起居",
+          "四季养生",
+          "四气调神",
+          "春夏养阳秋冬养阴",
+          "起居有常",
+          "养生"
+        ]
+      }
+    },
+    {
+      "id": "tiandanxuwu_001",
+      "book": "中医养生（古籍要义归纳）",
+      "type": "chapter",
+      "tier": 1,
+      "category": "yangsheng",
+      "subcategory": "qiju",
+      "path": "library/yangsheng/qiju/tiandanxuwu/tiandanxuwu_001.md",
+      "weight": 8,
+      "title": "恬淡虚无·精神内守病安从来",
+      "chapter": "起居情志",
+      "conditions": {
+        "zhengxing": [],
+        "zhifa": [
+          "恬淡虚无",
+          "精神内守"
+        ],
+        "bingzheng": [],
+        "zhengzhuang": [
+          "心神外驰",
+          "多思虑"
+        ],
+        "fangming": [],
+        "yaoming": [],
+        "xuewei": [],
+        "jingluo": [],
+        "siqi": [],
+        "wuwei": [],
+        "guijing": [],
+        "keywords": [
+          "恬淡虚无",
+          "精神内守",
+          "上古天真论",
+          "调神",
+          "养生",
+          "真气从之"
+        ]
+      }
+    },
+    {
+      "id": "ziwujue_001",
+      "book": "中医养生（古籍要义归纳）",
+      "type": "chapter",
+      "tier": 1,
+      "category": "yangsheng",
+      "subcategory": "qiju",
+      "path": "library/yangsheng/qiju/ziwujue/ziwujue_001.md",
+      "weight": 8,
+      "title": "子午觉·子时大睡午时小憩",
+      "chapter": "起居情志",
+      "conditions": {
+        "zhengxing": [],
+        "zhifa": [
+          "子午觉",
+          "作息调摄"
+        ],
+        "bingzheng": [],
+        "zhengzhuang": [
+          "作息失调",
+          "睡眠不规律"
+        ],
+        "fangming": [],
+        "yaoming": [],
+        "xuewei": [],
+        "jingluo": [],
+        "siqi": [],
+        "wuwei": [],
+        "guijing": [],
+        "keywords": [
+          "子午觉",
+          "子时",
+          "午时",
+          "睡眠养生",
+          "作息",
+          "养生"
         ]
       }
     },

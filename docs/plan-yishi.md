@@ -78,6 +78,10 @@
 
 ## 6. 实际进度（回填）
 
-- [ ] B1 医家 1–16（PR 待建）
-- [ ] B2 医家 17–32（PR 待建）
-- [ ] B3 流派 10（PR 待建）
+- [x] B1 医家 1–16 — PR [#37](https://github.com/Xiaoqin-Mo/TCM-Library/pull/37) 已合并，2402→2418
+- [x] B2 医家 17–32 — PR [#38](https://github.com/Xiaoqin-Mo/TCM-Library/pull/38) 已合并，2418→2434
+- [x] B3 流派 10 — PR [#39](https://github.com/Xiaoqin-Mo/TCM-Library/pull/39) 已合并，2434→2444（完成）
+
+> 落点修正：流派条目按仓库已注册子类 `yishi/xuepai/`（学术流派）收录，而非计划初稿所写 `yishi/liupai/`（该目录未注册，校验会报错）。
+> 附带修复：B1 提交中含 `fix(scripts)`，修 build_index/build_manifest/export_vocab 在 Windows 下输出反斜杠路径与 CRLF 的跨平台问题（POSIX 路径 + LF），否则每次重建全库 churn。
+

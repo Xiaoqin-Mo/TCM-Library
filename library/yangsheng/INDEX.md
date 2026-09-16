@@ -1,6 +1,6 @@
 # yangsheng · 养生康复
 
-> 收录 32 条 · 下级 2 个子类
+> 收录 42 条 · 下级 3 个子类
 
 ## daoyin · 导引气功
 
@@ -22,6 +22,21 @@
 | yangsheng/daoyin/xiongjingniaoshen | 1 | [索引](./yangsheng/daoyin/xiongjingniaoshen/INDEX.md) |
 | yangsheng/daoyin/yijinjing | 1 | [索引](./yangsheng/daoyin/yijinjing/INDEX.md) |
 | yangsheng/daoyin/zhanzhuang | 1 | [索引](./yangsheng/daoyin/zhanzhuang/INDEX.md) |
+
+## qiju · 起居调摄
+
+| 书目 | 条目数 | 索引 |
+| --- | --- | --- |
+| yangsheng/qiju/bifenghan | 1 | [索引](./yangsheng/qiju/bifenghan/INDEX.md) |
+| yangsheng/qiju/chunwuqiudong | 1 | [索引](./yangsheng/qiju/chunwuqiudong/INDEX.md) |
+| yangsheng/qiju/dongjingjiehe | 1 | [索引](./yangsheng/qiju/dongjingjiehe/INDEX.md) |
+| yangsheng/qiju/laoyishidu | 1 | [索引](./yangsheng/qiju/laoyishidu/INDEX.md) |
+| yangsheng/qiju/qingzhitiaoshe | 1 | [索引](./yangsheng/qiju/qingzhitiaoshe/INDEX.md) |
+| yangsheng/qiju/qiqingzhibing | 1 | [索引](./yangsheng/qiju/qiqingzhibing/INDEX.md) |
+| yangsheng/qiju/shuimianweisheng | 1 | [索引](./yangsheng/qiju/shuimianweisheng/INDEX.md) |
+| yangsheng/qiju/sishiqiju | 1 | [索引](./yangsheng/qiju/sishiqiju/INDEX.md) |
+| yangsheng/qiju/tiandanxuwu | 1 | [索引](./yangsheng/qiju/tiandanxuwu/INDEX.md) |
+| yangsheng/qiju/ziwujue | 1 | [索引](./yangsheng/qiju/ziwujue/INDEX.md) |
 
 ## shiliao · 食疗药膳
 

@@ -108,7 +108,7 @@ def main() -> None:
     # 空查询静默（不返回全部）
     results.append(check("空查询静默", ids({}), []))
     # 结构完整性
-    results.append(check("manifest 非空", [str(MANIFEST["total"])], ["2476"]))
+    results.append(check("manifest 非空", [str(MANIFEST["total"])], ["2486"]))
     results.append(check("match_fields 齐全",
                          MANIFEST["match_fields"],
                          ["zhengxing", "zhifa", "bingzheng", "zhengzhuang",

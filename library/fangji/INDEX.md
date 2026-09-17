@@ -1,6 +1,6 @@
 # fangji · 方剂学
 
-> 收录 267 条 · 下级 3 个子类
+> 收录 288 条 · 下级 3 个子类
 
 ## chengfang · 成方制剂
 
@@ -27,26 +27,33 @@
 | fangji/chengfang/diedawan | 1 | [索引](./fangji/chengfang/diedawan/INDEX.md) |
 | fangji/chengfang/ejiaobuxue | 1 | [索引](./fangji/chengfang/ejiaobuxue/INDEX.md) |
 | fangji/chengfang/fangfengtongsheng | 1 | [索引](./fangji/chengfang/fangfengtongsheng/INDEX.md) |
+| fangji/chengfang/fengjingyou | 1 | [索引](./fangji/chengfang/fengjingyou/INDEX.md) |
 | fangji/chengfang/fufangcaoshanhu | 1 | [索引](./fangji/chengfang/fufangcaoshanhu/INDEX.md) |
 | fangji/chengfang/fufangdancan | 1 | [索引](./fangji/chengfang/fufangdancan/INDEX.md) |
+| fangji/chengfang/fukeqianjin | 1 | [索引](./fangji/chengfang/fukeqianjin/INDEX.md) |
 | fangji/chengfang/ganmaolingkeli | 1 | [索引](./fangji/chengfang/ganmaolingkeli/INDEX.md) |
 | fangji/chengfang/ganmaoqingrekeli | 1 | [索引](./fangji/chengfang/ganmaoqingrekeli/INDEX.md) |
 | fangji/chengfang/ganmaoshifeng | 1 | [索引](./fangji/chengfang/ganmaoshifeng/INDEX.md) |
 | fangji/chengfang/guifudihuang | 1 | [索引](./fangji/chengfang/guifudihuang/INDEX.md) |
 | fangji/chengfang/guilinxiguashuang | 1 | [索引](./fangji/chengfang/guilinxiguashuang/INDEX.md) |
 | fangji/chengfang/guipi | 1 | [索引](./fangji/chengfang/guipi/INDEX.md) |
+| fangji/chengfang/guizhifuling | 1 | [索引](./fangji/chengfang/guizhifuling/INDEX.md) |
 | fangji/chengfang/houzhengwan | 1 | [索引](./fangji/chengfang/houzhengwan/INDEX.md) |
 | fangji/chengfang/huanglianshangqing | 1 | [索引](./fangji/chengfang/huanglianshangqing/INDEX.md) |
 | fangji/chengfang/huangqijing | 1 | [索引](./fangji/chengfang/huangqijing/INDEX.md) |
 | fangji/chengfang/huatuozai | 1 | [索引](./fangji/chengfang/huatuozai/INDEX.md) |
 | fangji/chengfang/huoxiangruan | 1 | [索引](./fangji/chengfang/huoxiangruan/INDEX.md) |
 | fangji/chengfang/huoxiangzhengqishui | 1 | [索引](./fangji/chengfang/huoxiangzhengqishui/INDEX.md) |
+| fangji/chengfang/jianerxiaoshi | 1 | [索引](./fangji/chengfang/jianerxiaoshi/INDEX.md) |
 | fangji/chengfang/jianpiwan | 1 | [索引](./fangji/chengfang/jianpiwan/INDEX.md) |
 | fangji/chengfang/jiaweixiaoyaowan | 1 | [索引](./fangji/chengfang/jiaweixiaoyaowan/INDEX.md) |
+| fangji/chengfang/jingwanhong | 1 | [索引](./fangji/chengfang/jingwanhong/INDEX.md) |
 | fangji/chengfang/jinkuishenqi | 1 | [索引](./fangji/chengfang/jinkuishenqi/INDEX.md) |
 | fangji/chengfang/jinlianhua | 1 | [索引](./fangji/chengfang/jinlianhua/INDEX.md) |
 | fangji/chengfang/jiuweiqianghuo | 1 | [索引](./fangji/chengfang/jiuweiqianghuo/INDEX.md) |
 | fangji/chengfang/jiuweishutai | 1 | [索引](./fangji/chengfang/jiuweishutai/INDEX.md) |
+| fangji/chengfang/jizhijiangtang | 1 | [索引](./fangji/chengfang/jizhijiangtang/INDEX.md) |
+| fangji/chengfang/juhoutankele | 1 | [索引](./fangji/chengfang/juhoutankele/INDEX.md) |
 | fangji/chengfang/kaiweishanzha | 1 | [索引](./fangji/chengfang/kaiweishanzha/INDEX.md) |
 | fangji/chengfang/kangbingdu | 1 | [索引](./fangji/chengfang/kangbingdu/INDEX.md) |
 | fangji/chengfang/lanqin | 1 | [索引](./fangji/chengfang/lanqin/INDEX.md) |
@@ -56,7 +63,9 @@
 | fangji/chengfang/liuweianxiao | 1 | [索引](./fangji/chengfang/liuweianxiao/INDEX.md) |
 | fangji/chengfang/liuweidihuangwan | 1 | [索引](./fangji/chengfang/liuweidihuangwan/INDEX.md) |
 | fangji/chengfang/longdanxieganwan | 1 | [索引](./fangji/chengfang/longdanxieganwan/INDEX.md) |
+| fangji/chengfang/mayinglong | 1 | [索引](./fangji/chengfang/mayinglong/INDEX.md) |
 | fangji/chengfang/mazirenwan | 1 | [索引](./fangji/chengfang/mazirenwan/INDEX.md) |
+| fangji/chengfang/milianchuanbei | 1 | [索引](./fangji/chengfang/milianchuanbei/INDEX.md) |
 | fangji/chengfang/moluodan | 1 | [索引](./fangji/chengfang/moluodan/INDEX.md) |
 | fangji/chengfang/muxiangshunqi | 1 | [索引](./fangji/chengfang/muxiangshunqi/INDEX.md) |
 | fangji/chengfang/naoxintong | 1 | [索引](./fangji/chengfang/naoxintong/INDEX.md) |
@@ -65,16 +74,20 @@
 | fangji/chengfang/pudilan | 1 | [索引](./fangji/chengfang/pudilan/INDEX.md) |
 | fangji/chengfang/qijudihuang | 1 | [索引](./fangji/chengfang/qijudihuang/INDEX.md) |
 | fangji/chengfang/qingkailing | 1 | [索引](./fangji/chengfang/qingkailing/INDEX.md) |
+| fangji/chengfang/qingliangyou | 1 | [索引](./fangji/chengfang/qingliangyou/INDEX.md) |
 | fangji/chengfang/qingyandianwan | 1 | [索引](./fangji/chengfang/qingyandianwan/INDEX.md) |
 | fangji/chengfang/qizhiweitong | 1 | [索引](./fangji/chengfang/qizhiweitong/INDEX.md) |
+| fangji/chengfang/rendan | 1 | [索引](./fangji/chengfang/rendan/INDEX.md) |
 | fangji/chengfang/renshenyangrong | 1 | [索引](./fangji/chengfang/renshenyangrong/INDEX.md) |
 | fangji/chengfang/reyaning | 1 | [索引](./fangji/chengfang/reyaning/INDEX.md) |
+| fangji/chengfang/rupixiao | 1 | [索引](./fangji/chengfang/rupixiao/INDEX.md) |
 | fangji/chengfang/sangjuganmao | 1 | [索引](./fangji/chengfang/sangjuganmao/INDEX.md) |
 | fangji/chengfang/sanhuangpian | 1 | [索引](./fangji/chengfang/sanhuangpian/INDEX.md) |
 | fangji/chengfang/sanqishangyao | 1 | [索引](./fangji/chengfang/sanqishangyao/INDEX.md) |
 | fangji/chengfang/shengmaiyin | 1 | [索引](./fangji/chengfang/shengmaiyin/INDEX.md) |
 | fangji/chengfang/shenlingbaizhu | 1 | [索引](./fangji/chengfang/shenlingbaizhu/INDEX.md) |
 | fangji/chengfang/shexiangbaoxin | 1 | [索引](./fangji/chengfang/shexiangbaoxin/INDEX.md) |
+| fangji/chengfang/shidushui | 1 | [索引](./fangji/chengfang/shidushui/INDEX.md) |
 | fangji/chengfang/shiquandabu | 1 | [索引](./fangji/chengfang/shiquandabu/INDEX.md) |
 | fangji/chengfang/shuanghuanglian | 1 | [索引](./fangji/chengfang/shuanghuanglian/INDEX.md) |
 | fangji/chengfang/shuangliaohoufeng | 1 | [索引](./fangji/chengfang/shuangliaohoufeng/INDEX.md) |
@@ -86,6 +99,7 @@
 | fangji/chengfang/tongbianling | 1 | [索引](./fangji/chengfang/tongbianling/INDEX.md) |
 | fangji/chengfang/tongxinluo | 1 | [索引](./fangji/chengfang/tongxinluo/INDEX.md) |
 | fangji/chengfang/tongxuanlifei | 1 | [索引](./fangji/chengfang/tongxuanlifei/INDEX.md) |
+| fangji/chengfang/wangweichixing | 1 | [索引](./fangji/chengfang/wangweichixing/INDEX.md) |
 | fangji/chengfang/weicyingqiao | 1 | [索引](./fangji/chengfang/weicyingqiao/INDEX.md) |
 | fangji/chengfang/weiling | 1 | [索引](./fangji/chengfang/weiling/INDEX.md) |
 | fangji/chengfang/wenweishu | 1 | [索引](./fangji/chengfang/wenweishu/INDEX.md) |
@@ -93,14 +107,21 @@
 | fangji/chengfang/wushicha | 1 | [索引](./fangji/chengfang/wushicha/INDEX.md) |
 | fangji/chengfang/xiangshaliujun | 1 | [索引](./fangji/chengfang/xiangshaliujun/INDEX.md) |
 | fangji/chengfang/xiangshayangweiwan | 1 | [索引](./fangji/chengfang/xiangshayangweiwan/INDEX.md) |
+| fangji/chengfang/xianzhuli | 1 | [索引](./fangji/chengfang/xianzhuli/INDEX.md) |
 | fangji/chengfang/xiaochaihu | 1 | [索引](./fangji/chengfang/xiaochaihu/INDEX.md) |
+| fangji/chengfang/xiaoerganmao | 1 | [索引](./fangji/chengfang/xiaoerganmao/INDEX.md) |
+| fangji/chengfang/xiaoerhuashi | 1 | [索引](./fangji/chengfang/xiaoerhuashi/INDEX.md) |
 | fangji/chengfang/xiaoyaowan | 1 | [索引](./fangji/chengfang/xiaoyaowan/INDEX.md) |
 | fangji/chengfang/xiguashuangrunhou | 1 | [索引](./fangji/chengfang/xiguashuangrunhou/INDEX.md) |
 | fangji/chengfang/xileisan | 1 | [索引](./fangji/chengfang/xileisan/INDEX.md) |
+| fangji/chengfang/xingpiyang | 1 | [索引](./fangji/chengfang/xingpiyang/INDEX.md) |
+| fangji/chengfang/xirun | 1 | [索引](./fangji/chengfang/xirun/INDEX.md) |
 | fangji/chengfang/xuanmaoganjie | 1 | [索引](./fangji/chengfang/xuanmaoganjie/INDEX.md) |
 | fangji/chengfang/xuefuzhuyu | 1 | [索引](./fangji/chengfang/xuefuzhuyu/INDEX.md) |
 | fangji/chengfang/yangweishu | 1 | [索引](./fangji/chengfang/yangweishu/INDEX.md) |
 | fangji/chengfang/yangxueshen | 1 | [索引](./fangji/chengfang/yangxueshen/INDEX.md) |
+| fangji/chengfang/yangyinqingfei | 1 | [索引](./fangji/chengfang/yangyinqingfei/INDEX.md) |
+| fangji/chengfang/yimucao | 1 | [索引](./fangji/chengfang/yimucao/INDEX.md) |
 | fangji/chengfang/yinhuangkoufuye | 1 | [索引](./fangji/chengfang/yinhuangkoufuye/INDEX.md) |
 | fangji/chengfang/yinqiaojiedu | 1 | [索引](./fangji/chengfang/yinqiaojiedu/INDEX.md) |
 | fangji/chengfang/yinxingye | 1 | [索引](./fangji/chengfang/yinxingye/INDEX.md) |

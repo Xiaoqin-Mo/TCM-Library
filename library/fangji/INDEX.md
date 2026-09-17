@@ -1,6 +1,6 @@
 # fangji · 方剂学
 
-> 收录 44 条 · 下级 1 个子类
+> 收录 60 条 · 下级 2 个子类
 
 ## jingfang · 经方
 
@@ -50,5 +50,26 @@
 | fangji/jingfang/zhizichitang | 1 | [索引](./fangji/jingfang/zhizichitang/INDEX.md) |
 | fangji/jingfang/zhulingtang | 1 | [索引](./fangji/jingfang/zhulingtang/INDEX.md) |
 | fangji/jingfang/zhuyeshigaotang | 1 | [索引](./fangji/jingfang/zhuyeshigaotang/INDEX.md) |
+
+## shifang · 时方
+
+| 书目 | 条目数 | 索引 |
+| --- | --- | --- |
+| fangji/shifang/baidusasan | 1 | [索引](./fangji/shifang/baidusasan/INDEX.md) |
+| fangji/shifang/chaigejieji | 1 | [索引](./fangji/shifang/chaigejieji/INDEX.md) |
+| fangji/shifang/haoqinqingdan | 1 | [索引](./fangji/shifang/haoqinqingdan/INDEX.md) |
+| fangji/shifang/huanglongtang | 1 | [索引](./fangji/shifang/huanglongtang/INDEX.md) |
+| fangji/shifang/jiajianweirui | 1 | [索引](./fangji/shifang/jiajianweirui/INDEX.md) |
+| fangji/shifang/jichuanjian | 1 | [索引](./fangji/shifang/jichuanjian/INDEX.md) |
+| fangji/shifang/jiuweiqianghuo | 1 | [索引](./fangji/shifang/jiuweiqianghuo/INDEX.md) |
+| fangji/shifang/mazirenwan | 1 | [索引](./fangji/shifang/mazirenwan/INDEX.md) |
+| fangji/shifang/sangjuyin | 1 | [索引](./fangji/shifang/sangjuyin/INDEX.md) |
+| fangji/shifang/tongxieyaofang | 1 | [索引](./fangji/shifang/tongxieyaofang/INDEX.md) |
+| fangji/shifang/wenpitang | 1 | [索引](./fangji/shifang/wenpitang/INDEX.md) |
+| fangji/shifang/xiangru | 1 | [索引](./fangji/shifang/xiangru/INDEX.md) |
+| fangji/shifang/xiaoyaosan | 1 | [索引](./fangji/shifang/xiaoyaosan/INDEX.md) |
+| fangji/shifang/yinqiaosan | 1 | [索引](./fangji/shifang/yinqiaosan/INDEX.md) |
+| fangji/shifang/zaizao | 1 | [索引](./fangji/shifang/zaizao/INDEX.md) |
+| fangji/shifang/zhisousan | 1 | [索引](./fangji/shifang/zhisousan/INDEX.md) |
 
 [返回总索引](../INDEX.md)

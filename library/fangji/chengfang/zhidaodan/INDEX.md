@@ -4,6 +4,6 @@
 
 | 条目 | 标题 | 类型 | 权重 |
 | --- | --- | --- | --- |
-| [zhidaodan_001](./zhidaodan_001.md) | 局方至宝散·化浊开窍清热解毒 | fangji | 8 |
+| [zhidaodan_002](./zhidaodan_002.md) | 局方至宝散·化浊开窍清热解毒 | fangji | 8 |
 
 [返回总索引](../../../INDEX.md)

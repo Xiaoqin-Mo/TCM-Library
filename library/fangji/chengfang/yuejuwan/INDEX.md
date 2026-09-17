@@ -1,9 +1,9 @@
-# fangji/chengfang/zuojinwan · 索引
+# fangji/chengfang/yuejuwan · 索引
 
 > 方剂学 / 成方制剂 · 条目数 1
 
 | 条目 | 标题 | 类型 | 权重 |
 | --- | --- | --- | --- |
-| [zuojinwan_002](./zuojinwan_002.md) | 左金丸·泻肝火降呕 | fangji | 8 |
+| [yuejuwan_002](./yuejuwan_002.md) | 越鞠丸·理气解郁宽中除满 | fangji | 8 |
 
 [返回总索引](../../../INDEX.md)

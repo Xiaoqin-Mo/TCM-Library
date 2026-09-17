@@ -1,6 +1,6 @@
 # fangji · 方剂学
 
-> 收录 332 条 · 下级 4 个子类
+> 收录 356 条 · 下级 4 个子类
 
 ## chengfang · 成方制剂
 
@@ -144,28 +144,44 @@
 | --- | --- | --- |
 | fangji/jieyao/angongniuhuang | 1 | [索引](./fangji/jieyao/angongniuhuang/INDEX.md) |
 | fangji/jieyao/baihutang | 1 | [索引](./fangji/jieyao/baihutang/INDEX.md) |
+| fangji/jieyao/banxiahoupo | 1 | [索引](./fangji/jieyao/banxiahoupo/INDEX.md) |
 | fangji/jieyao/banxiexin | 1 | [索引](./fangji/jieyao/banxiexin/INDEX.md) |
+| fangji/jieyao/bazhengsan | 1 | [索引](./fangji/jieyao/bazhengsan/INDEX.md) |
+| fangji/jieyao/buyanghuanwu | 1 | [索引](./fangji/jieyao/buyanghuanwu/INDEX.md) |
 | fangji/jieyao/buzhongyiqi | 1 | [索引](./fangji/jieyao/buzhongyiqi/INDEX.md) |
+| fangji/jieyao/chuanxiongchatiao | 1 | [索引](./fangji/jieyao/chuanxiongchatiao/INDEX.md) |
 | fangji/jieyao/dachengqi | 1 | [索引](./fangji/jieyao/dachengqi/INDEX.md) |
 | fangji/jieyao/danguisinilang | 1 | [索引](./fangji/jieyao/danguisinilang/INDEX.md) |
 | fangji/jieyao/daochisan | 1 | [索引](./fangji/jieyao/daochisan/INDEX.md) |
+| fangji/jieyao/dingchuantang | 1 | [索引](./fangji/jieyao/dingchuantang/INDEX.md) |
+| fangji/jieyao/erchentang | 1 | [索引](./fangji/jieyao/erchentang/INDEX.md) |
 | fangji/jieyao/guipi | 1 | [索引](./fangji/jieyao/guipi/INDEX.md) |
+| fangji/jieyao/guizhifuling | 1 | [索引](./fangji/jieyao/guizhifuling/INDEX.md) |
 | fangji/jieyao/guizhitang | 1 | [索引](./fangji/jieyao/guizhitang/INDEX.md) |
 | fangji/jieyao/huanglianjiedu | 1 | [索引](./fangji/jieyao/huanglianjiedu/INDEX.md) |
+| fangji/jieyao/huoxiangzhengqi | 1 | [索引](./fangji/jieyao/huoxiangzhengqi/INDEX.md) |
 | fangji/jieyao/jiuweiqianghuo | 1 | [索引](./fangji/jieyao/jiuweiqianghuo/INDEX.md) |
+| fangji/jieyao/lingjiaogouteng | 1 | [索引](./fangji/jieyao/lingjiaogouteng/INDEX.md) |
 | fangji/jieyao/liuweiDihuang | 1 | [索引](./fangji/jieyao/liuweiDihuang/INDEX.md) |
 | fangji/jieyao/lizhongwan | 1 | [索引](./fangji/jieyao/lizhongwan/INDEX.md) |
 | fangji/jieyao/longdanxiegan | 1 | [索引](./fangji/jieyao/longdanxiegan/INDEX.md) |
 | fangji/jieyao/mahuangtang | 1 | [索引](./fangji/jieyao/mahuangtang/INDEX.md) |
+| fangji/jieyao/maimendong | 1 | [索引](./fangji/jieyao/maimendong/INDEX.md) |
 | fangji/jieyao/mazirenwan | 1 | [索引](./fangji/jieyao/mazirenwan/INDEX.md) |
 | fangji/jieyao/mulisan | 1 | [索引](./fangji/jieyao/mulisan/INDEX.md) |
+| fangji/jieyao/pingweisan | 1 | [索引](./fangji/jieyao/pingweisan/INDEX.md) |
 | fangji/jieyao/qinghaobiejia | 1 | [索引](./fangji/jieyao/qinghaobiejia/INDEX.md) |
 | fangji/jieyao/qingwei | 1 | [索引](./fangji/jieyao/qingwei/INDEX.md) |
 | fangji/jieyao/qingying | 1 | [索引](./fangji/jieyao/qingying/INDEX.md) |
+| fangji/jieyao/qingzaojiufei | 1 | [索引](./fangji/jieyao/qingzaojiufei/INDEX.md) |
 | fangji/jieyao/sangjuyin | 1 | [索引](./fangji/jieyao/sangjuyin/INDEX.md) |
 | fangji/jieyao/sangpiaoxiao | 1 | [索引](./fangji/jieyao/sangpiaoxiao/INDEX.md) |
+| fangji/jieyao/sangxingtang | 1 | [索引](./fangji/jieyao/sangxingtang/INDEX.md) |
+| fangji/jieyao/sanrentang | 1 | [索引](./fangji/jieyao/sanrentang/INDEX.md) |
 | fangji/jieyao/shaoyaotang | 1 | [索引](./fangji/jieyao/shaoyaotang/INDEX.md) |
+| fangji/jieyao/shenghuatang | 1 | [索引](./fangji/jieyao/shenghuatang/INDEX.md) |
 | fangji/jieyao/shengmaisun | 1 | [索引](./fangji/jieyao/shengmaisun/INDEX.md) |
+| fangji/jieyao/shixiaosan | 1 | [索引](./fangji/jieyao/shixiaosan/INDEX.md) |
 | fangji/jieyao/shizao | 1 | [索引](./fangji/jieyao/shizao/INDEX.md) |
 | fangji/jieyao/sijunzi | 1 | [索引](./fangji/jieyao/sijunzi/INDEX.md) |
 | fangji/jieyao/sinilang | 1 | [索引](./fangji/jieyao/sinilang/INDEX.md) |
@@ -173,18 +189,26 @@
 | fangji/jieyao/sishenwan | 1 | [索引](./fangji/jieyao/sishenwan/INDEX.md) |
 | fangji/jieyao/siwutang | 1 | [索引](./fangji/jieyao/siwutang/INDEX.md) |
 | fangji/jieyao/suanzaoren | 1 | [索引](./fangji/jieyao/suanzaoren/INDEX.md) |
+| fangji/jieyao/suzijiangqi | 1 | [索引](./fangji/jieyao/suzijiangqi/INDEX.md) |
 | fangji/jieyao/tianwangbuxin | 1 | [索引](./fangji/jieyao/tianwangbuxin/INDEX.md) |
+| fangji/jieyao/wendantang | 1 | [索引](./fangji/jieyao/wendantang/INDEX.md) |
 | fangji/jieyao/wenpitang | 1 | [索引](./fangji/jieyao/wenpitang/INDEX.md) |
+| fangji/jieyao/wulingsan | 1 | [索引](./fangji/jieyao/wulingsan/INDEX.md) |
 | fangji/jieyao/xiaochaihu | 1 | [索引](./fangji/jieyao/xiaochaihu/INDEX.md) |
 | fangji/jieyao/xiaojianzhong | 1 | [索引](./fangji/jieyao/xiaojianzhong/INDEX.md) |
 | fangji/jieyao/xiaoqinglong | 1 | [索引](./fangji/jieyao/xiaoqinglong/INDEX.md) |
 | fangji/jieyao/xiaoyaosan | 1 | [索引](./fangji/jieyao/xiaoyaosan/INDEX.md) |
 | fangji/jieyao/xiebai | 1 | [索引](./fangji/jieyao/xiebai/INDEX.md) |
+| fangji/jieyao/xingsusan | 1 | [索引](./fangji/jieyao/xingsusan/INDEX.md) |
+| fangji/jieyao/xuefuzhuyu | 1 | [索引](./fangji/jieyao/xuefuzhuyu/INDEX.md) |
 | fangji/jieyao/yiguanjian | 1 | [索引](./fangji/jieyao/yiguanjian/INDEX.md) |
 | fangji/jieyao/yinqiaosan | 1 | [索引](./fangji/jieyao/yinqiaosan/INDEX.md) |
 | fangji/jieyao/youguiwan | 1 | [索引](./fangji/jieyao/youguiwan/INDEX.md) |
+| fangji/jieyao/yuejuwan | 1 | [索引](./fangji/jieyao/yuejuwan/INDEX.md) |
 | fangji/jieyao/yunvjian | 1 | [索引](./fangji/jieyao/yunvjian/INDEX.md) |
 | fangji/jieyao/yupingfeng | 1 | [索引](./fangji/jieyao/yupingfeng/INDEX.md) |
+| fangji/jieyao/zhenganxifeng | 1 | [索引](./fangji/jieyao/zhenganxifeng/INDEX.md) |
+| fangji/jieyao/zhenwutang | 1 | [索引](./fangji/jieyao/zhenwutang/INDEX.md) |
 | fangji/jieyao/zuoguiwan | 1 | [索引](./fangji/jieyao/zuoguiwan/INDEX.md) |
 
 ## jingfang · 经方

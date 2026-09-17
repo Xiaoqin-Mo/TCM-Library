@@ -1,0 +1,9 @@
+# fangji/shifang/erchentang · 索引
+
+> 方剂学 / 时方 · 条目数 1
+
+| 条目 | 标题 | 类型 | 权重 |
+| --- | --- | --- | --- |
+| [erchentang_001](./erchentang_001.md) | 二陈汤·燥湿化痰理气和中 | fangji | 9 |
+
+[返回总索引](../../../INDEX.md)

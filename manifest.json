@@ -788,6 +788,14 @@
       "count": 1
     },
     {
+      "dir": "fangji/chengfang/fengjingyou",
+      "tier": 1,
+      "tier_name": "核心",
+      "category": "fangji",
+      "subcategory": "chengfang",
+      "count": 1
+    },
+    {
       "dir": "fangji/chengfang/fufangcaoshanhu",
       "tier": 1,
       "tier_name": "核心",
@@ -797,6 +805,14 @@
     },
     {
       "dir": "fangji/chengfang/fufangdancan",
+      "tier": 1,
+      "tier_name": "核心",
+      "category": "fangji",
+      "subcategory": "chengfang",
+      "count": 1
+    },
+    {
+      "dir": "fangji/chengfang/fukeqianjin",
       "tier": 1,
       "tier_name": "核心",
       "category": "fangji",
@@ -852,6 +868,14 @@
       "count": 1
     },
     {
+      "dir": "fangji/chengfang/guizhifuling",
+      "tier": 1,
+      "tier_name": "核心",
+      "category": "fangji",
+      "subcategory": "chengfang",
+      "count": 1
+    },
+    {
       "dir": "fangji/chengfang/houzhengwan",
       "tier": 1,
       "tier_name": "核心",
@@ -900,6 +924,14 @@
       "count": 1
     },
     {
+      "dir": "fangji/chengfang/jianerxiaoshi",
+      "tier": 1,
+      "tier_name": "核心",
+      "category": "fangji",
+      "subcategory": "chengfang",
+      "count": 1
+    },
+    {
       "dir": "fangji/chengfang/jianpiwan",
       "tier": 1,
       "tier_name": "核心",
@@ -909,6 +941,14 @@
     },
     {
       "dir": "fangji/chengfang/jiaweixiaoyaowan",
+      "tier": 1,
+      "tier_name": "核心",
+      "category": "fangji",
+      "subcategory": "chengfang",
+      "count": 1
+    },
+    {
+      "dir": "fangji/chengfang/jingwanhong",
       "tier": 1,
       "tier_name": "核心",
       "category": "fangji",
@@ -941,6 +981,22 @@
     },
     {
       "dir": "fangji/chengfang/jiuweishutai",
+      "tier": 1,
+      "tier_name": "核心",
+      "category": "fangji",
+      "subcategory": "chengfang",
+      "count": 1
+    },
+    {
+      "dir": "fangji/chengfang/jizhijiangtang",
+      "tier": 1,
+      "tier_name": "核心",
+      "category": "fangji",
+      "subcategory": "chengfang",
+      "count": 1
+    },
+    {
+      "dir": "fangji/chengfang/juhoutankele",
       "tier": 1,
       "tier_name": "核心",
       "category": "fangji",
@@ -1020,7 +1076,23 @@
       "count": 1
     },
     {
+      "dir": "fangji/chengfang/mayinglong",
+      "tier": 1,
+      "tier_name": "核心",
+      "category": "fangji",
+      "subcategory": "chengfang",
+      "count": 1
+    },
+    {
       "dir": "fangji/chengfang/mazirenwan",
+      "tier": 1,
+      "tier_name": "核心",
+      "category": "fangji",
+      "subcategory": "chengfang",
+      "count": 1
+    },
+    {
+      "dir": "fangji/chengfang/milianchuanbei",
       "tier": 1,
       "tier_name": "核心",
       "category": "fangji",
@@ -1092,6 +1164,14 @@
       "count": 1
     },
     {
+      "dir": "fangji/chengfang/qingliangyou",
+      "tier": 1,
+      "tier_name": "核心",
+      "category": "fangji",
+      "subcategory": "chengfang",
+      "count": 1
+    },
+    {
       "dir": "fangji/chengfang/qingyandianwan",
       "tier": 1,
       "tier_name": "核心",
@@ -1108,6 +1188,14 @@
       "count": 1
     },
     {
+      "dir": "fangji/chengfang/rendan",
+      "tier": 1,
+      "tier_name": "核心",
+      "category": "fangji",
+      "subcategory": "chengfang",
+      "count": 1
+    },
+    {
       "dir": "fangji/chengfang/renshenyangrong",
       "tier": 1,
       "tier_name": "核心",
@@ -1117,6 +1205,14 @@
     },
     {
       "dir": "fangji/chengfang/reyaning",
+      "tier": 1,
+      "tier_name": "核心",
+      "category": "fangji",
+      "subcategory": "chengfang",
+      "count": 1
+    },
+    {
+      "dir": "fangji/chengfang/rupixiao",
       "tier": 1,
       "tier_name": "核心",
       "category": "fangji",
@@ -1165,6 +1261,14 @@
     },
     {
       "dir": "fangji/chengfang/shexiangbaoxin",
+      "tier": 1,
+      "tier_name": "核心",
+      "category": "fangji",
+      "subcategory": "chengfang",
+      "count": 1
+    },
+    {
+      "dir": "fangji/chengfang/shidushui",
       "tier": 1,
       "tier_name": "核心",
       "category": "fangji",
@@ -1260,6 +1364,14 @@
       "count": 1
     },
     {
+      "dir": "fangji/chengfang/wangweichixing",
+      "tier": 1,
+      "tier_name": "核心",
+      "category": "fangji",
+      "subcategory": "chengfang",
+      "count": 1
+    },
+    {
       "dir": "fangji/chengfang/weicyingqiao",
       "tier": 1,
       "tier_name": "核心",
@@ -1316,7 +1428,31 @@
       "count": 1
     },
     {
+      "dir": "fangji/chengfang/xianzhuli",
+      "tier": 1,
+      "tier_name": "核心",
+      "category": "fangji",
+      "subcategory": "chengfang",
+      "count": 1
+    },
+    {
       "dir": "fangji/chengfang/xiaochaihu",
+      "tier": 1,
+      "tier_name": "核心",
+      "category": "fangji",
+      "subcategory": "chengfang",
+      "count": 1
+    },
+    {
+      "dir": "fangji/chengfang/xiaoerganmao",
+      "tier": 1,
+      "tier_name": "核心",
+      "category": "fangji",
+      "subcategory": "chengfang",
+      "count": 1
+    },
+    {
+      "dir": "fangji/chengfang/xiaoerhuashi",
       "tier": 1,
       "tier_name": "核心",
       "category": "fangji",
@@ -1341,6 +1477,22 @@
     },
     {
       "dir": "fangji/chengfang/xileisan",
+      "tier": 1,
+      "tier_name": "核心",
+      "category": "fangji",
+      "subcategory": "chengfang",
+      "count": 1
+    },
+    {
+      "dir": "fangji/chengfang/xingpiyang",
+      "tier": 1,
+      "tier_name": "核心",
+      "category": "fangji",
+      "subcategory": "chengfang",
+      "count": 1
+    },
+    {
+      "dir": "fangji/chengfang/xirun",
       "tier": 1,
       "tier_name": "核心",
       "category": "fangji",
@@ -1373,6 +1525,22 @@
     },
     {
       "dir": "fangji/chengfang/yangxueshen",
+      "tier": 1,
+      "tier_name": "核心",
+      "category": "fangji",
+      "subcategory": "chengfang",
+      "count": 1
+    },
+    {
+      "dir": "fangji/chengfang/yangyinqingfei",
+      "tier": 1,
+      "tier_name": "核心",
+      "category": "fangji",
+      "subcategory": "chengfang",
+      "count": 1
+    },
+    {
+      "dir": "fangji/chengfang/yimucao",
       "tier": 1,
       "tier_name": "核心",
       "category": "fangji",
@@ -13836,7 +14004,7 @@
       "count": 1
     }
   ],
-  "total": 2745,
+  "total": 2766,
   "entries": [
     {
       "id": "angongniuhuangwan_002",
@@ -15028,6 +15196,65 @@
       }
     },
     {
+      "id": "fengjingyou_001",
+      "book": "《中国药典》一部/药品说明书（要点归纳）",
+      "type": "fangji",
+      "tier": 1,
+      "category": "fangji",
+      "subcategory": "chengfang",
+      "path": "library/fangji/chengfang/fengjingyou/fengjingyou_001.md",
+      "weight": 8,
+      "title": "风油精·清凉止痛驱风止痒",
+      "chapter": "止咳/外妇儿/中成药",
+      "conditions": {
+        "zhengxing": [
+          "蚊虫叮咬伤风感冒头痛"
+        ],
+        "zhifa": [
+          "清凉",
+          "止痛",
+          "驱风",
+          "止痒"
+        ],
+        "bingzheng": [
+          "蚊虫叮咬伤风感冒头痛证"
+        ],
+        "zhengzhuang": [
+          "蚊虫叮咬",
+          "伤风感冒引起的头痛",
+          "头晕",
+          "晕车不适",
+          "瘙痒"
+        ],
+        "fangming": [
+          "风油精"
+        ],
+        "yaoming": [
+          "薄荷脑",
+          "樟脑",
+          "桉油",
+          "丁香酚",
+          "水杨酸甲酯"
+        ],
+        "xuewei": [],
+        "jingluo": [],
+        "siqi": [],
+        "wuwei": [],
+        "guijing": [],
+        "keywords": [
+          "中成药",
+          "风油精",
+          "外用油剂",
+          "外用",
+          "清凉止痛",
+          "驱风止痒",
+          "蚊虫叮咬",
+          "头痛头晕",
+          "OTC"
+        ]
+      }
+    },
+    {
       "id": "fufangcaoshanhouhanpian_001",
       "book": "《中国药典》一部/药品说明书（要点归纳）",
       "type": "fangji",
@@ -15125,6 +15352,67 @@
           "活血化瘀",
           "理气止痛",
           "气滞血瘀胸痹",
+          "处方药"
+        ]
+      }
+    },
+    {
+      "id": "fukeqianjinpian_001",
+      "book": "《中国药典》一部/药品说明书（要点归纳）",
+      "type": "fangji",
+      "tier": 1,
+      "category": "fangji",
+      "subcategory": "chengfang",
+      "path": "library/fangji/chengfang/fukeqianjin/fukeqianjinpian_001.md",
+      "weight": 8,
+      "title": "妇科千金片·清热除湿益气化瘀",
+      "chapter": "止咳/外妇儿/中成药",
+      "conditions": {
+        "zhengxing": [
+          "湿热瘀阻"
+        ],
+        "zhifa": [
+          "清热除湿",
+          "益气化瘀"
+        ],
+        "bingzheng": [
+          "湿热瘀阻所致带下病",
+          "腹痛"
+        ],
+        "zhengzhuang": [
+          "带下量多",
+          "色黄质稠",
+          "臭秽",
+          "小腹疼痛",
+          "腰骶酸痛",
+          "神疲乏力"
+        ],
+        "fangming": [
+          "妇科千金片"
+        ],
+        "yaoming": [
+          "千斤拔",
+          "金樱根",
+          "穿心莲",
+          "功劳木",
+          "单面针",
+          "当归",
+          "鸡血藤",
+          "党参"
+        ],
+        "xuewei": [],
+        "jingluo": [],
+        "siqi": [],
+        "wuwei": [],
+        "guijing": [],
+        "keywords": [
+          "中成药",
+          "妇科千金片",
+          "片剂",
+          "清热除湿",
+          "益气化瘀",
+          "带下病",
+          "妇科",
           "处方药"
         ]
       }
@@ -15481,6 +15769,64 @@
           "养血安神",
           "心脾两虚",
           "OTC"
+        ]
+      }
+    },
+    {
+      "id": "guizhifulingwan_002",
+      "book": "《中国药典》一部/药品说明书（要点归纳）",
+      "type": "fangji",
+      "tier": 1,
+      "category": "fangji",
+      "subcategory": "chengfang",
+      "path": "library/fangji/chengfang/guizhifuling/guizhifulingwan_002.md",
+      "weight": 8,
+      "title": "桂枝茯苓丸·活血消癥",
+      "chapter": "止咳/外妇儿/中成药",
+      "conditions": {
+        "zhengxing": [
+          "妇人宿有癥块",
+          "瘀血阻络"
+        ],
+        "zhifa": [
+          "活血",
+          "消癥"
+        ],
+        "bingzheng": [
+          "妇人宿有癥块",
+          "血瘀经闭",
+          "行经腹痛",
+          "产后恶露不尽"
+        ],
+        "zhengzhuang": [
+          "妇人宿有癥块",
+          "血瘀经闭",
+          "行经腹痛",
+          "产后恶露不尽"
+        ],
+        "fangming": [
+          "桂枝茯苓丸"
+        ],
+        "yaoming": [
+          "桂枝",
+          "茯苓",
+          "牡丹皮",
+          "赤芍",
+          "桃仁"
+        ],
+        "xuewei": [],
+        "jingluo": [],
+        "siqi": [],
+        "wuwei": [],
+        "guijing": [],
+        "keywords": [
+          "中成药",
+          "桂枝茯苓丸",
+          "大蜜丸",
+          "活血消癥",
+          "妇科",
+          "癥块",
+          "处方药"
         ]
       }
     },
@@ -15848,6 +16194,65 @@
       }
     },
     {
+      "id": "jianerxiaoshikoufuye_001",
+      "book": "《中国药典》一部/药品说明书（要点归纳）",
+      "type": "fangji",
+      "tier": 1,
+      "category": "fangji",
+      "subcategory": "chengfang",
+      "path": "library/fangji/chengfang/jianerxiaoshi/jianerxiaoshikoufuye_001.md",
+      "weight": 8,
+      "title": "健儿消食口服液·健脾益胃理气消食",
+      "chapter": "止咳/外妇儿/中成药",
+      "conditions": {
+        "zhengxing": [
+          "饮食不节损伤脾胃"
+        ],
+        "zhifa": [
+          "健脾益胃",
+          "理气消食"
+        ],
+        "bingzheng": [
+          "小儿饮食不节损伤脾胃证"
+        ],
+        "zhengzhuang": [
+          "纳呆食少",
+          "脘腹胀满",
+          "面色萎黄",
+          "大便不调",
+          "厌食"
+        ],
+        "fangming": [
+          "健儿消食口服液"
+        ],
+        "yaoming": [
+          "炙黄芪",
+          "白术",
+          "麦冬",
+          "陈皮",
+          "黄芩",
+          "莱菔子",
+          "山楂"
+        ],
+        "xuewei": [],
+        "jingluo": [],
+        "siqi": [],
+        "wuwei": [],
+        "guijing": [],
+        "keywords": [
+          "中成药",
+          "健儿消食口服液",
+          "口服液",
+          "儿科",
+          "健脾益胃",
+          "理气消食",
+          "小儿厌食",
+          "消化不良",
+          "OTC"
+        ]
+      }
+    },
+    {
       "id": "jianpiwan_002",
       "book": "《中国药典》一部/药品说明书（要点归纳）",
       "type": "fangji",
@@ -15958,6 +16363,69 @@
           "舒肝清热",
           "肝郁血虚",
           "月经不调",
+          "OTC"
+        ]
+      }
+    },
+    {
+      "id": "jingwanhongruangao_001",
+      "book": "《中国药典》一部/药品说明书（要点归纳）",
+      "type": "fangji",
+      "tier": 1,
+      "category": "fangji",
+      "subcategory": "chengfang",
+      "path": "library/fangji/chengfang/jingwanhong/jingwanhongruangao_001.md",
+      "weight": 8,
+      "title": "京万红软膏·活血解毒消肿止痛去腐生肌",
+      "chapter": "止咳/外妇儿/中成药",
+      "conditions": {
+        "zhengxing": [
+          "水火烫伤"
+        ],
+        "zhifa": [
+          "活血解毒",
+          "消肿止痛",
+          "去腐生肌"
+        ],
+        "bingzheng": [
+          "轻度水火烫伤创面溃疡证"
+        ],
+        "zhengzhuang": [
+          "轻度水火烫伤",
+          "创面溃疡",
+          "肿痛",
+          "皮肤溃烂"
+        ],
+        "fangming": [
+          "京万红软膏"
+        ],
+        "yaoming": [
+          "地榆",
+          "地黄",
+          "当归",
+          "黄连",
+          "紫草",
+          "血竭",
+          "川芎",
+          "乳香",
+          "没药",
+          "槐米",
+          "牡丹皮"
+        ],
+        "xuewei": [],
+        "jingluo": [],
+        "siqi": [],
+        "wuwei": [],
+        "guijing": [],
+        "keywords": [
+          "中成药",
+          "京万红软膏",
+          "软膏剂",
+          "外用",
+          "活血解毒",
+          "消肿止痛",
+          "去腐生肌",
+          "水火烫伤",
           "OTC"
         ]
       }
@@ -16180,6 +16648,119 @@
           "上腹隐痛",
           "饱胀反酸",
           "清热燥湿",
+          "OTC"
+        ]
+      }
+    },
+    {
+      "id": "jizhijiangtang_001",
+      "book": "《中国药典》一部/药品说明书（要点归纳）",
+      "type": "fangji",
+      "tier": 1,
+      "category": "fangji",
+      "subcategory": "chengfang",
+      "path": "library/fangji/chengfang/jizhijiangtang/jizhijiangtang_001.md",
+      "weight": 8,
+      "title": "急支糖浆·清热化痰宣肺止咳",
+      "chapter": "止咳/外妇儿/中成药",
+      "conditions": {
+        "zhengxing": [
+          "外感风热"
+        ],
+        "zhifa": [
+          "清热化痰",
+          "宣肺止咳"
+        ],
+        "bingzheng": [
+          "外感风热咳嗽"
+        ],
+        "zhengzhuang": [
+          "发热恶寒",
+          "胸膈满闷",
+          "咳嗽咽痛",
+          "急性支气管炎"
+        ],
+        "fangming": [
+          "急支糖浆"
+        ],
+        "yaoming": [
+          "鱼腥草",
+          "金荞麦",
+          "四季青",
+          "麻黄",
+          "紫菀",
+          "前胡",
+          "枳壳",
+          "甘草"
+        ],
+        "xuewei": [],
+        "jingluo": [],
+        "siqi": [],
+        "wuwei": [],
+        "guijing": [],
+        "keywords": [
+          "中成药",
+          "急支糖浆",
+          "糖浆剂",
+          "清热化痰",
+          "外感风热",
+          "咳嗽",
+          "OTC"
+        ]
+      }
+    },
+    {
+      "id": "juhoutankele_001",
+      "book": "《中国药典》一部/药品说明书（要点归纳）",
+      "type": "fangji",
+      "tier": 1,
+      "category": "fangji",
+      "subcategory": "chengfang",
+      "path": "library/fangji/chengfang/juhoutankele/juhoutankele_001.md",
+      "weight": 8,
+      "title": "橘红痰咳液·理气祛痰润肺止咳",
+      "chapter": "止咳/外妇儿/中成药",
+      "conditions": {
+        "zhengxing": [
+          "痰湿咳嗽"
+        ],
+        "zhifa": [
+          "理气祛痰",
+          "润肺止咳"
+        ],
+        "bingzheng": [
+          "痰湿咳嗽",
+          "感冒支气管炎咽喉炎"
+        ],
+        "zhengzhuang": [
+          "痰多咳嗽",
+          "气喘"
+        ],
+        "fangming": [
+          "橘红痰咳液"
+        ],
+        "yaoming": [
+          "化橘红",
+          "百部",
+          "茯苓",
+          "半夏",
+          "白前",
+          "甘草",
+          "苦杏仁",
+          "五味子"
+        ],
+        "xuewei": [],
+        "jingluo": [],
+        "siqi": [],
+        "wuwei": [],
+        "guijing": [],
+        "keywords": [
+          "中成药",
+          "橘红痰咳液",
+          "合剂",
+          "理气祛痰",
+          "润肺止咳",
+          "痰湿咳嗽",
           "OTC"
         ]
       }
@@ -16702,6 +17283,68 @@
       }
     },
     {
+      "id": "mayinglongshexiangzhichuanggao_001",
+      "book": "《中国药典》一部/药品说明书（要点归纳）",
+      "type": "fangji",
+      "tier": 1,
+      "category": "fangji",
+      "subcategory": "chengfang",
+      "path": "library/fangji/chengfang/mayinglong/mayinglongshexiangzhichuanggao_001.md",
+      "weight": 8,
+      "title": "马应龙麝香痔疮膏·清热燥湿活血消肿去腐生肌",
+      "chapter": "止咳/外妇儿/中成药",
+      "conditions": {
+        "zhengxing": [
+          "湿热瘀阻"
+        ],
+        "zhifa": [
+          "清热燥湿",
+          "活血消肿",
+          "去腐生肌"
+        ],
+        "bingzheng": [
+          "痔疮肛裂肛周湿疹证"
+        ],
+        "zhengzhuang": [
+          "痔疮",
+          "肛裂",
+          "大便出血",
+          "肛周湿疹",
+          "坠胀疼痛"
+        ],
+        "fangming": [
+          "马应龙麝香痔疮膏"
+        ],
+        "yaoming": [
+          "麝香",
+          "牛黄",
+          "珍珠",
+          "炉甘石",
+          "硼砂",
+          "冰片",
+          "琥珀",
+          "煅炉甘石"
+        ],
+        "xuewei": [],
+        "jingluo": [],
+        "siqi": [],
+        "wuwei": [],
+        "guijing": [],
+        "keywords": [
+          "中成药",
+          "马应龙麝香痔疮膏",
+          "软膏剂",
+          "外用",
+          "清热燥湿",
+          "活血消肿",
+          "去腐生肌",
+          "痔疮",
+          "肛裂",
+          "OTC"
+        ]
+      }
+    },
+    {
       "id": "mazirenwan_002",
       "book": "《中国药典》一部/药品说明书（要点归纳）",
       "type": "fangji",
@@ -16749,6 +17392,65 @@
           "丸剂",
           "肠燥便秘",
           "润肠通便",
+          "OTC"
+        ]
+      }
+    },
+    {
+      "id": "milianchuanbeipagaotang_001",
+      "book": "《中国药典》一部/药品说明书（要点归纳）",
+      "type": "fangji",
+      "tier": 1,
+      "category": "fangji",
+      "subcategory": "chengfang",
+      "path": "library/fangji/chengfang/milianchuanbei/milianchuanbeipagaotang_001.md",
+      "weight": 8,
+      "title": "蜜炼川贝枇杷膏·清热润肺化痰止咳平喘",
+      "chapter": "止咳/外妇儿/中成药",
+      "conditions": {
+        "zhengxing": [
+          "肺燥咳嗽"
+        ],
+        "zhifa": [
+          "清热润肺",
+          "化痰止咳平喘"
+        ],
+        "bingzheng": [
+          "肺燥咳嗽"
+        ],
+        "zhengzhuang": [
+          "咳嗽",
+          "痰黄而黏",
+          "胸闷",
+          "咽喉痒痛",
+          "声音嘶哑"
+        ],
+        "fangming": [
+          "蜜炼川贝枇杷膏"
+        ],
+        "yaoming": [
+          "川贝母",
+          "枇杷叶",
+          "桔梗",
+          "陈皮",
+          "水半夏",
+          "北沙参",
+          "五味子",
+          "款冬花",
+          "薄荷脑"
+        ],
+        "xuewei": [],
+        "jingluo": [],
+        "siqi": [],
+        "wuwei": [],
+        "guijing": [],
+        "keywords": [
+          "中成药",
+          "蜜炼川贝枇杷膏",
+          "煎膏剂",
+          "清热润肺",
+          "化痰止咳",
+          "肺燥咳嗽",
           "OTC"
         ]
       }
@@ -17248,6 +17950,67 @@
       }
     },
     {
+      "id": "qingliangyou_001",
+      "book": "《中国药典》一部/药品说明书（要点归纳）",
+      "type": "fangji",
+      "tier": 1,
+      "category": "fangji",
+      "subcategory": "chengfang",
+      "path": "library/fangji/chengfang/qingliangyou/qingliangyou_001.md",
+      "weight": 8,
+      "title": "清凉油·清凉散热醒脑提神止痒止痛",
+      "chapter": "止咳/外妇儿/中成药",
+      "conditions": {
+        "zhengxing": [
+          "伤暑热"
+        ],
+        "zhifa": [
+          "清凉散热",
+          "醒脑提神",
+          "止痒止痛"
+        ],
+        "bingzheng": [
+          "伤暑热蚊虫叮咬证"
+        ],
+        "zhengzhuang": [
+          "伤暑热引起的头痛",
+          "晕车",
+          "蚊虫叮咬",
+          "皮肤瘙痒"
+        ],
+        "fangming": [
+          "清凉油"
+        ],
+        "yaoming": [
+          "薄荷脑",
+          "薄荷素油",
+          "樟脑",
+          "桉油",
+          "丁香油",
+          "樟脑油",
+          "肉桂油",
+          "石蜡",
+          "凡士林"
+        ],
+        "xuewei": [],
+        "jingluo": [],
+        "siqi": [],
+        "wuwei": [],
+        "guijing": [],
+        "keywords": [
+          "中成药",
+          "清凉油",
+          "外用油剂",
+          "外用",
+          "清凉散热",
+          "醒脑提神",
+          "止痒止痛",
+          "蚊虫叮咬",
+          "OTC"
+        ]
+      }
+    },
+    {
       "id": "qingyandiewan_001",
       "book": "《中国药典》一部/药品说明书（要点归纳）",
       "type": "fangji",
@@ -17352,6 +18115,66 @@
           "疏肝理气",
           "和胃止痛",
           "肝郁气滞",
+          "OTC"
+        ]
+      }
+    },
+    {
+      "id": "rendan_001",
+      "book": "《中国药典》一部/药品说明书（要点归纳）",
+      "type": "fangji",
+      "tier": 1,
+      "category": "fangji",
+      "subcategory": "chengfang",
+      "path": "library/fangji/chengfang/rendan/rendan_001.md",
+      "weight": 8,
+      "title": "仁丹·清暑开窍",
+      "chapter": "止咳/外妇儿/中成药",
+      "conditions": {
+        "zhengxing": [
+          "伤暑"
+        ],
+        "zhifa": [
+          "清暑开窍"
+        ],
+        "bingzheng": [
+          "伤暑恶心胸闷头昏证"
+        ],
+        "zhengzhuang": [
+          "伤暑引起的恶心",
+          "胸闷",
+          "头昏",
+          "晕车晕船"
+        ],
+        "fangming": [
+          "仁丹"
+        ],
+        "yaoming": [
+          "冰片",
+          "薄荷脑",
+          "檀香",
+          "砂仁",
+          "丁香",
+          "肉桂",
+          "八角茴香",
+          "胡椒",
+          "木香",
+          "儿茶",
+          "樟脑"
+        ],
+        "xuewei": [],
+        "jingluo": [],
+        "siqi": [],
+        "wuwei": [],
+        "guijing": [],
+        "keywords": [
+          "中成药",
+          "仁丹",
+          "丸剂",
+          "祛暑",
+          "清暑开窍",
+          "伤暑",
+          "恶心胸闷头昏",
           "OTC"
         ]
       }
@@ -17466,6 +18289,70 @@
           "咽炎",
           "清热解毒",
           "OTC"
+        ]
+      }
+    },
+    {
+      "id": "rupixiaopian_001",
+      "book": "《中国药典》一部/药品说明书（要点归纳）",
+      "type": "fangji",
+      "tier": 1,
+      "category": "fangji",
+      "subcategory": "chengfang",
+      "path": "library/fangji/chengfang/rupixiao/rupixiaopian_001.md",
+      "weight": 8,
+      "title": "乳癖消片·软坚散结活血消痈清热解毒",
+      "chapter": "止咳/外妇儿/中成药",
+      "conditions": {
+        "zhengxing": [
+          "痰热互结"
+        ],
+        "zhifa": [
+          "软坚散结",
+          "活血消痈",
+          "清热解毒"
+        ],
+        "bingzheng": [
+          "乳癖结块",
+          "乳痈初起"
+        ],
+        "zhengzhuang": [
+          "乳房结块",
+          "胀痛",
+          "乳腺囊性增生病",
+          "乳腺炎前期"
+        ],
+        "fangming": [
+          "乳癖消片"
+        ],
+        "yaoming": [
+          "鹿角",
+          "蒲公英",
+          "昆布",
+          "鸡血藤",
+          "三七",
+          "赤芍",
+          "海藻",
+          "漏芦",
+          "木香",
+          "玄参",
+          "牡丹皮",
+          "夏枯草"
+        ],
+        "xuewei": [],
+        "jingluo": [],
+        "siqi": [],
+        "wuwei": [],
+        "guijing": [],
+        "keywords": [
+          "中成药",
+          "乳癖消片",
+          "片剂",
+          "软坚散结",
+          "活血消痈",
+          "乳癖",
+          "妇科",
+          "处方药"
         ]
       }
     },
@@ -17796,6 +18683,63 @@
           "益气强心",
           "胸痹",
           "处方药"
+        ]
+      }
+    },
+    {
+      "id": "shidushui_001",
+      "book": "《中国药典》一部/药品说明书（要点归纳）",
+      "type": "fangji",
+      "tier": 1,
+      "category": "fangji",
+      "subcategory": "chengfang",
+      "path": "library/fangji/chengfang/shidushui/shidushui_001.md",
+      "weight": 8,
+      "title": "十滴水·健胃祛暑",
+      "chapter": "止咳/外妇儿/中成药",
+      "conditions": {
+        "zhengxing": [
+          "中暑"
+        ],
+        "zhifa": [
+          "健胃",
+          "祛暑"
+        ],
+        "bingzheng": [
+          "中暑头晕恶心胃肠不适证"
+        ],
+        "zhengzhuang": [
+          "中暑引起的头晕",
+          "恶心",
+          "腹痛",
+          "胃肠不适"
+        ],
+        "fangming": [
+          "十滴水"
+        ],
+        "yaoming": [
+          "樟脑",
+          "干姜",
+          "大黄",
+          "小茴香",
+          "肉桂",
+          "辣椒",
+          "桉油"
+        ],
+        "xuewei": [],
+        "jingluo": [],
+        "siqi": [],
+        "wuwei": [],
+        "guijing": [],
+        "keywords": [
+          "中成药",
+          "十滴水",
+          "酊剂",
+          "祛暑",
+          "健胃",
+          "中暑头晕",
+          "恶心腹痛",
+          "OTC"
         ]
       }
     },
@@ -18431,6 +19375,64 @@
       }
     },
     {
+      "id": "wangweichixingwan_001",
+      "book": "《中国药典》一部/药品说明书（要点归纳）",
+      "type": "fangji",
+      "tier": 1,
+      "category": "fangji",
+      "subcategory": "chengfang",
+      "path": "library/fangji/chengfang/wangweichixing/wangweichixingwan_001.md",
+      "weight": 8,
+      "title": "王氏保赤丸·祛滞健脾祛痰",
+      "chapter": "止咳/外妇儿/中成药",
+      "conditions": {
+        "zhengxing": [
+          "乳食滞积痰热"
+        ],
+        "zhifa": [
+          "祛滞",
+          "健脾",
+          "祛痰"
+        ],
+        "bingzheng": [
+          "小儿乳食减少痰厥惊风证"
+        ],
+        "zhengzhuang": [
+          "小儿乳食减少",
+          "痰厥惊风",
+          "喘咳痰鸣",
+          "乳食减少",
+          "大便秘结"
+        ],
+        "fangming": [
+          "王氏保赤丸"
+        ],
+        "yaoming": [
+          "黄连",
+          "大黄",
+          "制南星",
+          "川贝母",
+          "巴豆霜",
+          "荸荠粉"
+        ],
+        "xuewei": [],
+        "jingluo": [],
+        "siqi": [],
+        "wuwei": [],
+        "guijing": [],
+        "keywords": [
+          "中成药",
+          "王氏保赤丸",
+          "丸剂",
+          "儿科",
+          "祛滞健脾祛痰",
+          "小儿乳食减少",
+          "痰厥惊风",
+          "处方药"
+        ]
+      }
+    },
+    {
       "id": "weiciyinqiaopian_001",
       "book": "《中国药典》一部/药品说明书（要点归纳）",
       "type": "fangji",
@@ -18859,6 +19861,55 @@
       }
     },
     {
+      "id": "xianzhuli_001",
+      "book": "《中国药典》一部/药品说明书（要点归纳）",
+      "type": "fangji",
+      "tier": 1,
+      "category": "fangji",
+      "subcategory": "chengfang",
+      "path": "library/fangji/chengfang/xianzhuli/xianzhuli_001.md",
+      "weight": 8,
+      "title": "鲜竹沥·清热化痰",
+      "chapter": "止咳/外妇儿/中成药",
+      "conditions": {
+        "zhengxing": [
+          "痰热咳嗽"
+        ],
+        "zhifa": [
+          "清热化痰"
+        ],
+        "bingzheng": [
+          "肺热咳嗽痰多",
+          "中风痰迷"
+        ],
+        "zhengzhuang": [
+          "肺热咳嗽",
+          "痰多气喘",
+          "中风痰迷"
+        ],
+        "fangming": [
+          "鲜竹沥"
+        ],
+        "yaoming": [
+          "鲜竹沥"
+        ],
+        "xuewei": [],
+        "jingluo": [],
+        "siqi": [],
+        "wuwei": [],
+        "guijing": [],
+        "keywords": [
+          "中成药",
+          "鲜竹沥",
+          "合剂",
+          "清热化痰",
+          "肺热痰多",
+          "中风痰迷",
+          "处方药"
+        ]
+      }
+    },
+    {
       "id": "xiaochaihukeli_001",
       "book": "《中国药典》一部/药品说明书（要点归纳）",
       "type": "fangji",
@@ -18912,6 +19963,127 @@
           "少阳证",
           "寒热往来",
           "和解少阳",
+          "OTC"
+        ]
+      }
+    },
+    {
+      "id": "xiaoerganmaokeli_001",
+      "book": "《中国药典》一部/药品说明书（要点归纳）",
+      "type": "fangji",
+      "tier": 1,
+      "category": "fangji",
+      "subcategory": "chengfang",
+      "path": "library/fangji/chengfang/xiaoerganmao/xiaoerganmaokeli_001.md",
+      "weight": 8,
+      "title": "小儿感冒颗粒·疏风解表清热解毒",
+      "chapter": "止咳/外妇儿/中成药",
+      "conditions": {
+        "zhengxing": [
+          "小儿风热感冒"
+        ],
+        "zhifa": [
+          "疏风解表",
+          "清热解毒"
+        ],
+        "bingzheng": [
+          "小儿风热感冒"
+        ],
+        "zhengzhuang": [
+          "发热",
+          "头胀痛",
+          "咳嗽痰黏",
+          "咽喉肿痛",
+          "流感"
+        ],
+        "fangming": [
+          "小儿感冒颗粒"
+        ],
+        "yaoming": [
+          "广藿香",
+          "菊花",
+          "连翘",
+          "薄荷",
+          "地骨皮",
+          "白薇",
+          "地黄",
+          "板蓝根",
+          "大青叶",
+          "石膏"
+        ],
+        "xuewei": [],
+        "jingluo": [],
+        "siqi": [],
+        "wuwei": [],
+        "guijing": [],
+        "keywords": [
+          "中成药",
+          "小儿感冒颗粒",
+          "颗粒剂",
+          "疏风解表",
+          "清热解毒",
+          "小儿风热感冒",
+          "儿科",
+          "OTC"
+        ]
+      }
+    },
+    {
+      "id": "xiaoerhuashiwan_001",
+      "book": "《中国药典》一部/药品说明书（要点归纳）",
+      "type": "fangji",
+      "tier": 1,
+      "category": "fangji",
+      "subcategory": "chengfang",
+      "path": "library/fangji/chengfang/xiaoerhuashi/xiaoerhuashiwan_001.md",
+      "weight": 8,
+      "title": "小儿化食丸·消食化滞泻火通便",
+      "chapter": "止咳/外妇儿/中成药",
+      "conditions": {
+        "zhengxing": [
+          "小儿胃热停食"
+        ],
+        "zhifa": [
+          "消食化滞",
+          "泻火通便"
+        ],
+        "bingzheng": [
+          "小儿胃热停食",
+          "肚腹胀满"
+        ],
+        "zhengzhuang": [
+          "恶心呕吐",
+          "烦躁",
+          "口渴",
+          "肚腹胀满",
+          "大便干燥"
+        ],
+        "fangming": [
+          "小儿化食丸"
+        ],
+        "yaoming": [
+          "六神曲",
+          "山楂",
+          "麦芽",
+          "槟榔",
+          "莪术",
+          "三棱",
+          "牵牛子",
+          "大黄"
+        ],
+        "xuewei": [],
+        "jingluo": [],
+        "siqi": [],
+        "wuwei": [],
+        "guijing": [],
+        "keywords": [
+          "中成药",
+          "小儿化食丸",
+          "大蜜丸",
+          "消食化滞",
+          "泻火通便",
+          "小儿食积",
+          "儿科",
           "OTC"
         ]
       }
@@ -19079,6 +20251,119 @@
           "咽喉糜烂",
           "口腔溃疡",
           "OTC"
+        ]
+      }
+    },
+    {
+      "id": "xingpiyangerkeli_001",
+      "book": "《中国药典》一部/药品说明书（要点归纳）",
+      "type": "fangji",
+      "tier": 1,
+      "category": "fangji",
+      "subcategory": "chengfang",
+      "path": "library/fangji/chengfang/xingpiyang/xingpiyangerkeli_001.md",
+      "weight": 8,
+      "title": "醒脾养儿颗粒·醒脾开胃养血安神固肠止泻",
+      "chapter": "止咳/外妇儿/中成药",
+      "conditions": {
+        "zhengxing": [
+          "脾气虚"
+        ],
+        "zhifa": [
+          "醒脾开胃",
+          "养血安神",
+          "固肠止泻"
+        ],
+        "bingzheng": [
+          "儿童厌食腹泻便溏证"
+        ],
+        "zhengzhuang": [
+          "儿童厌食",
+          "腹泻便溏",
+          "盗汗",
+          "夜啼",
+          "遗尿"
+        ],
+        "fangming": [
+          "醒脾养儿颗粒"
+        ],
+        "yaoming": [
+          "一点红",
+          "毛大丁草",
+          "山栀茶",
+          "蜘蛛香"
+        ],
+        "xuewei": [],
+        "jingluo": [],
+        "siqi": [],
+        "wuwei": [],
+        "guijing": [],
+        "keywords": [
+          "中成药",
+          "醒脾养儿颗粒",
+          "颗粒剂",
+          "儿科",
+          "醒脾开胃",
+          "养血安神",
+          "固肠止泻",
+          "儿童厌食",
+          "OTC"
+        ]
+      }
+    },
+    {
+      "id": "xirunshaoshangruangao_001",
+      "book": "《中国药典》一部/药品说明书（要点归纳）",
+      "type": "fangji",
+      "tier": 1,
+      "category": "fangji",
+      "subcategory": "chengfang",
+      "path": "library/fangji/chengfang/xirun/xirunshaoshangruangao_001.md",
+      "weight": 8,
+      "title": "湿润烧伤膏·清热解毒止痛生肌",
+      "chapter": "止咳/外妇儿/中成药",
+      "conditions": {
+        "zhengxing": [
+          "烧烫伤"
+        ],
+        "zhifa": [
+          "清热解毒",
+          "止痛",
+          "生肌"
+        ],
+        "bingzheng": [
+          "烧烫伤创面证"
+        ],
+        "zhengzhuang": [
+          "烧烫伤",
+          "创面肿痛",
+          "皮肤溃烂"
+        ],
+        "fangming": [
+          "湿润烧伤膏"
+        ],
+        "yaoming": [
+          "黄连",
+          "黄柏",
+          "黄芩",
+          "地龙",
+          "罂粟壳",
+          "大豆油"
+        ],
+        "xuewei": [],
+        "jingluo": [],
+        "siqi": [],
+        "wuwei": [],
+        "guijing": [],
+        "keywords": [
+          "中成药",
+          "湿润烧伤膏",
+          "软膏剂",
+          "外用",
+          "清热解毒",
+          "止痛生肌",
+          "烧烫伤",
+          "处方药"
         ]
       }
     },
@@ -19301,6 +20586,110 @@
           "养血安神",
           "头眩心悸",
           "失眠多梦",
+          "OTC"
+        ]
+      }
+    },
+    {
+      "id": "yangyinqingfeiyanwan_001",
+      "book": "《中国药典》一部/药品说明书（要点归纳）",
+      "type": "fangji",
+      "tier": 1,
+      "category": "fangji",
+      "subcategory": "chengfang",
+      "path": "library/fangji/chengfang/yangyinqingfei/yangyinqingfeiyanwan_001.md",
+      "weight": 8,
+      "title": "养阴清肺丸·养阴润燥清肺利咽",
+      "chapter": "止咳/外妇儿/中成药",
+      "conditions": {
+        "zhengxing": [
+          "阴虚燥咳"
+        ],
+        "zhifa": [
+          "养阴润燥",
+          "清肺利咽"
+        ],
+        "bingzheng": [
+          "阴虚肺燥",
+          "咽喉干痛"
+        ],
+        "zhengzhuang": [
+          "咽喉干痛",
+          "干咳少痰",
+          "或痰中带血"
+        ],
+        "fangming": [
+          "养阴清肺丸"
+        ],
+        "yaoming": [
+          "地黄",
+          "麦冬",
+          "玄参",
+          "川贝母",
+          "白芍",
+          "牡丹皮",
+          "薄荷",
+          "甘草"
+        ],
+        "xuewei": [],
+        "jingluo": [],
+        "siqi": [],
+        "wuwei": [],
+        "guijing": [],
+        "keywords": [
+          "中成药",
+          "养阴清肺丸",
+          "大蜜丸",
+          "养阴润燥",
+          "清肺利咽",
+          "阴虚燥咳",
+          "OTC"
+        ]
+      }
+    },
+    {
+      "id": "yimucaogao_001",
+      "book": "《中国药典》一部/药品说明书（要点归纳）",
+      "type": "fangji",
+      "tier": 1,
+      "category": "fangji",
+      "subcategory": "chengfang",
+      "path": "library/fangji/chengfang/yimucao/yimucaogao_001.md",
+      "weight": 8,
+      "title": "益母草膏·活血调经",
+      "chapter": "止咳/外妇儿/中成药",
+      "conditions": {
+        "zhengxing": [
+          "血瘀"
+        ],
+        "zhifa": [
+          "活血调经"
+        ],
+        "bingzheng": [
+          "血瘀所致月经不调"
+        ],
+        "zhengzhuang": [
+          "经水量少",
+          "经血不畅"
+        ],
+        "fangming": [
+          "益母草膏"
+        ],
+        "yaoming": [
+          "益母草"
+        ],
+        "xuewei": [],
+        "jingluo": [],
+        "siqi": [],
+        "wuwei": [],
+        "guijing": [],
+        "keywords": [
+          "中成药",
+          "益母草膏",
+          "煎膏剂",
+          "活血调经",
+          "血瘀月经不调",
+          "妇科",
           "OTC"
         ]
       }

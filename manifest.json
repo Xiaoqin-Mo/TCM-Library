@@ -976,6 +976,22 @@
       "count": 1
     },
     {
+      "dir": "fangji/shifang/baihegujin",
+      "tier": 1,
+      "tier_name": "核心",
+      "category": "fangji",
+      "subcategory": "shifang",
+      "count": 1
+    },
+    {
+      "dir": "fangji/shifang/buzhongyiqi",
+      "tier": 1,
+      "tier_name": "核心",
+      "category": "fangji",
+      "subcategory": "shifang",
+      "count": 1
+    },
+    {
       "dir": "fangji/shifang/chaigejieji",
       "tier": 1,
       "tier_name": "核心",
@@ -984,7 +1000,39 @@
       "count": 1
     },
     {
+      "dir": "fangji/shifang/dangguibuxue",
+      "tier": 1,
+      "tier_name": "核心",
+      "category": "fangji",
+      "subcategory": "shifang",
+      "count": 1
+    },
+    {
       "dir": "fangji/shifang/daochisan",
+      "tier": 1,
+      "tier_name": "核心",
+      "category": "fangji",
+      "subcategory": "shifang",
+      "count": 1
+    },
+    {
+      "dir": "fangji/shifang/dihuangyinzi",
+      "tier": 1,
+      "tier_name": "核心",
+      "category": "fangji",
+      "subcategory": "shifang",
+      "count": 1
+    },
+    {
+      "dir": "fangji/shifang/guchongtang",
+      "tier": 1,
+      "tier_name": "核心",
+      "category": "fangji",
+      "subcategory": "shifang",
+      "count": 1
+    },
+    {
+      "dir": "fangji/shifang/guipitang",
       "tier": 1,
       "tier_name": "核心",
       "category": "fangji",
@@ -1056,7 +1104,23 @@
       "count": 1
     },
     {
+      "dir": "fangji/shifang/jiuxiansan",
+      "tier": 1,
+      "tier_name": "核心",
+      "category": "fangji",
+      "subcategory": "shifang",
+      "count": 1
+    },
+    {
       "dir": "fangji/shifang/lianggesan",
+      "tier": 1,
+      "tier_name": "核心",
+      "category": "fangji",
+      "subcategory": "shifang",
+      "count": 1
+    },
+    {
+      "dir": "fangji/shifang/liuweidihuang",
       "tier": 1,
       "tier_name": "核心",
       "category": "fangji",
@@ -1073,6 +1137,14 @@
     },
     {
       "dir": "fangji/shifang/mazirenwan",
+      "tier": 1,
+      "tier_name": "核心",
+      "category": "fangji",
+      "subcategory": "shifang",
+      "count": 1
+    },
+    {
+      "dir": "fangji/shifang/mulisan",
       "tier": 1,
       "tier_name": "核心",
       "category": "fangji",
@@ -1120,7 +1192,55 @@
       "count": 1
     },
     {
+      "dir": "fangji/shifang/sangpiaoxiaosan",
+      "tier": 1,
+      "tier_name": "核心",
+      "category": "fangji",
+      "subcategory": "shifang",
+      "count": 1
+    },
+    {
       "dir": "fangji/shifang/shaoyaotang",
+      "tier": 1,
+      "tier_name": "核心",
+      "category": "fangji",
+      "subcategory": "shifang",
+      "count": 1
+    },
+    {
+      "dir": "fangji/shifang/shengmaisun",
+      "tier": 1,
+      "tier_name": "核心",
+      "category": "fangji",
+      "subcategory": "shifang",
+      "count": 1
+    },
+    {
+      "dir": "fangji/shifang/shenlingbaizhu",
+      "tier": 1,
+      "tier_name": "核心",
+      "category": "fangji",
+      "subcategory": "shifang",
+      "count": 1
+    },
+    {
+      "dir": "fangji/shifang/sijunzi",
+      "tier": 1,
+      "tier_name": "核心",
+      "category": "fangji",
+      "subcategory": "shifang",
+      "count": 1
+    },
+    {
+      "dir": "fangji/shifang/sishenwan",
+      "tier": 1,
+      "tier_name": "核心",
+      "category": "fangji",
+      "subcategory": "shifang",
+      "count": 1
+    },
+    {
+      "dir": "fangji/shifang/siwutang",
       "tier": 1,
       "tier_name": "核心",
       "category": "fangji",
@@ -1184,7 +1304,23 @@
       "count": 1
     },
     {
+      "dir": "fangji/shifang/yiguanjian",
+      "tier": 1,
+      "tier_name": "核心",
+      "category": "fangji",
+      "subcategory": "shifang",
+      "count": 1
+    },
+    {
       "dir": "fangji/shifang/yinqiaosan",
+      "tier": 1,
+      "tier_name": "核心",
+      "category": "fangji",
+      "subcategory": "shifang",
+      "count": 1
+    },
+    {
+      "dir": "fangji/shifang/youguiwan",
       "tier": 1,
       "tier_name": "核心",
       "category": "fangji",
@@ -1200,6 +1336,14 @@
       "count": 1
     },
     {
+      "dir": "fangji/shifang/yupingfeng",
+      "tier": 1,
+      "tier_name": "核心",
+      "category": "fangji",
+      "subcategory": "shifang",
+      "count": 1
+    },
+    {
       "dir": "fangji/shifang/zaizao",
       "tier": 1,
       "tier_name": "核心",
@@ -1208,7 +1352,31 @@
       "count": 1
     },
     {
+      "dir": "fangji/shifang/zhenrenyangzang",
+      "tier": 1,
+      "tier_name": "核心",
+      "category": "fangji",
+      "subcategory": "shifang",
+      "count": 1
+    },
+    {
+      "dir": "fangji/shifang/zhibaidihuang",
+      "tier": 1,
+      "tier_name": "核心",
+      "category": "fangji",
+      "subcategory": "shifang",
+      "count": 1
+    },
+    {
       "dir": "fangji/shifang/zhisousan",
+      "tier": 1,
+      "tier_name": "核心",
+      "category": "fangji",
+      "subcategory": "shifang",
+      "count": 1
+    },
+    {
+      "dir": "fangji/shifang/zuoguiwan",
       "tier": 1,
       "tier_name": "核心",
       "category": "fangji",
@@ -12304,7 +12472,7 @@
       "count": 1
     }
   ],
-  "total": 2554,
+  "total": 2575,
   "entries": [
     {
       "id": "baihutang_002",
@@ -14635,6 +14803,129 @@
       }
     },
     {
+      "id": "baihegujin_001",
+      "book": "《方剂学》规划教材（要点归纳）",
+      "type": "fangji",
+      "tier": 1,
+      "category": "fangji",
+      "subcategory": "shifang",
+      "path": "library/fangji/shifang/baihegujin/baihegujin_001.md",
+      "weight": 9,
+      "title": "百合固金汤·滋肾保肺止咳化痰",
+      "chapter": "补益剂",
+      "conditions": {
+        "zhengxing": [
+          "肺肾阴亏",
+          "虚火上炎"
+        ],
+        "zhifa": [
+          "滋养肺肾",
+          "止咳化痰"
+        ],
+        "bingzheng": [
+          "肺肾阴亏虚火上炎证"
+        ],
+        "zhengzhuang": [
+          "咳嗽气喘",
+          "痰中带血",
+          "咽喉燥痛",
+          "午后潮热",
+          "舌红少苔",
+          "脉细数"
+        ],
+        "fangming": [
+          "百合固金汤"
+        ],
+        "yaoming": [
+          "熟地黄",
+          "生地黄",
+          "当归身",
+          "白芍",
+          "甘草",
+          "桔梗",
+          "玄参",
+          "贝母",
+          "麦冬",
+          "百合"
+        ],
+        "xuewei": [],
+        "jingluo": [],
+        "siqi": [],
+        "wuwei": [],
+        "guijing": [],
+        "keywords": [
+          "百合固金汤",
+          "补阴",
+          "滋肾保肺",
+          "肺肾阴亏",
+          "虚火上炎",
+          "《医方集解》"
+        ]
+      }
+    },
+    {
+      "id": "buzhongyiqi_001",
+      "book": "《方剂学》规划教材（要点归纳）",
+      "type": "fangji",
+      "tier": 1,
+      "category": "fangji",
+      "subcategory": "shifang",
+      "path": "library/fangji/shifang/buzhongyiqi/buzhongyiqi_001.md",
+      "weight": 9,
+      "title": "补中益气汤·补中益气升阳举陷",
+      "chapter": "补益剂",
+      "conditions": {
+        "zhengxing": [
+          "脾胃气虚",
+          "中气下陷"
+        ],
+        "zhifa": [
+          "补中益气",
+          "升阳举陷"
+        ],
+        "bingzheng": [
+          "脾胃气虚证",
+          "气虚下陷证"
+        ],
+        "zhengzhuang": [
+          "饮食减少",
+          "体倦肢软",
+          "少气懒言",
+          "面色㿠白",
+          "大便稀溏",
+          "脱肛",
+          "子宫脱垂",
+          "舌淡脉虚"
+        ],
+        "fangming": [
+          "补中益气汤"
+        ],
+        "yaoming": [
+          "黄芪",
+          "人参",
+          "白术",
+          "炙甘草",
+          "当归",
+          "陈皮",
+          "升麻",
+          "柴胡"
+        ],
+        "xuewei": [],
+        "jingluo": [],
+        "siqi": [],
+        "wuwei": [],
+        "guijing": [],
+        "keywords": [
+          "补气",
+          "补中益气汤",
+          "脾胃气虚",
+          "中气下陷",
+          "甘温除热",
+          "李东垣"
+        ]
+      }
+    },
+    {
       "id": "chaigejieji_001",
       "book": "《方剂学》规划教材（要点归纳）",
       "type": "fangji",
@@ -14693,6 +14984,56 @@
       }
     },
     {
+      "id": "dangguibuxue_001",
+      "book": "《方剂学》规划教材（要点归纳）",
+      "type": "fangji",
+      "tier": 1,
+      "category": "fangji",
+      "subcategory": "shifang",
+      "path": "library/fangji/shifang/dangguibuxue/dangguibuxue_001.md",
+      "weight": 9,
+      "title": "当归补血汤·补气生血",
+      "chapter": "补益剂",
+      "conditions": {
+        "zhengxing": [
+          "血虚阳浮"
+        ],
+        "zhifa": [
+          "补气生血"
+        ],
+        "bingzheng": [
+          "血虚阳浮发热证"
+        ],
+        "zhengzhuang": [
+          "肌热面赤",
+          "烦渴欲饮",
+          "脉洪大而虚",
+          "重按无力",
+          "妇人经期产后血虚发热头痛"
+        ],
+        "fangming": [
+          "当归补血汤"
+        ],
+        "yaoming": [
+          "黄芪",
+          "当归"
+        ],
+        "xuewei": [],
+        "jingluo": [],
+        "siqi": [],
+        "wuwei": [],
+        "guijing": [],
+        "keywords": [
+          "补血",
+          "当归补血汤",
+          "血虚发热",
+          "补气生血",
+          "黄芪当归",
+          "李东垣"
+        ]
+      }
+    },
+    {
       "id": "daochisan_001",
       "book": "《方剂学》规划教材（要点归纳）",
       "type": "fangji",
@@ -14744,6 +15085,195 @@
           "心热移小肠",
           "《小儿药证直诀》",
           "钱乙"
+        ]
+      }
+    },
+    {
+      "id": "dihuangyinzi_001",
+      "book": "《方剂学》规划教材（要点归纳）",
+      "type": "fangji",
+      "tier": 1,
+      "category": "fangji",
+      "subcategory": "shifang",
+      "path": "library/fangji/shifang/dihuangyinzi/dihuangyinzi_001.md",
+      "weight": 9,
+      "title": "地黄饮子·滋肾阴阳开窍化痰治喑痱",
+      "chapter": "补益剂",
+      "conditions": {
+        "zhengxing": [
+          "喑痱",
+          "肾虚喑痱"
+        ],
+        "zhifa": [
+          "滋肾阴",
+          "补肾阳",
+          "开窍化痰"
+        ],
+        "bingzheng": [
+          "喑痱证"
+        ],
+        "zhengzhuang": [
+          "舌强不能言",
+          "足废不能用",
+          "口干不欲饮",
+          "足冷面赤",
+          "脉沉细数"
+        ],
+        "fangming": [
+          "地黄饮子"
+        ],
+        "yaoming": [
+          "熟干地黄",
+          "巴戟天",
+          "山茱萸",
+          "肉苁蓉",
+          "五味子",
+          "石斛",
+          "麦冬",
+          "附子",
+          "肉桂",
+          "茯苓",
+          "石菖蒲",
+          "远志",
+          "生姜",
+          "大枣"
+        ],
+        "xuewei": [],
+        "jingluo": [],
+        "siqi": [],
+        "wuwei": [],
+        "guijing": [],
+        "keywords": [
+          "地黄饮子",
+          "补阴",
+          "喑痱",
+          "滋肾阴补肾阳",
+          "开窍化痰",
+          "《宣明论方》"
+        ]
+      }
+    },
+    {
+      "id": "guchongtang_001",
+      "book": "《方剂学》规划教材（要点归纳）",
+      "type": "fangji",
+      "tier": 1,
+      "category": "fangji",
+      "subcategory": "shifang",
+      "path": "library/fangji/shifang/guchongtang/guchongtang_001.md",
+      "weight": 9,
+      "title": "固冲汤·益气健脾固冲摄血",
+      "chapter": "固涩剂",
+      "conditions": {
+        "zhengxing": [
+          "脾虚冲脉不固",
+          "血崩"
+        ],
+        "zhifa": [
+          "益气健脾",
+          "固冲摄血"
+        ],
+        "bingzheng": [
+          "脾气虚弱冲脉不固证"
+        ],
+        "zhengzhuang": [
+          "血崩或月经过多",
+          "色淡质稀",
+          "心悸气短",
+          "舌淡",
+          "脉细弱"
+        ],
+        "fangming": [
+          "固冲汤"
+        ],
+        "yaoming": [
+          "白术",
+          "黄芪",
+          "煅龙骨",
+          "煅牡蛎",
+          "山茱萸",
+          "白芍",
+          "海螵蛸",
+          "茜草",
+          "棕边炭",
+          "五倍子"
+        ],
+        "xuewei": [],
+        "jingluo": [],
+        "siqi": [],
+        "wuwei": [],
+        "guijing": [],
+        "keywords": [
+          "固冲汤",
+          "固崩止带",
+          "益气健脾",
+          "固冲摄血",
+          "血崩",
+          "《医学衷中参西录》"
+        ]
+      }
+    },
+    {
+      "id": "guipitang_001",
+      "book": "《方剂学》规划教材（要点归纳）",
+      "type": "fangji",
+      "tier": 1,
+      "category": "fangji",
+      "subcategory": "shifang",
+      "path": "library/fangji/shifang/guipitang/guipitang_001.md",
+      "weight": 9,
+      "title": "归脾汤·益气补血健脾养心",
+      "chapter": "补益剂",
+      "conditions": {
+        "zhengxing": [
+          "心脾气血两虚",
+          "脾不统血"
+        ],
+        "zhifa": [
+          "益气补血",
+          "健脾养心"
+        ],
+        "bingzheng": [
+          "心脾气血两虚证",
+          "脾不统血证"
+        ],
+        "zhengzhuang": [
+          "心悸怔忡",
+          "健忘失眠",
+          "体倦食少",
+          "面色萎黄",
+          "便血",
+          "崩漏",
+          "舌淡",
+          "脉细弱"
+        ],
+        "fangming": [
+          "归脾汤"
+        ],
+        "yaoming": [
+          "黄芪",
+          "人参",
+          "白术",
+          "茯神",
+          "酸枣仁",
+          "龙眼肉",
+          "当归",
+          "远志",
+          "木香",
+          "炙甘草"
+        ],
+        "xuewei": [],
+        "jingluo": [],
+        "siqi": [],
+        "wuwei": [],
+        "guijing": [],
+        "keywords": [
+          "补血",
+          "归脾汤",
+          "心脾两虚",
+          "脾不统血",
+          "益气摄血",
+          "《济生方》"
         ]
       }
     },
@@ -15213,6 +15743,64 @@
       }
     },
     {
+      "id": "jiuxiansan_001",
+      "book": "《方剂学》规划教材（要点归纳）",
+      "type": "fangji",
+      "tier": 1,
+      "category": "fangji",
+      "subcategory": "shifang",
+      "path": "library/fangji/shifang/jiuxiansan/jiuxiansan_001.md",
+      "weight": 9,
+      "title": "九仙散·敛肺止咳益气养阴",
+      "chapter": "固涩剂",
+      "conditions": {
+        "zhengxing": [
+          "久咳肺虚"
+        ],
+        "zhifa": [
+          "敛肺止咳",
+          "益气养阴"
+        ],
+        "bingzheng": [
+          "久咳肺虚证"
+        ],
+        "zhengzhuang": [
+          "久咳不已",
+          "咳喘自汗",
+          "痰少而黏",
+          "甚则气喘",
+          "舌淡",
+          "脉虚数"
+        ],
+        "fangming": [
+          "九仙散"
+        ],
+        "yaoming": [
+          "罂粟壳",
+          "乌梅",
+          "五味子",
+          "款冬花",
+          "桑白皮",
+          "贝母",
+          "桔梗",
+          "阿胶",
+          "人参"
+        ],
+        "xuewei": [],
+        "jingluo": [],
+        "siqi": [],
+        "wuwei": [],
+        "guijing": [],
+        "keywords": [
+          "九仙散",
+          "敛肺止咳",
+          "益气养阴",
+          "久咳肺虚",
+          "罂粟壳"
+        ]
+      }
+    },
+    {
       "id": "lianggesan_001",
       "book": "《方剂学》规划教材（要点归纳）",
       "type": "fangji",
@@ -15269,6 +15857,63 @@
           "清上泄下",
           "《局方》",
           "泻火通便"
+        ]
+      }
+    },
+    {
+      "id": "liuweidihuang_001",
+      "book": "《方剂学》规划教材（要点归纳）",
+      "type": "fangji",
+      "tier": 1,
+      "category": "fangji",
+      "subcategory": "shifang",
+      "path": "library/fangji/shifang/liuweidihuang/liuweidihuang_001.md",
+      "weight": 9,
+      "title": "六味地黄丸·三补三泻滋补肝肾",
+      "chapter": "补益剂",
+      "conditions": {
+        "zhengxing": [
+          "肾阴虚"
+        ],
+        "zhifa": [
+          "滋补肝肾"
+        ],
+        "bingzheng": [
+          "肾阴虚证"
+        ],
+        "zhengzhuang": [
+          "腰膝酸软",
+          "头晕目眩",
+          "耳鸣耳聋",
+          "盗汗遗精",
+          "骨蒸潮热",
+          "手足心热",
+          "舌红少苔",
+          "脉沉细数"
+        ],
+        "fangming": [
+          "六味地黄丸"
+        ],
+        "yaoming": [
+          "熟地黄",
+          "山茱萸",
+          "山药",
+          "泽泻",
+          "牡丹皮",
+          "茯苓"
+        ],
+        "xuewei": [],
+        "jingluo": [],
+        "siqi": [],
+        "wuwei": [],
+        "guijing": [],
+        "keywords": [
+          "补阴",
+          "六味地黄丸",
+          "肾阴虚",
+          "三补三泻",
+          "钱乙",
+          "补阴基础方"
         ]
       }
     },
@@ -15389,6 +16034,63 @@
           "润肠泻热",
           "脾约证",
           "《伤寒论》"
+        ]
+      }
+    },
+    {
+      "id": "mulisan_001",
+      "book": "《方剂学》规划教材（要点归纳）",
+      "type": "fangji",
+      "tier": 1,
+      "category": "fangji",
+      "subcategory": "shifang",
+      "path": "library/fangji/shifang/mulisan/mulisan_001.md",
+      "weight": 9,
+      "title": "牡蛎散·敛阴止汗益气固表",
+      "chapter": "固涩剂",
+      "conditions": {
+        "zhengxing": [
+          "体虚自汗",
+          "盗汗"
+        ],
+        "zhifa": [
+          "敛阴止汗",
+          "益气固表"
+        ],
+        "bingzheng": [
+          "体虚自汗盗汗证"
+        ],
+        "zhengzhuang": [
+          "自汗盗汗",
+          "夜卧尤甚",
+          "久而不止",
+          "心悸惊惕",
+          "短烦体倦",
+          "舌淡红",
+          "脉细弱"
+        ],
+        "fangming": [
+          "牡蛎散"
+        ],
+        "yaoming": [
+          "黄芪",
+          "麻黄根",
+          "牡蛎",
+          "小麦"
+        ],
+        "xuewei": [],
+        "jingluo": [],
+        "siqi": [],
+        "wuwei": [],
+        "guijing": [],
+        "keywords": [
+          "牡蛎散",
+          "固表止汗",
+          "敛阴止汗",
+          "益气固表",
+          "自汗",
+          "盗汗",
+          "《局方》"
         ]
       }
     },
@@ -15681,6 +16383,65 @@
       }
     },
     {
+      "id": "sangpiaoxiaosan_001",
+      "book": "《方剂学》规划教材（要点归纳）",
+      "type": "fangji",
+      "tier": 1,
+      "category": "fangji",
+      "subcategory": "shifang",
+      "path": "library/fangji/shifang/sangpiaoxiaosan/sangpiaoxiaosan_001.md",
+      "weight": 9,
+      "title": "桑螵蛸散·调补心肾固精止遗",
+      "chapter": "固涩剂",
+      "conditions": {
+        "zhengxing": [
+          "心肾两虚",
+          "尿频遗尿"
+        ],
+        "zhifa": [
+          "调补心肾",
+          "固精止遗"
+        ],
+        "bingzheng": [
+          "心肾两虚尿频遗尿证"
+        ],
+        "zhengzhuang": [
+          "小便频数",
+          "或尿如米泔",
+          "心神恍惚",
+          "健忘",
+          "舌淡苔白",
+          "脉细弱"
+        ],
+        "fangming": [
+          "桑螵蛸散"
+        ],
+        "yaoming": [
+          "桑螵蛸",
+          "远志",
+          "菖蒲",
+          "龙骨",
+          "人参",
+          "茯神",
+          "当归",
+          "龟甲"
+        ],
+        "xuewei": [],
+        "jingluo": [],
+        "siqi": [],
+        "wuwei": [],
+        "guijing": [],
+        "keywords": [
+          "桑螵蛸散",
+          "涩精止遗",
+          "调补心肾",
+          "固精止遗",
+          "尿频遗尿",
+          "《本草衍义》"
+        ]
+      }
+    },
+    {
       "id": "shaoyaotang_001",
       "book": "《方剂学》规划教材（要点归纳）",
       "type": "fangji",
@@ -15738,6 +16499,283 @@
           "调气和血",
           "湿热痢疾",
           "《保命集》"
+        ]
+      }
+    },
+    {
+      "id": "shengmaisun_001",
+      "book": "《方剂学》规划教材（要点归纳）",
+      "type": "fangji",
+      "tier": 1,
+      "category": "fangji",
+      "subcategory": "shifang",
+      "path": "library/fangji/shifang/shengmaisun/shengmaisun_001.md",
+      "weight": 9,
+      "title": "生脉散·益气生津敛阴止汗",
+      "chapter": "补益剂",
+      "conditions": {
+        "zhengxing": [
+          "气阴两虚"
+        ],
+        "zhifa": [
+          "益气生津",
+          "敛阴止汗"
+        ],
+        "bingzheng": [
+          "气阴两虚证"
+        ],
+        "zhengzhuang": [
+          "体倦气短",
+          "咽干口渴",
+          "汗多",
+          "舌干红",
+          "脉虚细"
+        ],
+        "fangming": [
+          "生脉散"
+        ],
+        "yaoming": [
+          "人参",
+          "麦冬",
+          "五味子"
+        ],
+        "xuewei": [],
+        "jingluo": [],
+        "siqi": [],
+        "wuwei": [],
+        "guijing": [],
+        "keywords": [
+          "补气",
+          "生脉散",
+          "气阴两虚",
+          "益气生津",
+          "敛汗",
+          "《医学启源》"
+        ]
+      }
+    },
+    {
+      "id": "shenlingbaizhu_001",
+      "book": "《方剂学》规划教材（要点归纳）",
+      "type": "fangji",
+      "tier": 1,
+      "category": "fangji",
+      "subcategory": "shifang",
+      "path": "library/fangji/shifang/shenlingbaizhu/shenlingbaizhu_001.md",
+      "weight": 9,
+      "title": "参苓白术散·益气健脾渗湿止泻",
+      "chapter": "补益剂",
+      "conditions": {
+        "zhengxing": [
+          "脾虚湿盛"
+        ],
+        "zhifa": [
+          "益气健脾",
+          "渗湿止泻"
+        ],
+        "bingzheng": [
+          "脾虚湿盛证"
+        ],
+        "zhengzhuang": [
+          "食少便溏",
+          "咳嗽痰多",
+          "胸脘痞闷",
+          "肢倦乏力",
+          "舌淡苔白腻",
+          "脉虚缓"
+        ],
+        "fangming": [
+          "参苓白术散"
+        ],
+        "yaoming": [
+          "人参",
+          "白术",
+          "茯苓",
+          "甘草",
+          "山药",
+          "莲子",
+          "白扁豆",
+          "薏苡仁",
+          "砂仁",
+          "桔梗"
+        ],
+        "xuewei": [],
+        "jingluo": [],
+        "siqi": [],
+        "wuwei": [],
+        "guijing": [],
+        "keywords": [
+          "补气",
+          "参苓白术散",
+          "脾虚湿盛",
+          "渗湿止泻",
+          "《局方》"
+        ]
+      }
+    },
+    {
+      "id": "sijunzi_001",
+      "book": "《方剂学》规划教材（要点归纳）",
+      "type": "fangji",
+      "tier": 1,
+      "category": "fangji",
+      "subcategory": "shifang",
+      "path": "library/fangji/shifang/sijunzi/sijunzi_001.md",
+      "weight": 9,
+      "title": "四君子汤·益气健脾",
+      "chapter": "补益剂",
+      "conditions": {
+        "zhengxing": [
+          "脾胃气虚"
+        ],
+        "zhifa": [
+          "益气健脾"
+        ],
+        "bingzheng": [
+          "脾胃气虚证"
+        ],
+        "zhengzhuang": [
+          "面色萎白",
+          "语声低微",
+          "气短乏力",
+          "食少便溏",
+          "舌淡苔白",
+          "脉虚弱"
+        ],
+        "fangming": [
+          "四君子汤"
+        ],
+        "yaoming": [
+          "人参",
+          "白术",
+          "茯苓",
+          "炙甘草"
+        ],
+        "xuewei": [],
+        "jingluo": [],
+        "siqi": [],
+        "wuwei": [],
+        "guijing": [],
+        "keywords": [
+          "补气",
+          "脾胃气虚",
+          "四君子汤",
+          "《局方》",
+          "补气基础方"
+        ]
+      }
+    },
+    {
+      "id": "sishenwan_001",
+      "book": "《方剂学》规划教材（要点归纳）",
+      "type": "fangji",
+      "tier": 1,
+      "category": "fangji",
+      "subcategory": "shifang",
+      "path": "library/fangji/shifang/sishenwan/sishenwan_001.md",
+      "weight": 9,
+      "title": "四神丸·温肾暖脾固肠止泻",
+      "chapter": "固涩剂",
+      "conditions": {
+        "zhengxing": [
+          "肾泄",
+          "脾肾阳虚"
+        ],
+        "zhifa": [
+          "温肾暖脾",
+          "固肠止泻"
+        ],
+        "bingzheng": [
+          "肾泄（五更泄）脾肾阳虚证"
+        ],
+        "zhengzhuang": [
+          "五更泄泻",
+          "不思饮食",
+          "食不消化",
+          "或腹痛肢冷",
+          "神疲乏力",
+          "舌淡苔薄白",
+          "脉沉迟无力"
+        ],
+        "fangming": [
+          "四神丸"
+        ],
+        "yaoming": [
+          "补骨脂",
+          "肉豆蔻",
+          "五味子",
+          "吴茱萸",
+          "生姜",
+          "大枣"
+        ],
+        "xuewei": [],
+        "jingluo": [],
+        "siqi": [],
+        "wuwei": [],
+        "guijing": [],
+        "keywords": [
+          "四神丸",
+          "涩肠固脱",
+          "温肾暖脾",
+          "固肠止泻",
+          "肾泄",
+          "五更泄",
+          "脾肾阳虚"
+        ]
+      }
+    },
+    {
+      "id": "siwutang_001",
+      "book": "《方剂学》规划教材（要点归纳）",
+      "type": "fangji",
+      "tier": 1,
+      "category": "fangji",
+      "subcategory": "shifang",
+      "path": "library/fangji/shifang/siwutang/siwutang_001.md",
+      "weight": 9,
+      "title": "四物汤·补血调血",
+      "chapter": "补益剂",
+      "conditions": {
+        "zhengxing": [
+          "营血虚滞"
+        ],
+        "zhifa": [
+          "补血调血"
+        ],
+        "bingzheng": [
+          "营血虚滞证"
+        ],
+        "zhengzhuang": [
+          "头晕目眩",
+          "心悸失眠",
+          "面色无华",
+          "月经不调",
+          "量少色淡",
+          "脐腹作痛",
+          "舌淡",
+          "脉细弦"
+        ],
+        "fangming": [
+          "四物汤"
+        ],
+        "yaoming": [
+          "熟地黄",
+          "当归",
+          "白芍",
+          "川芎"
+        ],
+        "xuewei": [],
+        "jingluo": [],
+        "siqi": [],
+        "wuwei": [],
+        "guijing": [],
+        "keywords": [
+          "补血",
+          "四物汤",
+          "营血虚滞",
+          "补血调血",
+          "《局方》",
+          "妇科基础方"
         ]
       }
     },
@@ -16130,6 +17168,62 @@
       }
     },
     {
+      "id": "yiguanjian_001",
+      "book": "《方剂学》规划教材（要点归纳）",
+      "type": "fangji",
+      "tier": 1,
+      "category": "fangji",
+      "subcategory": "shifang",
+      "path": "library/fangji/shifang/yiguanjian/yiguanjian_001.md",
+      "weight": 9,
+      "title": "一贯煎·滋阴疏肝",
+      "chapter": "补益剂",
+      "conditions": {
+        "zhengxing": [
+          "肝肾阴虚",
+          "肝气郁滞"
+        ],
+        "zhifa": [
+          "滋阴疏肝"
+        ],
+        "bingzheng": [
+          "肝肾阴虚肝气郁滞证"
+        ],
+        "zhengzhuang": [
+          "胸脘胁痛",
+          "吞酸吐苦",
+          "咽干口燥",
+          "舌红少津",
+          "脉细弱或虚弦",
+          "疝气瘕聚"
+        ],
+        "fangming": [
+          "一贯煎"
+        ],
+        "yaoming": [
+          "北沙参",
+          "麦冬",
+          "当归身",
+          "生地黄",
+          "枸杞子",
+          "川楝子"
+        ],
+        "xuewei": [],
+        "jingluo": [],
+        "siqi": [],
+        "wuwei": [],
+        "guijing": [],
+        "keywords": [
+          "一贯煎",
+          "补阴",
+          "滋阴疏肝",
+          "肝肾阴虚",
+          "胁痛",
+          "《续名医类案》"
+        ]
+      }
+    },
+    {
       "id": "yinqiaosan_002",
       "book": "《方剂学》规划教材（要点归纳）",
       "type": "fangji",
@@ -16189,6 +17283,70 @@
       }
     },
     {
+      "id": "youguiwan_001",
+      "book": "《方剂学》规划教材（要点归纳）",
+      "type": "fangji",
+      "tier": 1,
+      "category": "fangji",
+      "subcategory": "shifang",
+      "path": "library/fangji/shifang/youguiwan/youguiwan_001.md",
+      "weight": 9,
+      "title": "右归丸·温补肾阳填精益髓",
+      "chapter": "补益剂",
+      "conditions": {
+        "zhengxing": [
+          "肾阳不足",
+          "命门火衰"
+        ],
+        "zhifa": [
+          "温补肾阳",
+          "填精益髓"
+        ],
+        "bingzheng": [
+          "肾阳不足命门火衰证"
+        ],
+        "zhengzhuang": [
+          "气衰神疲",
+          "畏寒肢冷",
+          "腰膝软弱",
+          "阳痿遗精",
+          "阳衰无子",
+          "饮食减少",
+          "大便不实",
+          "舌淡苔白",
+          "脉沉迟"
+        ],
+        "fangming": [
+          "右归丸"
+        ],
+        "yaoming": [
+          "熟地黄",
+          "山药",
+          "山茱萸",
+          "枸杞子",
+          "菟丝子",
+          "鹿角胶",
+          "杜仲",
+          "当归",
+          "肉桂",
+          "附子"
+        ],
+        "xuewei": [],
+        "jingluo": [],
+        "siqi": [],
+        "wuwei": [],
+        "guijing": [],
+        "keywords": [
+          "右归丸",
+          "补阳",
+          "温补肾阳",
+          "填精益髓",
+          "命门火衰",
+          "《景岳全书》"
+        ]
+      }
+    },
+    {
       "id": "yunvjian_001",
       "book": "《方剂学》规划教材（要点归纳）",
       "type": "fangji",
@@ -16240,6 +17398,56 @@
           "胃热阴虚",
           "牙痛",
           "《景岳全书》"
+        ]
+      }
+    },
+    {
+      "id": "yupingfeng_001",
+      "book": "《方剂学》规划教材（要点归纳）",
+      "type": "fangji",
+      "tier": 1,
+      "category": "fangji",
+      "subcategory": "shifang",
+      "path": "library/fangji/shifang/yupingfeng/yupingfeng_001.md",
+      "weight": 9,
+      "title": "玉屏风散·益气固表止汗",
+      "chapter": "补益剂",
+      "conditions": {
+        "zhengxing": [
+          "表虚自汗"
+        ],
+        "zhifa": [
+          "益气固表止汗"
+        ],
+        "bingzheng": [
+          "表虚自汗证"
+        ],
+        "zhengzhuang": [
+          "汗出恶风",
+          "面色㿠白",
+          "易感风邪",
+          "舌淡苔薄白",
+          "脉浮虚"
+        ],
+        "fangming": [
+          "玉屏风散"
+        ],
+        "yaoming": [
+          "防风",
+          "黄芪",
+          "白术"
+        ],
+        "xuewei": [],
+        "jingluo": [],
+        "siqi": [],
+        "wuwei": [],
+        "guijing": [],
+        "keywords": [
+          "补气",
+          "玉屏风散",
+          "表虚自汗",
+          "益气固表",
+          "易感风邪"
         ]
       }
     },
@@ -16307,6 +17515,122 @@
       }
     },
     {
+      "id": "zhenrenyangzang_001",
+      "book": "《方剂学》规划教材（要点归纳）",
+      "type": "fangji",
+      "tier": 1,
+      "category": "fangji",
+      "subcategory": "shifang",
+      "path": "library/fangji/shifang/zhenrenyangzang/zhenrenyangzang_001.md",
+      "weight": 9,
+      "title": "真人养脏汤·涩肠固脱温补脾肾",
+      "chapter": "固涩剂",
+      "conditions": {
+        "zhengxing": [
+          "久泻久痢",
+          "脾肾虚寒"
+        ],
+        "zhifa": [
+          "涩肠固脱",
+          "温补脾肾"
+        ],
+        "bingzheng": [
+          "久泻久痢脾肾虚寒证"
+        ],
+        "zhengzhuang": [
+          "大便滑脱不禁",
+          "腹痛喜温喜按",
+          "倦怠食少",
+          "舌淡苔白",
+          "脉沉迟"
+        ],
+        "fangming": [
+          "真人养脏汤"
+        ],
+        "yaoming": [
+          "罂粟壳",
+          "诃子",
+          "肉豆蔻",
+          "白术",
+          "人参",
+          "木香",
+          "当归",
+          "白芍",
+          "肉桂",
+          "甘草"
+        ],
+        "xuewei": [],
+        "jingluo": [],
+        "siqi": [],
+        "wuwei": [],
+        "guijing": [],
+        "keywords": [
+          "真人养脏汤",
+          "涩肠固脱",
+          "温补脾肾",
+          "久泻久痢",
+          "脾肾虚寒",
+          "《局方》"
+        ]
+      }
+    },
+    {
+      "id": "zhibaidihuang_001",
+      "book": "《方剂学》规划教材（要点归纳）",
+      "type": "fangji",
+      "tier": 1,
+      "category": "fangji",
+      "subcategory": "shifang",
+      "path": "library/fangji/shifang/zhibaidihuang/zhibaidihuang_001.md",
+      "weight": 9,
+      "title": "知柏地黄丸·滋阴降火",
+      "chapter": "补益剂",
+      "conditions": {
+        "zhengxing": [
+          "阴虚火旺"
+        ],
+        "zhifa": [
+          "滋阴降火"
+        ],
+        "bingzheng": [
+          "阴虚火旺证"
+        ],
+        "zhengzhuang": [
+          "骨蒸潮热",
+          "虚烦盗汗",
+          "腰脊酸痛",
+          "遗精",
+          "舌红少苔",
+          "脉细数"
+        ],
+        "fangming": [
+          "知柏地黄丸"
+        ],
+        "yaoming": [
+          "熟地黄",
+          "山茱萸",
+          "山药",
+          "泽泻",
+          "牡丹皮",
+          "茯苓",
+          "知母",
+          "黄柏"
+        ],
+        "xuewei": [],
+        "jingluo": [],
+        "siqi": [],
+        "wuwei": [],
+        "guijing": [],
+        "keywords": [
+          "补阴",
+          "知柏地黄丸",
+          "阴虚火旺",
+          "滋阴降火",
+          "六味加知柏"
+        ]
+      }
+    },
+    {
       "id": "zhisousan_001",
       "book": "《方剂学》规划教材（要点归纳）",
       "type": "fangji",
@@ -16357,6 +17681,65 @@
           "咳嗽",
           "《医学心悟》",
           "程钟龄"
+        ]
+      }
+    },
+    {
+      "id": "zuoguiwan_001",
+      "book": "《方剂学》规划教材（要点归纳）",
+      "type": "fangji",
+      "tier": 1,
+      "category": "fangji",
+      "subcategory": "shifang",
+      "path": "library/fangji/shifang/zuoguiwan/zuoguiwan_001.md",
+      "weight": 9,
+      "title": "左归丸·滋阴补肾填精益髓",
+      "chapter": "补益剂",
+      "conditions": {
+        "zhengxing": [
+          "真阴不足"
+        ],
+        "zhifa": [
+          "滋阴补肾",
+          "填精益髓"
+        ],
+        "bingzheng": [
+          "真阴不足证"
+        ],
+        "zhengzhuang": [
+          "头晕目眩",
+          "腰酸腿软",
+          "遗精滑泄",
+          "自汗盗汗",
+          "口燥舌干",
+          "舌红少苔",
+          "脉细"
+        ],
+        "fangming": [
+          "左归丸"
+        ],
+        "yaoming": [
+          "熟地黄",
+          "山药",
+          "山茱萸",
+          "枸杞子",
+          "川牛膝",
+          "菟丝子",
+          "鹿角胶",
+          "龟板胶"
+        ],
+        "xuewei": [],
+        "jingluo": [],
+        "siqi": [],
+        "wuwei": [],
+        "guijing": [],
+        "keywords": [
+          "补阴",
+          "左归丸",
+          "真阴不足",
+          "填精益髓",
+          "张景岳",
+          "纯补真阴"
         ]
       }
     },

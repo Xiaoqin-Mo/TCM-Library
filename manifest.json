@@ -34,6 +34,12 @@
         "count": 1
       }
     },
+    "jichu": {
+      "yinyangwuxing": {
+        "dir": "jichu/yinyangwuxing/zhuanhua",
+        "count": 1
+      }
+    },
     "jingdian": {
       "bencao": {
         "dir": "jingdian/bencao/shennong",
@@ -3469,6 +3475,150 @@
       "tier_name": "核心",
       "category": "fangji",
       "subcategory": "shifang",
+      "count": 1
+    },
+    {
+      "dir": "jichu/yinyangwuxing",
+      "tier": 1,
+      "tier_name": "核心",
+      "category": "jichu",
+      "subcategory": "yinyangwuxing",
+      "count": 1
+    },
+    {
+      "dir": "jichu/yinyangwuxing/chengwu",
+      "tier": 1,
+      "tier_name": "核心",
+      "category": "jichu",
+      "subcategory": "yinyangwuxing",
+      "count": 1
+    },
+    {
+      "dir": "jichu/yinyangwuxing/duilikazhi",
+      "tier": 1,
+      "tier_name": "核心",
+      "category": "jichu",
+      "subcategory": "yinyangwuxing",
+      "count": 1
+    },
+    {
+      "dir": "jichu/yinyangwuxing/hicang",
+      "tier": 1,
+      "tier_name": "核心",
+      "category": "jichu",
+      "subcategory": "yinyangwuxing",
+      "count": 1
+    },
+    {
+      "dir": "jichu/yinyangwuxing/hugenhuyong",
+      "tier": 1,
+      "tier_name": "核心",
+      "category": "jichu",
+      "subcategory": "yinyangwuxing",
+      "count": 1
+    },
+    {
+      "dir": "jichu/yinyangwuxing/jiaogan",
+      "tier": 1,
+      "tier_name": "核心",
+      "category": "jichu",
+      "subcategory": "yinyangwuxing",
+      "count": 1
+    },
+    {
+      "dir": "jichu/yinyangwuxing/muzi",
+      "tier": 1,
+      "tier_name": "核心",
+      "category": "jichu",
+      "subcategory": "yinyangwuxing",
+      "count": 1
+    },
+    {
+      "dir": "jichu/yinyangwuxing/pingheng",
+      "tier": 1,
+      "tier_name": "核心",
+      "category": "jichu",
+      "subcategory": "yinyangwuxing",
+      "count": 1
+    },
+    {
+      "dir": "jichu/yinyangwuxing/wuseweizang",
+      "tier": 1,
+      "tier_name": "核心",
+      "category": "jichu",
+      "subcategory": "yinyangwuxing",
+      "count": 1
+    },
+    {
+      "dir": "jichu/yinyangwuxing/wuxingxueshuo",
+      "tier": 1,
+      "tier_name": "核心",
+      "category": "jichu",
+      "subcategory": "yinyangwuxing",
+      "count": 1
+    },
+    {
+      "dir": "jichu/yinyangwuxing/wuxingyingyong",
+      "tier": 1,
+      "tier_name": "核心",
+      "category": "jichu",
+      "subcategory": "yinyangwuxing",
+      "count": 1
+    },
+    {
+      "dir": "jichu/yinyangwuxing/xiangke",
+      "tier": 1,
+      "tier_name": "核心",
+      "category": "jichu",
+      "subcategory": "yinyangwuxing",
+      "count": 1
+    },
+    {
+      "dir": "jichu/yinyangwuxing/xiangsheng",
+      "tier": 1,
+      "tier_name": "核心",
+      "category": "jichu",
+      "subcategory": "yinyangwuxing",
+      "count": 1
+    },
+    {
+      "dir": "jichu/yinyangwuxing/xiaozhang",
+      "tier": 1,
+      "tier_name": "核心",
+      "category": "jichu",
+      "subcategory": "yinyangwuxing",
+      "count": 1
+    },
+    {
+      "dir": "jichu/yinyangwuxing/yinyangyingyong",
+      "tier": 1,
+      "tier_name": "核心",
+      "category": "jichu",
+      "subcategory": "yinyangwuxing",
+      "count": 1
+    },
+    {
+      "dir": "jichu/yinyangwuxing/zangfufenshu",
+      "tier": 1,
+      "tier_name": "核心",
+      "category": "jichu",
+      "subcategory": "yinyangwuxing",
+      "count": 1
+    },
+    {
+      "dir": "jichu/yinyangwuxing/zhihua",
+      "tier": 1,
+      "tier_name": "核心",
+      "category": "jichu",
+      "subcategory": "yinyangwuxing",
+      "count": 1
+    },
+    {
+      "dir": "jichu/yinyangwuxing/zhuanhua",
+      "tier": 1,
+      "tier_name": "核心",
+      "category": "jichu",
+      "subcategory": "yinyangwuxing",
       "count": 1
     },
     {
@@ -14552,7 +14702,7 @@
       "count": 1
     }
   ],
-  "total": 2834,
+  "total": 2852,
   "entries": [
     {
       "id": "angongniuhuangwan_002",
@@ -34895,6 +35045,610 @@
           "黄连吴茱萸",
           "《丹溪心法》",
           "朱丹溪"
+        ]
+      }
+    },
+    {
+      "id": "wuxingchengxiangwu_001",
+      "book": "《中医基础理论》规划教材（要点归纳）",
+      "type": "chapter",
+      "tier": 1,
+      "category": "jichu",
+      "subcategory": "yinyangwuxing",
+      "path": "library/jichu/yinyangwuxing/chengwu/wuxingchengxiangwu_001.md",
+      "weight": 8,
+      "title": "五行相乘相侮·过度克制与反向克制",
+      "chapter": "阴阳五行",
+      "conditions": {
+        "zhengxing": [],
+        "zhifa": [],
+        "bingzheng": [],
+        "zhengzhuang": [],
+        "fangming": [],
+        "yaoming": [],
+        "xuewei": [],
+        "jingluo": [],
+        "siqi": [],
+        "wuwei": [],
+        "guijing": [],
+        "keywords": [
+          "五行相乘",
+          "五行相侮",
+          "中医基础",
+          "五行",
+          "克制太过",
+          "反克",
+          "病理传变"
+        ]
+      }
+    },
+    {
+      "id": "yinyangduilikazhi_001",
+      "book": "《中医基础理论》规划教材（要点归纳）",
+      "type": "chapter",
+      "tier": 1,
+      "category": "jichu",
+      "subcategory": "yinyangwuxing",
+      "path": "library/jichu/yinyangwuxing/duilikazhi/yinyangduilikazhi_001.md",
+      "weight": 8,
+      "title": "阴阳对立制约·相互制约相互消长",
+      "chapter": "阴阳五行",
+      "conditions": {
+        "zhengxing": [],
+        "zhifa": [],
+        "bingzheng": [],
+        "zhengzhuang": [],
+        "fangming": [],
+        "yaoming": [],
+        "xuewei": [],
+        "jingluo": [],
+        "siqi": [],
+        "wuwei": [],
+        "guijing": [],
+        "keywords": [
+          "阴阳对立制约",
+          "阴阳学说",
+          "中医基础",
+          "对立制约",
+          "阴阳关系"
+        ]
+      }
+    },
+    {
+      "id": "yinyanghicang_001",
+      "book": "《中医基础理论》规划教材（要点归纳）",
+      "type": "chapter",
+      "tier": 1,
+      "category": "jichu",
+      "subcategory": "yinyangwuxing",
+      "path": "library/jichu/yinyangwuxing/hicang/yinyanghicang_001.md",
+      "weight": 8,
+      "title": "阴阳互藏·阴中有阳阳中有阴",
+      "chapter": "阴阳五行",
+      "conditions": {
+        "zhengxing": [],
+        "zhifa": [],
+        "bingzheng": [],
+        "zhengzhuang": [],
+        "fangming": [],
+        "yaoming": [],
+        "xuewei": [],
+        "jingluo": [],
+        "siqi": [],
+        "wuwei": [],
+        "guijing": [],
+        "keywords": [
+          "阴阳互藏",
+          "阴阳学说",
+          "中医基础",
+          "阴中有阳",
+          "阳中有阴",
+          "阴阳关系"
+        ]
+      }
+    },
+    {
+      "id": "yinyanghugenhuyong_001",
+      "book": "《中医基础理论》规划教材（要点归纳）",
+      "type": "chapter",
+      "tier": 1,
+      "category": "jichu",
+      "subcategory": "yinyangwuxing",
+      "path": "library/jichu/yinyangwuxing/hugenhuyong/yinyanghugenhuyong_001.md",
+      "weight": 8,
+      "title": "阴阳互根互用·相互依存相互为用",
+      "chapter": "阴阳五行",
+      "conditions": {
+        "zhengxing": [],
+        "zhifa": [],
+        "bingzheng": [],
+        "zhengzhuang": [],
+        "fangming": [],
+        "yaoming": [],
+        "xuewei": [],
+        "jingluo": [],
+        "siqi": [],
+        "wuwei": [],
+        "guijing": [],
+        "keywords": [
+          "阴阳互根互用",
+          "阴阳学说",
+          "中医基础",
+          "互根",
+          "互用",
+          "阴阳关系"
+        ]
+      }
+    },
+    {
+      "id": "yinyangjiaogan_001",
+      "book": "《中医基础理论》规划教材（要点归纳）",
+      "type": "chapter",
+      "tier": 1,
+      "category": "jichu",
+      "subcategory": "yinyangwuxing",
+      "path": "library/jichu/yinyangwuxing/jiaogan/yinyangjiaogan_001.md",
+      "weight": 8,
+      "title": "阴阳交感·阴阳二气相互感应交合",
+      "chapter": "阴阳五行",
+      "conditions": {
+        "zhengxing": [],
+        "zhifa": [],
+        "bingzheng": [],
+        "zhengzhuang": [],
+        "fangming": [],
+        "yaoming": [],
+        "xuewei": [],
+        "jingluo": [],
+        "siqi": [],
+        "wuwei": [],
+        "guijing": [],
+        "keywords": [
+          "阴阳交感",
+          "阴阳学说",
+          "中医基础",
+          "阴阳二气",
+          "感应交合",
+          "万物化生"
+        ]
+      }
+    },
+    {
+      "id": "wuxingmuzixiangji_001",
+      "book": "《中医基础理论》规划教材（要点归纳）",
+      "type": "chapter",
+      "tier": 1,
+      "category": "jichu",
+      "subcategory": "yinyangwuxing",
+      "path": "library/jichu/yinyangwuxing/muzi/wuxingmuzixiangji_001.md",
+      "weight": 8,
+      "title": "五行母子相及·母病及子子病犯母",
+      "chapter": "阴阳五行",
+      "conditions": {
+        "zhengxing": [],
+        "zhifa": [],
+        "bingzheng": [],
+        "zhengzhuang": [],
+        "fangming": [],
+        "yaoming": [],
+        "xuewei": [],
+        "jingluo": [],
+        "siqi": [],
+        "wuwei": [],
+        "guijing": [],
+        "keywords": [
+          "母子相及",
+          "中医基础",
+          "五行",
+          "母病及子",
+          "子病犯母",
+          "相生异常",
+          "病理传变"
+        ]
+      }
+    },
+    {
+      "id": "yinyangpinghengshtiao_001",
+      "book": "《中医基础理论》规划教材（要点归纳）",
+      "type": "chapter",
+      "tier": 1,
+      "category": "jichu",
+      "subcategory": "yinyangwuxing",
+      "path": "library/jichu/yinyangwuxing/pingheng/yinyangpinghengshtiao_001.md",
+      "weight": 8,
+      "title": "阴阳平衡失调·偏盛偏衰互损格拒亡失",
+      "chapter": "阴阳五行",
+      "conditions": {
+        "zhengxing": [],
+        "zhifa": [],
+        "bingzheng": [],
+        "zhengzhuang": [],
+        "fangming": [],
+        "yaoming": [],
+        "xuewei": [],
+        "jingluo": [],
+        "siqi": [],
+        "wuwei": [],
+        "guijing": [],
+        "keywords": [
+          "阴阳平衡失调",
+          "阴阳偏盛",
+          "阴阳偏衰",
+          "阴阳互损",
+          "阴阳格拒",
+          "阴阳亡失",
+          "中医基础"
+        ]
+      }
+    },
+    {
+      "id": "wuseweizangduiying_001",
+      "book": "《中医基础理论》规划教材（要点归纳）",
+      "type": "chapter",
+      "tier": 1,
+      "category": "jichu",
+      "subcategory": "yinyangwuxing",
+      "path": "library/jichu/yinyangwuxing/wuseweizang/wuseweizangduiying_001.md",
+      "weight": 8,
+      "title": "五色五味五脏对应·青赤黄白黑酸苦甘辛咸肝心脾肺肾",
+      "chapter": "阴阳五行",
+      "conditions": {
+        "zhengxing": [],
+        "zhifa": [],
+        "bingzheng": [],
+        "zhengzhuang": [],
+        "fangming": [],
+        "yaoming": [],
+        "xuewei": [],
+        "jingluo": [],
+        "siqi": [],
+        "wuwei": [],
+        "guijing": [],
+        "keywords": [
+          "五色五味五脏",
+          "中医基础",
+          "五行",
+          "青赤黄白黑",
+          "酸苦甘辛咸",
+          "色味应脏",
+          "取象比类"
+        ]
+      }
+    },
+    {
+      "id": "wuxingxueshuo_001",
+      "book": "《中医基础理论》规划教材（要点归纳）",
+      "type": "chapter",
+      "tier": 1,
+      "category": "jichu",
+      "subcategory": "yinyangwuxing",
+      "path": "library/jichu/yinyangwuxing/wuxingxueshuo/wuxingxueshuo_001.md",
+      "weight": 8,
+      "title": "五行学说·木火土金水五种物质运动变化",
+      "chapter": "阴阳五行",
+      "conditions": {
+        "zhengxing": [],
+        "zhifa": [],
+        "bingzheng": [],
+        "zhengzhuang": [],
+        "fangming": [],
+        "yaoming": [],
+        "xuewei": [],
+        "jingluo": [],
+        "siqi": [],
+        "wuwei": [],
+        "guijing": [],
+        "keywords": [
+          "五行学说",
+          "木火土金水",
+          "中医基础",
+          "古代哲学",
+          "五行归类",
+          "方法论"
+        ]
+      }
+    },
+    {
+      "id": "wuxingxueshuoyingyong_001",
+      "book": "《中医基础理论》规划教材（要点归纳）",
+      "type": "chapter",
+      "tier": 1,
+      "category": "jichu",
+      "subcategory": "yinyangwuxing",
+      "path": "library/jichu/yinyangwuxing/wuxingyingyong/wuxingxueshuoyingyong_001.md",
+      "weight": 8,
+      "title": "五行学说在中医学的应用·生理病理诊断治疗",
+      "chapter": "阴阳五行",
+      "conditions": {
+        "zhengxing": [],
+        "zhifa": [],
+        "bingzheng": [],
+        "zhengzhuang": [],
+        "fangming": [],
+        "yaoming": [],
+        "xuewei": [],
+        "jingluo": [],
+        "siqi": [],
+        "wuwei": [],
+        "guijing": [],
+        "keywords": [
+          "五行学说应用",
+          "中医基础",
+          "五行",
+          "生理",
+          "病理传变",
+          "诊断",
+          "治则",
+          "虚补其母实泻其子"
+        ]
+      }
+    },
+    {
+      "id": "wuxingxiangke_001",
+      "book": "《中医基础理论》规划教材（要点归纳）",
+      "type": "chapter",
+      "tier": 1,
+      "category": "jichu",
+      "subcategory": "yinyangwuxing",
+      "path": "library/jichu/yinyangwuxing/xiangke/wuxingxiangke_001.md",
+      "weight": 8,
+      "title": "五行相克·木火土金水相互克制制约",
+      "chapter": "阴阳五行",
+      "conditions": {
+        "zhengxing": [],
+        "zhifa": [],
+        "bingzheng": [],
+        "zhengzhuang": [],
+        "fangming": [],
+        "yaoming": [],
+        "xuewei": [],
+        "jingluo": [],
+        "siqi": [],
+        "wuwei": [],
+        "guijing": [],
+        "keywords": [
+          "五行相克",
+          "中医基础",
+          "五行",
+          "木克土",
+          "土克水",
+          "水克火",
+          "火克金",
+          "金克木",
+          "制约"
+        ]
+      }
+    },
+    {
+      "id": "wuxingxiangsheng_001",
+      "book": "《中医基础理论》规划教材（要点归纳）",
+      "type": "chapter",
+      "tier": 1,
+      "category": "jichu",
+      "subcategory": "yinyangwuxing",
+      "path": "library/jichu/yinyangwuxing/xiangsheng/wuxingxiangsheng_001.md",
+      "weight": 8,
+      "title": "五行相生·木火土金水相互资生助长",
+      "chapter": "阴阳五行",
+      "conditions": {
+        "zhengxing": [],
+        "zhifa": [],
+        "bingzheng": [],
+        "zhengzhuang": [],
+        "fangming": [],
+        "yaoming": [],
+        "xuewei": [],
+        "jingluo": [],
+        "siqi": [],
+        "wuwei": [],
+        "guijing": [],
+        "keywords": [
+          "五行相生",
+          "木火土金水",
+          "母子关系",
+          "中医基础",
+          "五行关系"
+        ]
+      }
+    },
+    {
+      "id": "yinyangxiaozhang_001",
+      "book": "《中医基础理论》规划教材（要点归纳）",
+      "type": "chapter",
+      "tier": 1,
+      "category": "jichu",
+      "subcategory": "yinyangwuxing",
+      "path": "library/jichu/yinyangwuxing/xiaozhang/yinyangxiaozhang_001.md",
+      "weight": 8,
+      "title": "阴阳消长·一定限度内不断消长平衡",
+      "chapter": "阴阳五行",
+      "conditions": {
+        "zhengxing": [],
+        "zhifa": [],
+        "bingzheng": [],
+        "zhengzhuang": [],
+        "fangming": [],
+        "yaoming": [],
+        "xuewei": [],
+        "jingluo": [],
+        "siqi": [],
+        "wuwei": [],
+        "guijing": [],
+        "keywords": [
+          "阴阳消长",
+          "阴阳学说",
+          "中医基础",
+          "消长平衡",
+          "阴阳关系"
+        ]
+      }
+    },
+    {
+      "id": "yinyangxueshuo_001",
+      "book": "《中医基础理论》规划教材（要点归纳）",
+      "type": "chapter",
+      "tier": 1,
+      "category": "jichu",
+      "subcategory": "yinyangwuxing",
+      "path": "library/jichu/yinyangwuxing/yinyangxueshuo_001.md",
+      "weight": 8,
+      "title": "阴阳学说·古代哲学唯物辩证法",
+      "chapter": "阴阳五行",
+      "conditions": {
+        "zhengxing": [],
+        "zhifa": [],
+        "bingzheng": [],
+        "zhengzhuang": [],
+        "fangming": [],
+        "yaoming": [],
+        "xuewei": [],
+        "jingluo": [],
+        "siqi": [],
+        "wuwei": [],
+        "guijing": [],
+        "keywords": [
+          "阴阳学说",
+          "中医基础",
+          "古代哲学",
+          "对立统一",
+          "方法论"
+        ]
+      }
+    },
+    {
+      "id": "yinyangxueshuoyingyong_001",
+      "book": "《中医基础理论》规划教材（要点归纳）",
+      "type": "chapter",
+      "tier": 1,
+      "category": "jichu",
+      "subcategory": "yinyangwuxing",
+      "path": "library/jichu/yinyangwuxing/yinyangyingyong/yinyangxueshuoyingyong_001.md",
+      "weight": 8,
+      "title": "阴阳学说在中医学的应用·组织结构生理病理诊断治疗",
+      "chapter": "阴阳五行",
+      "conditions": {
+        "zhengxing": [],
+        "zhifa": [],
+        "bingzheng": [],
+        "zhengzhuang": [],
+        "fangming": [],
+        "yaoming": [],
+        "xuewei": [],
+        "jingluo": [],
+        "siqi": [],
+        "wuwei": [],
+        "guijing": [],
+        "keywords": [
+          "阴阳学说应用",
+          "中医基础",
+          "阴阳",
+          "组织结构",
+          "生理病理",
+          "诊断",
+          "治疗",
+          "调整阴阳"
+        ]
+      }
+    },
+    {
+      "id": "wuxingzangfufenshu_001",
+      "book": "《中医基础理论》规划教材（要点归纳）",
+      "type": "chapter",
+      "tier": 1,
+      "category": "jichu",
+      "subcategory": "yinyangwuxing",
+      "path": "library/jichu/yinyangwuxing/zangfufenshu/wuxingzangfufenshu_001.md",
+      "weight": 8,
+      "title": "五行与五脏配属·肝心脾肺肾配木火土金水",
+      "chapter": "阴阳五行",
+      "conditions": {
+        "zhengxing": [],
+        "zhifa": [],
+        "bingzheng": [],
+        "zhengzhuang": [],
+        "fangming": [],
+        "yaoming": [],
+        "xuewei": [],
+        "jingluo": [],
+        "siqi": [],
+        "wuwei": [],
+        "guijing": [],
+        "keywords": [
+          "五行配五脏",
+          "中医基础",
+          "五行",
+          "肝属木",
+          "心属火",
+          "脾属土",
+          "肺属金",
+          "肾属水",
+          "藏象配属"
+        ]
+      }
+    },
+    {
+      "id": "wuxingzhihua_001",
+      "book": "《中医基础理论》规划教材（要点归纳）",
+      "type": "chapter",
+      "tier": 1,
+      "category": "jichu",
+      "subcategory": "yinyangwuxing",
+      "path": "library/jichu/yinyangwuxing/zhihua/wuxingzhihua_001.md",
+      "weight": 8,
+      "title": "五行制化·相生相克结合维持平衡",
+      "chapter": "阴阳五行",
+      "conditions": {
+        "zhengxing": [],
+        "zhifa": [],
+        "bingzheng": [],
+        "zhengzhuang": [],
+        "fangming": [],
+        "yaoming": [],
+        "xuewei": [],
+        "jingluo": [],
+        "siqi": [],
+        "wuwei": [],
+        "guijing": [],
+        "keywords": [
+          "五行制化",
+          "中医基础",
+          "五行",
+          "相生相克",
+          "调节平衡",
+          "生生化化"
+        ]
+      }
+    },
+    {
+      "id": "yinyangzhuanhua_001",
+      "book": "《中医基础理论》规划教材（要点归纳）",
+      "type": "chapter",
+      "tier": 1,
+      "category": "jichu",
+      "subcategory": "yinyangwuxing",
+      "path": "library/jichu/yinyangwuxing/zhuanhua/yinyangzhuanhua_001.md",
+      "weight": 8,
+      "title": "阴阳转化·一定条件下向对立面转化",
+      "chapter": "阴阳五行",
+      "conditions": {
+        "zhengxing": [],
+        "zhifa": [],
+        "bingzheng": [],
+        "zhengzhuang": [],
+        "fangming": [],
+        "yaoming": [],
+        "xuewei": [],
+        "jingluo": [],
+        "siqi": [],
+        "wuwei": [],
+        "guijing": [],
+        "keywords": [
+          "阴阳转化",
+          "阴阳学说",
+          "中医基础",
+          "物极必反",
+          "重阴必阳",
+          "重阳必阴"
         ]
       }
     },

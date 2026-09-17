@@ -22,7 +22,7 @@
         "count": 1
       },
       "jieyao": {
-        "dir": "fangji/jieyao/yunvjian",
+        "dir": "fangji/jieyao/zuoguiwan",
         "count": 1
       },
       "jingfang": {
@@ -1672,6 +1672,14 @@
       "count": 1
     },
     {
+      "dir": "fangji/jieyao/angongniuhuang",
+      "tier": 1,
+      "tier_name": "核心",
+      "category": "fangji",
+      "subcategory": "jieyao",
+      "count": 1
+    },
+    {
       "dir": "fangji/jieyao/baihutang",
       "tier": 1,
       "tier_name": "核心",
@@ -1688,6 +1696,14 @@
       "count": 1
     },
     {
+      "dir": "fangji/jieyao/buzhongyiqi",
+      "tier": 1,
+      "tier_name": "核心",
+      "category": "fangji",
+      "subcategory": "jieyao",
+      "count": 1
+    },
+    {
       "dir": "fangji/jieyao/dachengqi",
       "tier": 1,
       "tier_name": "核心",
@@ -1696,7 +1712,23 @@
       "count": 1
     },
     {
+      "dir": "fangji/jieyao/danguisinilang",
+      "tier": 1,
+      "tier_name": "核心",
+      "category": "fangji",
+      "subcategory": "jieyao",
+      "count": 1
+    },
+    {
       "dir": "fangji/jieyao/daochisan",
+      "tier": 1,
+      "tier_name": "核心",
+      "category": "fangji",
+      "subcategory": "jieyao",
+      "count": 1
+    },
+    {
+      "dir": "fangji/jieyao/guipi",
       "tier": 1,
       "tier_name": "核心",
       "category": "fangji",
@@ -1728,6 +1760,22 @@
       "count": 1
     },
     {
+      "dir": "fangji/jieyao/liuweiDihuang",
+      "tier": 1,
+      "tier_name": "核心",
+      "category": "fangji",
+      "subcategory": "jieyao",
+      "count": 1
+    },
+    {
+      "dir": "fangji/jieyao/lizhongwan",
+      "tier": 1,
+      "tier_name": "核心",
+      "category": "fangji",
+      "subcategory": "jieyao",
+      "count": 1
+    },
+    {
       "dir": "fangji/jieyao/longdanxiegan",
       "tier": 1,
       "tier_name": "核心",
@@ -1745,6 +1793,14 @@
     },
     {
       "dir": "fangji/jieyao/mazirenwan",
+      "tier": 1,
+      "tier_name": "核心",
+      "category": "fangji",
+      "subcategory": "jieyao",
+      "count": 1
+    },
+    {
+      "dir": "fangji/jieyao/mulisan",
       "tier": 1,
       "tier_name": "核心",
       "category": "fangji",
@@ -1784,7 +1840,23 @@
       "count": 1
     },
     {
+      "dir": "fangji/jieyao/sangpiaoxiao",
+      "tier": 1,
+      "tier_name": "核心",
+      "category": "fangji",
+      "subcategory": "jieyao",
+      "count": 1
+    },
+    {
       "dir": "fangji/jieyao/shaoyaotang",
+      "tier": 1,
+      "tier_name": "核心",
+      "category": "fangji",
+      "subcategory": "jieyao",
+      "count": 1
+    },
+    {
+      "dir": "fangji/jieyao/shengmaisun",
       "tier": 1,
       "tier_name": "核心",
       "category": "fangji",
@@ -1800,7 +1872,55 @@
       "count": 1
     },
     {
+      "dir": "fangji/jieyao/sijunzi",
+      "tier": 1,
+      "tier_name": "核心",
+      "category": "fangji",
+      "subcategory": "jieyao",
+      "count": 1
+    },
+    {
+      "dir": "fangji/jieyao/sinilang",
+      "tier": 1,
+      "tier_name": "核心",
+      "category": "fangji",
+      "subcategory": "jieyao",
+      "count": 1
+    },
+    {
       "dir": "fangji/jieyao/sinisan",
+      "tier": 1,
+      "tier_name": "核心",
+      "category": "fangji",
+      "subcategory": "jieyao",
+      "count": 1
+    },
+    {
+      "dir": "fangji/jieyao/sishenwan",
+      "tier": 1,
+      "tier_name": "核心",
+      "category": "fangji",
+      "subcategory": "jieyao",
+      "count": 1
+    },
+    {
+      "dir": "fangji/jieyao/siwutang",
+      "tier": 1,
+      "tier_name": "核心",
+      "category": "fangji",
+      "subcategory": "jieyao",
+      "count": 1
+    },
+    {
+      "dir": "fangji/jieyao/suanzaoren",
+      "tier": 1,
+      "tier_name": "核心",
+      "category": "fangji",
+      "subcategory": "jieyao",
+      "count": 1
+    },
+    {
+      "dir": "fangji/jieyao/tianwangbuxin",
       "tier": 1,
       "tier_name": "核心",
       "category": "fangji",
@@ -1817,6 +1937,14 @@
     },
     {
       "dir": "fangji/jieyao/xiaochaihu",
+      "tier": 1,
+      "tier_name": "核心",
+      "category": "fangji",
+      "subcategory": "jieyao",
+      "count": 1
+    },
+    {
+      "dir": "fangji/jieyao/xiaojianzhong",
       "tier": 1,
       "tier_name": "核心",
       "category": "fangji",
@@ -1848,6 +1976,14 @@
       "count": 1
     },
     {
+      "dir": "fangji/jieyao/yiguanjian",
+      "tier": 1,
+      "tier_name": "核心",
+      "category": "fangji",
+      "subcategory": "jieyao",
+      "count": 1
+    },
+    {
       "dir": "fangji/jieyao/yinqiaosan",
       "tier": 1,
       "tier_name": "核心",
@@ -1856,7 +1992,31 @@
       "count": 1
     },
     {
+      "dir": "fangji/jieyao/youguiwan",
+      "tier": 1,
+      "tier_name": "核心",
+      "category": "fangji",
+      "subcategory": "jieyao",
+      "count": 1
+    },
+    {
       "dir": "fangji/jieyao/yunvjian",
+      "tier": 1,
+      "tier_name": "核心",
+      "category": "fangji",
+      "subcategory": "jieyao",
+      "count": 1
+    },
+    {
+      "dir": "fangji/jieyao/yupingfeng",
+      "tier": 1,
+      "tier_name": "核心",
+      "category": "fangji",
+      "subcategory": "jieyao",
+      "count": 1
+    },
+    {
+      "dir": "fangji/jieyao/zuoguiwan",
       "tier": 1,
       "tier_name": "核心",
       "category": "fangji",
@@ -14200,7 +14360,7 @@
       "count": 1
     }
   ],
-  "total": 2790,
+  "total": 2810,
   "entries": [
     {
       "id": "angongniuhuangwan_002",
@@ -21731,6 +21891,73 @@
       }
     },
     {
+      "id": "angongniuhuangwan_jieyao_001",
+      "book": "方解（方论集要）",
+      "type": "fangji",
+      "tier": 1,
+      "category": "fangji",
+      "subcategory": "jieyao",
+      "path": "library/fangji/jieyao/angongniuhuang/angongniuhuangwan_jieyao_001.md",
+      "weight": 8,
+      "title": "安宫牛黄丸·清热解毒豁痰开窍",
+      "chapter": "开窍剂·方解",
+      "conditions": {
+        "zhengxing": [
+          "热闭心包证"
+        ],
+        "zhifa": [
+          "清热解毒",
+          "豁痰开窍"
+        ],
+        "bingzheng": [
+          "热邪内陷心包证"
+        ],
+        "zhengzhuang": [
+          "高热烦躁",
+          "神昏谵语",
+          "舌謇肢厥",
+          "舌红或绛",
+          "中风昏迷",
+          "小儿惊厥"
+        ],
+        "fangming": [
+          "安宫牛黄丸"
+        ],
+        "yaoming": [
+          "牛黄",
+          "郁金",
+          "犀角",
+          "黄连",
+          "朱砂",
+          "栀子",
+          "雄黄",
+          "黄芩",
+          "珍珠",
+          "冰片",
+          "麝香",
+          "金箔"
+        ],
+        "xuewei": [],
+        "jingluo": [],
+        "siqi": [],
+        "wuwei": [],
+        "guijing": [],
+        "keywords": [
+          "安宫牛黄丸",
+          "方解",
+          "君药",
+          "臣药",
+          "佐药",
+          "使药",
+          "清热解毒",
+          "豁痰开窍",
+          "热闭心包",
+          "凉开三宝",
+          "开窍剂"
+        ]
+      }
+    },
+    {
       "id": "baihutang_jieyao_001",
       "book": "方解（方论集要）",
       "type": "fangji",
@@ -21842,6 +22069,69 @@
       }
     },
     {
+      "id": "buzhongyiqitang_jieyao_001",
+      "book": "方解（方论集要）",
+      "type": "fangji",
+      "tier": 1,
+      "category": "fangji",
+      "subcategory": "jieyao",
+      "path": "library/fangji/jieyao/buzhongyiqi/buzhongyiqitang_jieyao_001.md",
+      "weight": 8,
+      "title": "补中益气汤·补中益气升阳举陷",
+      "chapter": "补益剂·方解",
+      "conditions": {
+        "zhengxing": [
+          "脾胃气虚",
+          "中气下陷"
+        ],
+        "zhifa": [
+          "补中益气",
+          "升阳举陷"
+        ],
+        "bingzheng": [
+          "脾胃气虚证",
+          "中气下陷证"
+        ],
+        "zhengzhuang": [
+          "饮食减少",
+          "体倦肢软",
+          "少气懒言",
+          "面色㿠白",
+          "大便稀溏",
+          "脱肛",
+          "子宫脱垂",
+          "久泻久痢",
+          "舌淡脉虚"
+        ],
+        "fangming": [
+          "补中益气汤"
+        ],
+        "yaoming": [
+          "黄芪",
+          "人参",
+          "白术",
+          "炙甘草",
+          "当归",
+          "陈皮",
+          "升麻",
+          "柴胡"
+        ],
+        "xuewei": [],
+        "jingluo": [],
+        "siqi": [],
+        "wuwei": [],
+        "guijing": [],
+        "keywords": [
+          "补中益气汤",
+          "方解",
+          "升阳举陷",
+          "李东垣",
+          "益气升阳",
+          "甘温除热"
+        ]
+      }
+    },
+    {
       "id": "dachengqitang_jieyao_001",
       "book": "方解（方论集要）",
       "type": "fangji",
@@ -21899,6 +22189,62 @@
       }
     },
     {
+      "id": "danguisinilangtang_jieyao_001",
+      "book": "方解（方论集要）",
+      "type": "fangji",
+      "tier": 1,
+      "category": "fangji",
+      "subcategory": "jieyao",
+      "path": "library/fangji/jieyao/danguisinilang/danguisinilangtang_jieyao_001.md",
+      "weight": 8,
+      "title": "当归四逆汤·温经散寒养血通脉",
+      "chapter": "温里剂·方解",
+      "conditions": {
+        "zhengxing": [
+          "血虚寒厥证"
+        ],
+        "zhifa": [
+          "温经散寒",
+          "养血通脉"
+        ],
+        "bingzheng": [
+          "血虚寒厥证"
+        ],
+        "zhengzhuang": [
+          "手足厥寒",
+          "或腰股腿足肩臂疼痛",
+          "口不渴",
+          "舌淡苔白",
+          "脉细欲绝"
+        ],
+        "fangming": [
+          "当归四逆汤"
+        ],
+        "yaoming": [
+          "当归",
+          "桂枝",
+          "芍药",
+          "细辛",
+          "炙甘草",
+          "通草",
+          "大枣"
+        ],
+        "xuewei": [],
+        "jingluo": [],
+        "siqi": [],
+        "wuwei": [],
+        "guijing": [],
+        "keywords": [
+          "当归四逆汤",
+          "方解",
+          "血虚寒厥",
+          "当归桂枝",
+          "通脉",
+          "温经散寒"
+        ]
+      }
+    },
+    {
       "id": "daochisan_jieyao_001",
       "book": "方解（方论集要）",
       "type": "fangji",
@@ -21951,6 +22297,70 @@
           "心经火热",
           "利水通淋",
           "清热剂"
+        ]
+      }
+    },
+    {
+      "id": "guipitang_jieyao_001",
+      "book": "方解（方论集要）",
+      "type": "fangji",
+      "tier": 1,
+      "category": "fangji",
+      "subcategory": "jieyao",
+      "path": "library/fangji/jieyao/guipi/guipitang_jieyao_001.md",
+      "weight": 8,
+      "title": "归脾汤·益气补血健脾养心",
+      "chapter": "补益剂·方解",
+      "conditions": {
+        "zhengxing": [
+          "心脾气血两虚",
+          "脾不统血"
+        ],
+        "zhifa": [
+          "益气补血",
+          "健脾养心"
+        ],
+        "bingzheng": [
+          "心脾气血两虚证",
+          "脾不统血证"
+        ],
+        "zhengzhuang": [
+          "心悸怔忡",
+          "健忘失眠",
+          "气短乏力",
+          "面色萎黄",
+          "食少",
+          "便血",
+          "崩漏",
+          "月经超前量多色淡"
+        ],
+        "fangming": [
+          "归脾汤"
+        ],
+        "yaoming": [
+          "黄芪",
+          "人参",
+          "白术",
+          "茯神",
+          "酸枣仁",
+          "龙眼肉",
+          "当归",
+          "远志",
+          "木香",
+          "炙甘草"
+        ],
+        "xuewei": [],
+        "jingluo": [],
+        "siqi": [],
+        "wuwei": [],
+        "guijing": [],
+        "keywords": [
+          "归脾汤",
+          "方解",
+          "心脾双补",
+          "益气补血",
+          "引血归脾",
+          "脾不统血"
         ]
       }
     },
@@ -22119,6 +22529,120 @@
           "分经论治",
           "张元素",
           "辛温解表"
+        ]
+      }
+    },
+    {
+      "id": "liuweidihuangwan_jieyao_001",
+      "book": "方解（方论集要）",
+      "type": "fangji",
+      "tier": 1,
+      "category": "fangji",
+      "subcategory": "jieyao",
+      "path": "library/fangji/jieyao/liuweiDihuang/liuweidihuangwan_jieyao_001.md",
+      "weight": 8,
+      "title": "六味地黄丸·滋补肝肾",
+      "chapter": "补益剂·方解",
+      "conditions": {
+        "zhengxing": [
+          "肾阴虚证"
+        ],
+        "zhifa": [
+          "滋补肝肾"
+        ],
+        "bingzheng": [
+          "肾阴虚证"
+        ],
+        "zhengzhuang": [
+          "腰膝酸软",
+          "头晕目眩",
+          "耳鸣耳聋",
+          "盗汗遗精",
+          "骨蒸潮热",
+          "手足心热",
+          "舌燥咽痛",
+          "足跟作痛",
+          "舌红少苔",
+          "脉沉细数"
+        ],
+        "fangming": [
+          "六味地黄丸"
+        ],
+        "yaoming": [
+          "熟地黄",
+          "山茱萸",
+          "山药",
+          "泽泻",
+          "牡丹皮",
+          "茯苓"
+        ],
+        "xuewei": [],
+        "jingluo": [],
+        "siqi": [],
+        "wuwei": [],
+        "guijing": [],
+        "keywords": [
+          "六味地黄丸",
+          "方解",
+          "三补三泻",
+          "钱乙",
+          "肾阴虚",
+          "知柏杞菊都气比较"
+        ]
+      }
+    },
+    {
+      "id": "lizhongwan_jieyao_001",
+      "book": "方解（方论集要）",
+      "type": "fangji",
+      "tier": 1,
+      "category": "fangji",
+      "subcategory": "jieyao",
+      "path": "library/fangji/jieyao/lizhongwan/lizhongwan_jieyao_001.md",
+      "weight": 8,
+      "title": "理中丸·温中祛寒补气健脾",
+      "chapter": "温里剂·方解",
+      "conditions": {
+        "zhengxing": [
+          "脾胃虚寒证"
+        ],
+        "zhifa": [
+          "温中祛寒",
+          "补气健脾"
+        ],
+        "bingzheng": [
+          "脾胃虚寒证"
+        ],
+        "zhengzhuang": [
+          "脘腹绵绵作痛",
+          "喜温喜按",
+          "呕吐便溏",
+          "畏寒肢冷",
+          "舌淡苔白"
+        ],
+        "fangming": [
+          "理中丸"
+        ],
+        "yaoming": [
+          "人参",
+          "干姜",
+          "白术",
+          "炙甘草"
+        ],
+        "xuewei": [],
+        "jingluo": [],
+        "siqi": [],
+        "wuwei": [],
+        "guijing": [],
+        "keywords": [
+          "理中丸",
+          "方解",
+          "君药",
+          "臣药",
+          "佐药",
+          "使药",
+          "理中丸附子理中丸比较",
+          "温中祛寒"
         ]
       }
     },
@@ -22292,6 +22816,63 @@
           "脾约",
           "润下",
           "小承气加麻杏芍"
+        ]
+      }
+    },
+    {
+      "id": "mulisan_jieyao_001",
+      "book": "方解（方论集要）",
+      "type": "fangji",
+      "tier": 1,
+      "category": "fangji",
+      "subcategory": "jieyao",
+      "path": "library/fangji/jieyao/mulisan/mulisan_jieyao_001.md",
+      "weight": 8,
+      "title": "牡蛎散·敛阴止汗益气固表",
+      "chapter": "固涩剂·方解",
+      "conditions": {
+        "zhengxing": [
+          "体虚自汗盗汗"
+        ],
+        "zhifa": [
+          "敛阴止汗",
+          "益气固表"
+        ],
+        "bingzheng": [
+          "体虚自汗盗汗证"
+        ],
+        "zhengzhuang": [
+          "自汗盗汗",
+          "夜卧尤甚",
+          "久而不止",
+          "心悸惊惕",
+          "短烦烦倦"
+        ],
+        "fangming": [
+          "牡蛎散"
+        ],
+        "yaoming": [
+          "黄芪",
+          "麻黄根",
+          "牡蛎",
+          "小麦"
+        ],
+        "xuewei": [],
+        "jingluo": [],
+        "siqi": [],
+        "wuwei": [],
+        "guijing": [],
+        "keywords": [
+          "牡蛎散",
+          "方解",
+          "君药",
+          "臣药",
+          "佐药",
+          "使药",
+          "敛阴止汗",
+          "益气固表",
+          "自汗盗汗",
+          "固涩剂"
         ]
       }
     },
@@ -22528,6 +23109,68 @@
       }
     },
     {
+      "id": "sangpiaoxiaosan_jieyao_001",
+      "book": "方解（方论集要）",
+      "type": "fangji",
+      "tier": 1,
+      "category": "fangji",
+      "subcategory": "jieyao",
+      "path": "library/fangji/jieyao/sangpiaoxiao/sangpiaoxiaosan_jieyao_001.md",
+      "weight": 8,
+      "title": "桑螵蛸散·调补心肾固精止遗",
+      "chapter": "固涩剂·方解",
+      "conditions": {
+        "zhengxing": [
+          "心肾两虚"
+        ],
+        "zhifa": [
+          "调补心肾",
+          "固精止遗"
+        ],
+        "bingzheng": [
+          "心肾两虚尿频遗尿证"
+        ],
+        "zhengzhuang": [
+          "小便频数",
+          "或尿如米泔色",
+          "遗尿",
+          "遗精滑泄",
+          "心神恍惚",
+          "健忘"
+        ],
+        "fangming": [
+          "桑螵蛸散"
+        ],
+        "yaoming": [
+          "桑螵蛸",
+          "远志",
+          "石菖蒲",
+          "龙骨",
+          "人参",
+          "茯神",
+          "当归",
+          "龟甲"
+        ],
+        "xuewei": [],
+        "jingluo": [],
+        "siqi": [],
+        "wuwei": [],
+        "guijing": [],
+        "keywords": [
+          "桑螵蛸散",
+          "方解",
+          "君药",
+          "臣药",
+          "佐药",
+          "使药",
+          "调补心肾",
+          "固精止遗",
+          "心肾两虚",
+          "固涩剂"
+        ]
+      }
+    },
+    {
       "id": "shaoyaotang_jieyao_001",
       "book": "方解（方论集要）",
       "type": "fangji",
@@ -22591,6 +23234,59 @@
       }
     },
     {
+      "id": "shengmaisun_jieyao_001",
+      "book": "方解（方论集要）",
+      "type": "fangji",
+      "tier": 1,
+      "category": "fangji",
+      "subcategory": "jieyao",
+      "path": "library/fangji/jieyao/shengmaisun/shengmaisun_jieyao_001.md",
+      "weight": 8,
+      "title": "生脉散·益气生津敛阴止汗",
+      "chapter": "补益剂·方解",
+      "conditions": {
+        "zhengxing": [
+          "气阴两虚证"
+        ],
+        "zhifa": [
+          "益气生津",
+          "敛阴止汗"
+        ],
+        "bingzheng": [
+          "气阴两虚证"
+        ],
+        "zhengzhuang": [
+          "体倦乏力",
+          "气短懒言",
+          "干咳少痰",
+          "自汗",
+          "口干舌燥",
+          "脉虚细"
+        ],
+        "fangming": [
+          "生脉散"
+        ],
+        "yaoming": [
+          "人参",
+          "麦冬",
+          "五味子"
+        ],
+        "xuewei": [],
+        "jingluo": [],
+        "siqi": [],
+        "wuwei": [],
+        "guijing": [],
+        "keywords": [
+          "生脉散",
+          "方解",
+          "益气生津",
+          "人参麦冬五味子",
+          "气阴双补",
+          "敛汗"
+        ]
+      }
+    },
+    {
       "id": "shizaotang_jieyao_001",
       "book": "方解（方论集要）",
       "type": "fangji",
@@ -22647,6 +23343,111 @@
       }
     },
     {
+      "id": "sijunzitang_jieyao_001",
+      "book": "方解（方论集要）",
+      "type": "fangji",
+      "tier": 1,
+      "category": "fangji",
+      "subcategory": "jieyao",
+      "path": "library/fangji/jieyao/sijunzi/sijunzitang_jieyao_001.md",
+      "weight": 8,
+      "title": "四君子汤·益气健脾",
+      "chapter": "补益剂·方解",
+      "conditions": {
+        "zhengxing": [
+          "脾胃气虚证"
+        ],
+        "zhifa": [
+          "益气健脾"
+        ],
+        "bingzheng": [
+          "脾胃气虚证"
+        ],
+        "zhengzhuang": [
+          "面色萎白",
+          "语声低微",
+          "气短乏力",
+          "食少便溏",
+          "舌淡苔白",
+          "脉虚弱"
+        ],
+        "fangming": [
+          "四君子汤"
+        ],
+        "yaoming": [
+          "人参",
+          "白术",
+          "茯苓",
+          "炙甘草"
+        ],
+        "xuewei": [],
+        "jingluo": [],
+        "siqi": [],
+        "wuwei": [],
+        "guijing": [],
+        "keywords": [
+          "四君子汤",
+          "方解",
+          "益气健脾",
+          "补气基础方",
+          "六君子香砂六君子比较",
+          "补益剂"
+        ]
+      }
+    },
+    {
+      "id": "sinilangtang_jieyao_001",
+      "book": "方解（方论集要）",
+      "type": "fangji",
+      "tier": 1,
+      "category": "fangji",
+      "subcategory": "jieyao",
+      "path": "library/fangji/jieyao/sinilang/sinilangtang_jieyao_001.md",
+      "weight": 8,
+      "title": "四逆汤·回阳救逆",
+      "chapter": "温里剂·方解",
+      "conditions": {
+        "zhengxing": [
+          "心肾阳衰寒厥证"
+        ],
+        "zhifa": [
+          "回阳救逆"
+        ],
+        "bingzheng": [
+          "心肾阳衰寒厥证"
+        ],
+        "zhengzhuang": [
+          "四肢厥逆",
+          "恶寒蜷卧",
+          "神衰欲寐",
+          "面色苍白",
+          "腹痛下利",
+          "脉微欲绝"
+        ],
+        "fangming": [
+          "四逆汤"
+        ],
+        "yaoming": [
+          "附子",
+          "干姜",
+          "炙甘草"
+        ],
+        "xuewei": [],
+        "jingluo": [],
+        "siqi": [],
+        "wuwei": [],
+        "guijing": [],
+        "keywords": [
+          "四逆汤",
+          "方解",
+          "回阳救逆",
+          "附子干姜",
+          "四逆汤通脉四逆汤比较",
+          "温里剂"
+        ]
+      }
+    },
+    {
       "id": "sinisan_jieyao_001",
       "book": "方解（方论集要）",
       "type": "fangji",
@@ -22699,6 +23500,247 @@
           "柴胡枳实芍药甘草",
           "疏肝理脾",
           "和解剂"
+        ]
+      }
+    },
+    {
+      "id": "sishenwan_jieyao_001",
+      "book": "方解（方论集要）",
+      "type": "fangji",
+      "tier": 1,
+      "category": "fangji",
+      "subcategory": "jieyao",
+      "path": "library/fangji/jieyao/sishenwan/sishenwan_jieyao_001.md",
+      "weight": 8,
+      "title": "四神丸·温肾暖脾固肠止泻",
+      "chapter": "固涩剂·方解",
+      "conditions": {
+        "zhengxing": [
+          "脾肾阳虚"
+        ],
+        "zhifa": [
+          "温肾暖脾",
+          "固肠止泻"
+        ],
+        "bingzheng": [
+          "脾肾阳虚五更泄泻"
+        ],
+        "zhengzhuang": [
+          "五更泄泻",
+          "不思饮食",
+          "食不消化",
+          "或腹痛肢冷",
+          "神疲乏力",
+          "舌淡苔白"
+        ],
+        "fangming": [
+          "四神丸"
+        ],
+        "yaoming": [
+          "补骨脂",
+          "肉豆蔻",
+          "五味子",
+          "吴茱萸",
+          "生姜",
+          "大枣"
+        ],
+        "xuewei": [],
+        "jingluo": [],
+        "siqi": [],
+        "wuwei": [],
+        "guijing": [],
+        "keywords": [
+          "四神丸",
+          "方解",
+          "君药",
+          "臣药",
+          "佐药",
+          "使药",
+          "温肾暖脾",
+          "固肠止泻",
+          "五更泄泻",
+          "固涩剂"
+        ]
+      }
+    },
+    {
+      "id": "siwutang_jieyao_001",
+      "book": "方解（方论集要）",
+      "type": "fangji",
+      "tier": 1,
+      "category": "fangji",
+      "subcategory": "jieyao",
+      "path": "library/fangji/jieyao/siwutang/siwutang_jieyao_001.md",
+      "weight": 8,
+      "title": "四物汤·补血调血",
+      "chapter": "补益剂·方解",
+      "conditions": {
+        "zhengxing": [
+          "营血虚滞证"
+        ],
+        "zhifa": [
+          "补血调血"
+        ],
+        "bingzheng": [
+          "营血虚滞证"
+        ],
+        "zhengzhuang": [
+          "心悸失眠",
+          "头晕目眩",
+          "面色无华",
+          "妇人月经不调",
+          "量少或经闭不行",
+          "脐腹作痛",
+          "舌淡",
+          "脉细弦或涩"
+        ],
+        "fangming": [
+          "四物汤"
+        ],
+        "yaoming": [
+          "熟地黄",
+          "当归",
+          "白芍",
+          "川芎"
+        ],
+        "xuewei": [],
+        "jingluo": [],
+        "siqi": [],
+        "wuwei": [],
+        "guijing": [],
+        "keywords": [
+          "四物汤",
+          "方解",
+          "补血调血",
+          "补血基础方",
+          "四物四藤",
+          "妇科"
+        ]
+      }
+    },
+    {
+      "id": "suanzaorentang_jieyao_001",
+      "book": "方解（方论集要）",
+      "type": "fangji",
+      "tier": 1,
+      "category": "fangji",
+      "subcategory": "jieyao",
+      "path": "library/fangji/jieyao/suanzaoren/suanzaorentang_jieyao_001.md",
+      "weight": 8,
+      "title": "酸枣仁汤·养血安神清热除烦",
+      "chapter": "安神剂·方解",
+      "conditions": {
+        "zhengxing": [
+          "肝血不足虚热内扰"
+        ],
+        "zhifa": [
+          "养血安神",
+          "清热除烦"
+        ],
+        "bingzheng": [
+          "虚劳虚烦不眠证"
+        ],
+        "zhengzhuang": [
+          "虚烦不得眠",
+          "心悸盗汗",
+          "头目眩晕",
+          "咽干口燥",
+          "脉细弦"
+        ],
+        "fangming": [
+          "酸枣仁汤"
+        ],
+        "yaoming": [
+          "酸枣仁",
+          "甘草",
+          "知母",
+          "茯苓",
+          "川芎"
+        ],
+        "xuewei": [],
+        "jingluo": [],
+        "siqi": [],
+        "wuwei": [],
+        "guijing": [],
+        "keywords": [
+          "酸枣仁汤",
+          "方解",
+          "君药",
+          "臣药",
+          "佐药",
+          "使药",
+          "养血安神",
+          "清热除烦",
+          "虚烦不眠",
+          "安神剂"
+        ]
+      }
+    },
+    {
+      "id": "tianwangbuxindan_jieyao_001",
+      "book": "方解（方论集要）",
+      "type": "fangji",
+      "tier": 1,
+      "category": "fangji",
+      "subcategory": "jieyao",
+      "path": "library/fangji/jieyao/tianwangbuxin/tianwangbuxindan_jieyao_001.md",
+      "weight": 8,
+      "title": "天王补心丹·滋阴养血补心安神",
+      "chapter": "安神剂·方解",
+      "conditions": {
+        "zhengxing": [
+          "心阴不足"
+        ],
+        "zhifa": [
+          "滋阴养血",
+          "补心安神"
+        ],
+        "bingzheng": [
+          "心阴不足失眠心悸证"
+        ],
+        "zhengzhuang": [
+          "心悸怔忡",
+          "失眠多梦",
+          "健忘",
+          "大便干燥",
+          "口舌生疮",
+          "大便干结"
+        ],
+        "fangming": [
+          "天王补心丹"
+        ],
+        "yaoming": [
+          "生地黄",
+          "人参",
+          "丹参",
+          "玄参",
+          "茯苓",
+          "远志",
+          "桔梗",
+          "当归身",
+          "天冬",
+          "麦冬",
+          "柏子仁",
+          "酸枣仁",
+          "五味子",
+          "朱砂"
+        ],
+        "xuewei": [],
+        "jingluo": [],
+        "siqi": [],
+        "wuwei": [],
+        "guijing": [],
+        "keywords": [
+          "天王补心丹",
+          "方解",
+          "君药",
+          "臣药",
+          "佐药",
+          "使药",
+          "滋阴养血",
+          "补心安神",
+          "心阴不足",
+          "安神剂"
         ]
       }
     },
@@ -22814,6 +23856,65 @@
           "柴胡黄芩",
           "往来寒热",
           "和剂"
+        ]
+      }
+    },
+    {
+      "id": "xiaojianzhongtang_jieyao_001",
+      "book": "方解（方论集要）",
+      "type": "fangji",
+      "tier": 1,
+      "category": "fangji",
+      "subcategory": "jieyao",
+      "path": "library/fangji/jieyao/xiaojianzhong/xiaojianzhongtang_jieyao_001.md",
+      "weight": 8,
+      "title": "小建中汤·温中补虚和里缓急",
+      "chapter": "温里剂·方解",
+      "conditions": {
+        "zhengxing": [
+          "中焦虚寒",
+          "肝脾不和"
+        ],
+        "zhifa": [
+          "温中补虚",
+          "和里缓急"
+        ],
+        "bingzheng": [
+          "中焦虚寒",
+          "肝脾不和证"
+        ],
+        "zhengzhuang": [
+          "脘腹拘急疼痛",
+          "喜温喜按",
+          "神疲乏力",
+          "虚怯少气",
+          "心中悸动",
+          "面色无华",
+          "舌淡苔白"
+        ],
+        "fangming": [
+          "小建中汤"
+        ],
+        "yaoming": [
+          "芍药",
+          "桂枝",
+          "炙甘草",
+          "生姜",
+          "大枣",
+          "饴糖"
+        ],
+        "xuewei": [],
+        "jingluo": [],
+        "siqi": [],
+        "wuwei": [],
+        "guijing": [],
+        "keywords": [
+          "小建中汤",
+          "方解",
+          "温中补虚",
+          "饴糖芍药",
+          "桂枝汤倍芍药加饴糖",
+          "和里缓急"
         ]
       }
     },
@@ -22991,6 +24092,64 @@
       }
     },
     {
+      "id": "yiguanjian_jieyao_001",
+      "book": "方解（方论集要）",
+      "type": "fangji",
+      "tier": 1,
+      "category": "fangji",
+      "subcategory": "jieyao",
+      "path": "library/fangji/jieyao/yiguanjian/yiguanjian_jieyao_001.md",
+      "weight": 8,
+      "title": "一贯煎·滋阴疏肝",
+      "chapter": "补益剂·方解",
+      "conditions": {
+        "zhengxing": [
+          "肝肾阴虚肝气郁滞"
+        ],
+        "zhifa": [
+          "滋阴疏肝"
+        ],
+        "bingzheng": [
+          "肝肾阴虚肝气郁滞证"
+        ],
+        "zhengzhuang": [
+          "胸脘胁痛",
+          "吞酸吐苦",
+          "咽干口燥",
+          "舌红少津",
+          "脉细弱"
+        ],
+        "fangming": [
+          "一贯煎"
+        ],
+        "yaoming": [
+          "北沙参",
+          "麦冬",
+          "当归身",
+          "生地黄",
+          "枸杞子",
+          "川楝子"
+        ],
+        "xuewei": [],
+        "jingluo": [],
+        "siqi": [],
+        "wuwei": [],
+        "guijing": [],
+        "keywords": [
+          "一贯煎",
+          "方解",
+          "君药",
+          "臣药",
+          "佐药",
+          "使药",
+          "滋阴疏肝",
+          "肝肾阴虚",
+          "肝气郁滞",
+          "补益剂"
+        ]
+      }
+    },
+    {
       "id": "yinqiaosan_jieyao_001",
       "book": "方解（方论集要）",
       "type": "fangji",
@@ -23052,6 +24211,70 @@
       }
     },
     {
+      "id": "youguiwan_jieyao_001",
+      "book": "方解（方论集要）",
+      "type": "fangji",
+      "tier": 1,
+      "category": "fangji",
+      "subcategory": "jieyao",
+      "path": "library/fangji/jieyao/youguiwan/youguiwan_jieyao_001.md",
+      "weight": 8,
+      "title": "右归丸·温补肾阳填精益髓",
+      "chapter": "补益剂·方解",
+      "conditions": {
+        "zhengxing": [
+          "肾阳不足命门火衰"
+        ],
+        "zhifa": [
+          "温补肾阳",
+          "填精益髓"
+        ],
+        "bingzheng": [
+          "肾阳不足命门火衰证"
+        ],
+        "zhengzhuang": [
+          "气衰神疲",
+          "畏寒肢冷",
+          "腰膝软弱",
+          "阳痿遗精",
+          "阳衰无子",
+          "饮食减少"
+        ],
+        "fangming": [
+          "右归丸"
+        ],
+        "yaoming": [
+          "熟地黄",
+          "山药",
+          "山茱萸",
+          "枸杞子",
+          "菟丝子",
+          "鹿角胶",
+          "杜仲",
+          "当归",
+          "肉桂",
+          "制附子"
+        ],
+        "xuewei": [],
+        "jingluo": [],
+        "siqi": [],
+        "wuwei": [],
+        "guijing": [],
+        "keywords": [
+          "右归丸",
+          "方解",
+          "君药",
+          "臣药",
+          "佐药",
+          "使药",
+          "温补肾阳",
+          "填精益髓",
+          "命门火衰",
+          "补益剂"
+        ]
+      }
+    },
+    {
       "id": "yunvjian_jieyao_001",
       "book": "方解（方论集要）",
       "type": "fangji",
@@ -23106,6 +24329,119 @@
           "清胃滋肾",
           "胃热阴虚",
           "清热剂"
+        ]
+      }
+    },
+    {
+      "id": "yupingfengsan_jieyao_001",
+      "book": "方解（方论集要）",
+      "type": "fangji",
+      "tier": 1,
+      "category": "fangji",
+      "subcategory": "jieyao",
+      "path": "library/fangji/jieyao/yupingfeng/yupingfengsan_jieyao_001.md",
+      "weight": 8,
+      "title": "玉屏风散·益气固表止汗",
+      "chapter": "补益剂·方解",
+      "conditions": {
+        "zhengxing": [
+          "表虚自汗证"
+        ],
+        "zhifa": [
+          "益气固表止汗"
+        ],
+        "bingzheng": [
+          "表虚自汗证"
+        ],
+        "zhengzhuang": [
+          "汗出恶风",
+          "面色㿠白",
+          "舌淡苔薄白",
+          "脉浮虚",
+          "易感风邪"
+        ],
+        "fangming": [
+          "玉屏风散"
+        ],
+        "yaoming": [
+          "防风",
+          "黄芪",
+          "白术"
+        ],
+        "xuewei": [],
+        "jingluo": [],
+        "siqi": [],
+        "wuwei": [],
+        "guijing": [],
+        "keywords": [
+          "玉屏风散",
+          "方解",
+          "益气固表",
+          "芪术防",
+          "表虚自汗",
+          "实表犹屏"
+        ]
+      }
+    },
+    {
+      "id": "zuoguiwan_jieyao_001",
+      "book": "方解（方论集要）",
+      "type": "fangji",
+      "tier": 1,
+      "category": "fangji",
+      "subcategory": "jieyao",
+      "path": "library/fangji/jieyao/zuoguiwan/zuoguiwan_jieyao_001.md",
+      "weight": 8,
+      "title": "左归丸·滋阴补肾填精益髓",
+      "chapter": "补益剂·方解",
+      "conditions": {
+        "zhengxing": [
+          "真阴不足"
+        ],
+        "zhifa": [
+          "滋阴补肾",
+          "填精益髓"
+        ],
+        "bingzheng": [
+          "真阴不足证"
+        ],
+        "zhengzhuang": [
+          "头晕目眩",
+          "腰酸腿软",
+          "遗精滑泄",
+          "自汗盗汗",
+          "口燥舌干",
+          "舌红少苔"
+        ],
+        "fangming": [
+          "左归丸"
+        ],
+        "yaoming": [
+          "熟地黄",
+          "山药",
+          "山茱萸",
+          "枸杞子",
+          "川牛膝",
+          "菟丝子",
+          "鹿角胶",
+          "龟板胶"
+        ],
+        "xuewei": [],
+        "jingluo": [],
+        "siqi": [],
+        "wuwei": [],
+        "guijing": [],
+        "keywords": [
+          "左归丸",
+          "方解",
+          "君药",
+          "臣药",
+          "佐药",
+          "使药",
+          "滋阴补肾",
+          "填精益髓",
+          "真阴不足",
+          "补益剂"
         ]
       }
     },

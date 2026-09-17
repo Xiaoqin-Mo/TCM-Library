@@ -1,6 +1,6 @@
 # fangji · 方剂学
 
-> 收录 113 条 · 下级 2 个子类
+> 收录 130 条 · 下级 2 个子类
 
 ## jingfang · 经方
 
@@ -59,26 +59,35 @@
 | fangji/shifang/baidusasan | 1 | [索引](./fangji/shifang/baidusasan/INDEX.md) |
 | fangji/shifang/baihegujin | 1 | [索引](./fangji/shifang/baihegujin/INDEX.md) |
 | fangji/shifang/banxiahoupo | 1 | [索引](./fangji/shifang/banxiahoupo/INDEX.md) |
+| fangji/shifang/buyanghuanwu | 1 | [索引](./fangji/shifang/buyanghuanwu/INDEX.md) |
 | fangji/shifang/buzhongyiqi | 1 | [索引](./fangji/shifang/buzhongyiqi/INDEX.md) |
 | fangji/shifang/chaigejieji | 1 | [索引](./fangji/shifang/chaigejieji/INDEX.md) |
+| fangji/shifang/chuanxiongchatiao | 1 | [索引](./fangji/shifang/chuanxiongchatiao/INDEX.md) |
+| fangji/shifang/dadingfengzhu | 1 | [索引](./fangji/shifang/dadingfengzhu/INDEX.md) |
 | fangji/shifang/dangguibuxue | 1 | [索引](./fangji/shifang/dangguibuxue/INDEX.md) |
 | fangji/shifang/daochisan | 1 | [索引](./fangji/shifang/daochisan/INDEX.md) |
+| fangji/shifang/daqinjiao | 1 | [索引](./fangji/shifang/daqinjiao/INDEX.md) |
 | fangji/shifang/dihuangyinzi | 1 | [索引](./fangji/shifang/dihuangyinzi/INDEX.md) |
 | fangji/shifang/dingchuantang | 1 | [索引](./fangji/shifang/dingchuantang/INDEX.md) |
+| fangji/shifang/fuyuanhuoxue | 1 | [索引](./fangji/shifang/fuyuanhuoxue/INDEX.md) |
 | fangji/shifang/ganmaidazao | 1 | [索引](./fangji/shifang/ganmaidazao/INDEX.md) |
 | fangji/shifang/gualouxiebai | 1 | [索引](./fangji/shifang/gualouxiebai/INDEX.md) |
 | fangji/shifang/guchongtang | 1 | [索引](./fangji/shifang/guchongtang/INDEX.md) |
 | fangji/shifang/guipitang | 1 | [索引](./fangji/shifang/guipitang/INDEX.md) |
 | fangji/shifang/haoqinqingdan | 1 | [索引](./fangji/shifang/haoqinqingdan/INDEX.md) |
+| fangji/shifang/huaihuasan | 1 | [索引](./fangji/shifang/huaihuasan/INDEX.md) |
 | fangji/shifang/huanglianjiedu | 1 | [索引](./fangji/shifang/huanglianjiedu/INDEX.md) |
 | fangji/shifang/huanglongtang | 1 | [索引](./fangji/shifang/huanglongtang/INDEX.md) |
 | fangji/shifang/huangqiguizhiwuwu | 1 | [索引](./fangji/shifang/huangqiguizhiwuwu/INDEX.md) |
+| fangji/shifang/huangtotang | 1 | [索引](./fangji/shifang/huangtotang/INDEX.md) |
 | fangji/shifang/huiyangjiji | 1 | [索引](./fangji/shifang/huiyangjiji/INDEX.md) |
 | fangji/shifang/jiajianweirui | 1 | [索引](./fangji/shifang/jiajianweirui/INDEX.md) |
 | fangji/shifang/jichuanjian | 1 | [索引](./fangji/shifang/jichuanjian/INDEX.md) |
 | fangji/shifang/jiuweiqianghuo | 1 | [索引](./fangji/shifang/jiuweiqianghuo/INDEX.md) |
 | fangji/shifang/jiuxiansan | 1 | [索引](./fangji/shifang/jiuxiansan/INDEX.md) |
+| fangji/shifang/kexuefang | 1 | [索引](./fangji/shifang/kexuefang/INDEX.md) |
 | fangji/shifang/lianggesan | 1 | [索引](./fangji/shifang/lianggesan/INDEX.md) |
+| fangji/shifang/lingjiaogouteng | 1 | [索引](./fangji/shifang/lingjiaogouteng/INDEX.md) |
 | fangji/shifang/liuweidihuang | 1 | [索引](./fangji/shifang/liuweidihuang/INDEX.md) |
 | fangji/shifang/longdanxiegan | 1 | [索引](./fangji/shifang/longdanxiegan/INDEX.md) |
 | fangji/shifang/mazirenwan | 1 | [索引](./fangji/shifang/mazirenwan/INDEX.md) |
@@ -91,22 +100,29 @@
 | fangji/shifang/sangjuyin | 1 | [索引](./fangji/shifang/sangjuyin/INDEX.md) |
 | fangji/shifang/sangpiaoxiaosan | 1 | [索引](./fangji/shifang/sangpiaoxiaosan/INDEX.md) |
 | fangji/shifang/shaoyaotang | 1 | [索引](./fangji/shifang/shaoyaotang/INDEX.md) |
+| fangji/shifang/shenghuatang | 1 | [索引](./fangji/shifang/shenghuatang/INDEX.md) |
 | fangji/shifang/shengmaisun | 1 | [索引](./fangji/shifang/shengmaisun/INDEX.md) |
 | fangji/shifang/shenlingbaizhu | 1 | [索引](./fangji/shifang/shenlingbaizhu/INDEX.md) |
+| fangji/shifang/shihuisan | 1 | [索引](./fangji/shifang/shihuisan/INDEX.md) |
+| fangji/shifang/shixiaosan | 1 | [索引](./fangji/shifang/shixiaosan/INDEX.md) |
 | fangji/shifang/sijunzi | 1 | [索引](./fangji/shifang/sijunzi/INDEX.md) |
 | fangji/shifang/sishenwan | 1 | [索引](./fangji/shifang/sishenwan/INDEX.md) |
 | fangji/shifang/siwutang | 1 | [索引](./fangji/shifang/siwutang/INDEX.md) |
 | fangji/shifang/suhexiang | 1 | [索引](./fangji/shifang/suhexiang/INDEX.md) |
 | fangji/shifang/suzijiangqi | 1 | [索引](./fangji/shifang/suzijiangqi/INDEX.md) |
+| fangji/shifang/tianmagouteng | 1 | [索引](./fangji/shifang/tianmagouteng/INDEX.md) |
 | fangji/shifang/tiantaiwuyao | 1 | [索引](./fangji/shifang/tiantaiwuyao/INDEX.md) |
 | fangji/shifang/tianwangbuxin | 1 | [索引](./fangji/shifang/tianwangbuxin/INDEX.md) |
 | fangji/shifang/tongxieyaofang | 1 | [索引](./fangji/shifang/tongxieyaofang/INDEX.md) |
 | fangji/shifang/wenpitang | 1 | [索引](./fangji/shifang/wenpitang/INDEX.md) |
 | fangji/shifang/xianfanghuoming | 1 | [索引](./fangji/shifang/xianfanghuoming/INDEX.md) |
 | fangji/shifang/xiangru | 1 | [索引](./fangji/shifang/xiangru/INDEX.md) |
+| fangji/shifang/xiaofengsan | 1 | [索引](./fangji/shifang/xiaofengsan/INDEX.md) |
+| fangji/shifang/xiaojiyinzi | 1 | [索引](./fangji/shifang/xiaojiyinzi/INDEX.md) |
 | fangji/shifang/xiaoyaosan | 1 | [索引](./fangji/shifang/xiaoyaosan/INDEX.md) |
 | fangji/shifang/xiebaisan | 1 | [索引](./fangji/shifang/xiebaisan/INDEX.md) |
 | fangji/shifang/xijiaodihuang | 1 | [索引](./fangji/shifang/xijiaodihuang/INDEX.md) |
+| fangji/shifang/xuefuzhuyu | 1 | [索引](./fangji/shifang/xuefuzhuyu/INDEX.md) |
 | fangji/shifang/yiguanjian | 1 | [索引](./fangji/shifang/yiguanjian/INDEX.md) |
 | fangji/shifang/yinqiaosan | 1 | [索引](./fangji/shifang/yinqiaosan/INDEX.md) |
 | fangji/shifang/youguiwan | 1 | [索引](./fangji/shifang/youguiwan/INDEX.md) |
@@ -114,6 +130,7 @@
 | fangji/shifang/yunvjian | 1 | [索引](./fangji/shifang/yunvjian/INDEX.md) |
 | fangji/shifang/yupingfeng | 1 | [索引](./fangji/shifang/yupingfeng/INDEX.md) |
 | fangji/shifang/zaizao | 1 | [索引](./fangji/shifang/zaizao/INDEX.md) |
+| fangji/shifang/zhenganxifeng | 1 | [索引](./fangji/shifang/zhenganxifeng/INDEX.md) |
 | fangji/shifang/zhenrenyangzang | 1 | [索引](./fangji/shifang/zhenrenyangzang/INDEX.md) |
 | fangji/shifang/zhibaidihuang | 1 | [索引](./fangji/shifang/zhibaidihuang/INDEX.md) |
 | fangji/shifang/zhidaodan | 1 | [索引](./fangji/shifang/zhidaodan/INDEX.md) |

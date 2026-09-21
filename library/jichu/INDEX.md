@@ -1,6 +1,6 @@
 # jichu · 中医基础理论
 
-> 收录 54 条 · 下级 3 个子类
+> 收录 69 条 · 下级 4 个子类
 
 ## jingluo · 经络
 
@@ -18,6 +18,26 @@
 | jichu/jingluo/shierjingmai | 1 | [索引](./jichu/jingluo/shierjingmai/INDEX.md) |
 | jichu/jingluo/shierpibu | 1 | [索引](./jichu/jingluo/shierpibu/INDEX.md) |
 | jichu/jingluo/shiwuluomai | 1 | [索引](./jichu/jingluo/shiwuluomai/INDEX.md) |
+
+## qixuejinye · 气血津液
+
+| 书目 | 条目数 | 索引 |
+| --- | --- | --- |
+| jichu/qixuejinye/jing | 1 | [索引](./jichu/qixuejinye/jing/INDEX.md) |
+| jichu/qixuejinye/jinye | 1 | [索引](./jichu/qixuejinye/jinye/INDEX.md) |
+| jichu/qixuejinye/jinyedaixie | 1 | [索引](./jichu/qixuejinye/jinyedaixie/INDEX.md) |
+| jichu/qixuejinye/qi | 1 | [索引](./jichu/qixuejinye/qi/INDEX.md) |
+| jichu/qixuejinye/qihua | 1 | [索引](./jichu/qixuejinye/qihua/INDEX.md) |
+| jichu/qixuejinye/qiji | 1 | [索引](./jichu/qixuejinye/qiji/INDEX.md) |
+| jichu/qixuejinye/qixueguanxi | 1 | [索引](./jichu/qixuejinye/qixueguanxi/INDEX.md) |
+| jichu/qixuejinye/weiqi | 1 | [索引](./jichu/qixuejinye/weiqi/INDEX.md) |
+| jichu/qixuejinye/xue | 1 | [索引](./jichu/qixuejinye/xue/INDEX.md) |
+| jichu/qixuejinye/xueshengcheng | 1 | [索引](./jichu/qixuejinye/xueshengcheng/INDEX.md) |
+| jichu/qixuejinye/xueyunxing | 1 | [索引](./jichu/qixuejinye/xueyunxing/INDEX.md) |
+| jichu/qixuejinye/yingqi | 1 | [索引](./jichu/qixuejinye/yingqi/INDEX.md) |
+| jichu/qixuejinye/yuanqi | 1 | [索引](./jichu/qixuejinye/yuanqi/INDEX.md) |
+| jichu/qixuejinye/zhongqi | 1 | [索引](./jichu/qixuejinye/zhongqi/INDEX.md) |
+| jichu/qixuejinye/zongqi | 1 | [索引](./jichu/qixuejinye/zongqi/INDEX.md) |
 
 ## yinyangwuxing · 阴阳五行
 

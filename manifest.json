@@ -7226,6 +7226,14 @@
       "count": 1
     },
     {
+      "dir": "zhenduan/bianzheng/bingyinbianzheng",
+      "tier": 1,
+      "tier_name": "核心",
+      "category": "zhenduan",
+      "subcategory": "bianzheng",
+      "count": 1
+    },
+    {
       "dir": "zhenduan/bianzheng/feihan_feire",
       "tier": 1,
       "tier_name": "核心",
@@ -7290,7 +7298,31 @@
       "count": 1
     },
     {
+      "dir": "zhenduan/bianzheng/jingluobianzheng",
+      "tier": 1,
+      "tier_name": "核心",
+      "category": "zhenduan",
+      "subcategory": "bianzheng",
+      "count": 1
+    },
+    {
       "dir": "zhenduan/bianzheng/jinye_bing",
+      "tier": 1,
+      "tier_name": "核心",
+      "category": "zhenduan",
+      "subcategory": "bianzheng",
+      "count": 1
+    },
+    {
+      "dir": "zhenduan/bianzheng/jueyinjingzheng",
+      "tier": 1,
+      "tier_name": "核心",
+      "category": "zhenduan",
+      "subcategory": "bianzheng",
+      "count": 1
+    },
+    {
+      "dir": "zhenduan/bianzheng/laoshangbianzheng",
       "tier": 1,
       "tier_name": "核心",
       "category": "zhenduan",
@@ -7322,6 +7354,22 @@
       "count": 1
     },
     {
+      "dir": "zhenduan/bianzheng/qifenzheng",
+      "tier": 1,
+      "tier_name": "核心",
+      "category": "zhenduan",
+      "subcategory": "bianzheng",
+      "count": 1
+    },
+    {
+      "dir": "zhenduan/bianzheng/qiqingneishang2",
+      "tier": 1,
+      "tier_name": "核心",
+      "category": "zhenduan",
+      "subcategory": "bianzheng",
+      "count": 1
+    },
+    {
       "dir": "zhenduan/bianzheng/qixu_qixian",
       "tier": 1,
       "tier_name": "核心",
@@ -7339,6 +7387,22 @@
     },
     {
       "dir": "zhenduan/bianzheng/sanjiao",
+      "tier": 1,
+      "tier_name": "核心",
+      "category": "zhenduan",
+      "subcategory": "bianzheng",
+      "count": 2
+    },
+    {
+      "dir": "zhenduan/bianzheng/shaoyangjingzheng",
+      "tier": 1,
+      "tier_name": "核心",
+      "category": "zhenduan",
+      "subcategory": "bianzheng",
+      "count": 1
+    },
+    {
+      "dir": "zhenduan/bianzheng/shaoyinjingzheng",
       "tier": 1,
       "tier_name": "核心",
       "category": "zhenduan",
@@ -7370,7 +7434,39 @@
       "count": 1
     },
     {
+      "dir": "zhenduan/bianzheng/taiyangjingzheng",
+      "tier": 1,
+      "tier_name": "核心",
+      "category": "zhenduan",
+      "subcategory": "bianzheng",
+      "count": 1
+    },
+    {
+      "dir": "zhenduan/bianzheng/taiyinjingzheng",
+      "tier": 1,
+      "tier_name": "核心",
+      "category": "zhenduan",
+      "subcategory": "bianzheng",
+      "count": 1
+    },
+    {
+      "dir": "zhenduan/bianzheng/tanyinbianzheng",
+      "tier": 1,
+      "tier_name": "核心",
+      "category": "zhenduan",
+      "subcategory": "bianzheng",
+      "count": 1
+    },
+    {
       "dir": "zhenduan/bianzheng/weibing",
+      "tier": 1,
+      "tier_name": "核心",
+      "category": "zhenduan",
+      "subcategory": "bianzheng",
+      "count": 1
+    },
+    {
+      "dir": "zhenduan/bianzheng/weifenzheng",
       "tier": 1,
       "tier_name": "核心",
       "category": "zhenduan",
@@ -7410,6 +7506,14 @@
       "count": 1
     },
     {
+      "dir": "zhenduan/bianzheng/xuefenzheng",
+      "tier": 1,
+      "tier_name": "核心",
+      "category": "zhenduan",
+      "subcategory": "bianzheng",
+      "count": 1
+    },
+    {
       "dir": "zhenduan/bianzheng/xuezheng",
       "tier": 1,
       "tier_name": "核心",
@@ -7426,7 +7530,47 @@
       "count": 1
     },
     {
+      "dir": "zhenduan/bianzheng/yangmingjingzheng",
+      "tier": 1,
+      "tier_name": "核心",
+      "category": "zhenduan",
+      "subcategory": "bianzheng",
+      "count": 1
+    },
+    {
+      "dir": "zhenduan/bianzheng/yingfenzheng",
+      "tier": 1,
+      "tier_name": "核心",
+      "category": "zhenduan",
+      "subcategory": "bianzheng",
+      "count": 1
+    },
+    {
+      "dir": "zhenduan/bianzheng/yingqixue",
+      "tier": 1,
+      "tier_name": "核心",
+      "category": "zhenduan",
+      "subcategory": "bianzheng",
+      "count": 1
+    },
+    {
       "dir": "zhenduan/bianzheng/yinyang",
+      "tier": 1,
+      "tier_name": "核心",
+      "category": "zhenduan",
+      "subcategory": "bianzheng",
+      "count": 1
+    },
+    {
+      "dir": "zhenduan/bianzheng/yuxuebianzheng",
+      "tier": 1,
+      "tier_name": "核心",
+      "category": "zhenduan",
+      "subcategory": "bianzheng",
+      "count": 1
+    },
+    {
+      "dir": "zhenduan/bianzheng/zangfubianzheng",
       "tier": 1,
       "tier_name": "核心",
       "category": "zhenduan",
@@ -16458,7 +16602,7 @@
       "count": 1
     }
   ],
-  "total": 3066,
+  "total": 3085,
   "entries": [
     {
       "id": "angongniuhuangwan_002",
@@ -100171,6 +100315,50 @@
       }
     },
     {
+      "id": "bingyinbianzheng_001",
+      "book": "《中医诊断学》规划教材（要点归纳）",
+      "type": "zhinan",
+      "tier": 1,
+      "category": "zhenduan",
+      "subcategory": "bianzheng",
+      "path": "library/zhenduan/bianzheng/bingyinbianzheng/bingyinbianzheng_001.md",
+      "weight": 8,
+      "title": "病因辨证总论",
+      "chapter": "辨证",
+      "conditions": {
+        "zhengxing": [
+          "六淫",
+          "七情",
+          "痰饮",
+          "瘀血",
+          "劳伤"
+        ],
+        "zhifa": [],
+        "bingzheng": [
+          "病因辨证"
+        ],
+        "zhengzhuang": [
+          "病因史",
+          "六淫证候",
+          "七情证候"
+        ],
+        "fangming": [],
+        "yaoming": [],
+        "xuewei": [],
+        "jingluo": [],
+        "siqi": [],
+        "wuwei": [],
+        "guijing": [],
+        "keywords": [
+          "病因辨证",
+          "辨证",
+          "中医诊断",
+          "六淫",
+          "七情"
+        ]
+      }
+    },
+    {
       "id": "feihan_feire_001",
       "book": "中医诊断学",
       "type": "zhinan",
@@ -100587,6 +100775,54 @@
       }
     },
     {
+      "id": "jingluobianzheng_001",
+      "book": "《中医诊断学》规划教材（要点归纳）",
+      "type": "zhinan",
+      "tier": 1,
+      "category": "zhenduan",
+      "subcategory": "bianzheng",
+      "path": "library/zhenduan/bianzheng/jingluobianzheng/jingluobianzheng_001.md",
+      "weight": 8,
+      "title": "经络辨证总论·按经络循行部位辨病经",
+      "chapter": "辨证",
+      "conditions": {
+        "zhengxing": [
+          "经络病证"
+        ],
+        "zhifa": [
+          "循经取穴",
+          "调理经络"
+        ],
+        "bingzheng": [
+          "经络辨证"
+        ],
+        "zhengzhuang": [
+          "循经疼痛",
+          "麻木",
+          "拘急",
+          "循经部位证候"
+        ],
+        "fangming": [],
+        "yaoming": [],
+        "xuewei": [],
+        "jingluo": [
+          "十二经脉",
+          "奇经八脉"
+        ],
+        "siqi": [],
+        "wuwei": [],
+        "guijing": [],
+        "keywords": [
+          "经络辨证",
+          "辨证",
+          "中医诊断",
+          "循经",
+          "病经",
+          "十二经脉"
+        ]
+      }
+    },
+    {
       "id": "jinye_bing_001",
       "book": "中医诊断学",
       "type": "zhinan",
@@ -100641,6 +100877,110 @@
           "液耗",
           "痰饮",
           "水肿"
+        ]
+      }
+    },
+    {
+      "id": "jueyinjingzheng_001",
+      "book": "《中医诊断学》规划教材（要点归纳）",
+      "type": "zhinan",
+      "tier": 1,
+      "category": "zhenduan",
+      "subcategory": "bianzheng",
+      "path": "library/zhenduan/bianzheng/jueyinjingzheng/jueyinjingzheng_001.md",
+      "weight": 8,
+      "title": "厥阴经证·寒热错杂消渴气上撞心",
+      "chapter": "辨证",
+      "conditions": {
+        "zhengxing": [
+          "厥阴病",
+          "上热下寒"
+        ],
+        "zhifa": [
+          "清上温下",
+          "和胃降逆"
+        ],
+        "bingzheng": [
+          "厥阴经证"
+        ],
+        "zhengzhuang": [
+          "消渴",
+          "气上撞心",
+          "心中疼热",
+          "饥而不欲食",
+          "四肢厥冷"
+        ],
+        "fangming": [
+          "乌梅丸"
+        ],
+        "yaoming": [
+          "乌梅",
+          "黄连",
+          "黄柏",
+          "附子",
+          "干姜",
+          "当归"
+        ],
+        "xuewei": [],
+        "jingluo": [
+          "足厥阴肝经"
+        ],
+        "siqi": [],
+        "wuwei": [],
+        "guijing": [],
+        "keywords": [
+          "厥阴经证",
+          "六经辨证",
+          "中医诊断",
+          "寒热错杂",
+          "上热下寒",
+          "乌梅丸"
+        ]
+      }
+    },
+    {
+      "id": "laoshangbianzheng_001",
+      "book": "《中医诊断学》规划教材（要点归纳）",
+      "type": "zhinan",
+      "tier": 1,
+      "category": "zhenduan",
+      "subcategory": "bianzheng",
+      "path": "library/zhenduan/bianzheng/laoshangbianzheng/laoshangbianzheng_001.md",
+      "weight": 8,
+      "title": "劳伤辨证·劳力劳神房劳过度所致证候",
+      "chapter": "辨证",
+      "conditions": {
+        "zhengxing": [
+          "劳力过度",
+          "劳神过度",
+          "房劳过度"
+        ],
+        "zhifa": [],
+        "bingzheng": [
+          "劳伤证候"
+        ],
+        "zhengzhuang": [
+          "神疲乏力",
+          "气喘汗出",
+          "心悸失眠",
+          "腰膝酸软",
+          "遗精早泄",
+          "月经不调"
+        ],
+        "fangming": [],
+        "yaoming": [],
+        "xuewei": [],
+        "jingluo": [],
+        "siqi": [],
+        "wuwei": [],
+        "guijing": [],
+        "keywords": [
+          "劳伤辨证",
+          "劳力",
+          "劳神",
+          "房劳",
+          "中医诊断",
+          "辨证"
         ]
       }
     },
@@ -100804,6 +101144,103 @@
       }
     },
     {
+      "id": "qifenzheng_002",
+      "book": "《中医诊断学》规划教材（要点归纳）",
+      "type": "zhinan",
+      "tier": 1,
+      "category": "zhenduan",
+      "subcategory": "bianzheng",
+      "path": "library/zhenduan/bianzheng/qifenzheng/qifenzheng_002.md",
+      "weight": 8,
+      "title": "气分证·热盛气分壮热不恶寒",
+      "chapter": "辨证",
+      "conditions": {
+        "zhengxing": [
+          "气分证"
+        ],
+        "zhifa": [
+          "清热生津"
+        ],
+        "bingzheng": [
+          "气分证"
+        ],
+        "zhengzhuang": [
+          "壮热",
+          "不恶寒",
+          "反恶热",
+          "汗多",
+          "渴喜冷饮",
+          "舌红苔黄"
+        ],
+        "fangming": [
+          "白虎汤"
+        ],
+        "yaoming": [
+          "石膏",
+          "知母",
+          "甘草",
+          "粳米"
+        ],
+        "xuewei": [],
+        "jingluo": [],
+        "siqi": [
+          "热"
+        ],
+        "wuwei": [],
+        "guijing": [],
+        "keywords": [
+          "气分证",
+          "卫气营血辨证",
+          "中医诊断",
+          "热盛气分",
+          "壮热",
+          "白虎汤"
+        ]
+      }
+    },
+    {
+      "id": "qiqingneishang2_001",
+      "book": "《中医诊断学》规划教材（要点归纳）",
+      "type": "zhinan",
+      "tier": 1,
+      "category": "zhenduan",
+      "subcategory": "bianzheng",
+      "path": "library/zhenduan/bianzheng/qiqingneishang2/qiqingneishang2_001.md",
+      "weight": 8,
+      "title": "七情内伤辨证·喜怒忧思悲恐惊致脏腑气机紊乱",
+      "chapter": "辨证",
+      "conditions": {
+        "zhengxing": [
+          "七情内伤"
+        ],
+        "zhifa": [],
+        "bingzheng": [
+          "七情内伤证候"
+        ],
+        "zhengzhuang": [
+          "情绪异常",
+          "胸胁胀满",
+          "叹息",
+          "心悸失眠",
+          "纳呆",
+          "月经不调"
+        ],
+        "fangming": [],
+        "yaoming": [],
+        "xuewei": [],
+        "jingluo": [],
+        "siqi": [],
+        "wuwei": [],
+        "guijing": [],
+        "keywords": [
+          "七情内伤",
+          "情志辨证",
+          "中医诊断",
+          "辨证"
+        ]
+      }
+    },
+    {
       "id": "qixu_qixian_001",
       "book": "中医诊断学",
       "type": "zhinan",
@@ -100952,6 +101389,178 @@
           "三焦辨证",
           "温病条辨",
           "吴鞠通"
+        ]
+      }
+    },
+    {
+      "id": "sanjiao_003",
+      "book": "《中医诊断学》规划教材（要点归纳）",
+      "type": "zhinan",
+      "tier": 1,
+      "category": "zhenduan",
+      "subcategory": "bianzheng",
+      "path": "library/zhenduan/bianzheng/sanjiao/sanjiao_003.md",
+      "weight": 8,
+      "title": "三焦辨证分证·上中下焦温病证候区分",
+      "chapter": "辨证",
+      "conditions": {
+        "zhengxing": [
+          "上焦病证",
+          "中焦病证",
+          "下焦病证"
+        ],
+        "zhifa": [
+          "宣肺解表",
+          "清热通腑",
+          "滋养肝肾"
+        ],
+        "bingzheng": [
+          "三焦辨证"
+        ],
+        "zhengzhuang": [
+          "发热咳嗽",
+          "腹满便秘",
+          "手足蠕动",
+          "舌干绛"
+        ],
+        "fangming": [
+          "桑菊饮",
+          "承气汤",
+          "三甲复脉汤"
+        ],
+        "yaoming": [],
+        "xuewei": [],
+        "jingluo": [],
+        "siqi": [
+          "温",
+          "热"
+        ],
+        "wuwei": [],
+        "guijing": [],
+        "keywords": [
+          "三焦辨证",
+          "辨证",
+          "中医诊断",
+          "温病",
+          "上焦",
+          "中焦",
+          "下焦"
+        ]
+      }
+    },
+    {
+      "id": "shaoyangjingzheng_001",
+      "book": "《中医诊断学》规划教材（要点归纳）",
+      "type": "zhinan",
+      "tier": 1,
+      "category": "zhenduan",
+      "subcategory": "bianzheng",
+      "path": "library/zhenduan/bianzheng/shaoyangjingzheng/shaoyangjingzheng_001.md",
+      "weight": 8,
+      "title": "少阳经证·半表半里寒热往来",
+      "chapter": "辨证",
+      "conditions": {
+        "zhengxing": [
+          "少阳病"
+        ],
+        "zhifa": [
+          "和解少阳"
+        ],
+        "bingzheng": [
+          "少阳经证"
+        ],
+        "zhengzhuang": [
+          "寒热往来",
+          "胸胁苦满",
+          "口苦咽干",
+          "目眩",
+          "不欲饮食"
+        ],
+        "fangming": [
+          "小柴胡汤"
+        ],
+        "yaoming": [
+          "柴胡",
+          "黄芩",
+          "半夏",
+          "人参",
+          "甘草"
+        ],
+        "xuewei": [],
+        "jingluo": [
+          "足少阳胆经",
+          "手少阳三焦经"
+        ],
+        "siqi": [],
+        "wuwei": [],
+        "guijing": [],
+        "keywords": [
+          "少阳经证",
+          "六经辨证",
+          "中医诊断",
+          "半表半里",
+          "寒热往来",
+          "小柴胡汤"
+        ]
+      }
+    },
+    {
+      "id": "shaoyinjingzheng_001",
+      "book": "《中医诊断学》规划教材（要点归纳）",
+      "type": "zhinan",
+      "tier": 1,
+      "category": "zhenduan",
+      "subcategory": "bianzheng",
+      "path": "library/zhenduan/bianzheng/shaoyinjingzheng/shaoyinjingzheng_001.md",
+      "weight": 8,
+      "title": "少阴经证·心肾虚寒或阴虚火旺",
+      "chapter": "辨证",
+      "conditions": {
+        "zhengxing": [
+          "少阴寒化",
+          "少阴热化"
+        ],
+        "zhifa": [
+          "回阳救逆",
+          "滋阴降火"
+        ],
+        "bingzheng": [
+          "少阴经证"
+        ],
+        "zhengzhuang": [
+          "无热恶寒",
+          "但欲寐",
+          "四肢厥冷",
+          "下利清谷",
+          "或心烦不得卧"
+        ],
+        "fangming": [
+          "四逆汤",
+          "黄连阿胶汤"
+        ],
+        "yaoming": [
+          "附子",
+          "干姜",
+          "人参",
+          "黄连",
+          "黄芩",
+          "阿胶"
+        ],
+        "xuewei": [],
+        "jingluo": [
+          "足少阴肾经",
+          "手少阴心经"
+        ],
+        "siqi": [],
+        "wuwei": [],
+        "guijing": [],
+        "keywords": [
+          "少阴经证",
+          "六经辨证",
+          "中医诊断",
+          "心肾虚寒",
+          "阴虚火旺",
+          "四逆汤"
         ]
       }
     },
@@ -101113,6 +101722,148 @@
       }
     },
     {
+      "id": "taiyangjingzheng_001",
+      "book": "《中医诊断学》规划教材（要点归纳）",
+      "type": "zhinan",
+      "tier": 1,
+      "category": "zhenduan",
+      "subcategory": "bianzheng",
+      "path": "library/zhenduan/bianzheng/taiyangjingzheng/taiyangjingzheng_001.md",
+      "weight": 8,
+      "title": "太阳经证·六经辨证·太阳病表证",
+      "chapter": "辨证",
+      "conditions": {
+        "zhengxing": [
+          "太阳表虚",
+          "太阳表实"
+        ],
+        "zhifa": [],
+        "bingzheng": [
+          "太阳经证"
+        ],
+        "zhengzhuang": [
+          "恶寒",
+          "发热",
+          "头项强痛",
+          "脉浮",
+          "自汗或无汗"
+        ],
+        "fangming": [],
+        "yaoming": [],
+        "xuewei": [],
+        "jingluo": [],
+        "siqi": [],
+        "wuwei": [],
+        "guijing": [],
+        "keywords": [
+          "太阳经证",
+          "六经辨证",
+          "太阳中风",
+          "太阳伤寒",
+          "中医诊断",
+          "辨证"
+        ]
+      }
+    },
+    {
+      "id": "taiyinjingzheng_001",
+      "book": "《中医诊断学》规划教材（要点归纳）",
+      "type": "zhinan",
+      "tier": 1,
+      "category": "zhenduan",
+      "subcategory": "bianzheng",
+      "path": "library/zhenduan/bianzheng/taiyinjingzheng/taiyinjingzheng_001.md",
+      "weight": 8,
+      "title": "太阴经证·里虚寒腹满而吐",
+      "chapter": "辨证",
+      "conditions": {
+        "zhengxing": [
+          "太阴病"
+        ],
+        "zhifa": [
+          "温中散寒健脾"
+        ],
+        "bingzheng": [
+          "太阴经证"
+        ],
+        "zhengzhuang": [
+          "腹满而吐",
+          "食不下",
+          "自利",
+          "时腹自痛",
+          "口不渴"
+        ],
+        "fangming": [
+          "理中汤"
+        ],
+        "yaoming": [
+          "人参",
+          "干姜",
+          "白术",
+          "甘草"
+        ],
+        "xuewei": [],
+        "jingluo": [
+          "足太阴脾经"
+        ],
+        "siqi": [],
+        "wuwei": [],
+        "guijing": [],
+        "keywords": [
+          "太阴经证",
+          "六经辨证",
+          "中医诊断",
+          "里虚寒",
+          "理中汤",
+          "腹满而吐"
+        ]
+      }
+    },
+    {
+      "id": "tanyinbianzheng_001",
+      "book": "《中医诊断学》规划教材（要点归纳）",
+      "type": "zhinan",
+      "tier": 1,
+      "category": "zhenduan",
+      "subcategory": "bianzheng",
+      "path": "library/zhenduan/bianzheng/tanyinbianzheng/tanyinbianzheng_001.md",
+      "weight": 8,
+      "title": "痰饮辨证·痰饮停留不同部位证候各异",
+      "chapter": "辨证",
+      "conditions": {
+        "zhengxing": [
+          "痰证",
+          "饮证"
+        ],
+        "zhifa": [],
+        "bingzheng": [
+          "痰饮证候"
+        ],
+        "zhengzhuang": [
+          "咳痰",
+          "眩晕",
+          "癫狂",
+          "瘰疬痰核",
+          "水肿",
+          "肠鸣"
+        ],
+        "fangming": [],
+        "yaoming": [],
+        "xuewei": [],
+        "jingluo": [],
+        "siqi": [],
+        "wuwei": [],
+        "guijing": [],
+        "keywords": [
+          "痰饮辨证",
+          "痰证",
+          "饮证",
+          "中医诊断",
+          "辨证"
+        ]
+      }
+    },
+    {
       "id": "weibing_001",
       "book": "中医诊断学",
       "type": "zhinan",
@@ -101168,6 +101919,62 @@
           "胃热",
           "胃阴虚",
           "食滞胃脘"
+        ]
+      }
+    },
+    {
+      "id": "weifenzheng_002",
+      "book": "《中医诊断学》规划教材（要点归纳）",
+      "type": "zhinan",
+      "tier": 1,
+      "category": "zhenduan",
+      "subcategory": "bianzheng",
+      "path": "library/zhenduan/bianzheng/weifenzheng/weifenzheng_002.md",
+      "weight": 8,
+      "title": "卫分证·温邪犯表发热微恶风寒",
+      "chapter": "辨证",
+      "conditions": {
+        "zhengxing": [
+          "卫分证"
+        ],
+        "zhifa": [
+          "辛凉解表"
+        ],
+        "bingzheng": [
+          "卫分证"
+        ],
+        "zhengzhuang": [
+          "发热",
+          "微恶风寒",
+          "口微渴",
+          "头痛",
+          "咳嗽"
+        ],
+        "fangming": [
+          "银翘散",
+          "桑菊饮"
+        ],
+        "yaoming": [
+          "金银花",
+          "连翘",
+          "薄荷",
+          "桑叶",
+          "菊花"
+        ],
+        "xuewei": [],
+        "jingluo": [],
+        "siqi": [
+          "温"
+        ],
+        "wuwei": [],
+        "guijing": [],
+        "keywords": [
+          "卫分证",
+          "卫气营血辨证",
+          "中医诊断",
+          "温邪犯表",
+          "辛凉解表",
+          "银翘散"
         ]
       }
     },
@@ -101379,6 +102186,60 @@
       }
     },
     {
+      "id": "xuefenzheng_002",
+      "book": "《中医诊断学》规划教材（要点归纳）",
+      "type": "zhinan",
+      "tier": 1,
+      "category": "zhenduan",
+      "subcategory": "bianzheng",
+      "path": "library/zhenduan/bianzheng/xuefenzheng/xuefenzheng_002.md",
+      "weight": 8,
+      "title": "血分证·热盛动血动风耗阴",
+      "chapter": "辨证",
+      "conditions": {
+        "zhengxing": [
+          "血分证"
+        ],
+        "zhifa": [
+          "凉血散血"
+        ],
+        "bingzheng": [
+          "血分证"
+        ],
+        "zhengzhuang": [
+          "身热灼手",
+          "吐血衄血",
+          "斑疹密布",
+          "抽搐动风",
+          "舌深绛"
+        ],
+        "fangming": [
+          "犀角地黄汤"
+        ],
+        "yaoming": [
+          "水牛角",
+          "生地",
+          "丹皮",
+          "赤芍"
+        ],
+        "xuewei": [],
+        "jingluo": [],
+        "siqi": [
+          "热"
+        ],
+        "wuwei": [],
+        "guijing": [],
+        "keywords": [
+          "血分证",
+          "卫气营血辨证",
+          "中医诊断",
+          "热盛动血",
+          "凉血散血",
+          "犀角地黄汤"
+        ]
+      }
+    },
+    {
       "id": "xuezheng_001",
       "book": "中医诊断学",
       "type": "zhinan",
@@ -101484,6 +102345,165 @@
       }
     },
     {
+      "id": "yangmingjingzheng_001",
+      "book": "《中医诊断学》规划教材（要点归纳）",
+      "type": "zhinan",
+      "tier": 1,
+      "category": "zhenduan",
+      "subcategory": "bianzheng",
+      "path": "library/zhenduan/bianzheng/yangmingjingzheng/yangmingjingzheng_001.md",
+      "weight": 8,
+      "title": "阳明经证·六经辨证·阳明病里热亢盛",
+      "chapter": "辨证",
+      "conditions": {
+        "zhengxing": [
+          "阳明热盛",
+          "阳明腑实"
+        ],
+        "zhifa": [],
+        "bingzheng": [
+          "阳明经证"
+        ],
+        "zhengzhuang": [
+          "高热",
+          "大汗",
+          "大渴",
+          "脉洪大",
+          "腹满便秘",
+          "神昏谵语"
+        ],
+        "fangming": [],
+        "yaoming": [],
+        "xuewei": [],
+        "jingluo": [],
+        "siqi": [],
+        "wuwei": [],
+        "guijing": [],
+        "keywords": [
+          "阳明经证",
+          "阳明腑证",
+          "六经辨证",
+          "白虎汤证",
+          "承气汤证",
+          "中医诊断",
+          "辨证"
+        ]
+      }
+    },
+    {
+      "id": "yingfenzheng_002",
+      "book": "《中医诊断学》规划教材（要点归纳）",
+      "type": "zhinan",
+      "tier": 1,
+      "category": "zhenduan",
+      "subcategory": "bianzheng",
+      "path": "library/zhenduan/bianzheng/yingfenzheng/yingfenzheng_002.md",
+      "weight": 8,
+      "title": "营分证·热入营分身热夜甚神昏",
+      "chapter": "辨证",
+      "conditions": {
+        "zhengxing": [
+          "营分证"
+        ],
+        "zhifa": [
+          "清营透热"
+        ],
+        "bingzheng": [
+          "营分证"
+        ],
+        "zhengzhuang": [
+          "身热夜甚",
+          "心烦不寐",
+          "时有谵语",
+          "斑疹隐隐",
+          "舌红绛"
+        ],
+        "fangming": [
+          "清营汤"
+        ],
+        "yaoming": [
+          "水牛角",
+          "生地",
+          "玄参",
+          "竹叶心",
+          "麦冬"
+        ],
+        "xuewei": [],
+        "jingluo": [],
+        "siqi": [
+          "热"
+        ],
+        "wuwei": [],
+        "guijing": [],
+        "keywords": [
+          "营分证",
+          "卫气营血辨证",
+          "中医诊断",
+          "热入营分",
+          "身热夜甚",
+          "清营汤"
+        ]
+      }
+    },
+    {
+      "id": "yingqixue_001",
+      "book": "《中医诊断学》规划教材（要点归纳）",
+      "type": "zhinan",
+      "tier": 1,
+      "category": "zhenduan",
+      "subcategory": "bianzheng",
+      "path": "library/zhenduan/bianzheng/yingqixue/yingqixue_001.md",
+      "weight": 8,
+      "title": "卫气营血辨证总论·温病四层传变规律",
+      "chapter": "辨证",
+      "conditions": {
+        "zhengxing": [
+          "卫分证",
+          "气分证",
+          "营分证",
+          "血分证"
+        ],
+        "zhifa": [
+          "辛凉解表",
+          "清热生津",
+          "清营透热",
+          "凉血散血"
+        ],
+        "bingzheng": [
+          "卫气营血辨证"
+        ],
+        "zhengzhuang": [
+          "发热微恶风寒",
+          "壮热不恶寒",
+          "身热夜甚",
+          "出血斑疹"
+        ],
+        "fangming": [
+          "银翘散",
+          "白虎汤",
+          "清营汤",
+          "犀角地黄汤"
+        ],
+        "yaoming": [],
+        "xuewei": [],
+        "jingluo": [],
+        "siqi": [
+          "温",
+          "热"
+        ],
+        "wuwei": [],
+        "guijing": [],
+        "keywords": [
+          "卫气营血辨证",
+          "辨证",
+          "中医诊断",
+          "温病",
+          "传变",
+          "卫气营血"
+        ]
+      }
+    },
+    {
       "id": "yinyang_001",
       "book": "中医诊断学",
       "type": "zhinan",
@@ -101537,6 +102557,92 @@
           "阴虚",
           "阳虚",
           "亡阴亡阳"
+        ]
+      }
+    },
+    {
+      "id": "yuxuebianzheng_001",
+      "book": "《中医诊断学》规划教材（要点归纳）",
+      "type": "zhinan",
+      "tier": 1,
+      "category": "zhenduan",
+      "subcategory": "bianzheng",
+      "path": "library/zhenduan/bianzheng/yuxuebianzheng/yuxuebianzheng_001.md",
+      "weight": 8,
+      "title": "瘀血辨证·瘀阻不同部位证候各异",
+      "chapter": "辨证",
+      "conditions": {
+        "zhengxing": [
+          "瘀血"
+        ],
+        "zhifa": [],
+        "bingzheng": [
+          "瘀血证候"
+        ],
+        "zhengzhuang": [
+          "刺痛固定",
+          "肿块",
+          "出血紫黑夹块",
+          "面色黧黑",
+          "舌紫暗或瘀斑",
+          "脉涩"
+        ],
+        "fangming": [],
+        "yaoming": [],
+        "xuewei": [],
+        "jingluo": [],
+        "siqi": [],
+        "wuwei": [],
+        "guijing": [],
+        "keywords": [
+          "瘀血辨证",
+          "瘀血",
+          "中医诊断",
+          "辨证"
+        ]
+      }
+    },
+    {
+      "id": "zangfubianzheng_001",
+      "book": "《中医诊断学》规划教材（要点归纳）",
+      "type": "zhinan",
+      "tier": 1,
+      "category": "zhenduan",
+      "subcategory": "bianzheng",
+      "path": "library/zhenduan/bianzheng/zangfubianzheng/zangfubianzheng_001.md",
+      "weight": 8,
+      "title": "脏腑辨证总论·按脏腑生理病理特点辨证",
+      "chapter": "辨证",
+      "conditions": {
+        "zhengxing": [
+          "脏病辨证",
+          "腑病辨证",
+          "脏腑兼证"
+        ],
+        "zhifa": [
+          "据脏论治"
+        ],
+        "bingzheng": [
+          "脏腑辨证"
+        ],
+        "zhengzhuang": [
+          "脏腑功能失调证候",
+          "定位定性结合"
+        ],
+        "fangming": [],
+        "yaoming": [],
+        "xuewei": [],
+        "jingluo": [],
+        "siqi": [],
+        "wuwei": [],
+        "guijing": [],
+        "keywords": [
+          "脏腑辨证",
+          "辨证",
+          "中医诊断",
+          "定位",
+          "定性",
+          "脏腑兼证"
         ]
       }
     },

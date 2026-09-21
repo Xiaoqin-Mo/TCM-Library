@@ -1,6 +1,6 @@
 # linchuang · 中医临床
 
-> 收录 134 条 · 下级 6 个子类
+> 收录 150 条 · 下级 7 个子类
 
 ## erke · 儿科
 
@@ -165,5 +165,26 @@
 | linchuang/wenbing/wenyi | 1 | [索引](./linchuang/wenbing/wenyi/INDEX.md) |
 | linchuang/wenbing/xuefenzheng | 1 | [索引](./linchuang/wenbing/xuefenzheng/INDEX.md) |
 | linchuang/wenbing/yingfenzheng | 1 | [索引](./linchuang/wenbing/yingfenzheng/INDEX.md) |
+
+## wuguan · 五官科
+
+| 书目 | 条目数 | 索引 |
+| --- | --- | --- |
+| linchuang/wuguan/baofengke | 1 | [索引](./linchuang/wuguan/baofengke/INDEX.md) |
+| linchuang/wuguan/baojianjibing | 1 | [索引](./linchuang/wuguan/baojianjibing/INDEX.md) |
+| linchuang/wuguan/biqiu | 1 | [索引](./linchuang/wuguan/biqiu/INDEX.md) |
+| linchuang/wuguan/biyuan | 1 | [索引](./linchuang/wuguan/biyuan/INDEX.md) |
+| linchuang/wuguan/erminglong | 1 | [索引](./linchuang/wuguan/erminglong/INDEX.md) |
+| linchuang/wuguan/houbi | 1 | [索引](./linchuang/wuguan/houbi/INDEX.md) |
+| linchuang/wuguan/houyin | 1 | [索引](./linchuang/wuguan/houyin/INDEX.md) |
+| linchuang/wuguan/kouchuang | 1 | [索引](./linchuang/wuguan/kouchuang/INDEX.md) |
+| linchuang/wuguan/leiliuzheng | 1 | [索引](./linchuang/wuguan/leiliuzheng/INDEX.md) |
+| linchuang/wuguan/nonger | 1 | [索引](./linchuang/wuguan/nonger/INDEX.md) |
+| linchuang/wuguan/qingfengneizhang | 1 | [索引](./linchuang/wuguan/qingfengneizhang/INDEX.md) |
+| linchuang/wuguan/ruie | 1 | [索引](./linchuang/wuguan/ruie/INDEX.md) |
+| linchuang/wuguan/tianxingchiyan | 1 | [索引](./linchuang/wuguan/tianxingchiyan/INDEX.md) |
+| linchuang/wuguan/yanbing | 1 | [索引](./linchuang/wuguan/yanbing/INDEX.md) |
+| linchuang/wuguan/yatong | 1 | [索引](./linchuang/wuguan/yatong/INDEX.md) |
+| linchuang/wuguan/yuanyinneizhang | 1 | [索引](./linchuang/wuguan/yuanyinneizhang/INDEX.md) |
 
 [返回总索引](../INDEX.md)

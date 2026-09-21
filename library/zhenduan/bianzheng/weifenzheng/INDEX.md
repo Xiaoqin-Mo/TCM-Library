@@ -4,6 +4,6 @@
 
 | 条目 | 标题 | 类型 | 权重 |
 | --- | --- | --- | --- |
-| [weifenzheng_001](./weifenzheng_001.md) | 卫分证·温邪犯表发热微恶风寒 | zhinan | 8 |
+| [weifenzheng_002](./weifenzheng_002.md) | 卫分证·温邪犯表发热微恶风寒 | zhinan | 8 |
 
 [返回总索引](../../../INDEX.md)

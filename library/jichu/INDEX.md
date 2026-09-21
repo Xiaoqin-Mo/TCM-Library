@@ -1,6 +1,31 @@
 # jichu · 中医基础理论
 
-> 收录 69 条 · 下级 4 个子类
+> 收录 89 条 · 下级 5 个子类
+
+## bingyinbingji · 病因病机
+
+| 书目 | 条目数 | 索引 |
+| --- | --- | --- |
+| jichu/bingyinbingji/fengxie | 1 | [索引](./jichu/bingyinbingji/fengxie/INDEX.md) |
+| jichu/bingyinbingji/hanxie | 1 | [索引](./jichu/bingyinbingji/hanxie/INDEX.md) |
+| jichu/bingyinbingji/huoxie | 1 | [索引](./jichu/bingyinbingji/huoxie/INDEX.md) |
+| jichu/bingyinbingji/jieshi | 1 | [索引](./jichu/bingyinbingji/jieshi/INDEX.md) |
+| jichu/bingyinbingji/jinyeshichang | 1 | [索引](./jichu/bingyinbingji/jinyeshichang/INDEX.md) |
+| jichu/bingyinbingji/laoyishidu | 1 | [索引](./jichu/bingyinbingji/laoyishidu/INDEX.md) |
+| jichu/bingyinbingji/liqi | 1 | [索引](./jichu/bingyinbingji/liqi/INDEX.md) |
+| jichu/bingyinbingji/liuyin | 1 | [索引](./jichu/bingyinbingji/liuyin/INDEX.md) |
+| jichu/bingyinbingji/neishengwuxie | 1 | [索引](./jichu/bingyinbingji/neishengwuxie/INDEX.md) |
+| jichu/bingyinbingji/qiqingneishang | 1 | [索引](./jichu/bingyinbingji/qiqingneishang/INDEX.md) |
+| jichu/bingyinbingji/qixueshichang | 1 | [索引](./jichu/bingyinbingji/qixueshichang/INDEX.md) |
+| jichu/bingyinbingji/shixie | 1 | [索引](./jichu/bingyinbingji/shixie/INDEX.md) |
+| jichu/bingyinbingji/shuxie | 1 | [索引](./jichu/bingyinbingji/shuxie/INDEX.md) |
+| jichu/bingyinbingji/tanyin | 1 | [索引](./jichu/bingyinbingji/tanyin/INDEX.md) |
+| jichu/bingyinbingji/yinshishiyi | 1 | [索引](./jichu/bingyinbingji/yinshishiyi/INDEX.md) |
+| jichu/bingyinbingji/yinyangshitiao | 1 | [索引](./jichu/bingyinbingji/yinyangshitiao/INDEX.md) |
+| jichu/bingyinbingji/yuxue | 1 | [索引](./jichu/bingyinbingji/yuxue/INDEX.md) |
+| jichu/bingyinbingji/zaoxie | 1 | [索引](./jichu/bingyinbingji/zaoxie/INDEX.md) |
+| jichu/bingyinbingji/zhengqixieqi | 1 | [索引](./jichu/bingyinbingji/zhengqixieqi/INDEX.md) |
+| jichu/bingyinbingji/zhengxiexiangzheng | 1 | [索引](./jichu/bingyinbingji/zhengxiexiangzheng/INDEX.md) |
 
 ## jingluo · 经络
 

@@ -1,6 +1,6 @@
 # TCM-Library · 全库总索引
 
-> 中医知识百科全书检索库 · 当前收录 2978 条（按目录自动生成）
+> 中医知识百科全书检索库 · 当前收录 2998 条（按目录自动生成）
 
 ## 收录进度
 
@@ -11,7 +11,7 @@
 | zhongyao | 中药学 | 701 | 701 | [索引](./library/zhongyao/INDEX.md) |
 | fangji | 方剂学 | 356 | 356 | [索引](./library/fangji/INDEX.md) |
 | zhenjiu | 针灸推拿 | 385 | 385 | [索引](./library/zhenjiu/INDEX.md) |
-| linchuang | 中医临床 | 99 | 99 | [索引](./library/linchuang/INDEX.md) |
+| linchuang | 中医临床 | 119 | 119 | [索引](./library/linchuang/INDEX.md) |
 | yangsheng | 养生康复 | 42 | 42 | [索引](./library/yangsheng/INDEX.md) |
 | yishi | 医史医家 | 64 | 92 | [索引](./library/yishi/INDEX.md) |
 | jingdian | 经典医籍 | 46 | 1111 | [索引](./library/jingdian/INDEX.md) |

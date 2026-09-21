@@ -2,7 +2,7 @@
   "schema_version": 1,
   "name": "TCM-Library 受控检索词表",
   "note": "type 为强枚举；conditions 的 zhengxing/zhifa/jingluo 建议取词于本表以保一致性（validate_library.py 对 type 做白名单校验，对 conditions 做建议性校验）。本文件为种子版本，后续由 scripts/export_vocab.py 从库中统计生成。",
-  "scanned_entries": 2888,
+  "scanned_entries": 2903,
   "fields": {
     "type": {
       "open": false,
@@ -21,7 +21,7 @@
         },
         {
           "v": "chapter",
-          "n": 417,
+          "n": 432,
           "zh": "篇章/章节",
           "note": "经典原文按篇、教材按章"
         },

@@ -39,6 +39,10 @@
         "dir": "jichu/jingluo/shiwuluomai",
         "count": 1
       },
+      "qixuejinye": {
+        "dir": "jichu/qixuejinye/zongqi",
+        "count": 1
+      },
       "yinyangwuxing": {
         "dir": "jichu/yinyangwuxing/zhuanhua",
         "count": 1
@@ -3579,6 +3583,126 @@
       "tier_name": "核心",
       "category": "jichu",
       "subcategory": "jingluo",
+      "count": 1
+    },
+    {
+      "dir": "jichu/qixuejinye/jing",
+      "tier": 1,
+      "tier_name": "核心",
+      "category": "jichu",
+      "subcategory": "qixuejinye",
+      "count": 1
+    },
+    {
+      "dir": "jichu/qixuejinye/jinye",
+      "tier": 1,
+      "tier_name": "核心",
+      "category": "jichu",
+      "subcategory": "qixuejinye",
+      "count": 1
+    },
+    {
+      "dir": "jichu/qixuejinye/jinyedaixie",
+      "tier": 1,
+      "tier_name": "核心",
+      "category": "jichu",
+      "subcategory": "qixuejinye",
+      "count": 1
+    },
+    {
+      "dir": "jichu/qixuejinye/qi",
+      "tier": 1,
+      "tier_name": "核心",
+      "category": "jichu",
+      "subcategory": "qixuejinye",
+      "count": 1
+    },
+    {
+      "dir": "jichu/qixuejinye/qihua",
+      "tier": 1,
+      "tier_name": "核心",
+      "category": "jichu",
+      "subcategory": "qixuejinye",
+      "count": 1
+    },
+    {
+      "dir": "jichu/qixuejinye/qiji",
+      "tier": 1,
+      "tier_name": "核心",
+      "category": "jichu",
+      "subcategory": "qixuejinye",
+      "count": 1
+    },
+    {
+      "dir": "jichu/qixuejinye/qixueguanxi",
+      "tier": 1,
+      "tier_name": "核心",
+      "category": "jichu",
+      "subcategory": "qixuejinye",
+      "count": 1
+    },
+    {
+      "dir": "jichu/qixuejinye/weiqi",
+      "tier": 1,
+      "tier_name": "核心",
+      "category": "jichu",
+      "subcategory": "qixuejinye",
+      "count": 1
+    },
+    {
+      "dir": "jichu/qixuejinye/xue",
+      "tier": 1,
+      "tier_name": "核心",
+      "category": "jichu",
+      "subcategory": "qixuejinye",
+      "count": 1
+    },
+    {
+      "dir": "jichu/qixuejinye/xueshengcheng",
+      "tier": 1,
+      "tier_name": "核心",
+      "category": "jichu",
+      "subcategory": "qixuejinye",
+      "count": 1
+    },
+    {
+      "dir": "jichu/qixuejinye/xueyunxing",
+      "tier": 1,
+      "tier_name": "核心",
+      "category": "jichu",
+      "subcategory": "qixuejinye",
+      "count": 1
+    },
+    {
+      "dir": "jichu/qixuejinye/yingqi",
+      "tier": 1,
+      "tier_name": "核心",
+      "category": "jichu",
+      "subcategory": "qixuejinye",
+      "count": 1
+    },
+    {
+      "dir": "jichu/qixuejinye/yuanqi",
+      "tier": 1,
+      "tier_name": "核心",
+      "category": "jichu",
+      "subcategory": "qixuejinye",
+      "count": 1
+    },
+    {
+      "dir": "jichu/qixuejinye/zhongqi",
+      "tier": 1,
+      "tier_name": "核心",
+      "category": "jichu",
+      "subcategory": "qixuejinye",
+      "count": 1
+    },
+    {
+      "dir": "jichu/qixuejinye/zongqi",
+      "tier": 1,
+      "tier_name": "核心",
+      "category": "jichu",
+      "subcategory": "qixuejinye",
       "count": 1
     },
     {
@@ -14998,7 +15122,7 @@
       "count": 1
     }
   ],
-  "total": 2888,
+  "total": 2903,
   "entries": [
     {
       "id": "angongniuhuangwan_002",
@@ -35787,6 +35911,509 @@
           "脾之大络",
           "经络",
           "中医基础"
+        ]
+      }
+    },
+    {
+      "id": "jing_001",
+      "book": "《中医基础理论》规划教材（要点归纳）",
+      "type": "chapter",
+      "tier": 1,
+      "category": "jichu",
+      "subcategory": "qixuejinye",
+      "path": "library/jichu/qixuejinye/jing/jing_001.md",
+      "weight": 8,
+      "title": "精·禀受于父母的先天之精与后天水谷之精",
+      "chapter": "气血津液",
+      "conditions": {
+        "zhengxing": [],
+        "zhifa": [],
+        "bingzheng": [],
+        "zhengzhuang": [],
+        "fangming": [],
+        "yaoming": [],
+        "xuewei": [],
+        "jingluo": [],
+        "siqi": [],
+        "wuwei": [],
+        "guijing": [],
+        "keywords": [
+          "精",
+          "气血津液",
+          "中医基础",
+          "先天之精",
+          "后天之精",
+          "肾精",
+          "生殖之精",
+          "精气神"
+        ]
+      }
+    },
+    {
+      "id": "jinye_001",
+      "book": "《中医基础理论》规划教材（要点归纳）",
+      "type": "chapter",
+      "tier": 1,
+      "category": "jichu",
+      "subcategory": "qixuejinye",
+      "path": "library/jichu/qixuejinye/jinye/jinye_001.md",
+      "weight": 8,
+      "title": "津液·体内正常水液总称清稀为津稠厚为液",
+      "chapter": "气血津液",
+      "conditions": {
+        "zhengxing": [],
+        "zhifa": [],
+        "bingzheng": [],
+        "zhengzhuang": [],
+        "fangming": [],
+        "yaoming": [],
+        "xuewei": [],
+        "jingluo": [],
+        "siqi": [],
+        "wuwei": [],
+        "guijing": [],
+        "keywords": [
+          "津液",
+          "气血津液",
+          "中医基础",
+          "津",
+          "液",
+          "水液",
+          "滋润濡养"
+        ]
+      }
+    },
+    {
+      "id": "jinyedaixie_001",
+      "book": "《中医基础理论》规划教材（要点归纳）",
+      "type": "chapter",
+      "tier": 1,
+      "category": "jichu",
+      "subcategory": "qixuejinye",
+      "path": "library/jichu/qixuejinye/jinyedaixie/jinyedaixie_001.md",
+      "weight": 8,
+      "title": "津液代谢·脾运化肺通调肾气化三焦决渎",
+      "chapter": "气血津液",
+      "conditions": {
+        "zhengxing": [],
+        "zhifa": [],
+        "bingzheng": [],
+        "zhengzhuang": [],
+        "fangming": [],
+        "yaoming": [],
+        "xuewei": [],
+        "jingluo": [],
+        "siqi": [],
+        "wuwei": [],
+        "guijing": [],
+        "keywords": [
+          "津液代谢",
+          "气血津液",
+          "中医基础",
+          "脾运化",
+          "肺通调水道",
+          "肾气化",
+          "三焦决渎",
+          "水液代谢"
+        ]
+      }
+    },
+    {
+      "id": "qi_001",
+      "book": "《中医基础理论》规划教材（要点归纳）",
+      "type": "chapter",
+      "tier": 1,
+      "category": "jichu",
+      "subcategory": "qixuejinye",
+      "path": "library/jichu/qixuejinye/qi/qi_001.md",
+      "weight": 8,
+      "title": "气·构成人体和维持生命活动的精微物质",
+      "chapter": "气血津液",
+      "conditions": {
+        "zhengxing": [],
+        "zhifa": [],
+        "bingzheng": [],
+        "zhengzhuang": [],
+        "fangming": [],
+        "yaoming": [],
+        "xuewei": [],
+        "jingluo": [],
+        "siqi": [],
+        "wuwei": [],
+        "guijing": [],
+        "keywords": [
+          "气",
+          "气血津液",
+          "中医基础",
+          "精微物质",
+          "生理功能"
+        ]
+      }
+    },
+    {
+      "id": "qihua_001",
+      "book": "《中医基础理论》规划教材（要点归纳）",
+      "type": "chapter",
+      "tier": 1,
+      "category": "jichu",
+      "subcategory": "qixuejinye",
+      "path": "library/jichu/qixuejinye/qihua/qihua_001.md",
+      "weight": 8,
+      "title": "气化·气运动所产生的变化",
+      "chapter": "气血津液",
+      "conditions": {
+        "zhengxing": [],
+        "zhifa": [],
+        "bingzheng": [],
+        "zhengzhuang": [],
+        "fangming": [],
+        "yaoming": [],
+        "xuewei": [],
+        "jingluo": [],
+        "siqi": [],
+        "wuwei": [],
+        "guijing": [],
+        "keywords": [
+          "气化",
+          "物质代谢",
+          "气血津液",
+          "中医基础",
+          "气机变化"
+        ]
+      }
+    },
+    {
+      "id": "qiji_001",
+      "book": "《中医基础理论》规划教材（要点归纳）",
+      "type": "chapter",
+      "tier": 1,
+      "category": "jichu",
+      "subcategory": "qixuejinye",
+      "path": "library/jichu/qixuejinye/qiji/qiji_001.md",
+      "weight": 8,
+      "title": "气机·气的运动升降出入",
+      "chapter": "气血津液",
+      "conditions": {
+        "zhengxing": [],
+        "zhifa": [],
+        "bingzheng": [],
+        "zhengzhuang": [],
+        "fangming": [],
+        "yaoming": [],
+        "xuewei": [],
+        "jingluo": [],
+        "siqi": [],
+        "wuwei": [],
+        "guijing": [],
+        "keywords": [
+          "气机",
+          "升降出入",
+          "气的运动",
+          "气血津液",
+          "中医基础"
+        ]
+      }
+    },
+    {
+      "id": "qixueguanxi_001",
+      "book": "《中医基础理论》规划教材（要点归纳）",
+      "type": "chapter",
+      "tier": 1,
+      "category": "jichu",
+      "subcategory": "qixuejinye",
+      "path": "library/jichu/qixuejinye/qixueguanxi/qixueguanxi_001.md",
+      "weight": 8,
+      "title": "气血关系·气为血之帅气为血之母",
+      "chapter": "气血津液",
+      "conditions": {
+        "zhengxing": [],
+        "zhifa": [],
+        "bingzheng": [],
+        "zhengzhuang": [],
+        "fangming": [],
+        "yaoming": [],
+        "xuewei": [],
+        "jingluo": [],
+        "siqi": [],
+        "wuwei": [],
+        "guijing": [],
+        "keywords": [
+          "气血关系",
+          "气血津液",
+          "中医基础",
+          "气为血之帅",
+          "血为气之母",
+          "气能生血",
+          "气能行血",
+          "气能摄血"
+        ]
+      }
+    },
+    {
+      "id": "weiqi_001",
+      "book": "《中医基础理论》规划教材（要点归纳）",
+      "type": "chapter",
+      "tier": 1,
+      "category": "jichu",
+      "subcategory": "qixuejinye",
+      "path": "library/jichu/qixuejinye/weiqi/weiqi_001.md",
+      "weight": 8,
+      "title": "卫气·行于脉外温分肉肥腠理司开合",
+      "chapter": "气血津液",
+      "conditions": {
+        "zhengxing": [],
+        "zhifa": [],
+        "bingzheng": [],
+        "zhengzhuang": [],
+        "fangming": [],
+        "yaoming": [],
+        "xuewei": [],
+        "jingluo": [],
+        "siqi": [],
+        "wuwei": [],
+        "guijing": [],
+        "keywords": [
+          "卫气",
+          "卫外",
+          "温分肉",
+          "肥腠理",
+          "司开合",
+          "气血津液",
+          "中医基础"
+        ]
+      }
+    },
+    {
+      "id": "xue_001",
+      "book": "《中医基础理论》规划教材（要点归纳）",
+      "type": "chapter",
+      "tier": 1,
+      "category": "jichu",
+      "subcategory": "qixuejinye",
+      "path": "library/jichu/qixuejinye/xue/xue_001.md",
+      "weight": 8,
+      "title": "血·循行脉中营养滋润全身的红色液态物质",
+      "chapter": "气血津液",
+      "conditions": {
+        "zhengxing": [],
+        "zhifa": [],
+        "bingzheng": [],
+        "zhengzhuang": [],
+        "fangming": [],
+        "yaoming": [],
+        "xuewei": [],
+        "jingluo": [],
+        "siqi": [],
+        "wuwei": [],
+        "guijing": [],
+        "keywords": [
+          "血",
+          "气血津液",
+          "中医基础",
+          "血液",
+          "营养滋润",
+          "心主血"
+        ]
+      }
+    },
+    {
+      "id": "xueshengcheng_001",
+      "book": "《中医基础理论》规划教材（要点归纳）",
+      "type": "chapter",
+      "tier": 1,
+      "category": "jichu",
+      "subcategory": "qixuejinye",
+      "path": "library/jichu/qixuejinye/xueshengcheng/xueshengcheng_001.md",
+      "weight": 8,
+      "title": "血的生成·水谷精微奉心化赤肾藏精化血",
+      "chapter": "气血津液",
+      "conditions": {
+        "zhengxing": [],
+        "zhifa": [],
+        "bingzheng": [],
+        "zhengzhuang": [],
+        "fangming": [],
+        "yaoming": [],
+        "xuewei": [],
+        "jingluo": [],
+        "siqi": [],
+        "wuwei": [],
+        "guijing": [],
+        "keywords": [
+          "血的生成",
+          "气血津液",
+          "中医基础",
+          "水谷精微",
+          "奉心化赤",
+          "精血同源",
+          "脾胃"
+        ]
+      }
+    },
+    {
+      "id": "xueyunxing_001",
+      "book": "《中医基础理论》规划教材（要点归纳）",
+      "type": "chapter",
+      "tier": 1,
+      "category": "jichu",
+      "subcategory": "qixuejinye",
+      "path": "library/jichu/qixuejinye/xueyunxing/xueyunxing_001.md",
+      "weight": 8,
+      "title": "血的运行·心主血肺朝百脉肝藏血脾统血",
+      "chapter": "气血津液",
+      "conditions": {
+        "zhengxing": [],
+        "zhifa": [],
+        "bingzheng": [],
+        "zhengzhuang": [],
+        "fangming": [],
+        "yaoming": [],
+        "xuewei": [],
+        "jingluo": [],
+        "siqi": [],
+        "wuwei": [],
+        "guijing": [],
+        "keywords": [
+          "血的运行",
+          "气血津液",
+          "中医基础",
+          "心主血",
+          "肺朝百脉",
+          "肝藏血",
+          "脾统血",
+          "气行血行"
+        ]
+      }
+    },
+    {
+      "id": "yingqi_001",
+      "book": "《中医基础理论》规划教材（要点归纳）",
+      "type": "chapter",
+      "tier": 1,
+      "category": "jichu",
+      "subcategory": "qixuejinye",
+      "path": "library/jichu/qixuejinye/yingqi/yingqi_001.md",
+      "weight": 8,
+      "title": "营气·行于脉中化生营养",
+      "chapter": "气血津液",
+      "conditions": {
+        "zhengxing": [],
+        "zhifa": [],
+        "bingzheng": [],
+        "zhengzhuang": [],
+        "fangming": [],
+        "yaoming": [],
+        "xuewei": [],
+        "jingluo": [],
+        "siqi": [],
+        "wuwei": [],
+        "guijing": [],
+        "keywords": [
+          "营气",
+          "荣气",
+          "行于脉中",
+          "气血津液",
+          "中医基础",
+          "化生血液"
+        ]
+      }
+    },
+    {
+      "id": "yuanqi_001",
+      "book": "《中医基础理论》规划教材（要点归纳）",
+      "type": "chapter",
+      "tier": 1,
+      "category": "jichu",
+      "subcategory": "qixuejinye",
+      "path": "library/jichu/qixuejinye/yuanqi/yuanqi_001.md",
+      "weight": 8,
+      "title": "元气·生命原动力根于肾",
+      "chapter": "气血津液",
+      "conditions": {
+        "zhengxing": [],
+        "zhifa": [],
+        "bingzheng": [],
+        "zhengzhuang": [],
+        "fangming": [],
+        "yaoming": [],
+        "xuewei": [],
+        "jingluo": [],
+        "siqi": [],
+        "wuwei": [],
+        "guijing": [],
+        "keywords": [
+          "元气",
+          "原气",
+          "气血津液",
+          "中医基础",
+          "肾中精气",
+          "生命原动力"
+        ]
+      }
+    },
+    {
+      "id": "zhongqi_001",
+      "book": "《中医基础理论》规划教材（要点归纳）",
+      "type": "chapter",
+      "tier": 1,
+      "category": "jichu",
+      "subcategory": "qixuejinye",
+      "path": "library/jichu/qixuejinye/zhongqi/zhongqi_001.md",
+      "weight": 8,
+      "title": "中气·中焦脾胃之气运化升清",
+      "chapter": "气血津液",
+      "conditions": {
+        "zhengxing": [],
+        "zhifa": [],
+        "bingzheng": [],
+        "zhengzhuang": [],
+        "fangming": [],
+        "yaoming": [],
+        "xuewei": [],
+        "jingluo": [],
+        "siqi": [],
+        "wuwei": [],
+        "guijing": [],
+        "keywords": [
+          "中气",
+          "中焦",
+          "脾胃之气",
+          "气血津液",
+          "中医基础",
+          "升清"
+        ]
+      }
+    },
+    {
+      "id": "zongqi_001",
+      "book": "《中医基础理论》规划教材（要点归纳）",
+      "type": "chapter",
+      "tier": 1,
+      "category": "jichu",
+      "subcategory": "qixuejinye",
+      "path": "library/jichu/qixuejinye/zongqi/zongqi_001.md",
+      "weight": 8,
+      "title": "宗气·积于胸上走息道贯心脉",
+      "chapter": "气血津液",
+      "conditions": {
+        "zhengxing": [],
+        "zhifa": [],
+        "bingzheng": [],
+        "zhengzhuang": [],
+        "fangming": [],
+        "yaoming": [],
+        "xuewei": [],
+        "jingluo": [],
+        "siqi": [],
+        "wuwei": [],
+        "guijing": [],
+        "keywords": [
+          "宗气",
+          "气海",
+          "膻中",
+          "气血津液",
+          "中医基础",
+          "呼吸语言声音"
         ]
       }
     },

@@ -87,6 +87,10 @@
       }
     },
     "linchuang": {
+      "erke": {
+        "dir": "linchuang/erke/zonglun",
+        "count": 1
+      },
       "fuke": {
         "dir": "linchuang/fuke/zhengjia",
         "count": 1
@@ -4703,6 +4707,166 @@
       "tier_name": "核心",
       "category": "jingdian",
       "subcategory": "wenbing",
+      "count": 1
+    },
+    {
+      "dir": "linchuang/erke/feiyanchuansou",
+      "tier": 1,
+      "tier_name": "核心",
+      "category": "linchuang",
+      "subcategory": "erke",
+      "count": 1
+    },
+    {
+      "dir": "linchuang/erke/fengzhen",
+      "tier": 1,
+      "tier_name": "核心",
+      "category": "linchuang",
+      "subcategory": "erke",
+      "count": 1
+    },
+    {
+      "dir": "linchuang/erke/ganzheng",
+      "tier": 1,
+      "tier_name": "核心",
+      "category": "linchuang",
+      "subcategory": "erke",
+      "count": 1
+    },
+    {
+      "dir": "linchuang/erke/hanzheng",
+      "tier": 1,
+      "tier_name": "核心",
+      "category": "linchuang",
+      "subcategory": "erke",
+      "count": 1
+    },
+    {
+      "dir": "linchuang/erke/jingfeng",
+      "tier": 1,
+      "tier_name": "核心",
+      "category": "linchuang",
+      "subcategory": "erke",
+      "count": 1
+    },
+    {
+      "dir": "linchuang/erke/jizhi",
+      "tier": 1,
+      "tier_name": "核心",
+      "category": "linchuang",
+      "subcategory": "erke",
+      "count": 1
+    },
+    {
+      "dir": "linchuang/erke/mazhen",
+      "tier": 1,
+      "tier_name": "核心",
+      "category": "linchuang",
+      "subcategory": "erke",
+      "count": 1
+    },
+    {
+      "dir": "linchuang/erke/shuidou",
+      "tier": 1,
+      "tier_name": "核心",
+      "category": "linchuang",
+      "subcategory": "erke",
+      "count": 1
+    },
+    {
+      "dir": "linchuang/erke/wuwuwu",
+      "tier": 1,
+      "tier_name": "核心",
+      "category": "linchuang",
+      "subcategory": "erke",
+      "count": 1
+    },
+    {
+      "dir": "linchuang/erke/xiaochuan",
+      "tier": 1,
+      "tier_name": "核心",
+      "category": "linchuang",
+      "subcategory": "erke",
+      "count": 1
+    },
+    {
+      "dir": "linchuang/erke/xiaoerganmao",
+      "tier": 1,
+      "tier_name": "核心",
+      "category": "linchuang",
+      "subcategory": "erke",
+      "count": 1
+    },
+    {
+      "dir": "linchuang/erke/xiaoerkesou",
+      "tier": 1,
+      "tier_name": "核心",
+      "category": "linchuang",
+      "subcategory": "erke",
+      "count": 1
+    },
+    {
+      "dir": "linchuang/erke/xiaoerweiyang",
+      "tier": 1,
+      "tier_name": "核心",
+      "category": "linchuang",
+      "subcategory": "erke",
+      "count": 1
+    },
+    {
+      "dir": "linchuang/erke/xiaoerxianzheng",
+      "tier": 1,
+      "tier_name": "核心",
+      "category": "linchuang",
+      "subcategory": "erke",
+      "count": 1
+    },
+    {
+      "dir": "linchuang/erke/xiaoerxixie",
+      "tier": 1,
+      "tier_name": "核心",
+      "category": "linchuang",
+      "subcategory": "erke",
+      "count": 1
+    },
+    {
+      "dir": "linchuang/erke/yanshi",
+      "tier": 1,
+      "tier_name": "核心",
+      "category": "linchuang",
+      "subcategory": "erke",
+      "count": 1
+    },
+    {
+      "dir": "linchuang/erke/yeti",
+      "tier": 1,
+      "tier_name": "核心",
+      "category": "linchuang",
+      "subcategory": "erke",
+      "count": 1
+    },
+    {
+      "dir": "linchuang/erke/yinniao",
+      "tier": 1,
+      "tier_name": "核心",
+      "category": "linchuang",
+      "subcategory": "erke",
+      "count": 1
+    },
+    {
+      "dir": "linchuang/erke/zhasai",
+      "tier": 1,
+      "tier_name": "核心",
+      "category": "linchuang",
+      "subcategory": "erke",
+      "count": 1
+    },
+    {
+      "dir": "linchuang/erke/zonglun",
+      "tier": 1,
+      "tier_name": "核心",
+      "category": "linchuang",
+      "subcategory": "erke",
       "count": 1
     },
     {
@@ -15738,7 +15902,7 @@
       "count": 1
     }
   ],
-  "total": 2978,
+  "total": 2998,
   "entries": [
     {
       "id": "angongniuhuangwan_002",
@@ -81491,6 +81655,1249 @@
           "齿燥",
           "胃热",
           "肾阴"
+        ]
+      }
+    },
+    {
+      "id": "feiyanchuansou_001",
+      "book": "《中医儿科学》规划教材（要点归纳）",
+      "type": "zhinan",
+      "tier": 1,
+      "category": "linchuang",
+      "subcategory": "erke",
+      "path": "library/linchuang/erke/feiyanchuansou/feiyanchuansou_001.md",
+      "weight": 8,
+      "title": "肺炎喘嗽·发热咳嗽气促鼻煽",
+      "chapter": "儿科",
+      "conditions": {
+        "zhengxing": [
+          "风热闭肺",
+          "风寒闭肺",
+          "痰热闭肺",
+          "毒热闭肺",
+          "阴虚肺热",
+          "肺脾气虚"
+        ],
+        "zhifa": [
+          "清热宣肺",
+          "辛温开肺",
+          "化痰泻肺",
+          "清热解毒",
+          "养阴润肺",
+          "益气健脾"
+        ],
+        "bingzheng": [
+          "肺炎喘嗽"
+        ],
+        "zhengzhuang": [
+          "发热",
+          "咳嗽",
+          "气促",
+          "鼻煽",
+          "痰鸣",
+          "甚则张口抬肩"
+        ],
+        "fangming": [
+          "银翘散合麻杏石甘汤",
+          "华盖散",
+          "五虎汤合葶苈大枣泻肺汤",
+          "黄连解毒汤",
+          "沙参麦冬汤",
+          "人参五味子汤"
+        ],
+        "yaoming": [
+          "麻黄",
+          "杏仁",
+          "石膏",
+          "甘草",
+          "黄芩"
+        ],
+        "xuewei": [],
+        "jingluo": [],
+        "siqi": [],
+        "wuwei": [],
+        "guijing": [],
+        "keywords": [
+          "肺炎喘嗽",
+          "小儿肺炎",
+          "儿科",
+          "中医临床",
+          "肺系疾病",
+          "辨证论治"
+        ]
+      }
+    },
+    {
+      "id": "fengzhen_001",
+      "book": "《中医儿科学》规划教材（要点归纳）",
+      "type": "zhinan",
+      "tier": 1,
+      "category": "linchuang",
+      "subcategory": "erke",
+      "path": "library/linchuang/erke/fengzhen/fengzhen_001.md",
+      "weight": 8,
+      "title": "风疹·小儿出疹性传染病淡红色斑丘疹",
+      "chapter": "儿科",
+      "conditions": {
+        "zhengxing": [
+          "邪犯肺卫",
+          "邪入气营"
+        ],
+        "zhifa": [
+          "疏风清热",
+          "清热解毒"
+        ],
+        "bingzheng": [
+          "风疹"
+        ],
+        "zhengzhuang": [
+          "轻度发热",
+          "咳嗽",
+          "淡红色斑丘疹",
+          "耳后枕部淋巴结肿大",
+          "疹退后无脱屑"
+        ],
+        "fangming": [
+          "银翘散",
+          "透疹凉解汤"
+        ],
+        "yaoming": [
+          "金银花",
+          "连翘",
+          "薄荷",
+          "牛蒡子",
+          "蝉蜕",
+          "赤芍",
+          "丹皮"
+        ],
+        "xuewei": [],
+        "jingluo": [],
+        "siqi": [],
+        "wuwei": [],
+        "guijing": [],
+        "keywords": [
+          "风疹",
+          "儿科",
+          "中医临床",
+          "出疹性传染病",
+          "疏风清热",
+          "耳后淋巴结肿大"
+        ]
+      }
+    },
+    {
+      "id": "ganzheng_001",
+      "book": "《中医儿科学》规划教材（要点归纳）",
+      "type": "zhinan",
+      "tier": 1,
+      "category": "linchuang",
+      "subcategory": "erke",
+      "path": "library/linchuang/erke/ganzheng/ganzheng_001.md",
+      "weight": 8,
+      "title": "疳证·脾胃虚损形体消瘦气血亏耗",
+      "chapter": "儿科",
+      "conditions": {
+        "zhengxing": [
+          "疳气",
+          "疳积",
+          "干疳",
+          "疳肿胀",
+          "眼疳",
+          "口疳"
+        ],
+        "zhifa": [
+          "和脾健运",
+          "消积理脾",
+          "补益气血",
+          "温阳利水",
+          "养血明目"
+        ],
+        "bingzheng": [
+          "疳证"
+        ],
+        "zhengzhuang": [
+          "形体消瘦",
+          "毛发稀疏",
+          "精神萎靡或烦躁",
+          "饮食异常",
+          "肚腹膨胀"
+        ],
+        "fangming": [
+          "资生健脾丸",
+          "肥儿丸",
+          "八珍汤",
+          "真武汤",
+          "石斛夜光丸"
+        ],
+        "yaoming": [
+          "党参",
+          "白术",
+          "茯苓",
+          "山药",
+          "使君子"
+        ],
+        "xuewei": [],
+        "jingluo": [],
+        "siqi": [],
+        "wuwei": [],
+        "guijing": [],
+        "keywords": [
+          "疳证",
+          "疳积",
+          "儿科",
+          "中医临床",
+          "脾胃疾病",
+          "营养不良",
+          "辨证论治"
+        ]
+      }
+    },
+    {
+      "id": "hanzheng_001",
+      "book": "《中医儿科学》规划教材（要点归纳）",
+      "type": "zhinan",
+      "tier": 1,
+      "category": "linchuang",
+      "subcategory": "erke",
+      "path": "library/linchuang/erke/hanzheng/hanzheng_001.md",
+      "weight": 8,
+      "title": "汗证·小儿不外在安静状态下出汗过多",
+      "chapter": "儿科",
+      "conditions": {
+        "zhengxing": [
+          "表虚不固",
+          "营卫失调",
+          "气阴两虚",
+          "脾胃积热"
+        ],
+        "zhifa": [
+          "益气固表",
+          "调和营卫",
+          "益气养阴",
+          "清热泻脾"
+        ],
+        "bingzheng": [
+          "汗证"
+        ],
+        "zhengzhuang": [
+          "不外在安静状态下出汗过多",
+          "头身汗出",
+          "动则益甚",
+          "或寐中汗出"
+        ],
+        "fangming": [
+          "玉屏风散",
+          "黄芪桂枝五物汤",
+          "生脉散",
+          "泻黄散"
+        ],
+        "yaoming": [
+          "黄芪",
+          "白术",
+          "防风",
+          "桂枝",
+          "白芍",
+          "五味子",
+          "牡蛎",
+          "浮小麦"
+        ],
+        "xuewei": [],
+        "jingluo": [],
+        "siqi": [],
+        "wuwei": [],
+        "guijing": [],
+        "keywords": [
+          "汗证",
+          "儿科",
+          "中医临床",
+          "自汗",
+          "盗汗",
+          "益气固表",
+          "气阴两虚"
+        ]
+      }
+    },
+    {
+      "id": "jingfeng_001",
+      "book": "《中医儿科学》规划教材（要点归纳）",
+      "type": "zhinan",
+      "tier": 1,
+      "category": "linchuang",
+      "subcategory": "erke",
+      "path": "library/linchuang/erke/jingfeng/jingfeng_001.md",
+      "weight": 8,
+      "title": "惊风·小儿抽搐伴神昏分急慢",
+      "chapter": "儿科",
+      "conditions": {
+        "zhengxing": [
+          "急惊风风热动风",
+          "气营两燔",
+          "邪陷心肝",
+          "湿热疫毒",
+          "惊恐",
+          "慢惊风脾虚肝旺",
+          "脾肾阳虚",
+          "阴虚风动"
+        ],
+        "zhifa": [
+          "清热",
+          "豁痰",
+          "镇惊",
+          "熄风",
+          "固本"
+        ],
+        "bingzheng": [
+          "惊风"
+        ],
+        "zhengzhuang": [
+          "抽搐",
+          "神昏",
+          "牙关紧闭",
+          "两目上视",
+          "角弓反张"
+        ],
+        "fangming": [
+          "银翘散",
+          "清瘟败毒饮",
+          "羚角钩藤汤",
+          "黄连解毒汤",
+          "缓肝理脾汤",
+          "固真汤",
+          "大定风珠"
+        ],
+        "yaoming": [
+          "羚羊角",
+          "钩藤",
+          "天麻",
+          "全蝎",
+          "蜈蚣"
+        ],
+        "xuewei": [],
+        "jingluo": [],
+        "siqi": [],
+        "wuwei": [],
+        "guijing": [],
+        "keywords": [
+          "惊风",
+          "小儿惊厥",
+          "急惊风",
+          "慢惊风",
+          "儿科",
+          "中医临床",
+          "辨证论治"
+        ]
+      }
+    },
+    {
+      "id": "jizhi_001",
+      "book": "《中医儿科学》规划教材（要点归纳）",
+      "type": "zhinan",
+      "tier": 1,
+      "category": "linchuang",
+      "subcategory": "erke",
+      "path": "library/linchuang/erke/jizhi/jizhi_001.md",
+      "weight": 8,
+      "title": "积滞·内伤乳食停聚脘腹胀满",
+      "chapter": "儿科",
+      "conditions": {
+        "zhengxing": [
+          "乳食内积",
+          "脾虚夹积"
+        ],
+        "zhifa": [
+          "消乳化积",
+          "消食化滞",
+          "健脾助运"
+        ],
+        "bingzheng": [
+          "积滞"
+        ],
+        "zhengzhuang": [
+          "不思乳食",
+          "脘腹胀满",
+          "嗳腐吞酸",
+          "大便溏薄或秘结臭秽"
+        ],
+        "fangming": [
+          "消乳丸",
+          "保和丸",
+          "健脾丸"
+        ],
+        "yaoming": [
+          "山楂",
+          "神曲",
+          "麦芽",
+          "鸡内金",
+          "陈皮"
+        ],
+        "xuewei": [],
+        "jingluo": [],
+        "siqi": [],
+        "wuwei": [],
+        "guijing": [],
+        "keywords": [
+          "积滞",
+          "食积",
+          "儿科",
+          "中医临床",
+          "脾胃疾病",
+          "辨证论治"
+        ]
+      }
+    },
+    {
+      "id": "mazhen_001",
+      "book": "《中医儿科学》规划教材（要点归纳）",
+      "type": "zhinan",
+      "tier": 1,
+      "category": "linchuang",
+      "subcategory": "erke",
+      "path": "library/linchuang/erke/mazhen/mazhen_001.md",
+      "weight": 8,
+      "title": "麻疹·小儿出疹性传染病疹出如麻粒",
+      "chapter": "儿科",
+      "conditions": {
+        "zhengxing": [
+          "邪犯肺卫",
+          "邪入肺胃",
+          "阴津耗伤"
+        ],
+        "zhifa": [
+          "辛凉透表",
+          "清热解毒",
+          "养阴清热"
+        ],
+        "bingzheng": [
+          "麻疹"
+        ],
+        "zhengzhuang": [
+          "发热",
+          "咳嗽",
+          "目赤畏光",
+          "麻疹黏膜斑",
+          "疹出如麻粒",
+          "疹退后脱屑"
+        ],
+        "fangming": [
+          "宣毒发表汤",
+          "清解透表汤",
+          "沙参麦冬汤"
+        ],
+        "yaoming": [
+          "升麻",
+          "葛根",
+          "薄荷",
+          "连翘",
+          "金银花",
+          "紫草",
+          "沙参",
+          "麦冬"
+        ],
+        "xuewei": [],
+        "jingluo": [],
+        "siqi": [],
+        "wuwei": [],
+        "guijing": [],
+        "keywords": [
+          "麻疹",
+          "儿科",
+          "中医临床",
+          "出疹性传染病",
+          "透疹",
+          "辛凉透表",
+          "麻疹黏膜斑"
+        ]
+      }
+    },
+    {
+      "id": "shuidou_001",
+      "book": "《中医儿科学》规划教材（要点归纳）",
+      "type": "zhinan",
+      "tier": 1,
+      "category": "linchuang",
+      "subcategory": "erke",
+      "path": "library/linchuang/erke/shuidou/shuidou_001.md",
+      "weight": 8,
+      "title": "水痘·小儿出疹性传染病丘疹疱疹并见",
+      "chapter": "儿科",
+      "conditions": {
+        "zhengxing": [
+          "邪伤肺卫",
+          "邪炽气营"
+        ],
+        "zhifa": [
+          "疏风清热",
+          "解毒利湿",
+          "清热凉营"
+        ],
+        "bingzheng": [
+          "水痘"
+        ],
+        "zhengzhuang": [
+          "发热",
+          "皮肤分批出现丘疹疱疹结痂",
+          "躯干部较多",
+          "同一时期丘疹疱疹结痂并见"
+        ],
+        "fangming": [
+          "银翘散",
+          "清胃解毒汤"
+        ],
+        "yaoming": [
+          "金银花",
+          "连翘",
+          "薄荷",
+          "蝉蜕",
+          "赤芍",
+          "丹皮",
+          "黄连",
+          "滑石"
+        ],
+        "xuewei": [],
+        "jingluo": [],
+        "siqi": [],
+        "wuwei": [],
+        "guijing": [],
+        "keywords": [
+          "水痘",
+          "儿科",
+          "中医临床",
+          "出疹性传染病",
+          "疱疹",
+          "清热解毒利湿",
+          "分批出疹"
+        ]
+      }
+    },
+    {
+      "id": "wuwuwu_001",
+      "book": "《中医儿科学》规划教材（要点归纳）",
+      "type": "zhinan",
+      "tier": 1,
+      "category": "linchuang",
+      "subcategory": "erke",
+      "path": "library/linchuang/erke/wuwuwu/wuwuwu_001.md",
+      "weight": 8,
+      "title": "五迟五软·小儿立行发齿语迟与头项手足肌肉软",
+      "chapter": "儿科",
+      "conditions": {
+        "zhengxing": [
+          "肝肾亏损",
+          "心脾两虚"
+        ],
+        "zhifa": [
+          "补肾养肝",
+          "健脾养心",
+          "益气填精"
+        ],
+        "bingzheng": [
+          "五迟五软"
+        ],
+        "zhengzhuang": [
+          "立迟行迟发迟齿迟语迟",
+          "头软项软手足软肌肉软口软",
+          "智力发育迟缓",
+          "筋骨痿弱"
+        ],
+        "fangming": [
+          "加味六味地黄丸",
+          "调元散",
+          "菖蒲丸"
+        ],
+        "yaoming": [
+          "熟地黄",
+          "山茱萸",
+          "鹿茸",
+          "五加皮",
+          "枸杞子",
+          "人参",
+          "白术",
+          "石菖蒲",
+          "远志"
+        ],
+        "xuewei": [],
+        "jingluo": [],
+        "siqi": [],
+        "wuwei": [],
+        "guijing": [],
+        "keywords": [
+          "五迟五软",
+          "儿科",
+          "中医临床",
+          "发育迟缓",
+          "立迟行迟",
+          "肝肾亏损",
+          "补肾填精"
+        ]
+      }
+    },
+    {
+      "id": "xiaochuan_001",
+      "book": "《中医儿科学》规划教材（要点归纳）",
+      "type": "zhinan",
+      "tier": 1,
+      "category": "linchuang",
+      "subcategory": "erke",
+      "path": "library/linchuang/erke/xiaochuan/xiaochuan_001.md",
+      "weight": 8,
+      "title": "哮喘·反复发作性痰鸣气喘",
+      "chapter": "儿科",
+      "conditions": {
+        "zhengxing": [
+          "发作期寒性哮喘",
+          "热性哮喘",
+          "外寒内热",
+          "缓解期肺气虚弱",
+          "脾气虚弱",
+          "肾气虚弱"
+        ],
+        "zhifa": [
+          "温肺散寒",
+          "清热化痰",
+          "解表清里",
+          "健脾益气",
+          "补肾固本"
+        ],
+        "bingzheng": [
+          "哮喘"
+        ],
+        "zhengzhuang": [
+          "发作性喘促",
+          "喉中痰鸣",
+          "呼气延长",
+          "反复发作",
+          "夜间或清晨加重"
+        ],
+        "fangming": [
+          "小青龙汤合三子养亲汤",
+          "麻杏石甘汤",
+          "大青龙汤",
+          "玉屏风散",
+          "六君子汤",
+          "金匮肾气丸"
+        ],
+        "yaoming": [
+          "麻黄",
+          "桂枝",
+          "细辛",
+          "干姜",
+          "五味子"
+        ],
+        "xuewei": [],
+        "jingluo": [],
+        "siqi": [],
+        "wuwei": [],
+        "guijing": [],
+        "keywords": [
+          "哮喘",
+          "小儿哮喘",
+          "儿科",
+          "中医临床",
+          "肺系疾病",
+          "辨证论治"
+        ]
+      }
+    },
+    {
+      "id": "xiaoerganmao_001",
+      "book": "《中医儿科学》规划教材（要点归纳）",
+      "type": "zhinan",
+      "tier": 1,
+      "category": "linchuang",
+      "subcategory": "erke",
+      "path": "library/linchuang/erke/xiaoerganmao/xiaoerganmao_001.md",
+      "weight": 8,
+      "title": "小儿感冒·外感发热鼻塞流涕",
+      "chapter": "儿科",
+      "conditions": {
+        "zhengxing": [
+          "风寒感冒",
+          "风热感冒",
+          "暑邪感冒",
+          "时邪感冒"
+        ],
+        "zhifa": [
+          "辛温解表",
+          "辛凉解表",
+          "清暑解表",
+          "清瘟解毒"
+        ],
+        "bingzheng": [
+          "小儿感冒"
+        ],
+        "zhengzhuang": [
+          "发热恶寒",
+          "鼻塞流涕",
+          "喷嚏",
+          "咳嗽",
+          "头痛"
+        ],
+        "fangming": [
+          "荆防败毒散",
+          "银翘散",
+          "新加香薷饮",
+          "银翘散合普济消毒饮"
+        ],
+        "yaoming": [
+          "金银花",
+          "连翘",
+          "薄荷",
+          "荆芥",
+          "桔梗"
+        ],
+        "xuewei": [],
+        "jingluo": [],
+        "siqi": [],
+        "wuwei": [],
+        "guijing": [],
+        "keywords": [
+          "小儿感冒",
+          "外感发热",
+          "儿科",
+          "中医临床",
+          "肺系疾病",
+          "辨证论治"
+        ]
+      }
+    },
+    {
+      "id": "xiaoerkesou_001",
+      "book": "《中医儿科学》规划教材（要点归纳）",
+      "type": "zhinan",
+      "tier": 1,
+      "category": "linchuang",
+      "subcategory": "erke",
+      "path": "library/linchuang/erke/xiaoerkesou/xiaoerkesou_001.md",
+      "weight": 8,
+      "title": "小儿咳嗽·以咳嗽为主症的肺系疾患",
+      "chapter": "儿科",
+      "conditions": {
+        "zhengxing": [
+          "风寒咳嗽",
+          "风热咳嗽",
+          "痰热咳嗽",
+          "痰湿咳嗽",
+          "阴虚咳嗽",
+          "气虚咳嗽"
+        ],
+        "zhifa": [
+          "疏风散寒",
+          "疏风清热",
+          "清肺化痰",
+          "燥湿化痰",
+          "养阴润肺",
+          "健脾益气"
+        ],
+        "bingzheng": [
+          "小儿咳嗽"
+        ],
+        "zhengzhuang": [
+          "咳嗽",
+          "有痰无痰",
+          "咯痰色白或黄",
+          "可伴鼻塞流涕"
+        ],
+        "fangming": [
+          "杏苏散",
+          "桑菊饮",
+          "清宁散",
+          "二陈汤",
+          "沙参麦冬汤",
+          "六君子汤"
+        ],
+        "yaoming": [
+          "杏仁",
+          "桑叶",
+          "菊花",
+          "瓜蒌",
+          "贝母"
+        ],
+        "xuewei": [],
+        "jingluo": [],
+        "siqi": [],
+        "wuwei": [],
+        "guijing": [],
+        "keywords": [
+          "小儿咳嗽",
+          "咳嗽",
+          "儿科",
+          "中医临床",
+          "肺系疾病",
+          "辨证论治"
+        ]
+      }
+    },
+    {
+      "id": "xiaoerweiyang_001",
+      "book": "《中医儿科学》规划教材（要点归纳）",
+      "type": "zhinan",
+      "tier": 1,
+      "category": "linchuang",
+      "subcategory": "erke",
+      "path": "library/linchuang/erke/xiaoerweiyang/xiaoerweiyang_001.md",
+      "weight": 8,
+      "title": "小儿喂养·母乳喂养与辅食添加",
+      "chapter": "儿科",
+      "conditions": {
+        "zhengxing": [
+          "乳食贵节",
+          "脾常不足"
+        ],
+        "zhifa": [
+          "母乳喂养",
+          "辅食循序渐进",
+          "顾护脾胃"
+        ],
+        "bingzheng": [
+          "小儿喂养"
+        ],
+        "zhengzhuang": [
+          "乳食宜忌",
+          "辅食添加",
+          "脾胃调护"
+        ],
+        "fangming": [],
+        "yaoming": [],
+        "xuewei": [],
+        "jingluo": [],
+        "siqi": [],
+        "wuwei": [],
+        "guijing": [],
+        "keywords": [
+          "小儿喂养",
+          "母乳喂养",
+          "辅食",
+          "儿科",
+          "中医临床",
+          "胎养胎教"
+        ]
+      }
+    },
+    {
+      "id": "xiaoerxianzheng_001",
+      "book": "《中医儿科学》规划教材（要点归纳）",
+      "type": "zhinan",
+      "tier": 1,
+      "category": "linchuang",
+      "subcategory": "erke",
+      "path": "library/linchuang/erke/xiaoerxianzheng/xiaoerxianzheng_001.md",
+      "weight": 8,
+      "title": "小儿痫证·小儿发作性神昏抽搐反复发作",
+      "chapter": "儿科",
+      "conditions": {
+        "zhengxing": [
+          "惊痫",
+          "风痫",
+          "痰痫",
+          "瘀血痫"
+        ],
+        "zhifa": [
+          "息风定痫",
+          "镇惊安神",
+          "涤痰开窍",
+          "活血化瘀"
+        ],
+        "bingzheng": [
+          "小儿痫证"
+        ],
+        "zhengzhuang": [
+          "发作性神昏",
+          "四肢抽搐",
+          "口吐涎沫",
+          "喉中痰鸣",
+          "反复发作"
+        ],
+        "fangming": [
+          "定痫丸",
+          "镇惊丸",
+          "涤痰汤"
+        ],
+        "yaoming": [
+          "天麻",
+          "全蝎",
+          "僵蚕",
+          "胆南星",
+          "半夏",
+          "石菖蒲",
+          "远志",
+          "茯神"
+        ],
+        "xuewei": [],
+        "jingluo": [],
+        "siqi": [],
+        "wuwei": [],
+        "guijing": [],
+        "keywords": [
+          "小儿痫证",
+          "儿科",
+          "中医临床",
+          "癫痫",
+          "抽搐",
+          "息风定痫",
+          "反复发作"
+        ]
+      }
+    },
+    {
+      "id": "xiaoerxixie_001",
+      "book": "《中医儿科学》规划教材（要点归纳）",
+      "type": "zhinan",
+      "tier": 1,
+      "category": "linchuang",
+      "subcategory": "erke",
+      "path": "library/linchuang/erke/xiaoerxixie/xiaoerxixie_001.md",
+      "weight": 8,
+      "title": "小儿泄泻·大便次数增多粪质稀溏",
+      "chapter": "儿科",
+      "conditions": {
+        "zhengxing": [
+          "湿热泻",
+          "风寒泻",
+          "伤食泻",
+          "脾虚泻",
+          "脾肾阳虚泻"
+        ],
+        "zhifa": [
+          "清肠解热",
+          "疏风散寒",
+          "消食化滞",
+          "健脾益气",
+          "温肾健脾"
+        ],
+        "bingzheng": [
+          "小儿泄泻"
+        ],
+        "zhengzhuang": [
+          "大便次数增多",
+          "粪质稀溏或如水样",
+          "或伴发热呕吐",
+          "口渴"
+        ],
+        "fangming": [
+          "葛根黄芩黄连汤",
+          "藿香正气散",
+          "保和丸",
+          "参苓白术散",
+          "附子理中汤合四神丸"
+        ],
+        "yaoming": [
+          "葛根",
+          "黄芩",
+          "黄连",
+          "藿香",
+          "茯苓"
+        ],
+        "xuewei": [],
+        "jingluo": [],
+        "siqi": [],
+        "wuwei": [],
+        "guijing": [],
+        "keywords": [
+          "小儿泄泻",
+          "腹泻",
+          "儿科",
+          "中医临床",
+          "脾胃疾病",
+          "辨证论治"
+        ]
+      }
+    },
+    {
+      "id": "yanshi_001",
+      "book": "《中医儿科学》规划教材（要点归纳）",
+      "type": "zhinan",
+      "tier": 1,
+      "category": "linchuang",
+      "subcategory": "erke",
+      "path": "library/linchuang/erke/yanshi/yanshi_001.md",
+      "weight": 8,
+      "title": "厌食·较长时期食欲不振见食不贪",
+      "chapter": "儿科",
+      "conditions": {
+        "zhengxing": [
+          "脾失健运",
+          "脾胃气虚",
+          "脾胃阴虚"
+        ],
+        "zhifa": [
+          "调和脾胃",
+          "运脾开胃",
+          "健脾益气",
+          "养胃育阴"
+        ],
+        "bingzheng": [
+          "厌食"
+        ],
+        "zhengzhuang": [
+          "较长时期食欲不振",
+          "见食不贪",
+          "食量减少",
+          "无明显消瘦"
+        ],
+        "fangming": [
+          "不换金正气散",
+          "异功散",
+          "养胃增液汤"
+        ],
+        "yaoming": [
+          "苍术",
+          "陈皮",
+          "山楂",
+          "神曲",
+          "石斛"
+        ],
+        "xuewei": [],
+        "jingluo": [],
+        "siqi": [],
+        "wuwei": [],
+        "guijing": [],
+        "keywords": [
+          "厌食",
+          "小儿厌食",
+          "儿科",
+          "中医临床",
+          "脾胃疾病",
+          "辨证论治"
+        ]
+      }
+    },
+    {
+      "id": "yeti_001",
+      "book": "《中医儿科学》规划教材（要点归纳）",
+      "type": "zhinan",
+      "tier": 1,
+      "category": "linchuang",
+      "subcategory": "erke",
+      "path": "library/linchuang/erke/yeti/yeti_001.md",
+      "weight": 8,
+      "title": "夜啼·小儿白天安静入夜啼哭不安",
+      "chapter": "儿科",
+      "conditions": {
+        "zhengxing": [
+          "脾寒",
+          "心热",
+          "惊恐"
+        ],
+        "zhifa": [
+          "温脾散寒",
+          "清心导赤",
+          "镇惊安神"
+        ],
+        "bingzheng": [
+          "夜啼"
+        ],
+        "zhengzhuang": [
+          "白天安静",
+          "入夜啼哭不安",
+          "或哭声低微",
+          "或哭声洪亮",
+          "惊恐不安"
+        ],
+        "fangming": [
+          "乌药散",
+          "导赤散",
+          "朱砂安神丸"
+        ],
+        "yaoming": [
+          "乌药",
+          "高良姜",
+          "白芍",
+          "生地",
+          "木通",
+          "黄连",
+          "钩藤",
+          "蝉蜕"
+        ],
+        "xuewei": [],
+        "jingluo": [],
+        "siqi": [],
+        "wuwei": [],
+        "guijing": [],
+        "keywords": [
+          "夜啼",
+          "儿科",
+          "中医临床",
+          "小儿夜啼",
+          "脾寒",
+          "心热",
+          "惊恐",
+          "镇惊安神"
+        ]
+      }
+    },
+    {
+      "id": "yinniao_001",
+      "book": "《中医儿科学》规划教材（要点归纳）",
+      "type": "zhinan",
+      "tier": 1,
+      "category": "linchuang",
+      "subcategory": "erke",
+      "path": "library/linchuang/erke/yinniao/yinniao_001.md",
+      "weight": 8,
+      "title": "遗尿·3岁以上小儿睡中小便自遗",
+      "chapter": "儿科",
+      "conditions": {
+        "zhengxing": [
+          "肾气不足",
+          "肺脾气虚",
+          "心肾失交",
+          "肝经湿热"
+        ],
+        "zhifa": [
+          "温补肾阳",
+          "培元益气",
+          "清心滋肾",
+          "泻肝清热"
+        ],
+        "bingzheng": [
+          "遗尿"
+        ],
+        "zhengzhuang": [
+          "3岁以上睡中小便自遗",
+          "醒后方觉",
+          "一夜数次",
+          "精神欠佳"
+        ],
+        "fangming": [
+          "菟丝子散",
+          "补中益气汤",
+          "交泰丸",
+          "龙胆泻肝汤"
+        ],
+        "yaoming": [
+          "菟丝子",
+          "益智仁",
+          "补骨脂",
+          "黄芪",
+          "党参",
+          "山药",
+          "桑螵蛸",
+          "石菖蒲"
+        ],
+        "xuewei": [],
+        "jingluo": [],
+        "siqi": [],
+        "wuwei": [],
+        "guijing": [],
+        "keywords": [
+          "遗尿",
+          "儿科",
+          "中医临床",
+          "小儿遗尿",
+          "肾气不足",
+          "肺脾气虚",
+          "温肾固涩"
+        ]
+      }
+    },
+    {
+      "id": "zhasai_001",
+      "book": "《中医儿科学》规划教材（要点归纳）",
+      "type": "zhinan",
+      "tier": 1,
+      "category": "linchuang",
+      "subcategory": "erke",
+      "path": "library/linchuang/erke/zhasai/zhasai_001.md",
+      "weight": 8,
+      "title": "痄腮·小儿腮腺肿痛性传染病",
+      "chapter": "儿科",
+      "conditions": {
+        "zhengxing": [
+          "邪犯少阳",
+          "热毒壅盛",
+          "邪陷心肝",
+          "毒窜睾腹"
+        ],
+        "zhifa": [
+          "疏风清热",
+          "清热解毒散结",
+          "息风开窍",
+          "清肝泻火"
+        ],
+        "bingzheng": [
+          "痄腮"
+        ],
+        "zhengzhuang": [
+          "发热",
+          "一侧或双侧耳下腮部漫肿疼痛",
+          "咀嚼不便",
+          "皮色不红"
+        ],
+        "fangming": [
+          "柴胡葛根汤",
+          "普济消毒饮",
+          "凉营清气汤",
+          "龙胆泻肝汤"
+        ],
+        "yaoming": [
+          "柴胡",
+          "黄芩",
+          "牛蒡子",
+          "连翘",
+          "板蓝根",
+          "夏枯草",
+          "玄参",
+          "僵蚕"
+        ],
+        "xuewei": [],
+        "jingluo": [],
+        "siqi": [],
+        "wuwei": [],
+        "guijing": [],
+        "keywords": [
+          "痄腮",
+          "儿科",
+          "中医临床",
+          "流行性腮腺炎",
+          "腮腺肿痛",
+          "清热解毒散结",
+          "普济消毒饮"
+        ]
+      }
+    },
+    {
+      "id": "xiaoershengli_001",
+      "book": "《中医儿科学》规划教材（要点归纳）",
+      "type": "zhinan",
+      "tier": 1,
+      "category": "linchuang",
+      "subcategory": "erke",
+      "path": "library/linchuang/erke/zonglun/xiaoershengli_001.md",
+      "weight": 8,
+      "title": "小儿生理病理特点·稚阴稚阳与纯阳之体",
+      "chapter": "儿科",
+      "conditions": {
+        "zhengxing": [
+          "稚阴稚阳",
+          "纯阳之体"
+        ],
+        "zhifa": [
+          "及时用药",
+          "中病即止",
+          "顾护脾胃"
+        ],
+        "bingzheng": [
+          "小儿生理病理"
+        ],
+        "zhengzhuang": [
+          "脏腑娇嫩",
+          "形气未充",
+          "生机蓬勃",
+          "传变迅速"
+        ],
+        "fangming": [],
+        "yaoming": [],
+        "xuewei": [],
+        "jingluo": [],
+        "siqi": [],
+        "wuwei": [],
+        "guijing": [],
+        "keywords": [
+          "小儿生理病理",
+          "儿科",
+          "中医临床",
+          "稚阴稚阳",
+          "纯阳之体"
         ]
       }
     },

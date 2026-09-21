@@ -1,6 +1,31 @@
 # linchuang · 中医临床
 
-> 收录 99 条 · 下级 4 个子类
+> 收录 119 条 · 下级 5 个子类
+
+## erke · 儿科
+
+| 书目 | 条目数 | 索引 |
+| --- | --- | --- |
+| linchuang/erke/feiyanchuansou | 1 | [索引](./linchuang/erke/feiyanchuansou/INDEX.md) |
+| linchuang/erke/fengzhen | 1 | [索引](./linchuang/erke/fengzhen/INDEX.md) |
+| linchuang/erke/ganzheng | 1 | [索引](./linchuang/erke/ganzheng/INDEX.md) |
+| linchuang/erke/hanzheng | 1 | [索引](./linchuang/erke/hanzheng/INDEX.md) |
+| linchuang/erke/jingfeng | 1 | [索引](./linchuang/erke/jingfeng/INDEX.md) |
+| linchuang/erke/jizhi | 1 | [索引](./linchuang/erke/jizhi/INDEX.md) |
+| linchuang/erke/mazhen | 1 | [索引](./linchuang/erke/mazhen/INDEX.md) |
+| linchuang/erke/shuidou | 1 | [索引](./linchuang/erke/shuidou/INDEX.md) |
+| linchuang/erke/wuwuwu | 1 | [索引](./linchuang/erke/wuwuwu/INDEX.md) |
+| linchuang/erke/xiaochuan | 1 | [索引](./linchuang/erke/xiaochuan/INDEX.md) |
+| linchuang/erke/xiaoerganmao | 1 | [索引](./linchuang/erke/xiaoerganmao/INDEX.md) |
+| linchuang/erke/xiaoerkesou | 1 | [索引](./linchuang/erke/xiaoerkesou/INDEX.md) |
+| linchuang/erke/xiaoerweiyang | 1 | [索引](./linchuang/erke/xiaoerweiyang/INDEX.md) |
+| linchuang/erke/xiaoerxianzheng | 1 | [索引](./linchuang/erke/xiaoerxianzheng/INDEX.md) |
+| linchuang/erke/xiaoerxixie | 1 | [索引](./linchuang/erke/xiaoerxixie/INDEX.md) |
+| linchuang/erke/yanshi | 1 | [索引](./linchuang/erke/yanshi/INDEX.md) |
+| linchuang/erke/yeti | 1 | [索引](./linchuang/erke/yeti/INDEX.md) |
+| linchuang/erke/yinniao | 1 | [索引](./linchuang/erke/yinniao/INDEX.md) |
+| linchuang/erke/zhasai | 1 | [索引](./linchuang/erke/zhasai/INDEX.md) |
+| linchuang/erke/zonglun | 1 | [索引](./linchuang/erke/zonglun/INDEX.md) |
 
 ## fuke · 妇科
 

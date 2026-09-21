@@ -87,6 +87,10 @@
       }
     },
     "linchuang": {
+      "fuke": {
+        "dir": "linchuang/fuke/zhengjia",
+        "count": 1
+      },
       "neike": {
         "dir": "linchuang/neike/xinxi/xiongbi",
         "count": 1
@@ -4699,6 +4703,166 @@
       "tier_name": "核心",
       "category": "jingdian",
       "subcategory": "wenbing",
+      "count": 1
+    },
+    {
+      "dir": "linchuang/fuke/benglou",
+      "tier": 1,
+      "tier_name": "核心",
+      "category": "linchuang",
+      "subcategory": "fuke",
+      "count": 1
+    },
+    {
+      "dir": "linchuang/fuke/biujing",
+      "tier": 1,
+      "tier_name": "核心",
+      "category": "linchuang",
+      "subcategory": "fuke",
+      "count": 1
+    },
+    {
+      "dir": "linchuang/fuke/buyunzheng",
+      "tier": 1,
+      "tier_name": "核心",
+      "category": "linchuang",
+      "subcategory": "fuke",
+      "count": 1
+    },
+    {
+      "dir": "linchuang/fuke/chanhoueulubujue",
+      "tier": 1,
+      "tier_name": "核心",
+      "category": "linchuang",
+      "subcategory": "fuke",
+      "count": 1
+    },
+    {
+      "dir": "linchuang/fuke/chanhoufare",
+      "tier": 1,
+      "tier_name": "核心",
+      "category": "linchuang",
+      "subcategory": "fuke",
+      "count": 1
+    },
+    {
+      "dir": "linchuang/fuke/daixiabing",
+      "tier": 1,
+      "tier_name": "核心",
+      "category": "linchuang",
+      "subcategory": "fuke",
+      "count": 1
+    },
+    {
+      "dir": "linchuang/fuke/huatai",
+      "tier": 1,
+      "tier_name": "核心",
+      "category": "linchuang",
+      "subcategory": "fuke",
+      "count": 1
+    },
+    {
+      "dir": "linchuang/fuke/jingjianqichuxue",
+      "tier": 1,
+      "tier_name": "核心",
+      "category": "linchuang",
+      "subcategory": "fuke",
+      "count": 1
+    },
+    {
+      "dir": "linchuang/fuke/queru",
+      "tier": 1,
+      "tier_name": "核心",
+      "category": "linchuang",
+      "subcategory": "fuke",
+      "count": 1
+    },
+    {
+      "dir": "linchuang/fuke/renenshaze",
+      "tier": 1,
+      "tier_name": "核心",
+      "category": "linchuang",
+      "subcategory": "fuke",
+      "count": 1
+    },
+    {
+      "dir": "linchuang/fuke/taidongbuan",
+      "tier": 1,
+      "tier_name": "核心",
+      "category": "linchuang",
+      "subcategory": "fuke",
+      "count": 1
+    },
+    {
+      "dir": "linchuang/fuke/tongjing",
+      "tier": 1,
+      "tier_name": "核心",
+      "category": "linchuang",
+      "subcategory": "fuke",
+      "count": 1
+    },
+    {
+      "dir": "linchuang/fuke/yinting",
+      "tier": 1,
+      "tier_name": "核心",
+      "category": "linchuang",
+      "subcategory": "fuke",
+      "count": 1
+    },
+    {
+      "dir": "linchuang/fuke/yuejing",
+      "tier": 1,
+      "tier_name": "核心",
+      "category": "linchuang",
+      "subcategory": "fuke",
+      "count": 1
+    },
+    {
+      "dir": "linchuang/fuke/yuejingguoduo",
+      "tier": 1,
+      "tier_name": "核心",
+      "category": "linchuang",
+      "subcategory": "fuke",
+      "count": 1
+    },
+    {
+      "dir": "linchuang/fuke/yuejingguoshao",
+      "tier": 1,
+      "tier_name": "核心",
+      "category": "linchuang",
+      "subcategory": "fuke",
+      "count": 1
+    },
+    {
+      "dir": "linchuang/fuke/yuejinghouqi",
+      "tier": 1,
+      "tier_name": "核心",
+      "category": "linchuang",
+      "subcategory": "fuke",
+      "count": 1
+    },
+    {
+      "dir": "linchuang/fuke/yuejingxianhouwudingqi",
+      "tier": 1,
+      "tier_name": "核心",
+      "category": "linchuang",
+      "subcategory": "fuke",
+      "count": 1
+    },
+    {
+      "dir": "linchuang/fuke/yuejingxianqi",
+      "tier": 1,
+      "tier_name": "核心",
+      "category": "linchuang",
+      "subcategory": "fuke",
+      "count": 1
+    },
+    {
+      "dir": "linchuang/fuke/zhengjia",
+      "tier": 1,
+      "tier_name": "核心",
+      "category": "linchuang",
+      "subcategory": "fuke",
       "count": 1
     },
     {
@@ -15574,7 +15738,7 @@
       "count": 1
     }
   ],
-  "total": 2958,
+  "total": 2978,
   "entries": [
     {
       "id": "angongniuhuangwan_002",
@@ -81327,6 +81491,1249 @@
           "齿燥",
           "胃热",
           "肾阴"
+        ]
+      }
+    },
+    {
+      "id": "benglou_001",
+      "book": "《中医妇科学》规划教材（要点归纳）",
+      "type": "zhinan",
+      "tier": 1,
+      "category": "linchuang",
+      "subcategory": "fuke",
+      "path": "library/linchuang/fuke/benglou/benglou_001.md",
+      "weight": 8,
+      "title": "崩漏·经血非时暴下不止或淋漓不尽",
+      "chapter": "妇科",
+      "conditions": {
+        "zhengxing": [
+          "脾虚",
+          "肾虚",
+          "血热",
+          "血瘀"
+        ],
+        "zhifa": [
+          "塞流",
+          "澄源",
+          "复旧",
+          "止血",
+          "调理冲任"
+        ],
+        "bingzheng": [
+          "崩漏"
+        ],
+        "zhengzhuang": [
+          "经血非时暴下不止",
+          "或淋漓不尽",
+          "周期经期经量紊乱",
+          "势如崩或漏下"
+        ],
+        "fangming": [
+          "固本止崩汤",
+          "左归丸",
+          "清热固经汤",
+          "四物汤合失笑散"
+        ],
+        "yaoming": [
+          "黄芪",
+          "人参",
+          "熟地",
+          "白术",
+          "三七"
+        ],
+        "xuewei": [],
+        "jingluo": [],
+        "siqi": [],
+        "wuwei": [],
+        "guijing": [],
+        "keywords": [
+          "崩漏",
+          "经崩",
+          "经漏",
+          "妇科",
+          "中医临床",
+          "月经病",
+          "辨证论治"
+        ]
+      }
+    },
+    {
+      "id": "biujing_001",
+      "book": "《中医妇科学》规划教材（要点归纳）",
+      "type": "zhinan",
+      "tier": 1,
+      "category": "linchuang",
+      "subcategory": "fuke",
+      "path": "library/linchuang/fuke/biujing/biujing_001.md",
+      "weight": 8,
+      "title": "闭经·年逾十六未潮或中断六月以上",
+      "chapter": "妇科",
+      "conditions": {
+        "zhengxing": [
+          "气血虚弱",
+          "肾气亏损",
+          "阴虚血燥",
+          "气滞血瘀",
+          "痰湿阻滞"
+        ],
+        "zhifa": [
+          "益气养血",
+          "补肾调经",
+          "养阴清热",
+          "理气活血",
+          "燥湿化痰"
+        ],
+        "bingzheng": [
+          "闭经"
+        ],
+        "zhengzhuang": [
+          "女子年逾十六尚未初潮",
+          "或已行经又中断六个月以上",
+          "或伴潮热",
+          "或伴纳呆"
+        ],
+        "fangming": [
+          "人参养荣汤",
+          "加减苁蓉菟丝子丸",
+          "加减一阴煎",
+          "血府逐瘀汤",
+          "苍附导痰丸"
+        ],
+        "yaoming": [
+          "当归",
+          "熟地",
+          "人参",
+          "黄芪",
+          "牛膝"
+        ],
+        "xuewei": [],
+        "jingluo": [],
+        "siqi": [],
+        "wuwei": [],
+        "guijing": [],
+        "keywords": [
+          "闭经",
+          "经闭",
+          "不月",
+          "妇科",
+          "中医临床",
+          "月经病",
+          "辨证论治"
+        ]
+      }
+    },
+    {
+      "id": "buyunzheng_001",
+      "book": "《中医妇科学》规划教材（要点归纳）",
+      "type": "zhinan",
+      "tier": 1,
+      "category": "linchuang",
+      "subcategory": "fuke",
+      "path": "library/linchuang/fuke/buyunzheng/buyunzheng_001.md",
+      "weight": 8,
+      "title": "不孕症·婚后未避孕同居2年以上未受孕",
+      "chapter": "妇科",
+      "conditions": {
+        "zhengxing": [
+          "肾虚",
+          "肝气郁结",
+          "瘀阻胞宫",
+          "痰湿内阻"
+        ],
+        "zhifa": [
+          "补肾调经",
+          "疏肝解郁",
+          "活血化瘀",
+          "燥湿化痰"
+        ],
+        "bingzheng": [
+          "不孕症"
+        ],
+        "zhengzhuang": [
+          "婚后未避孕同居2年以上未受孕",
+          "或曾孕育后2年以上未再孕",
+          "月经异常",
+          "腰膝酸软"
+        ],
+        "fangming": [
+          "毓麟珠",
+          "开郁种玉汤",
+          "少腹逐瘀汤",
+          "苍附导痰丸"
+        ],
+        "yaoming": [
+          "当归",
+          "熟地",
+          "菟丝子",
+          "鹿角胶",
+          "香附",
+          "柴胡",
+          "丹参",
+          "半夏",
+          "茯苓"
+        ],
+        "xuewei": [],
+        "jingluo": [],
+        "siqi": [],
+        "wuwei": [],
+        "guijing": [],
+        "keywords": [
+          "不孕症",
+          "妇科",
+          "中医临床",
+          "不孕",
+          "肾虚",
+          "疏肝解郁",
+          "瘀阻胞宫",
+          "调经助孕"
+        ]
+      }
+    },
+    {
+      "id": "chanhoueulubujue_001",
+      "book": "《中医妇科学》规划教材（要点归纳）",
+      "type": "zhinan",
+      "tier": 1,
+      "category": "linchuang",
+      "subcategory": "fuke",
+      "path": "library/linchuang/fuke/chanhoueulubujue/chanhoueulubujue_001.md",
+      "weight": 8,
+      "title": "产后恶露不绝·产后恶露持续3周以上淋漓不止",
+      "chapter": "妇科",
+      "conditions": {
+        "zhengxing": [
+          "气虚",
+          "血热",
+          "血瘀"
+        ],
+        "zhifa": [
+          "补气摄血",
+          "养阴清热止血",
+          "活血化瘀止血"
+        ],
+        "bingzheng": [
+          "产后恶露不绝"
+        ],
+        "zhengzhuang": [
+          "产后恶露持续3周以上淋漓不止",
+          "量多色淡",
+          "或色紫黯有块",
+          "小腹疼痛"
+        ],
+        "fangming": [
+          "补中益气汤",
+          "保阴煎",
+          "生化汤"
+        ],
+        "yaoming": [
+          "黄芪",
+          "党参",
+          "当归",
+          "川芎",
+          "桃仁",
+          "益母草",
+          "阿胶"
+        ],
+        "xuewei": [],
+        "jingluo": [],
+        "siqi": [],
+        "wuwei": [],
+        "guijing": [],
+        "keywords": [
+          "产后恶露不绝",
+          "妇科",
+          "中医临床",
+          "恶露",
+          "气虚",
+          "血热",
+          "血瘀",
+          "活血化瘀"
+        ]
+      }
+    },
+    {
+      "id": "chanhoufare_001",
+      "book": "《中医妇科学》规划教材（要点归纳）",
+      "type": "zhinan",
+      "tier": 1,
+      "category": "linchuang",
+      "subcategory": "fuke",
+      "path": "library/linchuang/fuke/chanhoufare/chanhoufare_001.md",
+      "weight": 8,
+      "title": "产后发热·产褥期内发热持续不退",
+      "chapter": "妇科",
+      "conditions": {
+        "zhengxing": [
+          "感染邪毒",
+          "外感",
+          "血瘀",
+          "血虚"
+        ],
+        "zhifa": [
+          "清热解毒",
+          "养血祛风",
+          "活血化瘀",
+          "补益气血"
+        ],
+        "bingzheng": [
+          "产后发热"
+        ],
+        "zhengzhuang": [
+          "产褥期发热持续不退",
+          "寒战高热",
+          "小腹疼痛拒按",
+          "恶露异常"
+        ],
+        "fangming": [
+          "五味消毒饮",
+          "荆穗四物汤",
+          "生化汤",
+          "八珍汤"
+        ],
+        "yaoming": [
+          "金银花",
+          "蒲公英",
+          "紫花地丁",
+          "当归",
+          "川芎",
+          "桃仁",
+          "黄芪"
+        ],
+        "xuewei": [],
+        "jingluo": [],
+        "siqi": [],
+        "wuwei": [],
+        "guijing": [],
+        "keywords": [
+          "产后发热",
+          "妇科",
+          "中医临床",
+          "产褥期",
+          "感染邪毒",
+          "血瘀",
+          "清热解毒"
+        ]
+      }
+    },
+    {
+      "id": "daixiabing_001",
+      "book": "《中医妇科学》规划教材（要点归纳）",
+      "type": "zhinan",
+      "tier": 1,
+      "category": "linchuang",
+      "subcategory": "fuke",
+      "path": "library/linchuang/fuke/daixiabing/daixiabing_001.md",
+      "weight": 8,
+      "title": "带下病·带下量多色质气味异常",
+      "chapter": "妇科",
+      "conditions": {
+        "zhengxing": [
+          "脾虚",
+          "肾虚",
+          "湿热下注",
+          "湿毒蕴结"
+        ],
+        "zhifa": [
+          "健脾益气",
+          "升阳除湿",
+          "温肾培元",
+          "清热利湿",
+          "解毒杀虫"
+        ],
+        "bingzheng": [
+          "带下病"
+        ],
+        "zhengzhuang": [
+          "带下量明显增多",
+          "色质气味异常",
+          "或伴阴痒",
+          "腰酸乏力"
+        ],
+        "fangming": [
+          "完带汤",
+          "内补丸",
+          "止带方",
+          "五味消毒饮"
+        ],
+        "yaoming": [
+          "山药",
+          "白术",
+          "苍术",
+          "薏苡仁",
+          "黄柏"
+        ],
+        "xuewei": [],
+        "jingluo": [],
+        "siqi": [],
+        "wuwei": [],
+        "guijing": [],
+        "keywords": [
+          "带下病",
+          "带下",
+          "妇科",
+          "中医临床",
+          "辨证论治"
+        ]
+      }
+    },
+    {
+      "id": "huatai_001",
+      "book": "《中医妇科学》规划教材（要点归纳）",
+      "type": "zhinan",
+      "tier": 1,
+      "category": "linchuang",
+      "subcategory": "fuke",
+      "path": "library/linchuang/fuke/huatai/huatai_001.md",
+      "weight": 8,
+      "title": "滑胎·连续3次或以上自然流产",
+      "chapter": "妇科",
+      "conditions": {
+        "zhengxing": [
+          "肾气不足",
+          "气血两虚",
+          "血瘀",
+          "血热"
+        ],
+        "zhifa": [
+          "补肾健脾",
+          "益气养血",
+          "固冲安胎",
+          "孕前调治"
+        ],
+        "bingzheng": [
+          "滑胎"
+        ],
+        "zhengzhuang": [
+          "连续3次或以上自然流产",
+          "屡孕屡堕",
+          "腰酸膝软",
+          "头晕耳鸣"
+        ],
+        "fangming": [
+          "补肾固冲丸",
+          "泰山磐石散",
+          "寿胎丸"
+        ],
+        "yaoming": [
+          "菟丝子",
+          "续断",
+          "桑寄生",
+          "杜仲",
+          "党参",
+          "白术",
+          "黄芪",
+          "阿胶"
+        ],
+        "xuewei": [],
+        "jingluo": [],
+        "siqi": [],
+        "wuwei": [],
+        "guijing": [],
+        "keywords": [
+          "滑胎",
+          "妇科",
+          "中医临床",
+          "习惯性流产",
+          "屡孕屡堕",
+          "补肾固冲",
+          "孕前调治"
+        ]
+      }
+    },
+    {
+      "id": "jingjianqichuxue_001",
+      "book": "《中医妇科学》规划教材（要点归纳）",
+      "type": "zhinan",
+      "tier": 1,
+      "category": "linchuang",
+      "subcategory": "fuke",
+      "path": "library/linchuang/fuke/jingjianqichuxue/jingjianqichuxue_001.md",
+      "weight": 8,
+      "title": "经间期出血·氤氲期周期性少量出血",
+      "chapter": "妇科",
+      "conditions": {
+        "zhengxing": [
+          "肾阴虚",
+          "湿热",
+          "血瘀"
+        ],
+        "zhifa": [
+          "滋肾养阴",
+          "清利湿热",
+          "化瘀止血"
+        ],
+        "bingzheng": [
+          "经间期出血"
+        ],
+        "zhengzhuang": [
+          "氤氲期周期性少量出血",
+          "血色或红或黯",
+          "持续一二天至数天",
+          "可伴少腹作胀"
+        ],
+        "fangming": [
+          "两地汤",
+          "清肝止淋汤",
+          "逐瘀止血汤"
+        ],
+        "yaoming": [
+          "生地",
+          "熟地",
+          "白芍",
+          "茯苓",
+          "三七"
+        ],
+        "xuewei": [],
+        "jingluo": [],
+        "siqi": [],
+        "wuwei": [],
+        "guijing": [],
+        "keywords": [
+          "经间期出血",
+          "氤氲期出血",
+          "妇科",
+          "中医临床",
+          "月经病",
+          "辨证论治"
+        ]
+      }
+    },
+    {
+      "id": "queru_001",
+      "book": "《中医妇科学》规划教材（要点归纳）",
+      "type": "zhinan",
+      "tier": 1,
+      "category": "linchuang",
+      "subcategory": "fuke",
+      "path": "library/linchuang/fuke/queru/queru_001.md",
+      "weight": 8,
+      "title": "缺乳·产后乳汁甚少或全无",
+      "chapter": "妇科",
+      "conditions": {
+        "zhengxing": [
+          "气血虚弱",
+          "肝郁气滞",
+          "痰浊阻滞"
+        ],
+        "zhifa": [
+          "补气养血",
+          "疏肝解郁",
+          "通络下乳",
+          "健脾化痰"
+        ],
+        "bingzheng": [
+          "缺乳"
+        ],
+        "zhengzhuang": [
+          "产后乳汁甚少",
+          "或全无",
+          "乳汁清稀",
+          "乳房柔软",
+          "或乳房胀痛"
+        ],
+        "fangming": [
+          "通乳丹",
+          "下乳涌泉散",
+          "苍附导痰丸"
+        ],
+        "yaoming": [
+          "黄芪",
+          "党参",
+          "当归",
+          "麦冬",
+          "木通",
+          "桔梗",
+          "穿山甲",
+          "王不留行",
+          "柴胡"
+        ],
+        "xuewei": [],
+        "jingluo": [],
+        "siqi": [],
+        "wuwei": [],
+        "guijing": [],
+        "keywords": [
+          "缺乳",
+          "妇科",
+          "中医临床",
+          "产后缺乳",
+          "气血虚弱",
+          "肝郁气滞",
+          "通络下乳"
+        ]
+      }
+    },
+    {
+      "id": "renenshaze_001",
+      "book": "《中医妇科学》规划教材（要点归纳）",
+      "type": "zhinan",
+      "tier": 1,
+      "category": "linchuang",
+      "subcategory": "fuke",
+      "path": "library/linchuang/fuke/renenshaze/renenshaze_001.md",
+      "weight": 8,
+      "title": "妊娠恶阻·妊娠早期恶心呕吐头晕厌食",
+      "chapter": "妇科",
+      "conditions": {
+        "zhengxing": [
+          "脾胃虚弱",
+          "肝胃不和",
+          "痰湿阻滞"
+        ],
+        "zhifa": [
+          "健脾和胃",
+          "降逆止呕",
+          "抑肝和胃"
+        ],
+        "bingzheng": [
+          "妊娠恶阻"
+        ],
+        "zhengzhuang": [
+          "妊娠早期恶心呕吐",
+          "头晕厌食",
+          "食入即吐",
+          "甚则呕吐苦水酸水"
+        ],
+        "fangming": [
+          "香砂六君子汤",
+          "苏叶黄连汤",
+          "青竹茹汤"
+        ],
+        "yaoming": [
+          "党参",
+          "白术",
+          "茯苓",
+          "半夏",
+          "陈皮",
+          "竹茹",
+          "黄连",
+          "生姜"
+        ],
+        "xuewei": [],
+        "jingluo": [],
+        "siqi": [],
+        "wuwei": [],
+        "guijing": [],
+        "keywords": [
+          "妊娠恶阻",
+          "妇科",
+          "中医临床",
+          "孕吐",
+          "脾胃虚弱",
+          "肝胃不和",
+          "和胃止呕"
+        ]
+      }
+    },
+    {
+      "id": "taidongbuan_001",
+      "book": "《中医妇科学》规划教材（要点归纳）",
+      "type": "zhinan",
+      "tier": 1,
+      "category": "linchuang",
+      "subcategory": "fuke",
+      "path": "library/linchuang/fuke/taidongbuan/taidongbuan_001.md",
+      "weight": 8,
+      "title": "胎动不安·妊娠期腰酸腹痛胎动下坠阴道少量出血",
+      "chapter": "妇科",
+      "conditions": {
+        "zhengxing": [
+          "肾虚",
+          "气血虚弱",
+          "血热",
+          "血瘀",
+          "外伤"
+        ],
+        "zhifa": [
+          "补肾安胎",
+          "益气养血",
+          "清热安胎",
+          "固冲止血"
+        ],
+        "bingzheng": [
+          "胎动不安"
+        ],
+        "zhengzhuang": [
+          "妊娠期腰酸腹痛",
+          "胎动下坠",
+          "阴道少量出血",
+          "下坠不适"
+        ],
+        "fangming": [
+          "寿胎丸",
+          "胎元饮",
+          "保阴煎",
+          "圣愈汤"
+        ],
+        "yaoming": [
+          "菟丝子",
+          "桑寄生",
+          "续断",
+          "阿胶",
+          "黄芪",
+          "白术",
+          "黄芩"
+        ],
+        "xuewei": [],
+        "jingluo": [],
+        "siqi": [],
+        "wuwei": [],
+        "guijing": [],
+        "keywords": [
+          "胎动不安",
+          "妇科",
+          "中医临床",
+          "先兆流产",
+          "安胎",
+          "补肾安胎",
+          "阴道出血"
+        ]
+      }
+    },
+    {
+      "id": "tongjing_001",
+      "book": "《中医妇科学》规划教材（要点归纳）",
+      "type": "zhinan",
+      "tier": 1,
+      "category": "linchuang",
+      "subcategory": "fuke",
+      "path": "library/linchuang/fuke/tongjing/tongjing_001.md",
+      "weight": 8,
+      "title": "痛经·经期或经行前后小腹疼痛",
+      "chapter": "妇科",
+      "conditions": {
+        "zhengxing": [
+          "气滞血瘀",
+          "寒凝血瘀",
+          "湿热蕴结",
+          "气血虚弱",
+          "肝肾亏损"
+        ],
+        "zhifa": [
+          "理气化瘀",
+          "温经散寒",
+          "清热除湿",
+          "益气养血",
+          "滋补肝肾"
+        ],
+        "bingzheng": [
+          "痛经"
+        ],
+        "zhengzhuang": [
+          "经期或经行前后小腹疼痛",
+          "痛及腰骶",
+          "周期性发作",
+          "可伴恶心呕吐"
+        ],
+        "fangming": [
+          "膈下逐瘀汤",
+          "少腹逐瘀汤",
+          "清热调血汤",
+          "圣愈汤",
+          "调肝汤"
+        ],
+        "yaoming": [
+          "当归",
+          "川芎",
+          "赤芍",
+          "小茴香",
+          "香附"
+        ],
+        "xuewei": [],
+        "jingluo": [],
+        "siqi": [],
+        "wuwei": [],
+        "guijing": [],
+        "keywords": [
+          "痛经",
+          "经行腹痛",
+          "妇科",
+          "中医临床",
+          "月经病",
+          "辨证论治"
+        ]
+      }
+    },
+    {
+      "id": "yinting_001",
+      "book": "《中医妇科学》规划教材（要点归纳）",
+      "type": "zhinan",
+      "tier": 1,
+      "category": "linchuang",
+      "subcategory": "fuke",
+      "path": "library/linchuang/fuke/yinting/yinting_001.md",
+      "weight": 8,
+      "title": "阴挺·子宫下移甚至脱出阴道口外",
+      "chapter": "妇科",
+      "conditions": {
+        "zhengxing": [
+          "气虚下陷",
+          "肾气不固"
+        ],
+        "zhifa": [
+          "补气升提",
+          "补肾固脱"
+        ],
+        "bingzheng": [
+          "阴挺"
+        ],
+        "zhengzhuang": [
+          "子宫下移",
+          "或脱出阴道口外",
+          "小腹下坠",
+          "排尿排便异常",
+          "腰酸带下"
+        ],
+        "fangming": [
+          "补中益气汤",
+          "大补元煎"
+        ],
+        "yaoming": [
+          "黄芪",
+          "党参",
+          "升麻",
+          "柴胡",
+          "当归",
+          "续断",
+          "杜仲",
+          "金樱子"
+        ],
+        "xuewei": [],
+        "jingluo": [],
+        "siqi": [],
+        "wuwei": [],
+        "guijing": [],
+        "keywords": [
+          "阴挺",
+          "妇科",
+          "中医临床",
+          "子宫脱垂",
+          "气虚下陷",
+          "补肾固脱",
+          "补中益气"
+        ]
+      }
+    },
+    {
+      "id": "yuejingbing_001",
+      "book": "《中医妇科学》规划教材（要点归纳）",
+      "type": "zhinan",
+      "tier": 1,
+      "category": "linchuang",
+      "subcategory": "fuke",
+      "path": "library/linchuang/fuke/yuejing/yuejingbing_001.md",
+      "weight": 8,
+      "title": "月经病总论·月经失调类疾病概述",
+      "chapter": "妇科",
+      "conditions": {
+        "zhengxing": [
+          "气虚",
+          "血热",
+          "血寒",
+          "气滞",
+          "血瘀"
+        ],
+        "zhifa": [
+          "调理气血",
+          "补肾",
+          "疏肝",
+          "健脾"
+        ],
+        "bingzheng": [
+          "月经病"
+        ],
+        "zhengzhuang": [
+          "月经周期异常",
+          "经量异常",
+          "经色经质异常"
+        ],
+        "fangming": [
+          "补中益气汤",
+          "清经散",
+          "温经汤",
+          "逍遥散",
+          "失笑散"
+        ],
+        "yaoming": [
+          "当归",
+          "白芍",
+          "熟地黄",
+          "柴胡",
+          "香附"
+        ],
+        "xuewei": [],
+        "jingluo": [],
+        "siqi": [],
+        "wuwei": [],
+        "guijing": [],
+        "keywords": [
+          "月经病",
+          "妇科",
+          "中医临床",
+          "调经",
+          "辨证论治"
+        ]
+      }
+    },
+    {
+      "id": "yuejingguoduo_001",
+      "book": "《中医妇科学》规划教材（要点归纳）",
+      "type": "zhinan",
+      "tier": 1,
+      "category": "linchuang",
+      "subcategory": "fuke",
+      "path": "library/linchuang/fuke/yuejingguoduo/yuejingguoduo_001.md",
+      "weight": 8,
+      "title": "月经过多·经量明显多于正常",
+      "chapter": "妇科",
+      "conditions": {
+        "zhengxing": [
+          "气虚",
+          "血热",
+          "血瘀"
+        ],
+        "zhifa": [
+          "补气摄血",
+          "清热凉血",
+          "化瘀止血"
+        ],
+        "bingzheng": [
+          "月经过多"
+        ],
+        "zhengzhuang": [
+          "经量明显增多",
+          "周期基本正常",
+          "经色或淡或红或紫黑有块"
+        ],
+        "fangming": [
+          "举元煎",
+          "保阴煎",
+          "失笑散"
+        ],
+        "yaoming": [
+          "黄芪",
+          "人参",
+          "生地",
+          "蒲黄",
+          "五灵脂"
+        ],
+        "xuewei": [],
+        "jingluo": [],
+        "siqi": [],
+        "wuwei": [],
+        "guijing": [],
+        "keywords": [
+          "月经过多",
+          "经多",
+          "妇科",
+          "中医临床",
+          "月经病",
+          "辨证论治"
+        ]
+      }
+    },
+    {
+      "id": "yuejingguoshao_001",
+      "book": "《中医妇科学》规划教材（要点归纳）",
+      "type": "zhinan",
+      "tier": 1,
+      "category": "linchuang",
+      "subcategory": "fuke",
+      "path": "library/linchuang/fuke/yuejingguoshao/yuejingguoshao_001.md",
+      "weight": 8,
+      "title": "月经过少·经量明显少于正常",
+      "chapter": "妇科",
+      "conditions": {
+        "zhengxing": [
+          "肾虚",
+          "血虚",
+          "血瘀",
+          "痰湿"
+        ],
+        "zhifa": [
+          "补肾养血",
+          "活血化瘀",
+          "燥湿化痰"
+        ],
+        "bingzheng": [
+          "月经过少"
+        ],
+        "zhengzhuang": [
+          "经量明显减少",
+          "周期基本正常",
+          "或经行不足两天",
+          "经色或淡或黯"
+        ],
+        "fangming": [
+          "归肾丸",
+          "滋血汤",
+          "桃红四物汤",
+          "苍附导痰丸"
+        ],
+        "yaoming": [
+          "当归",
+          "熟地",
+          "山茱萸",
+          "桃仁",
+          "苍术"
+        ],
+        "xuewei": [],
+        "jingluo": [],
+        "siqi": [],
+        "wuwei": [],
+        "guijing": [],
+        "keywords": [
+          "月经过少",
+          "经少",
+          "妇科",
+          "中医临床",
+          "月经病",
+          "辨证论治"
+        ]
+      }
+    },
+    {
+      "id": "yuejinghouqi_001",
+      "book": "《中医妇科学》规划教材（要点归纳）",
+      "type": "zhinan",
+      "tier": 1,
+      "category": "linchuang",
+      "subcategory": "fuke",
+      "path": "library/linchuang/fuke/yuejinghouqi/yuejinghouqi_001.md",
+      "weight": 8,
+      "title": "月经后期·月经延后七天以上",
+      "chapter": "妇科",
+      "conditions": {
+        "zhengxing": [
+          "肾虚",
+          "血虚",
+          "血寒",
+          "气滞",
+          "痰湿"
+        ],
+        "zhifa": [
+          "补肾养血",
+          "温经散寒",
+          "理气行滞",
+          "燥湿化痰"
+        ],
+        "bingzheng": [
+          "月经后期"
+        ],
+        "zhengzhuang": [
+          "月经延后七天以上",
+          "连续两个周期",
+          "经量过少",
+          "经色黯或淡"
+        ],
+        "fangming": [
+          "大补元煎",
+          "人参养荣汤",
+          "温经汤",
+          "乌药汤",
+          "芎归二陈汤"
+        ],
+        "yaoming": [
+          "当归",
+          "熟地",
+          "艾叶",
+          "香附",
+          "川芎"
+        ],
+        "xuewei": [],
+        "jingluo": [],
+        "siqi": [],
+        "wuwei": [],
+        "guijing": [],
+        "keywords": [
+          "月经后期",
+          "月经延后",
+          "妇科",
+          "中医临床",
+          "月经病",
+          "辨证论治"
+        ]
+      }
+    },
+    {
+      "id": "yuejingxianhouwudingqi_001",
+      "book": "《中医妇科学》规划教材（要点归纳）",
+      "type": "zhinan",
+      "tier": 1,
+      "category": "linchuang",
+      "subcategory": "fuke",
+      "path": "library/linchuang/fuke/yuejingxianhouwudingqi/yuejingxianhouwudingqi_001.md",
+      "weight": 8,
+      "title": "月经先后无定期·月经提前或延后无定期",
+      "chapter": "妇科",
+      "conditions": {
+        "zhengxing": [
+          "肝郁",
+          "肾虚"
+        ],
+        "zhifa": [
+          "疏肝理气",
+          "补肾调经"
+        ],
+        "bingzheng": [
+          "月经先后无定期"
+        ],
+        "zhengzhuang": [
+          "月经提前或延后",
+          "周期不规律",
+          "连续三个周期",
+          "经量或多或寡"
+        ],
+        "fangming": [
+          "逍遥散",
+          "固阴煎"
+        ],
+        "yaoming": [
+          "柴胡",
+          "当归",
+          "白芍",
+          "熟地",
+          "山药"
+        ],
+        "xuewei": [],
+        "jingluo": [],
+        "siqi": [],
+        "wuwei": [],
+        "guijing": [],
+        "keywords": [
+          "月经先后无定期",
+          "经水先后无定期",
+          "妇科",
+          "中医临床",
+          "月经病",
+          "辨证论治"
+        ]
+      }
+    },
+    {
+      "id": "yuejingxianqi_001",
+      "book": "《中医妇科学》规划教材（要点归纳）",
+      "type": "zhinan",
+      "tier": 1,
+      "category": "linchuang",
+      "subcategory": "fuke",
+      "path": "library/linchuang/fuke/yuejingxianqi/yuejingxianqi_001.md",
+      "weight": 8,
+      "title": "月经先期·月经提前七天以上",
+      "chapter": "妇科",
+      "conditions": {
+        "zhengxing": [
+          "气虚",
+          "阳盛血热",
+          "阴虚血热",
+          "肝郁化热"
+        ],
+        "zhifa": [
+          "补气摄血",
+          "清热凉血",
+          "养阴清热",
+          "疏肝清热"
+        ],
+        "bingzheng": [
+          "月经先期"
+        ],
+        "zhengzhuang": [
+          "月经提前七天以上",
+          "连续两个周期",
+          "经量或多或少",
+          "经色或淡或红或紫"
+        ],
+        "fangming": [
+          "补中益气汤",
+          "清经散",
+          "两地汤",
+          "丹栀逍遥散"
+        ],
+        "yaoming": [
+          "黄芪",
+          "人参",
+          "当归",
+          "白芍",
+          "生地"
+        ],
+        "xuewei": [],
+        "jingluo": [],
+        "siqi": [],
+        "wuwei": [],
+        "guijing": [],
+        "keywords": [
+          "月经先期",
+          "月经赶前",
+          "妇科",
+          "中医临床",
+          "月经病",
+          "辨证论治"
+        ]
+      }
+    },
+    {
+      "id": "zhengjia_001",
+      "book": "《中医妇科学》规划教材（要点归纳）",
+      "type": "zhinan",
+      "tier": 1,
+      "category": "linchuang",
+      "subcategory": "fuke",
+      "path": "library/linchuang/fuke/zhengjia/zhengjia_001.md",
+      "weight": 8,
+      "title": "癥瘕·下腹结块伴有或胀或满或痛",
+      "chapter": "妇科",
+      "conditions": {
+        "zhengxing": [
+          "气滞",
+          "血瘀",
+          "痰湿",
+          "毒热"
+        ],
+        "zhifa": [
+          "理气行滞",
+          "活血化瘀",
+          "化痰散结",
+          "清热解毒"
+        ],
+        "bingzheng": [
+          "癥瘕"
+        ],
+        "zhengzhuang": [
+          "下腹结块",
+          "或胀或满或痛",
+          "月经异常",
+          "带下增多"
+        ],
+        "fangming": [
+          "香棱丸",
+          "桂枝茯苓丸",
+          "大黄䗪虫丸",
+          "散聚汤"
+        ],
+        "yaoming": [
+          "当归",
+          "赤芍",
+          "桃仁",
+          "三棱",
+          "莪术",
+          "香附",
+          "陈皮",
+          "半夏"
+        ],
+        "xuewei": [],
+        "jingluo": [],
+        "siqi": [],
+        "wuwei": [],
+        "guijing": [],
+        "keywords": [
+          "癥瘕",
+          "妇科",
+          "中医临床",
+          "下腹结块",
+          "血瘀",
+          "痰湿",
+          "活血化瘀",
+          "桂枝茯苓丸"
         ]
       }
     },

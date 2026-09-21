@@ -110,6 +110,10 @@
       "wenbing": {
         "dir": "linchuang/wenbing/yingfenzheng",
         "count": 1
+      },
+      "wuguan": {
+        "dir": "linchuang/wuguan/yuanyinneizhang",
+        "count": 1
       }
     },
     "xiandai": {
@@ -5783,6 +5787,134 @@
       "tier_name": "核心",
       "category": "linchuang",
       "subcategory": "wenbing",
+      "count": 1
+    },
+    {
+      "dir": "linchuang/wuguan/baofengke",
+      "tier": 1,
+      "tier_name": "核心",
+      "category": "linchuang",
+      "subcategory": "wuguan",
+      "count": 1
+    },
+    {
+      "dir": "linchuang/wuguan/baojianjibing",
+      "tier": 1,
+      "tier_name": "核心",
+      "category": "linchuang",
+      "subcategory": "wuguan",
+      "count": 1
+    },
+    {
+      "dir": "linchuang/wuguan/biqiu",
+      "tier": 1,
+      "tier_name": "核心",
+      "category": "linchuang",
+      "subcategory": "wuguan",
+      "count": 1
+    },
+    {
+      "dir": "linchuang/wuguan/biyuan",
+      "tier": 1,
+      "tier_name": "核心",
+      "category": "linchuang",
+      "subcategory": "wuguan",
+      "count": 1
+    },
+    {
+      "dir": "linchuang/wuguan/erminglong",
+      "tier": 1,
+      "tier_name": "核心",
+      "category": "linchuang",
+      "subcategory": "wuguan",
+      "count": 1
+    },
+    {
+      "dir": "linchuang/wuguan/houbi",
+      "tier": 1,
+      "tier_name": "核心",
+      "category": "linchuang",
+      "subcategory": "wuguan",
+      "count": 1
+    },
+    {
+      "dir": "linchuang/wuguan/houyin",
+      "tier": 1,
+      "tier_name": "核心",
+      "category": "linchuang",
+      "subcategory": "wuguan",
+      "count": 1
+    },
+    {
+      "dir": "linchuang/wuguan/kouchuang",
+      "tier": 1,
+      "tier_name": "核心",
+      "category": "linchuang",
+      "subcategory": "wuguan",
+      "count": 1
+    },
+    {
+      "dir": "linchuang/wuguan/leiliuzheng",
+      "tier": 1,
+      "tier_name": "核心",
+      "category": "linchuang",
+      "subcategory": "wuguan",
+      "count": 1
+    },
+    {
+      "dir": "linchuang/wuguan/nonger",
+      "tier": 1,
+      "tier_name": "核心",
+      "category": "linchuang",
+      "subcategory": "wuguan",
+      "count": 1
+    },
+    {
+      "dir": "linchuang/wuguan/qingfengneizhang",
+      "tier": 1,
+      "tier_name": "核心",
+      "category": "linchuang",
+      "subcategory": "wuguan",
+      "count": 1
+    },
+    {
+      "dir": "linchuang/wuguan/ruie",
+      "tier": 1,
+      "tier_name": "核心",
+      "category": "linchuang",
+      "subcategory": "wuguan",
+      "count": 1
+    },
+    {
+      "dir": "linchuang/wuguan/tianxingchiyan",
+      "tier": 1,
+      "tier_name": "核心",
+      "category": "linchuang",
+      "subcategory": "wuguan",
+      "count": 1
+    },
+    {
+      "dir": "linchuang/wuguan/yanbing",
+      "tier": 1,
+      "tier_name": "核心",
+      "category": "linchuang",
+      "subcategory": "wuguan",
+      "count": 1
+    },
+    {
+      "dir": "linchuang/wuguan/yatong",
+      "tier": 1,
+      "tier_name": "核心",
+      "category": "linchuang",
+      "subcategory": "wuguan",
+      "count": 1
+    },
+    {
+      "dir": "linchuang/wuguan/yuanyinneizhang",
+      "tier": 1,
+      "tier_name": "核心",
+      "category": "linchuang",
+      "subcategory": "wuguan",
       "count": 1
     },
     {
@@ -16026,7 +16158,7 @@
       "count": 1
     }
   ],
-  "total": 3013,
+  "total": 3029,
   "entries": [
     {
       "id": "angongniuhuangwan_002",
@@ -89742,6 +89874,1061 @@
           "卫气营血",
           "营分证",
           "透热转气"
+        ]
+      }
+    },
+    {
+      "id": "baofengke_001",
+      "book": "《中医眼科学》规划教材（要点归纳）",
+      "type": "zhinan",
+      "tier": 1,
+      "category": "linchuang",
+      "subcategory": "wuguan",
+      "path": "library/linchuang/wuguan/baofengke/baofengke_001.md",
+      "weight": 8,
+      "title": "暴风客热·急性细菌性结膜炎",
+      "chapter": "五官",
+      "conditions": {
+        "zhengxing": [
+          "风重于热",
+          "热重于风",
+          "风热并重"
+        ],
+        "zhifa": [
+          "疏风清热",
+          "清热泻火",
+          "内外合治"
+        ],
+        "bingzheng": [
+          "暴风客热"
+        ],
+        "zhengzhuang": [
+          "胞睑红肿",
+          "白睛红赤",
+          "灼热痒痛",
+          "眵多粘结"
+        ],
+        "fangming": [
+          "银翘散",
+          "泻肺饮",
+          "驱风散热饮子"
+        ],
+        "yaoming": [
+          "金银花",
+          "连翘",
+          "石膏",
+          "黄芩",
+          "防风"
+        ],
+        "xuewei": [],
+        "jingluo": [],
+        "siqi": [],
+        "wuwei": [],
+        "guijing": [],
+        "keywords": [
+          "暴风客热",
+          "急性结膜炎",
+          "细菌性结膜炎",
+          "眼科",
+          "中医临床",
+          "白睛病",
+          "辨证论治"
+        ]
+      }
+    },
+    {
+      "id": "baojianjibing_001",
+      "book": "《中医眼科学》规划教材（要点归纳）",
+      "type": "zhinan",
+      "tier": 1,
+      "category": "linchuang",
+      "subcategory": "wuguan",
+      "path": "library/linchuang/wuguan/baojianjibing/baojianjibing_001.md",
+      "weight": 8,
+      "title": "胞睑疾病·沙眼上睑下垂等胞睑部疾病概述",
+      "chapter": "五官",
+      "conditions": {
+        "zhengxing": [
+          "风热外袭",
+          "脾胃湿热",
+          "气血不足",
+          "脾虚气弱"
+        ],
+        "zhifa": [
+          "疏风清热",
+          "清热利湿",
+          "益气养血",
+          "升阳举陷"
+        ],
+        "bingzheng": [
+          "胞睑疾病"
+        ],
+        "zhengzhuang": [
+          "胞睑红肿",
+          "睑内颗粒",
+          "上睑下垂",
+          "目涩痒痛"
+        ],
+        "fangming": [
+          "银翘散",
+          "除风清脾饮",
+          "补中益气汤",
+          "人参养荣汤"
+        ],
+        "yaoming": [
+          "金银花",
+          "连翘",
+          "防风",
+          "黄芪",
+          "升麻"
+        ],
+        "xuewei": [],
+        "jingluo": [],
+        "siqi": [],
+        "wuwei": [],
+        "guijing": [],
+        "keywords": [
+          "胞睑疾病",
+          "沙眼",
+          "上睑下垂",
+          "眼科",
+          "中医临床",
+          "眼睑病",
+          "辨证论治"
+        ]
+      }
+    },
+    {
+      "id": "biqiu_001",
+      "book": "《中医耳鼻咽喉科学》规划教材（要点归纳）",
+      "type": "zhinan",
+      "tier": 1,
+      "category": "linchuang",
+      "subcategory": "wuguan",
+      "path": "library/linchuang/wuguan/biqiu/biqiu_001.md",
+      "weight": 8,
+      "title": "鼻鼽·阵发性鼻痒喷嚏流清涕过敏性鼻炎",
+      "chapter": "五官",
+      "conditions": {
+        "zhengxing": [
+          "肺气虚寒",
+          "脾气虚弱",
+          "肾阳不足",
+          "肺经伏热"
+        ],
+        "zhifa": [
+          "温补肺脏",
+          "健脾益气",
+          "温补肾阳",
+          "清肺泻热"
+        ],
+        "bingzheng": [
+          "鼻鼽"
+        ],
+        "zhengzhuang": [
+          "阵发性鼻痒",
+          "喷嚏频作",
+          "流清涕",
+          "鼻塞",
+          "反复发作"
+        ],
+        "fangming": [
+          "温肺止流丹",
+          "补中益气汤",
+          "金匮肾气丸",
+          "辛夷清肺饮"
+        ],
+        "yaoming": [
+          "黄芪",
+          "防风",
+          "白术",
+          "桂枝",
+          "细辛",
+          "辛夷",
+          "蝉蜕",
+          "五味子"
+        ],
+        "xuewei": [
+          "迎香",
+          "印堂",
+          "风池",
+          "肺俞"
+        ],
+        "jingluo": [
+          "手太阴肺经",
+          "足太阳膀胱经"
+        ],
+        "siqi": [],
+        "wuwei": [],
+        "guijing": [],
+        "keywords": [
+          "鼻鼽",
+          "五官",
+          "中医临床",
+          "过敏性鼻炎",
+          "鼻痒喷嚏",
+          "流清涕",
+          "温肺止流丹"
+        ]
+      }
+    },
+    {
+      "id": "biyuan_001",
+      "book": "《中医耳鼻咽喉科学》规划教材（要点归纳）",
+      "type": "zhinan",
+      "tier": 1,
+      "category": "linchuang",
+      "subcategory": "wuguan",
+      "path": "library/linchuang/wuguan/biyuan/biyuan_001.md",
+      "weight": 8,
+      "title": "鼻渊·鼻流浊涕量多不止鼻窦炎",
+      "chapter": "五官",
+      "conditions": {
+        "zhengxing": [
+          "肺经风热",
+          "胆腑郁热",
+          "脾胃湿热",
+          "肺气虚寒"
+        ],
+        "zhifa": [
+          "疏风清热",
+          "清泻胆热",
+          "清热利湿",
+          "温补肺脏"
+        ],
+        "bingzheng": [
+          "鼻渊"
+        ],
+        "zhengzhuang": [
+          "鼻塞",
+          "流浊涕量多",
+          "头痛",
+          "嗅觉减退",
+          "或伴发热"
+        ],
+        "fangming": [
+          "苍耳子散",
+          "龙胆泻肝汤",
+          "黄芩滑石汤",
+          "温肺止流丹"
+        ],
+        "yaoming": [
+          "苍耳子",
+          "辛夷",
+          "白芷",
+          "薄荷",
+          "黄芩",
+          "龙胆草",
+          "鱼腥草"
+        ],
+        "xuewei": [
+          "迎香",
+          "印堂",
+          "上迎香"
+        ],
+        "jingluo": [
+          "手太阴肺经",
+          "足少阳胆经"
+        ],
+        "siqi": [],
+        "wuwei": [],
+        "guijing": [],
+        "keywords": [
+          "鼻渊",
+          "五官",
+          "中医临床",
+          "鼻窦炎",
+          "鼻塞",
+          "流浊涕",
+          "苍耳子散"
+        ]
+      }
+    },
+    {
+      "id": "erminglong_001",
+      "book": "《中医耳鼻咽喉科学》规划教材（要点归纳）",
+      "type": "zhinan",
+      "tier": 1,
+      "category": "linchuang",
+      "subcategory": "wuguan",
+      "path": "library/linchuang/wuguan/erminglong/erminglong_001.md",
+      "weight": 8,
+      "title": "耳鸣耳聋",
+      "chapter": "五官",
+      "conditions": {
+        "zhengxing": [
+          "风热侵袭",
+          "肝火上扰",
+          "痰火郁结",
+          "肾精亏损",
+          "脾胃虚弱"
+        ],
+        "zhifa": [
+          "疏风清热",
+          "清肝泻火",
+          "化痰清火",
+          "补肾填精",
+          "健脾益气"
+        ],
+        "bingzheng": [
+          "耳鸣",
+          "耳聋"
+        ],
+        "zhengzhuang": [
+          "耳内鸣响",
+          "听力减退",
+          "甚则耳聋",
+          "或伴头晕"
+        ],
+        "fangming": [
+          "银翘散",
+          "龙胆泻肝汤",
+          "温胆汤",
+          "耳聋左慈丸",
+          "益气聪明汤"
+        ],
+        "yaoming": [
+          "柴胡",
+          "龙胆草",
+          "磁石",
+          "熟地",
+          "黄芪"
+        ],
+        "xuewei": [],
+        "jingluo": [],
+        "siqi": [],
+        "wuwei": [],
+        "guijing": [],
+        "keywords": [
+          "耳鸣",
+          "耳聋",
+          "耳鼻喉",
+          "中医临床",
+          "耳病",
+          "辨证论治"
+        ]
+      }
+    },
+    {
+      "id": "houbi_001",
+      "book": "《中医耳鼻咽喉科学》规划教材（要点归纳）",
+      "type": "zhinan",
+      "tier": 1,
+      "category": "linchuang",
+      "subcategory": "wuguan",
+      "path": "library/linchuang/wuguan/houbi/houbi_001.md",
+      "weight": 8,
+      "title": "喉痹·咽部红肿疼痛不适急慢性咽炎",
+      "chapter": "五官",
+      "conditions": {
+        "zhengxing": [
+          "风热外袭",
+          "肺胃热盛",
+          "肺肾阴虚",
+          "脾胃虚弱"
+        ],
+        "zhifa": [
+          "疏风清热",
+          "清热解毒利咽",
+          "滋阴降火",
+          "益气健脾"
+        ],
+        "bingzheng": [
+          "喉痹"
+        ],
+        "zhengzhuang": [
+          "咽部红肿疼痛",
+          "咽干不适",
+          "异物感",
+          "或咳嗽",
+          "反复发作"
+        ],
+        "fangming": [
+          "疏风清热汤",
+          "清咽利膈汤",
+          "养阴清肺汤",
+          "补中益气汤"
+        ],
+        "yaoming": [
+          "金银花",
+          "连翘",
+          "桔梗",
+          "甘草",
+          "玄参",
+          "麦冬",
+          "牛蒡子"
+        ],
+        "xuewei": [
+          "廉泉",
+          "天突",
+          "合谷"
+        ],
+        "jingluo": [
+          "手太阴肺经",
+          "足少阴肾经"
+        ],
+        "siqi": [],
+        "wuwei": [],
+        "guijing": [],
+        "keywords": [
+          "喉痹",
+          "五官",
+          "中医临床",
+          "咽炎",
+          "咽痛",
+          "咽干",
+          "养阴清肺汤"
+        ]
+      }
+    },
+    {
+      "id": "houyin_001",
+      "book": "《中医耳鼻咽喉科学》规划教材（要点归纳）",
+      "type": "zhinan",
+      "tier": 1,
+      "category": "linchuang",
+      "subcategory": "wuguan",
+      "path": "library/linchuang/wuguan/houyin/houyin_001.md",
+      "weight": 8,
+      "title": "喉瘖·声音嘶哑失音",
+      "chapter": "五官",
+      "conditions": {
+        "zhengxing": [
+          "风热犯肺",
+          "风寒袭肺",
+          "肺肾阴虚",
+          "肺脾气虚",
+          "气滞血瘀痰凝"
+        ],
+        "zhifa": [
+          "疏风清热",
+          "疏风散寒",
+          "滋养肺肾",
+          "补益肺脾",
+          "行气活血化痰"
+        ],
+        "bingzheng": [
+          "喉瘖"
+        ],
+        "zhengzhuang": [
+          "声音嘶哑",
+          "发声费力",
+          "咽喉不适",
+          "或失音",
+          "讲话易疲劳"
+        ],
+        "fangming": [
+          "疏风清热汤",
+          "三拗汤",
+          "养阴清肺汤",
+          "补中益气汤",
+          "会厌逐瘀汤"
+        ],
+        "yaoming": [
+          "蝉蜕",
+          "木蝴蝶",
+          "桔梗",
+          "甘草",
+          "胖大海",
+          "玄参",
+          "麦冬",
+          "桃仁"
+        ],
+        "xuewei": [
+          "人迎",
+          "水突",
+          "合谷"
+        ],
+        "jingluo": [
+          "手太阴肺经",
+          "任脉"
+        ],
+        "siqi": [],
+        "wuwei": [],
+        "guijing": [],
+        "keywords": [
+          "喉瘖",
+          "五官",
+          "中医临床",
+          "声音嘶哑",
+          "失音",
+          "蝉蜕",
+          "养阴清肺汤"
+        ]
+      }
+    },
+    {
+      "id": "kouchuang_001",
+      "book": "《中医口腔科学》规划教材（要点归纳）",
+      "type": "zhinan",
+      "tier": 1,
+      "category": "linchuang",
+      "subcategory": "wuguan",
+      "path": "library/linchuang/wuguan/kouchuang/kouchuang_001.md",
+      "weight": 8,
+      "title": "口疮·口腔黏膜溃疡疼痛口腔溃疡",
+      "chapter": "五官",
+      "conditions": {
+        "zhengxing": [
+          "心脾积热",
+          "阴虚火旺",
+          "脾肾阳虚",
+          "气血两虚"
+        ],
+        "zhifa": [
+          "清心泻脾",
+          "滋阴降火",
+          "温补脾肾",
+          "益气养血"
+        ],
+        "bingzheng": [
+          "口疮"
+        ],
+        "zhengzhuang": [
+          "口腔黏膜溃疡",
+          "灼热疼痛",
+          "反复发作",
+          "或伴口干",
+          "纳差"
+        ],
+        "fangming": [
+          "凉膈散",
+          "知柏地黄丸",
+          "附子理中汤",
+          "补中益气汤"
+        ],
+        "yaoming": [
+          "黄连",
+          "栀子",
+          "生地",
+          "木通",
+          "知母",
+          "黄柏",
+          "黄芪",
+          "白术"
+        ],
+        "xuewei": [
+          "承浆",
+          "地仓",
+          "合谷"
+        ],
+        "jingluo": [
+          "手阳明大肠经",
+          "足阳明胃经"
+        ],
+        "siqi": [],
+        "wuwei": [],
+        "guijing": [],
+        "keywords": [
+          "口疮",
+          "五官",
+          "中医临床",
+          "口腔溃疡",
+          "心脾积热",
+          "阴虚火旺",
+          "反复发作"
+        ]
+      }
+    },
+    {
+      "id": "leiliuzheng_001",
+      "book": "《中医眼科学》规划教材（要点归纳）",
+      "type": "zhinan",
+      "tier": 1,
+      "category": "linchuang",
+      "subcategory": "wuguan",
+      "path": "library/linchuang/wuguan/leiliuzheng/leiliuzheng_001.md",
+      "weight": 8,
+      "title": "流泪症·泪液不循常道而溢出",
+      "chapter": "五官",
+      "conditions": {
+        "zhengxing": [
+          "肝血不足",
+          "气血不足",
+          "肝经湿热",
+          "泪窍阻塞"
+        ],
+        "zhifa": [
+          "养肝补血",
+          "益气养血",
+          "清肝利湿",
+          "通窍止泪"
+        ],
+        "bingzheng": [
+          "流泪症"
+        ],
+        "zhengzhuang": [
+          "泪液不循常道溢出",
+          "迎风流泪",
+          "无时泪下",
+          "目无赤痛"
+        ],
+        "fangming": [
+          "养肝补血汤",
+          "八珍汤",
+          "菊花散",
+          "止泪补肝散"
+        ],
+        "yaoming": [
+          "当归",
+          "白芍",
+          "川芎",
+          "防风",
+          "菊花"
+        ],
+        "xuewei": [],
+        "jingluo": [],
+        "siqi": [],
+        "wuwei": [],
+        "guijing": [],
+        "keywords": [
+          "流泪症",
+          "迎风流泪",
+          "眼科",
+          "中医临床",
+          "泪器病",
+          "辨证论治"
+        ]
+      }
+    },
+    {
+      "id": "nonger_001",
+      "book": "《中医耳鼻咽喉科学》规划教材（要点归纳）",
+      "type": "zhinan",
+      "tier": 1,
+      "category": "linchuang",
+      "subcategory": "wuguan",
+      "path": "library/linchuang/wuguan/nonger/nonger_001.md",
+      "weight": 8,
+      "title": "脓耳·急慢性化脓性中耳炎",
+      "chapter": "五官",
+      "conditions": {
+        "zhengxing": [
+          "风热外袭",
+          "肝胆火盛",
+          "脾虚湿困",
+          "肾元亏损"
+        ],
+        "zhifa": [
+          "疏风清热",
+          "清肝泻火",
+          "健脾渗湿",
+          "补肾培元"
+        ],
+        "bingzheng": [
+          "脓耳"
+        ],
+        "zhengzhuang": [
+          "耳内疼痛",
+          "鼓膜穿孔",
+          "耳内流脓",
+          "听力下降"
+        ],
+        "fangming": [
+          "蔓荆子散",
+          "龙胆泻肝汤",
+          "托里消毒散",
+          "肾气丸"
+        ],
+        "yaoming": [
+          "龙胆草",
+          "黄芩",
+          "金银花",
+          "茯苓",
+          "泽泻"
+        ],
+        "xuewei": [],
+        "jingluo": [],
+        "siqi": [],
+        "wuwei": [],
+        "guijing": [],
+        "keywords": [
+          "脓耳",
+          "化脓性中耳炎",
+          "耳鼻喉",
+          "中医临床",
+          "耳病",
+          "辨证论治"
+        ]
+      }
+    },
+    {
+      "id": "qingfengneizhang_001",
+      "book": "《中医眼科学》规划教材（要点归纳）",
+      "type": "zhinan",
+      "tier": 1,
+      "category": "linchuang",
+      "subcategory": "wuguan",
+      "path": "library/linchuang/wuguan/qingfengneizhang/qingfengneizhang_001.md",
+      "weight": 8,
+      "title": "青风内障·原发性开角型青光眼",
+      "chapter": "五官",
+      "conditions": {
+        "zhengxing": [
+          "痰湿内动",
+          "肝郁气滞",
+          "肝肾两亏",
+          "气血不足"
+        ],
+        "zhifa": [
+          "温阳化湿",
+          "疏肝解郁",
+          "补益肝肾",
+          "益气养血"
+        ],
+        "bingzheng": [
+          "青风内障"
+        ],
+        "zhengzhuang": [
+          "眼胀微痛",
+          "视物模糊",
+          "视野逐渐缩小",
+          "瞳神轻度散大",
+          "眼压偏高"
+        ],
+        "fangming": [
+          "温胆汤",
+          "逍遥散",
+          "杞菊地黄丸",
+          "八珍汤"
+        ],
+        "yaoming": [
+          "柴胡",
+          "茯苓",
+          "半夏",
+          "枸杞子",
+          "石决明"
+        ],
+        "xuewei": [],
+        "jingluo": [],
+        "siqi": [],
+        "wuwei": [],
+        "guijing": [],
+        "keywords": [
+          "青风内障",
+          "原发性开角型青光眼",
+          "眼科",
+          "中医临床",
+          "瞳神病",
+          "辨证论治"
+        ]
+      }
+    },
+    {
+      "id": "ruie_001",
+      "book": "《中医耳鼻咽喉科学》规划教材（要点归纳）",
+      "type": "zhinan",
+      "tier": 1,
+      "category": "linchuang",
+      "subcategory": "wuguan",
+      "path": "library/linchuang/wuguan/ruie/ruie_001.md",
+      "weight": 8,
+      "title": "乳蛾·喉核红肿疼痛急慢性扁桃体炎",
+      "chapter": "五官",
+      "conditions": {
+        "zhengxing": [
+          "风热外袭",
+          "肺胃热盛",
+          "肺肾阴虚",
+          "脾气虚弱"
+        ],
+        "zhifa": [
+          "疏风清热利咽",
+          "泻热解毒利咽",
+          "滋养肺肾",
+          "益气健脾"
+        ],
+        "bingzheng": [
+          "乳蛾"
+        ],
+        "zhengzhuang": [
+          "喉核红肿疼痛",
+          "或有黄白脓点",
+          "吞咽困难",
+          "发热",
+          "反复发作"
+        ],
+        "fangming": [
+          "疏风清热汤",
+          "清咽利膈汤",
+          "养阴清肺汤",
+          "参苓白术散"
+        ],
+        "yaoming": [
+          "金银花",
+          "连翘",
+          "牛蒡子",
+          "桔梗",
+          "玄参",
+          "山豆根",
+          "甘草"
+        ],
+        "xuewei": [
+          "天容",
+          "合谷",
+          "少商"
+        ],
+        "jingluo": [
+          "手太阴肺经",
+          "足阳明胃经"
+        ],
+        "siqi": [],
+        "wuwei": [],
+        "guijing": [],
+        "keywords": [
+          "乳蛾",
+          "五官",
+          "中医临床",
+          "扁桃体炎",
+          "喉核红肿",
+          "咽痛",
+          "清咽利膈汤"
+        ]
+      }
+    },
+    {
+      "id": "tianxingchiyan_001",
+      "book": "《中医眼科学》规划教材（要点归纳）",
+      "type": "zhinan",
+      "tier": 1,
+      "category": "linchuang",
+      "subcategory": "wuguan",
+      "path": "library/linchuang/wuguan/tianxingchiyan/tianxingchiyan_001.md",
+      "weight": 8,
+      "title": "天行赤眼·流行性出血性结膜炎",
+      "chapter": "五官",
+      "conditions": {
+        "zhengxing": [
+          "疠气犯目",
+          "肺胃积热",
+          "热邪侵目"
+        ],
+        "zhifa": [
+          "清热泻火",
+          "疏风散热",
+          "内外合治"
+        ],
+        "bingzheng": [
+          "天行赤眼"
+        ],
+        "zhengzhuang": [
+          "白睛暴发红赤",
+          "点片状出血",
+          "胞睑红肿",
+          "碜涩疼痛",
+          "羞明流泪",
+          "易于传染流行"
+        ],
+        "fangming": [
+          "驱风散热饮子",
+          "泻肺饮",
+          "防风通圣散"
+        ],
+        "yaoming": [
+          "金银花",
+          "连翘",
+          "黄芩",
+          "石膏",
+          "赤芍"
+        ],
+        "xuewei": [],
+        "jingluo": [],
+        "siqi": [],
+        "wuwei": [],
+        "guijing": [],
+        "keywords": [
+          "天行赤眼",
+          "流行性出血性结膜炎",
+          "红眼病",
+          "眼科",
+          "中医临床",
+          "白睛病",
+          "辨证论治"
+        ]
+      }
+    },
+    {
+      "id": "zhenyan_001",
+      "book": "《中医眼科学》规划教材（要点归纳）",
+      "type": "zhinan",
+      "tier": 1,
+      "category": "linchuang",
+      "subcategory": "wuguan",
+      "path": "library/linchuang/wuguan/yanbing/zhenyan_001.md",
+      "weight": 8,
+      "title": "针眼·眼睑边生小结麦粒肿",
+      "chapter": "五官",
+      "conditions": {
+        "zhengxing": [
+          "风热客睑",
+          "脾胃热毒",
+          "脾虚湿热"
+        ],
+        "zhifa": [
+          "疏风清热",
+          "清热解毒",
+          "健脾化湿"
+        ],
+        "bingzheng": [
+          "针眼"
+        ],
+        "zhengzhuang": [
+          "眼睑局部红肿硬结疼痛",
+          "形如麦粒"
+        ],
+        "fangming": [
+          "银翘散",
+          "泻黄散",
+          "四君子汤"
+        ],
+        "yaoming": [
+          "金银花",
+          "连翘",
+          "栀子",
+          "白术",
+          "茯苓"
+        ],
+        "xuewei": [],
+        "jingluo": [],
+        "siqi": [],
+        "wuwei": [],
+        "guijing": [],
+        "keywords": [
+          "针眼",
+          "麦粒肿",
+          "眼科",
+          "中医临床",
+          "眼睑病"
+        ]
+      }
+    },
+    {
+      "id": "yatong_001",
+      "book": "《中医口腔科学》规划教材（要点归纳）",
+      "type": "zhinan",
+      "tier": 1,
+      "category": "linchuang",
+      "subcategory": "wuguan",
+      "path": "library/linchuang/wuguan/yatong/yatong_001.md",
+      "weight": 8,
+      "title": "牙痛·牙齿疼痛遇冷热酸甜加重",
+      "chapter": "五官",
+      "conditions": {
+        "zhengxing": [
+          "胃火炽盛",
+          "风火上攻",
+          "虚火上炎",
+          "龋齿"
+        ],
+        "zhifa": [
+          "清胃泻火",
+          "疏风清热",
+          "滋阴降火"
+        ],
+        "bingzheng": [
+          "牙痛"
+        ],
+        "zhengzhuang": [
+          "牙齿疼痛",
+          "牙龈红肿",
+          "遇冷热酸甜加重",
+          "或牙龈出血",
+          "或牙齿松动"
+        ],
+        "fangming": [
+          "清胃散",
+          "疏风清热汤",
+          "知柏地黄丸"
+        ],
+        "yaoming": [
+          "黄连",
+          "石膏",
+          "升麻",
+          "生地",
+          "丹皮",
+          "荆芥",
+          "防风",
+          "骨碎补"
+        ],
+        "xuewei": [
+          "颊车",
+          "下关",
+          "合谷"
+        ],
+        "jingluo": [
+          "手阳明大肠经",
+          "足阳明胃经",
+          "足少阴肾经"
+        ],
+        "siqi": [],
+        "wuwei": [],
+        "guijing": [],
+        "keywords": [
+          "牙痛",
+          "五官",
+          "中医临床",
+          "牙齿疼痛",
+          "胃火炽盛",
+          "龋齿",
+          "清胃散"
+        ]
+      }
+    },
+    {
+      "id": "yuanyinneizhang_001",
+      "book": "《中医眼科学》规划教材（要点归纳）",
+      "type": "zhinan",
+      "tier": 1,
+      "category": "linchuang",
+      "subcategory": "wuguan",
+      "path": "library/linchuang/wuguan/yuanyinneizhang/yuanyinneizhang_001.md",
+      "weight": 8,
+      "title": "圆翳内障·老年性白内障",
+      "chapter": "五官",
+      "conditions": {
+        "zhengxing": [
+          "肝肾两亏",
+          "脾虚气弱",
+          "肝热上扰"
+        ],
+        "zhifa": [
+          "补益肝肾",
+          "健脾益气",
+          "清热平肝"
+        ],
+        "bingzheng": [
+          "圆翳内障"
+        ],
+        "zhengzhuang": [
+          "瞳神内黄白色混浊",
+          "视力缓降",
+          "眼前黑点",
+          "晶珠混浊"
+        ],
+        "fangming": [
+          "杞菊地黄丸",
+          "益气明目汤",
+          "石决明散"
+        ],
+        "yaoming": [
+          "枸杞子",
+          "菊花",
+          "熟地",
+          "山茱萸",
+          "决明子"
+        ],
+        "xuewei": [],
+        "jingluo": [],
+        "siqi": [],
+        "wuwei": [],
+        "guijing": [],
+        "keywords": [
+          "圆翳内障",
+          "老年性白内障",
+          "眼科",
+          "中医临床",
+          "瞳神病",
+          "辨证论治"
         ]
       }
     },

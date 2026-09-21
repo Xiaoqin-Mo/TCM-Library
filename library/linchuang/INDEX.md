@@ -1,6 +1,6 @@
 # linchuang · 中医临床
 
-> 收录 119 条 · 下级 5 个子类
+> 收录 134 条 · 下级 6 个子类
 
 ## erke · 儿科
 
@@ -51,6 +51,26 @@
 | linchuang/fuke/yuejingxianhouwudingqi | 1 | [索引](./linchuang/fuke/yuejingxianhouwudingqi/INDEX.md) |
 | linchuang/fuke/yuejingxianqi | 1 | [索引](./linchuang/fuke/yuejingxianqi/INDEX.md) |
 | linchuang/fuke/zhengjia | 1 | [索引](./linchuang/fuke/zhengjia/INDEX.md) |
+
+## gushang · 骨伤科
+
+| 书目 | 条目数 | 索引 |
+| --- | --- | --- |
+| linchuang/gushang/gonggugan | 1 | [索引](./linchuang/gushang/gonggugan/INDEX.md) |
+| linchuang/gushang/guanjieyan | 1 | [索引](./linchuang/gushang/guanjieyan/INDEX.md) |
+| linchuang/gushang/gugujing | 1 | [索引](./linchuang/gushang/gugujing/INDEX.md) |
+| linchuang/gushang/guzhe | 1 | [索引](./linchuang/gushang/guzhe/INDEX.md) |
+| linchuang/gushang/guzheyuhe | 1 | [索引](./linchuang/gushang/guzheyuhe/INDEX.md) |
+| linchuang/gushang/guzhishusong | 1 | [索引](./linchuang/gushang/guzhishusong/INDEX.md) |
+| linchuang/gushang/jianjietuowei | 1 | [索引](./linchuang/gushang/jianjietuowei/INDEX.md) |
+| linchuang/gushang/jingzhuibing | 1 | [索引](./linchuang/gushang/jingzhuibing/INDEX.md) |
+| linchuang/gushang/jizhegu | 1 | [索引](./linchuang/gushang/jizhegu/INDEX.md) |
+| linchuang/gushang/raoguyuan | 1 | [索引](./linchuang/gushang/raoguyuan/INDEX.md) |
+| linchuang/gushang/shangjin | 1 | [索引](./linchuang/gushang/shangjin/INDEX.md) |
+| linchuang/gushang/suogugu | 1 | [索引](./linchuang/gushang/suogugu/INDEX.md) |
+| linchuang/gushang/tuoweigailun | 1 | [索引](./linchuang/gushang/tuoweigailun/INDEX.md) |
+| linchuang/gushang/yaozhuijitu | 1 | [索引](./linchuang/gushang/yaozhuijitu/INDEX.md) |
+| linchuang/gushang/zhoujietuowei | 1 | [索引](./linchuang/gushang/zhoujietuowei/INDEX.md) |
 
 ## neike · 内科
 

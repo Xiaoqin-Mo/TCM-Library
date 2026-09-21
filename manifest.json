@@ -7442,6 +7442,30 @@
       "count": 1
     },
     {
+      "dir": "zhenduan/siyang/anjifu",
+      "tier": 1,
+      "tier_name": "核心",
+      "category": "zhenduan",
+      "subcategory": "siyang",
+      "count": 1
+    },
+    {
+      "dir": "zhenduan/siyang/anshouzu",
+      "tier": 1,
+      "tier_name": "核心",
+      "category": "zhenduan",
+      "subcategory": "siyang",
+      "count": 1
+    },
+    {
+      "dir": "zhenduan/siyang/anwanfu",
+      "tier": 1,
+      "tier_name": "核心",
+      "category": "zhenduan",
+      "subcategory": "siyang",
+      "count": 1
+    },
+    {
       "dir": "zhenduan/siyang/anzhen",
       "tier": 1,
       "tier_name": "核心",
@@ -7554,6 +7578,86 @@
       "count": 1
     },
     {
+      "dir": "zhenduan/siyang/tinghuxisheng",
+      "tier": 1,
+      "tier_name": "核心",
+      "category": "zhenduan",
+      "subcategory": "siyang",
+      "count": 1
+    },
+    {
+      "dir": "zhenduan/siyang/tingshengyinlun",
+      "tier": 1,
+      "tier_name": "核心",
+      "category": "zhenduan",
+      "subcategory": "siyang",
+      "count": 1
+    },
+    {
+      "dir": "zhenduan/siyang/tingtuoukai",
+      "tier": 1,
+      "tier_name": "核心",
+      "category": "zhenduan",
+      "subcategory": "siyang",
+      "count": 1
+    },
+    {
+      "dir": "zhenduan/siyang/tingyuyansheng",
+      "tier": 1,
+      "tier_name": "核心",
+      "category": "zhenduan",
+      "subcategory": "siyang",
+      "count": 1
+    },
+    {
+      "dir": "zhenduan/siyang/wangbi",
+      "tier": 1,
+      "tier_name": "核心",
+      "category": "zhenduan",
+      "subcategory": "siyang",
+      "count": 1
+    },
+    {
+      "dir": "zhenduan/siyang/wangchuyachi",
+      "tier": 1,
+      "tier_name": "核心",
+      "category": "zhenduan",
+      "subcategory": "siyang",
+      "count": 1
+    },
+    {
+      "dir": "zhenduan/siyang/wanger",
+      "tier": 1,
+      "tier_name": "核心",
+      "category": "zhenduan",
+      "subcategory": "siyang",
+      "count": 1
+    },
+    {
+      "dir": "zhenduan/siyang/wangmu",
+      "tier": 1,
+      "tier_name": "核心",
+      "category": "zhenduan",
+      "subcategory": "siyang",
+      "count": 1
+    },
+    {
+      "dir": "zhenduan/siyang/wangpaichuwu",
+      "tier": 1,
+      "tier_name": "核心",
+      "category": "zhenduan",
+      "subcategory": "siyang",
+      "count": 1
+    },
+    {
+      "dir": "zhenduan/siyang/wangyanhou",
+      "tier": 1,
+      "tier_name": "核心",
+      "category": "zhenduan",
+      "subcategory": "siyang",
+      "count": 1
+    },
+    {
       "dir": "zhenduan/siyang/wenerbian",
       "tier": 1,
       "tier_name": "核心",
@@ -7571,6 +7675,14 @@
     },
     {
       "dir": "zhenduan/siyang/wenhanre",
+      "tier": 1,
+      "tier_name": "核心",
+      "category": "zhenduan",
+      "subcategory": "siyang",
+      "count": 1
+    },
+    {
+      "dir": "zhenduan/siyang/wenjingdai",
       "tier": 1,
       "tier_name": "核心",
       "category": "zhenduan",
@@ -7602,6 +7714,14 @@
       "count": 1
     },
     {
+      "dir": "zhenduan/siyang/wenxiaoer",
+      "tier": 1,
+      "tier_name": "核心",
+      "category": "zhenduan",
+      "subcategory": "siyang",
+      "count": 1
+    },
+    {
       "dir": "zhenduan/siyang/wenyinshi",
       "tier": 1,
       "tier_name": "核心",
@@ -7611,6 +7731,22 @@
     },
     {
       "dir": "zhenduan/siyang/wuse",
+      "tier": 1,
+      "tier_name": "核心",
+      "category": "zhenduan",
+      "subcategory": "siyang",
+      "count": 1
+    },
+    {
+      "dir": "zhenduan/siyang/xiaoerwenxian",
+      "tier": 1,
+      "tier_name": "核心",
+      "category": "zhenduan",
+      "subcategory": "siyang",
+      "count": 1
+    },
+    {
+      "dir": "zhenduan/siyang/xiuchouqi",
       "tier": 1,
       "tier_name": "核心",
       "category": "zhenduan",
@@ -16322,7 +16458,7 @@
       "count": 1
     }
   ],
-  "total": 3049,
+  "total": 3066,
   "entries": [
     {
       "id": "angongniuhuangwan_002",
@@ -101454,6 +101590,146 @@
       }
     },
     {
+      "id": "anjifu_001",
+      "book": "《中医诊断学》规划教材（要点归纳）",
+      "type": "zhinan",
+      "tier": 1,
+      "category": "zhenduan",
+      "subcategory": "siyang",
+      "path": "library/zhenduan/siyang/anjifu/anjifu_001.md",
+      "weight": 8,
+      "title": "按肌肤·肌肤寒热润燥肿胀辨阴阳汗出",
+      "chapter": "四诊",
+      "conditions": {
+        "zhengxing": [
+          "阳虚",
+          "阴虚",
+          "实热",
+          "表证"
+        ],
+        "zhifa": [],
+        "bingzheng": [
+          "寒热虚实辨别"
+        ],
+        "zhengzhuang": [
+          "肌肤灼热",
+          "肌肤清凉",
+          "皮肤干燥",
+          "肌肤肿胀",
+          "汗出异常"
+        ],
+        "fangming": [],
+        "yaoming": [],
+        "xuewei": [],
+        "jingluo": [],
+        "siqi": [],
+        "wuwei": [],
+        "guijing": [],
+        "keywords": [
+          "按肌肤",
+          "切诊",
+          "中医诊断",
+          "四诊",
+          "寒热",
+          "润燥",
+          "肿胀"
+        ]
+      }
+    },
+    {
+      "id": "anshouzu_001",
+      "book": "《中医诊断学》规划教材（要点归纳）",
+      "type": "zhinan",
+      "tier": 1,
+      "category": "zhenduan",
+      "subcategory": "siyang",
+      "path": "library/zhenduan/siyang/anshouzu/anshouzu_001.md",
+      "weight": 8,
+      "title": "按手足·手足温凉辨阳衰阳盛",
+      "chapter": "四诊",
+      "conditions": {
+        "zhengxing": [
+          "阳虚",
+          "阴虚",
+          "实热",
+          "阳郁"
+        ],
+        "zhifa": [],
+        "bingzheng": [
+          "阴阳盛衰辨别"
+        ],
+        "zhengzhuang": [
+          "手足俱冷",
+          "手足心热",
+          "手足背热",
+          "四肢温凉"
+        ],
+        "fangming": [],
+        "yaoming": [],
+        "xuewei": [],
+        "jingluo": [],
+        "siqi": [],
+        "wuwei": [],
+        "guijing": [],
+        "keywords": [
+          "按手足",
+          "切诊",
+          "中医诊断",
+          "四诊",
+          "手足温凉",
+          "阳虚",
+          "阳盛"
+        ]
+      }
+    },
+    {
+      "id": "anwanfu_001",
+      "book": "《中医诊断学》规划教材（要点归纳）",
+      "type": "zhinan",
+      "tier": 1,
+      "category": "zhenduan",
+      "subcategory": "siyang",
+      "path": "library/zhenduan/siyang/anwanfu/anwanfu_001.md",
+      "weight": 8,
+      "title": "按脘腹·脘腹软硬胀满压痛辨脏腑寒热虚实",
+      "chapter": "四诊",
+      "conditions": {
+        "zhengxing": [
+          "脾胃虚寒",
+          "胃肠实热",
+          "气滞",
+          "血瘀"
+        ],
+        "zhifa": [],
+        "bingzheng": [
+          "脘腹病证辨别"
+        ],
+        "zhengzhuang": [
+          "脘腹胀满",
+          "腹痛拒按",
+          "腹痛喜按",
+          "腹部包块",
+          "腹水"
+        ],
+        "fangming": [],
+        "yaoming": [],
+        "xuewei": [],
+        "jingluo": [],
+        "siqi": [],
+        "wuwei": [],
+        "guijing": [],
+        "keywords": [
+          "按脘腹",
+          "切诊",
+          "中医诊断",
+          "四诊",
+          "脘腹胀满",
+          "腹痛",
+          "压痛"
+        ]
+      }
+    },
+    {
       "id": "anzhen_001",
       "book": "中医诊断学",
       "type": "zhinan",
@@ -102129,15 +102405,476 @@
       }
     },
     {
+      "id": "tinghuxisheng_001",
+      "book": "《中医诊断学》规划教材（要点归纳）",
+      "type": "zhinan",
+      "tier": 1,
+      "category": "zhenduan",
+      "subcategory": "siyang",
+      "path": "library/zhenduan/siyang/tinghuxisheng/tinghuxisheng_001.md",
+      "weight": 8,
+      "title": "听呼吸声·呼吸气粗气微喘促",
+      "chapter": "四诊",
+      "conditions": {
+        "zhengxing": [
+          "实证",
+          "虚证",
+          "热证",
+          "寒证",
+          "痰饮"
+        ],
+        "zhifa": [],
+        "bingzheng": [
+          "呼吸异常"
+        ],
+        "zhengzhuang": [
+          "气粗",
+          "气微",
+          "喘",
+          "哮",
+          "少气",
+          "短气"
+        ],
+        "fangming": [],
+        "yaoming": [],
+        "xuewei": [],
+        "jingluo": [],
+        "siqi": [],
+        "wuwei": [],
+        "guijing": [],
+        "keywords": [
+          "听呼吸声",
+          "喘",
+          "哮",
+          "少气",
+          "中医诊断",
+          "四诊",
+          "闻诊"
+        ]
+      }
+    },
+    {
+      "id": "tingshengyinlun_001",
+      "book": "《中医诊断学》规划教材（要点归纳）",
+      "type": "zhinan",
+      "tier": 1,
+      "category": "zhenduan",
+      "subcategory": "siyang",
+      "path": "library/zhenduan/siyang/tingshengyinlun/tingshengyinlun_001.md",
+      "weight": 8,
+      "title": "听声音总论·发声高低清浊强弱",
+      "chapter": "四诊",
+      "conditions": {
+        "zhengxing": [
+          "实证",
+          "虚证",
+          "寒证",
+          "热证"
+        ],
+        "zhifa": [],
+        "bingzheng": [
+          "听声音诊法"
+        ],
+        "zhengzhuang": [
+          "语声高亢",
+          "语声低微",
+          "声重",
+          "音哑"
+        ],
+        "fangming": [],
+        "yaoming": [],
+        "xuewei": [],
+        "jingluo": [],
+        "siqi": [],
+        "wuwei": [],
+        "guijing": [],
+        "keywords": [
+          "听声音",
+          "闻诊",
+          "语声",
+          "中医诊断",
+          "四诊"
+        ]
+      }
+    },
+    {
+      "id": "tingtuoukai_001",
+      "book": "《中医诊断学》规划教材（要点归纳）",
+      "type": "zhinan",
+      "tier": 1,
+      "category": "zhenduan",
+      "subcategory": "siyang",
+      "path": "library/zhenduan/siyang/tingtuoukai/tingtuoukai_001.md",
+      "weight": 8,
+      "title": "听呕吐咳嗽声·呕吐与咳嗽声响辨寒热",
+      "chapter": "四诊",
+      "conditions": {
+        "zhengxing": [
+          "寒证",
+          "热证",
+          "实证",
+          "虚证"
+        ],
+        "zhifa": [],
+        "bingzheng": [
+          "呕吐咳嗽声诊"
+        ],
+        "zhengzhuang": [
+          "呕吐声高",
+          "呕吐声低",
+          "咳声重浊",
+          "咳声清脆",
+          "干咳",
+          "湿咳"
+        ],
+        "fangming": [],
+        "yaoming": [],
+        "xuewei": [],
+        "jingluo": [],
+        "siqi": [],
+        "wuwei": [],
+        "guijing": [],
+        "keywords": [
+          "听呕吐咳嗽声",
+          "呕吐",
+          "咳嗽",
+          "中医诊断",
+          "四诊",
+          "闻诊"
+        ]
+      }
+    },
+    {
+      "id": "tingyuyansheng_001",
+      "book": "《中医诊断学》规划教材（要点归纳）",
+      "type": "zhinan",
+      "tier": 1,
+      "category": "zhenduan",
+      "subcategory": "siyang",
+      "path": "library/zhenduan/siyang/tingyuyansheng/tingyuyansheng_001.md",
+      "weight": 8,
+      "title": "听语言声·语言错乱与语义重复",
+      "chapter": "四诊",
+      "conditions": {
+        "zhengxing": [
+          "热扰心神",
+          "痰浊",
+          "心气不足",
+          "瘀血"
+        ],
+        "zhifa": [],
+        "bingzheng": [
+          "语言异常"
+        ],
+        "zhengzhuang": [
+          "谵语",
+          "郑声",
+          "独语",
+          "错语",
+          "狂言"
+        ],
+        "fangming": [],
+        "yaoming": [],
+        "xuewei": [],
+        "jingluo": [],
+        "siqi": [],
+        "wuwei": [],
+        "guijing": [],
+        "keywords": [
+          "听语言声",
+          "谵语",
+          "郑声",
+          "独语",
+          "中医诊断",
+          "四诊",
+          "闻诊"
+        ]
+      }
+    },
+    {
+      "id": "wangbi_001",
+      "book": "《中医诊断学》规划教材（要点归纳）",
+      "type": "zhinan",
+      "tier": 1,
+      "category": "zhenduan",
+      "subcategory": "siyang",
+      "path": "library/zhenduan/siyang/wangbi/wangbi_001.md",
+      "weight": 8,
+      "title": "望鼻·鼻之色泽形态鼻涕",
+      "chapter": "四诊",
+      "conditions": {
+        "zhengxing": [
+          "肺热",
+          "风寒",
+          "风热",
+          "脾胃湿热"
+        ],
+        "zhifa": [],
+        "bingzheng": [
+          "鼻部望诊"
+        ],
+        "zhengzhuang": [
+          "鼻端色赤",
+          "鼻端色青",
+          "鼻涕清稀",
+          "鼻涕黄稠",
+          "鼻翼煽动"
+        ],
+        "fangming": [],
+        "yaoming": [],
+        "xuewei": [],
+        "jingluo": [],
+        "siqi": [],
+        "wuwei": [],
+        "guijing": [],
+        "keywords": [
+          "望鼻",
+          "鼻涕",
+          "鼻部望诊",
+          "中医诊断",
+          "四诊",
+          "望诊"
+        ]
+      }
+    },
+    {
+      "id": "wangchuyachi_001",
+      "book": "《中医诊断学》规划教材（要点归纳）",
+      "type": "zhinan",
+      "tier": 1,
+      "category": "zhenduan",
+      "subcategory": "siyang",
+      "path": "library/zhenduan/siyang/wangchuyachi/wangchuyachi_001.md",
+      "weight": 8,
+      "title": "望唇齿龈·口唇牙齿牙龈望诊",
+      "chapter": "四诊",
+      "conditions": {
+        "zhengxing": [
+          "热证",
+          "寒证",
+          "脾虚",
+          "肾虚",
+          "热盛伤津"
+        ],
+        "zhifa": [],
+        "bingzheng": [
+          "唇齿龈望诊"
+        ],
+        "zhengzhuang": [
+          "唇色淡白",
+          "唇色红赤",
+          "口唇糜烂",
+          "牙齿干燥",
+          "牙龈红肿",
+          "牙齿松动"
+        ],
+        "fangming": [],
+        "yaoming": [],
+        "xuewei": [],
+        "jingluo": [],
+        "siqi": [],
+        "wuwei": [],
+        "guijing": [],
+        "keywords": [
+          "望唇齿龈",
+          "口唇",
+          "牙齿",
+          "牙龈",
+          "中医诊断",
+          "四诊",
+          "望诊"
+        ]
+      }
+    },
+    {
+      "id": "wanger_001",
+      "book": "《中医诊断学》规划教材（要点归纳）",
+      "type": "zhinan",
+      "tier": 1,
+      "category": "zhenduan",
+      "subcategory": "siyang",
+      "path": "library/zhenduan/siyang/wanger/wanger_001.md",
+      "weight": 8,
+      "title": "望耳·耳轮色泽形态",
+      "chapter": "四诊",
+      "conditions": {
+        "zhengxing": [
+          "肾虚",
+          "热证",
+          "寒证",
+          "瘀血"
+        ],
+        "zhifa": [],
+        "bingzheng": [
+          "耳部望诊"
+        ],
+        "zhengzhuang": [
+          "耳轮色泽枯槁",
+          "耳轮红肿",
+          "耳内流脓",
+          "耳背红络"
+        ],
+        "fangming": [],
+        "yaoming": [],
+        "xuewei": [],
+        "jingluo": [],
+        "siqi": [],
+        "wuwei": [],
+        "guijing": [],
+        "keywords": [
+          "望耳",
+          "耳轮",
+          "耳部望诊",
+          "中医诊断",
+          "四诊",
+          "望诊"
+        ]
+      }
+    },
+    {
+      "id": "wangmu_001",
+      "book": "《中医诊断学》规划教材（要点归纳）",
+      "type": "zhinan",
+      "tier": 1,
+      "category": "zhenduan",
+      "subcategory": "siyang",
+      "path": "library/zhenduan/siyang/wangmu/wangmu_001.md",
+      "weight": 8,
+      "title": "望目·五轮学说及目部分属",
+      "chapter": "四诊",
+      "conditions": {
+        "zhengxing": [
+          "热证",
+          "虚证",
+          "风证",
+          "湿证"
+        ],
+        "zhifa": [],
+        "bingzheng": [
+          "目部望诊"
+        ],
+        "zhengzhuang": [
+          "目赤",
+          "目黄",
+          "目窠浮肿",
+          "目睛凹陷",
+          "瞳孔异常"
+        ],
+        "fangming": [],
+        "yaoming": [],
+        "xuewei": [],
+        "jingluo": [],
+        "siqi": [],
+        "wuwei": [],
+        "guijing": [],
+        "keywords": [
+          "望目",
+          "五轮学说",
+          "目部望诊",
+          "中医诊断",
+          "四诊",
+          "望诊"
+        ]
+      }
+    },
+    {
+      "id": "wangpaichuwu_001",
+      "book": "《中医诊断学》规划教材（要点归纳）",
+      "type": "zhinan",
+      "tier": 1,
+      "category": "zhenduan",
+      "subcategory": "siyang",
+      "path": "library/zhenduan/siyang/wangpaichuwu/wangpaichuwu_001.md",
+      "weight": 8,
+      "title": "望排出物·观察痰涕唾涎呕吐物二便",
+      "chapter": "四诊",
+      "conditions": {
+        "zhengxing": [
+          "寒证",
+          "热证",
+          "湿证",
+          "燥证"
+        ],
+        "zhifa": [],
+        "bingzheng": [
+          "寒热虚实辨别"
+        ],
+        "zhengzhuang": [
+          "痰涕唾涎",
+          "呕吐物",
+          "二便异常"
+        ],
+        "fangming": [],
+        "yaoming": [],
+        "xuewei": [],
+        "jingluo": [],
+        "siqi": [],
+        "wuwei": [],
+        "guijing": [],
+        "keywords": [
+          "望排出物",
+          "望诊",
+          "中医诊断",
+          "四诊"
+        ]
+      }
+    },
+    {
+      "id": "wangyanhou_001",
+      "book": "《中医诊断学》规划教材（要点归纳）",
+      "type": "zhinan",
+      "tier": 1,
+      "category": "zhenduan",
+      "subcategory": "siyang",
+      "path": "library/zhenduan/siyang/wangyanhou/wangyanhou_001.md",
+      "weight": 8,
+      "title": "望咽喉·咽喉色泽形态",
+      "chapter": "四诊",
+      "conditions": {
+        "zhengxing": [
+          "肺胃热盛",
+          "阴虚火旺",
+          "肺胃热毒",
+          "风热"
+        ],
+        "zhifa": [],
+        "bingzheng": [
+          "咽喉望诊"
+        ],
+        "zhengzhuang": [
+          "咽喉红肿",
+          "咽喉溃烂",
+          "伪膜",
+          "乳蛾红肿",
+          "咽喉淡红"
+        ],
+        "fangming": [],
+        "yaoming": [],
+        "xuewei": [],
+        "jingluo": [],
+        "siqi": [],
+        "wuwei": [],
+        "guijing": [],
+        "keywords": [
+          "望咽喉",
+          "乳蛾",
+          "咽喉望诊",
+          "中医诊断",
+          "四诊",
+          "望诊"
+        ]
+      }
+    },
+    {
       "id": "wenerbian_001",
-      "book": "中医诊断学",
+      "book": "《中医诊断学》规划教材（要点归纳）",
       "type": "zhinan",
       "tier": 1,
       "category": "zhenduan",
       "subcategory": "siyang",
       "path": "library/zhenduan/siyang/wenerbian/wenerbian_001.md",
       "weight": 8,
-      "title": "问二便",
+      "title": "问二便·大小便次数量感辨寒热虚实",
       "chapter": "四诊",
       "conditions": {
         "zhengxing": [
@@ -102149,10 +102886,7 @@
         ],
         "zhifa": [],
         "bingzheng": [
-          "便秘",
-          "泄泻",
-          "淋证",
-          "癃闭"
+          "二便异常辨别"
         ],
         "zhengzhuang": [
           "大便秘结",
@@ -102169,9 +102903,10 @@
         "wuwei": [],
         "guijing": [],
         "keywords": [
-          "四诊",
-          "问诊",
           "问二便",
+          "问诊",
+          "中医诊断",
+          "四诊",
           "便秘",
           "泄泻",
           "小便异常"
@@ -102279,6 +103014,54 @@
       }
     },
     {
+      "id": "wenjingdai_001",
+      "book": "《中医诊断学》规划教材（要点归纳）",
+      "type": "zhinan",
+      "tier": 1,
+      "category": "zhenduan",
+      "subcategory": "siyang",
+      "path": "library/zhenduan/siyang/wenjingdai/wenjingdai_001.md",
+      "weight": 8,
+      "title": "问经带·月经带下经期量色质辨冲任",
+      "chapter": "四诊",
+      "conditions": {
+        "zhengxing": [
+          "肝郁气滞",
+          "血热",
+          "血寒",
+          "气血两虚",
+          "湿热下注"
+        ],
+        "zhifa": [],
+        "bingzheng": [
+          "经带异常辨别"
+        ],
+        "zhengzhuang": [
+          "月经先期",
+          "月经后期",
+          "痛经",
+          "闭经",
+          "带下量多"
+        ],
+        "fangming": [],
+        "yaoming": [],
+        "xuewei": [],
+        "jingluo": [],
+        "siqi": [],
+        "wuwei": [],
+        "guijing": [],
+        "keywords": [
+          "问经带",
+          "问诊",
+          "中医诊断",
+          "四诊",
+          "月经",
+          "带下",
+          "痛经"
+        ]
+      }
+    },
+    {
       "id": "wennv_001",
       "book": "中医诊断学",
       "type": "zhinan",
@@ -102333,35 +103116,32 @@
     },
     {
       "id": "wenshuimian_001",
-      "book": "中医诊断学",
+      "book": "《中医诊断学》规划教材（要点归纳）",
       "type": "zhinan",
       "tier": 1,
       "category": "zhenduan",
       "subcategory": "siyang",
       "path": "library/zhenduan/siyang/wenshuimian/wenshuimian_001.md",
       "weight": 8,
-      "title": "问睡眠",
+      "title": "问睡眠·失眠与嗜睡辨阴阳气血",
       "chapter": "四诊",
       "conditions": {
         "zhengxing": [
           "心脾两虚",
           "心肾不交",
           "胆郁痰扰",
-          "食滞内停",
-          "心胆气虚"
+          "痰湿内盛"
         ],
         "zhifa": [],
         "bingzheng": [
-          "不寐",
-          "嗜睡",
-          "神经衰弱"
+          "睡眠异常辨别"
         ],
         "zhengzhuang": [
           "失眠",
           "入睡困难",
           "多梦易醒",
           "嗜睡",
-          "昏睡"
+          "睡意甚浓"
         ],
         "fangming": [],
         "yaoming": [],
@@ -102371,12 +103151,13 @@
         "wuwei": [],
         "guijing": [],
         "keywords": [
-          "四诊",
-          "问诊",
           "问睡眠",
+          "问诊",
+          "中医诊断",
+          "四诊",
           "失眠",
-          "不寐",
-          "嗜睡"
+          "嗜睡",
+          "多梦"
         ]
       }
     },
@@ -102436,61 +103217,96 @@
       }
     },
     {
+      "id": "wenxiaoer_001",
+      "book": "《中医诊断学》规划教材（要点归纳）",
+      "type": "zhinan",
+      "tier": 1,
+      "category": "zhenduan",
+      "subcategory": "siyang",
+      "path": "library/zhenduan/siyang/wenxiaoer/wenxiaoer_001.md",
+      "weight": 8,
+      "title": "问小儿·出生前后与生长发育辨先天后天",
+      "chapter": "四诊",
+      "conditions": {
+        "zhengxing": [
+          "先天不足",
+          "脾胃虚弱",
+          "外感",
+          "食积"
+        ],
+        "zhifa": [],
+        "bingzheng": [
+          "小儿病情辨别"
+        ],
+        "zhengzhuang": [
+          "生长发育迟缓",
+          "囟门异常",
+          "喂养情况",
+          "预防接种",
+          "旧病史"
+        ],
+        "fangming": [],
+        "yaoming": [],
+        "xuewei": [],
+        "jingluo": [],
+        "siqi": [],
+        "wuwei": [],
+        "guijing": [],
+        "keywords": [
+          "问小儿",
+          "问诊",
+          "中医诊断",
+          "四诊",
+          "小儿",
+          "生长发育",
+          "囟门"
+        ]
+      }
+    },
+    {
       "id": "wenyinshi_001",
-      "book": "中医诊断学",
+      "book": "《中医诊断学》规划教材（要点归纳）",
       "type": "zhinan",
       "tier": 1,
       "category": "zhenduan",
       "subcategory": "siyang",
       "path": "library/zhenduan/siyang/wenyinshi/wenyinshi_001.md",
       "weight": 8,
-      "title": "问饮食口味",
+      "title": "问饮食口味·食欲食量口味偏嗜辨脾胃",
       "chapter": "四诊",
       "conditions": {
         "zhengxing": [
           "脾胃气虚",
           "胃热",
-          "湿热",
-          "食积",
-          "胃阴不足"
+          "胃阴不足",
+          "湿热"
         ],
         "zhifa": [],
         "bingzheng": [
-          "胃脘痛",
-          "纳呆",
-          "消渴"
+          "脾胃病证辨别"
         ],
         "zhengzhuang": [
+          "食欲减退",
+          "多食易饥",
           "口渴",
-          "食欲不振",
-          "口苦",
-          "口甜",
-          "口酸",
-          "口咸"
+          "口味异常",
+          "偏嗜异物"
         ],
         "fangming": [],
         "yaoming": [],
         "xuewei": [],
         "jingluo": [],
-        "siqi": [
-          "寒",
-          "热"
-        ],
-        "wuwei": [
-          "酸",
-          "苦",
-          "甘",
-          "辛",
-          "咸"
-        ],
+        "siqi": [],
+        "wuwei": [],
         "guijing": [],
         "keywords": [
-          "四诊",
+          "问饮食口味",
           "问诊",
-          "问饮食",
-          "问口味",
+          "中医诊断",
+          "四诊",
+          "食欲",
           "口渴",
-          "纳呆"
+          "口味"
         ]
       }
     },
@@ -102539,6 +103355,94 @@
           "常色",
           "病色",
           "五色主病"
+        ]
+      }
+    },
+    {
+      "id": "xiaoerwenxian_001",
+      "book": "《中医诊断学》规划教材（要点归纳）",
+      "type": "zhinan",
+      "tier": 1,
+      "category": "zhenduan",
+      "subcategory": "siyang",
+      "path": "library/zhenduan/siyang/xiaoerwenxian/xiaoerwenxian_001.md",
+      "weight": 8,
+      "title": "小儿指纹·三岁以下小儿食指络脉诊法",
+      "chapter": "四诊",
+      "conditions": {
+        "zhengxing": [
+          "寒证",
+          "热证",
+          "虚证",
+          "实证"
+        ],
+        "zhifa": [],
+        "bingzheng": [
+          "小儿指纹诊法"
+        ],
+        "zhengzhuang": [
+          "食指络脉浮沉",
+          "色泽",
+          "长短"
+        ],
+        "fangming": [],
+        "yaoming": [],
+        "xuewei": [],
+        "jingluo": [],
+        "siqi": [],
+        "wuwei": [],
+        "guijing": [],
+        "keywords": [
+          "小儿指纹",
+          "食指络脉",
+          "儿科诊法",
+          "中医诊断",
+          "四诊",
+          "望诊"
+        ]
+      }
+    },
+    {
+      "id": "xiuchouqi_001",
+      "book": "《中医诊断学》规划教材（要点归纳）",
+      "type": "zhinan",
+      "tier": 1,
+      "category": "zhenduan",
+      "subcategory": "siyang",
+      "path": "library/zhenduan/siyang/xiuchouqi/xiuchouqi_001.md",
+      "weight": 8,
+      "title": "嗅气味·病室口气分泌物排泄物气味辨寒热",
+      "chapter": "四诊",
+      "conditions": {
+        "zhengxing": [
+          "寒证",
+          "热证",
+          "实寒",
+          "实热"
+        ],
+        "zhifa": [],
+        "bingzheng": [
+          "寒热虚实辨别"
+        ],
+        "zhengzhuang": [
+          "口气异常",
+          "病室气味",
+          "分泌物排泄物气味"
+        ],
+        "fangming": [],
+        "yaoming": [],
+        "xuewei": [],
+        "jingluo": [],
+        "siqi": [],
+        "wuwei": [],
+        "guijing": [],
+        "keywords": [
+          "嗅气味",
+          "闻诊",
+          "中医诊断",
+          "四诊",
+          "口气",
+          "病室气味"
         ]
       }
     },

@@ -1,9 +1,9 @@
-# zhenduan/siyang/wenshuimian · 索引
+# zhenduan/siyang/wangyanhou · 索引
 
 > 中医诊断 / 四诊 · 条目数 1
 
 | 条目 | 标题 | 类型 | 权重 |
 | --- | --- | --- | --- |
-| [wenshuimian_001](./wenshuimian_001.md) | 问睡眠·失眠与嗜睡辨阴阳气血 | zhinan | 8 |
+| [wangyanhou_001](./wangyanhou_001.md) | 望咽喉·咽喉色泽形态 | zhinan | 8 |
 
 [返回总索引](../../../INDEX.md)

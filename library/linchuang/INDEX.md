@@ -1,6 +1,6 @@
 # linchuang · 中医临床
 
-> 收录 150 条 · 下级 7 个子类
+> 收录 170 条 · 下级 8 个子类
 
 ## erke · 儿科
 
@@ -123,6 +123,31 @@
 | linchuang/neike/xinxi/xianbing | 1 | [索引](./linchuang/neike/xinxi/xianbing/INDEX.md) |
 | linchuang/neike/xinxi/xinji | 1 | [索引](./linchuang/neike/xinxi/xinji/INDEX.md) |
 | linchuang/neike/xinxi/xiongbi | 1 | [索引](./linchuang/neike/xinxi/xiongbi/INDEX.md) |
+
+## pifu · 皮肤科
+
+| 书目 | 条目数 | 索引 |
+| --- | --- | --- |
+| linchuang/pifu/baichi | 1 | [索引](./linchuang/pifu/baichi/INDEX.md) |
+| linchuang/pifu/baixi | 1 | [索引](./linchuang/pifu/baixi/INDEX.md) |
+| linchuang/pifu/chibizisao | 1 | [索引](./linchuang/pifu/chibizisao/INDEX.md) |
+| linchuang/pifu/dongchuang | 1 | [索引](./linchuang/pifu/dongchuang/INDEX.md) |
+| linchuang/pifu/ezhangfeng | 1 | [索引](./linchuang/pifu/ezhangfeng/INDEX.md) |
+| linchuang/pifu/fenchi | 1 | [索引](./linchuang/pifu/fenchi/INDEX.md) |
+| linchuang/pifu/heiban | 1 | [索引](./linchuang/pifu/heiban/INDEX.md) |
+| linchuang/pifu/hongbanlangchuang | 1 | [索引](./linchuang/pifu/hongbanlangchuang/INDEX.md) |
+| linchuang/pifu/jiaoqishui | 1 | [索引](./linchuang/pifu/jiaoqishui/INDEX.md) |
+| linchuang/pifu/jiechuan | 1 | [索引](./linchuang/pifu/jiechuan/INDEX.md) |
+| linchuang/pifu/jiechupiyan | 1 | [索引](./linchuang/pifu/jiechupiyan/INDEX.md) |
+| linchuang/pifu/jiuzhazi | 1 | [索引](./linchuang/pifu/jiuzhazi/INDEX.md) |
+| linchuang/pifu/shechuan | 1 | [索引](./linchuang/pifu/shechuan/INDEX.md) |
+| linchuang/pifu/shenjingxingpiyan | 1 | [索引](./linchuang/pifu/shenjingxingpiyan/INDEX.md) |
+| linchuang/pifu/shichuang | 1 | [索引](./linchuang/pifu/shichuang/INDEX.md) |
+| linchuang/pifu/tixuan | 1 | [索引](./linchuang/pifu/tixuan/INDEX.md) |
+| linchuang/pifu/yaozhen | 1 | [索引](./linchuang/pifu/yaozhen/INDEX.md) |
+| linchuang/pifu/yingzhen | 1 | [索引](./linchuang/pifu/yingzhen/INDEX.md) |
+| linchuang/pifu/you | 1 | [索引](./linchuang/pifu/you/INDEX.md) |
+| linchuang/pifu/zonglun | 1 | [索引](./linchuang/pifu/zonglun/INDEX.md) |
 
 ## waike · 外科
 

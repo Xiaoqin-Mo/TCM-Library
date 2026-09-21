@@ -4,6 +4,6 @@
 
 | 条目 | 标题 | 类型 | 权重 |
 | --- | --- | --- | --- |
-| [laoyishidu_001](./laoyishidu_001.md) | 劳逸失度·过劳过逸 | chapter | 8 |
+| [laoyishidu_002](./laoyishidu_002.md) | 劳逸失度·过劳过逸 | chapter | 8 |
 
 [返回总索引](../../../INDEX.md)

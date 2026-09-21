@@ -35,6 +35,10 @@
       }
     },
     "jichu": {
+      "jingluo": {
+        "dir": "jichu/jingluo/shiwuluomai",
+        "count": 1
+      },
       "yinyangwuxing": {
         "dir": "jichu/yinyangwuxing/zhuanhua",
         "count": 1
@@ -3479,6 +3483,102 @@
       "tier_name": "核心",
       "category": "fangji",
       "subcategory": "shifang",
+      "count": 1
+    },
+    {
+      "dir": "jichu/jingluo/biaobengenjie",
+      "tier": 1,
+      "tier_name": "核心",
+      "category": "jichu",
+      "subcategory": "jingluo",
+      "count": 1
+    },
+    {
+      "dir": "jichu/jingluo/jingluogongneng",
+      "tier": 1,
+      "tier_name": "核心",
+      "category": "jichu",
+      "subcategory": "jingluo",
+      "count": 1
+    },
+    {
+      "dir": "jichu/jingluo/jingluoxueshuo",
+      "tier": 1,
+      "tier_name": "核心",
+      "category": "jichu",
+      "subcategory": "jingluo",
+      "count": 1
+    },
+    {
+      "dir": "jichu/jingluo/jingluoyingyong",
+      "tier": 1,
+      "tier_name": "核心",
+      "category": "jichu",
+      "subcategory": "jingluo",
+      "count": 1
+    },
+    {
+      "dir": "jichu/jingluo/jingmaixunxingguilv",
+      "tier": 1,
+      "tier_name": "核心",
+      "category": "jichu",
+      "subcategory": "jingluo",
+      "count": 1
+    },
+    {
+      "dir": "jichu/jingluo/qijiehai",
+      "tier": 1,
+      "tier_name": "核心",
+      "category": "jichu",
+      "subcategory": "jingluo",
+      "count": 1
+    },
+    {
+      "dir": "jichu/jingluo/qijingbamai",
+      "tier": 1,
+      "tier_name": "核心",
+      "category": "jichu",
+      "subcategory": "jingluo",
+      "count": 1
+    },
+    {
+      "dir": "jichu/jingluo/shierjingbie",
+      "tier": 1,
+      "tier_name": "核心",
+      "category": "jichu",
+      "subcategory": "jingluo",
+      "count": 1
+    },
+    {
+      "dir": "jichu/jingluo/shierjingjin",
+      "tier": 1,
+      "tier_name": "核心",
+      "category": "jichu",
+      "subcategory": "jingluo",
+      "count": 1
+    },
+    {
+      "dir": "jichu/jingluo/shierjingmai",
+      "tier": 1,
+      "tier_name": "核心",
+      "category": "jichu",
+      "subcategory": "jingluo",
+      "count": 1
+    },
+    {
+      "dir": "jichu/jingluo/shierpibu",
+      "tier": 1,
+      "tier_name": "核心",
+      "category": "jichu",
+      "subcategory": "jingluo",
+      "count": 1
+    },
+    {
+      "dir": "jichu/jingluo/shiwuluomai",
+      "tier": 1,
+      "tier_name": "核心",
+      "category": "jichu",
+      "subcategory": "jingluo",
       "count": 1
     },
     {
@@ -14898,7 +14998,7 @@
       "count": 1
     }
   ],
-  "total": 2876,
+  "total": 2888,
   "entries": [
     {
       "id": "angongniuhuangwan_002",
@@ -35241,6 +35341,452 @@
           "黄连吴茱萸",
           "《丹溪心法》",
           "朱丹溪"
+        ]
+      }
+    },
+    {
+      "id": "biaobengenjie_001",
+      "book": "《中医基础理论》规划教材（要点归纳）",
+      "type": "chapter",
+      "tier": 1,
+      "category": "jichu",
+      "subcategory": "jingluo",
+      "path": "library/jichu/jingluo/biaobengenjie/biaobengenjie_001.md",
+      "weight": 8,
+      "title": "标本根结·经脉之气根本标的上下对应关系",
+      "chapter": "经络",
+      "conditions": {
+        "zhengxing": [],
+        "zhifa": [],
+        "bingzheng": [],
+        "zhengzhuang": [],
+        "fangming": [],
+        "yaoming": [],
+        "xuewei": [],
+        "jingluo": [
+          "十二经脉"
+        ],
+        "siqi": [],
+        "wuwei": [],
+        "guijing": [],
+        "keywords": [
+          "标本根结",
+          "中医基础",
+          "经络",
+          "根结",
+          "标本",
+          "上下对应",
+          "经气"
+        ]
+      }
+    },
+    {
+      "id": "jingluogongneng_001",
+      "book": "《中医基础理论》规划教材（要点归纳）",
+      "type": "chapter",
+      "tier": 1,
+      "category": "jichu",
+      "subcategory": "jingluo",
+      "path": "library/jichu/jingluo/jingluogongneng/jingluogongneng_001.md",
+      "weight": 8,
+      "title": "经络生理功能·沟通联系运行气血感应传导调节功能",
+      "chapter": "经络",
+      "conditions": {
+        "zhengxing": [],
+        "zhifa": [],
+        "bingzheng": [],
+        "zhengzhuang": [],
+        "fangming": [],
+        "yaoming": [],
+        "xuewei": [],
+        "jingluo": [
+          "十二经脉",
+          "奇经八脉"
+        ],
+        "siqi": [],
+        "wuwei": [],
+        "guijing": [],
+        "keywords": [
+          "经络生理功能",
+          "中医基础",
+          "经络",
+          "沟通联系",
+          "运行气血",
+          "感应传导",
+          "调节机能"
+        ]
+      }
+    },
+    {
+      "id": "jingluoxueshuo_001",
+      "book": "《中医基础理论》规划教材（要点归纳）",
+      "type": "chapter",
+      "tier": 1,
+      "category": "jichu",
+      "subcategory": "jingluo",
+      "path": "library/jichu/jingluo/jingluoxueshuo/jingluoxueshuo_001.md",
+      "weight": 8,
+      "title": "经络学说·研究经络循行与生理功能的理论",
+      "chapter": "经络",
+      "conditions": {
+        "zhengxing": [],
+        "zhifa": [],
+        "bingzheng": [],
+        "zhengzhuang": [],
+        "fangming": [],
+        "yaoming": [],
+        "xuewei": [],
+        "jingluo": [
+          "十二经脉",
+          "奇经八脉"
+        ],
+        "siqi": [],
+        "wuwei": [],
+        "guijing": [],
+        "keywords": [
+          "经络学说",
+          "中医基础",
+          "经脉",
+          "络脉",
+          "方法论"
+        ]
+      }
+    },
+    {
+      "id": "jingluoyingyong_001",
+      "book": "《中医基础理论》规划教材（要点归纳）",
+      "type": "chapter",
+      "tier": 1,
+      "category": "jichu",
+      "subcategory": "jingluo",
+      "path": "library/jichu/jingluo/jingluoyingyong/jingluoyingyong_001.md",
+      "weight": 8,
+      "title": "经络临床应用·阐释病理指导诊断指导治疗",
+      "chapter": "经络",
+      "conditions": {
+        "zhengxing": [],
+        "zhifa": [],
+        "bingzheng": [],
+        "zhengzhuang": [],
+        "fangming": [],
+        "yaoming": [],
+        "xuewei": [],
+        "jingluo": [
+          "十二经脉",
+          "奇经八脉"
+        ],
+        "siqi": [],
+        "wuwei": [],
+        "guijing": [],
+        "keywords": [
+          "经络临床应用",
+          "中医基础",
+          "经络",
+          "阐释病理",
+          "分经辨证",
+          "循经取穴",
+          "药物归经"
+        ]
+      }
+    },
+    {
+      "id": "jingmaixunxingguilv_001",
+      "book": "《中医基础理论》规划教材（要点归纳）",
+      "type": "chapter",
+      "tier": 1,
+      "category": "jichu",
+      "subcategory": "jingluo",
+      "path": "library/jichu/jingluo/jingmaixunxingguilv/jingmaixunxingguilv_001.md",
+      "weight": 8,
+      "title": "经脉循行规律·阴阳表里上下交接流注次序",
+      "chapter": "经络",
+      "conditions": {
+        "zhengxing": [],
+        "zhifa": [],
+        "bingzheng": [],
+        "zhengzhuang": [],
+        "fangming": [],
+        "yaoming": [],
+        "xuewei": [],
+        "jingluo": [
+          "十二经脉",
+          "奇经八脉"
+        ],
+        "siqi": [],
+        "wuwei": [],
+        "guijing": [],
+        "keywords": [
+          "经脉循行规律",
+          "中医基础",
+          "经络",
+          "十二经脉",
+          "表里交接",
+          "流注次序",
+          "阴阳经脉"
+        ]
+      }
+    },
+    {
+      "id": "qijiehai_001",
+      "book": "《中医基础理论》规划教材（要点归纳）",
+      "type": "chapter",
+      "tier": 1,
+      "category": "jichu",
+      "subcategory": "jingluo",
+      "path": "library/jichu/jingluo/qijiehai/qijiehai_001.md",
+      "weight": 8,
+      "title": "气街四海·经气共同通道与髓气血水谷四海",
+      "chapter": "经络",
+      "conditions": {
+        "zhengxing": [],
+        "zhifa": [],
+        "bingzheng": [],
+        "zhengzhuang": [],
+        "fangming": [],
+        "yaoming": [],
+        "xuewei": [],
+        "jingluo": [
+          "十二经脉",
+          "奇经八脉"
+        ],
+        "siqi": [],
+        "wuwei": [],
+        "guijing": [],
+        "keywords": [
+          "气街四海",
+          "中医基础",
+          "经络",
+          "气街",
+          "四海",
+          "髓海",
+          "气海",
+          "血海",
+          "水谷之海"
+        ]
+      }
+    },
+    {
+      "id": "qijingbamai_001",
+      "book": "《中医基础理论》规划教材（要点归纳）",
+      "type": "chapter",
+      "tier": 1,
+      "category": "jichu",
+      "subcategory": "jingluo",
+      "path": "library/jichu/jingluo/qijingbamai/qijingbamai_001.md",
+      "weight": 8,
+      "title": "奇经八脉·任督冲带阴阳跷维",
+      "chapter": "经络",
+      "conditions": {
+        "zhengxing": [],
+        "zhifa": [],
+        "bingzheng": [],
+        "zhengzhuang": [],
+        "fangming": [],
+        "yaoming": [],
+        "xuewei": [],
+        "jingluo": [
+          "任脉",
+          "督脉",
+          "冲脉",
+          "带脉",
+          "阴跷脉",
+          "阳跷脉",
+          "阴维脉",
+          "阳维脉"
+        ],
+        "siqi": [],
+        "wuwei": [],
+        "guijing": [],
+        "keywords": [
+          "奇经八脉",
+          "任督冲带",
+          "阴阳跷维",
+          "经络",
+          "中医基础"
+        ]
+      }
+    },
+    {
+      "id": "shierjingbie_001",
+      "book": "《中医基础理论》规划教材（要点归纳）",
+      "type": "chapter",
+      "tier": 1,
+      "category": "jichu",
+      "subcategory": "jingluo",
+      "path": "library/jichu/jingluo/shierjingbie/shierjingbie_001.md",
+      "weight": 8,
+      "title": "十二经别·正经别行深入体腔",
+      "chapter": "经络",
+      "conditions": {
+        "zhengxing": [],
+        "zhifa": [],
+        "bingzheng": [],
+        "zhengzhuang": [],
+        "fangming": [],
+        "yaoming": [],
+        "xuewei": [],
+        "jingluo": [
+          "十二经别"
+        ],
+        "siqi": [],
+        "wuwei": [],
+        "guijing": [],
+        "keywords": [
+          "十二经别",
+          "离入出合",
+          "经络",
+          "中医基础",
+          "经脉分支"
+        ]
+      }
+    },
+    {
+      "id": "shierjingjin_001",
+      "book": "《中医基础理论》规划教材（要点归纳）",
+      "type": "chapter",
+      "tier": 1,
+      "category": "jichu",
+      "subcategory": "jingluo",
+      "path": "library/jichu/jingluo/shierjingjin/shierjingjin_001.md",
+      "weight": 8,
+      "title": "十二经筋·经脉之气结聚筋肉关节",
+      "chapter": "经络",
+      "conditions": {
+        "zhengxing": [],
+        "zhifa": [],
+        "bingzheng": [],
+        "zhengzhuang": [],
+        "fangming": [],
+        "yaoming": [],
+        "xuewei": [],
+        "jingluo": [
+          "十二经筋"
+        ],
+        "siqi": [],
+        "wuwei": [],
+        "guijing": [],
+        "keywords": [
+          "十二经筋",
+          "结聚筋肉",
+          "经络",
+          "中医基础",
+          "运动系统"
+        ]
+      }
+    },
+    {
+      "id": "shierjingmai_001",
+      "book": "《中医基础理论》规划教材（要点归纳）",
+      "type": "chapter",
+      "tier": 1,
+      "category": "jichu",
+      "subcategory": "jingluo",
+      "path": "library/jichu/jingluo/shierjingmai/shierjingmai_001.md",
+      "weight": 8,
+      "title": "十二经脉·气血主要通道",
+      "chapter": "经络",
+      "conditions": {
+        "zhengxing": [],
+        "zhifa": [],
+        "bingzheng": [],
+        "zhengzhuang": [],
+        "fangming": [],
+        "yaoming": [],
+        "xuewei": [],
+        "jingluo": [
+          "手太阴肺经",
+          "手阳明大肠经",
+          "足阳明胃经",
+          "足太阴脾经",
+          "手少阴心经",
+          "手太阳小肠经",
+          "足太阳膀胱经",
+          "足少阴肾经",
+          "手厥阴心包经",
+          "手少阳三焦经",
+          "足少阳胆经",
+          "足厥阴肝经"
+        ],
+        "siqi": [],
+        "wuwei": [],
+        "guijing": [],
+        "keywords": [
+          "十二经脉",
+          "经络",
+          "中医基础",
+          "手三阴三阳",
+          "足三阴三阳",
+          "气血通道"
+        ]
+      }
+    },
+    {
+      "id": "shierpibu_001",
+      "book": "《中医基础理论》规划教材（要点归纳）",
+      "type": "chapter",
+      "tier": 1,
+      "category": "jichu",
+      "subcategory": "jingluo",
+      "path": "library/jichu/jingluo/shierpibu/shierpibu_001.md",
+      "weight": 8,
+      "title": "十二皮部·经脉反应于体表部位",
+      "chapter": "经络",
+      "conditions": {
+        "zhengxing": [],
+        "zhifa": [],
+        "bingzheng": [],
+        "zhengzhuang": [],
+        "fangming": [],
+        "yaoming": [],
+        "xuewei": [],
+        "jingluo": [
+          "十二皮部"
+        ],
+        "siqi": [],
+        "wuwei": [],
+        "guijing": [],
+        "keywords": [
+          "十二皮部",
+          "体表分区",
+          "经络",
+          "中医基础",
+          "望诊"
+        ]
+      }
+    },
+    {
+      "id": "shiwuluomai_001",
+      "book": "《中医基础理论》规划教材（要点归纳）",
+      "type": "chapter",
+      "tier": 1,
+      "category": "jichu",
+      "subcategory": "jingluo",
+      "path": "library/jichu/jingluo/shiwuluomai/shiwuluomai_001.md",
+      "weight": 8,
+      "title": "十五络脉·经脉别络与脾之大络",
+      "chapter": "经络",
+      "conditions": {
+        "zhengxing": [],
+        "zhifa": [],
+        "bingzheng": [],
+        "zhengzhuang": [],
+        "fangming": [],
+        "yaoming": [],
+        "xuewei": [],
+        "jingluo": [
+          "十五络脉"
+        ],
+        "siqi": [],
+        "wuwei": [],
+        "guijing": [],
+        "keywords": [
+          "十五络脉",
+          "十二经别络",
+          "任脉络",
+          "督脉络",
+          "脾之大络",
+          "经络",
+          "中医基础"
         ]
       }
     },

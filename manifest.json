@@ -103,6 +103,10 @@
         "dir": "linchuang/neike/xinxi/xiongbi",
         "count": 1
       },
+      "pifu": {
+        "dir": "linchuang/pifu/zonglun",
+        "count": 1
+      },
       "waike": {
         "dir": "linchuang/waike/youtouju",
         "count": 1
@@ -5531,6 +5535,166 @@
       "tier_name": "核心",
       "category": "linchuang",
       "subcategory": "neike",
+      "count": 1
+    },
+    {
+      "dir": "linchuang/pifu/baichi",
+      "tier": 1,
+      "tier_name": "核心",
+      "category": "linchuang",
+      "subcategory": "pifu",
+      "count": 1
+    },
+    {
+      "dir": "linchuang/pifu/baixi",
+      "tier": 1,
+      "tier_name": "核心",
+      "category": "linchuang",
+      "subcategory": "pifu",
+      "count": 1
+    },
+    {
+      "dir": "linchuang/pifu/chibizisao",
+      "tier": 1,
+      "tier_name": "核心",
+      "category": "linchuang",
+      "subcategory": "pifu",
+      "count": 1
+    },
+    {
+      "dir": "linchuang/pifu/dongchuang",
+      "tier": 1,
+      "tier_name": "核心",
+      "category": "linchuang",
+      "subcategory": "pifu",
+      "count": 1
+    },
+    {
+      "dir": "linchuang/pifu/ezhangfeng",
+      "tier": 1,
+      "tier_name": "核心",
+      "category": "linchuang",
+      "subcategory": "pifu",
+      "count": 1
+    },
+    {
+      "dir": "linchuang/pifu/fenchi",
+      "tier": 1,
+      "tier_name": "核心",
+      "category": "linchuang",
+      "subcategory": "pifu",
+      "count": 1
+    },
+    {
+      "dir": "linchuang/pifu/heiban",
+      "tier": 1,
+      "tier_name": "核心",
+      "category": "linchuang",
+      "subcategory": "pifu",
+      "count": 1
+    },
+    {
+      "dir": "linchuang/pifu/hongbanlangchuang",
+      "tier": 1,
+      "tier_name": "核心",
+      "category": "linchuang",
+      "subcategory": "pifu",
+      "count": 1
+    },
+    {
+      "dir": "linchuang/pifu/jiaoqishui",
+      "tier": 1,
+      "tier_name": "核心",
+      "category": "linchuang",
+      "subcategory": "pifu",
+      "count": 1
+    },
+    {
+      "dir": "linchuang/pifu/jiechuan",
+      "tier": 1,
+      "tier_name": "核心",
+      "category": "linchuang",
+      "subcategory": "pifu",
+      "count": 1
+    },
+    {
+      "dir": "linchuang/pifu/jiechupiyan",
+      "tier": 1,
+      "tier_name": "核心",
+      "category": "linchuang",
+      "subcategory": "pifu",
+      "count": 1
+    },
+    {
+      "dir": "linchuang/pifu/jiuzhazi",
+      "tier": 1,
+      "tier_name": "核心",
+      "category": "linchuang",
+      "subcategory": "pifu",
+      "count": 1
+    },
+    {
+      "dir": "linchuang/pifu/shechuan",
+      "tier": 1,
+      "tier_name": "核心",
+      "category": "linchuang",
+      "subcategory": "pifu",
+      "count": 1
+    },
+    {
+      "dir": "linchuang/pifu/shenjingxingpiyan",
+      "tier": 1,
+      "tier_name": "核心",
+      "category": "linchuang",
+      "subcategory": "pifu",
+      "count": 1
+    },
+    {
+      "dir": "linchuang/pifu/shichuang",
+      "tier": 1,
+      "tier_name": "核心",
+      "category": "linchuang",
+      "subcategory": "pifu",
+      "count": 1
+    },
+    {
+      "dir": "linchuang/pifu/tixuan",
+      "tier": 1,
+      "tier_name": "核心",
+      "category": "linchuang",
+      "subcategory": "pifu",
+      "count": 1
+    },
+    {
+      "dir": "linchuang/pifu/yaozhen",
+      "tier": 1,
+      "tier_name": "核心",
+      "category": "linchuang",
+      "subcategory": "pifu",
+      "count": 1
+    },
+    {
+      "dir": "linchuang/pifu/yingzhen",
+      "tier": 1,
+      "tier_name": "核心",
+      "category": "linchuang",
+      "subcategory": "pifu",
+      "count": 1
+    },
+    {
+      "dir": "linchuang/pifu/you",
+      "tier": 1,
+      "tier_name": "核心",
+      "category": "linchuang",
+      "subcategory": "pifu",
+      "count": 1
+    },
+    {
+      "dir": "linchuang/pifu/zonglun",
+      "tier": 1,
+      "tier_name": "核心",
+      "category": "linchuang",
+      "subcategory": "pifu",
       "count": 1
     },
     {
@@ -16158,7 +16322,7 @@
       "count": 1
     }
   ],
-  "total": 3029,
+  "total": 3049,
   "entries": [
     {
       "id": "angongniuhuangwan_002",
@@ -88016,6 +88180,1204 @@
         "keywords": [
           "中医内科",
           "胸痹"
+        ]
+      }
+    },
+    {
+      "id": "baichi_001",
+      "book": "《中医皮肤性病学》规划教材（要点归纳）",
+      "type": "zhinan",
+      "tier": 1,
+      "category": "linchuang",
+      "subcategory": "pifu",
+      "path": "library/linchuang/pifu/baichi/baichi_001.md",
+      "weight": 8,
+      "title": "白疕·银屑病",
+      "chapter": "皮肤",
+      "conditions": {
+        "zhengxing": [
+          "血热内蕴",
+          "血虚风燥",
+          "气血瘀滞",
+          "湿毒蕴积"
+        ],
+        "zhifa": [
+          "凉血解毒",
+          "养血润燥",
+          "活血化瘀",
+          "利湿解毒"
+        ],
+        "bingzheng": [
+          "白疕"
+        ],
+        "zhengzhuang": [
+          "红色丘疹斑块",
+          "银白色鳞屑",
+          "刮去鳞屑见薄膜",
+          "点状出血",
+          "好发头皮四肢伸侧"
+        ],
+        "fangming": [
+          "犀角地黄汤",
+          "当归饮子",
+          "桃红四物汤",
+          "萆薢渗湿汤"
+        ],
+        "yaoming": [
+          "水牛角",
+          "生地黄",
+          "牡丹皮",
+          "当归",
+          "丹参"
+        ],
+        "xuewei": [],
+        "jingluo": [],
+        "siqi": [],
+        "wuwei": [],
+        "guijing": [],
+        "keywords": [
+          "白疕",
+          "银屑病",
+          "牛皮癣",
+          "皮肤科",
+          "中医临床",
+          "鳞屑",
+          "辨证论治"
+        ]
+      }
+    },
+    {
+      "id": "baixi_001",
+      "book": "《中医皮肤性病学》规划教材（要点归纳）",
+      "type": "zhinan",
+      "tier": 1,
+      "category": "linchuang",
+      "subcategory": "pifu",
+      "path": "library/linchuang/pifu/baixi/baixi_001.md",
+      "weight": 8,
+      "title": "白驳风·白癜风",
+      "chapter": "皮肤",
+      "conditions": {
+        "zhengxing": [
+          "肝郁气滞",
+          "肝肾不足",
+          "瘀血阻络"
+        ],
+        "zhifa": [
+          "疏肝理气",
+          "滋补肝肾",
+          "活血化瘀"
+        ],
+        "bingzheng": [
+          "白驳风"
+        ],
+        "zhengzhuang": [
+          "皮肤色素脱失斑",
+          "乳白色",
+          "境界清楚",
+          "毛发变白",
+          "无自觉症状"
+        ],
+        "fangming": [
+          "逍遥散",
+          "六味地黄丸",
+          "通窍活血汤"
+        ],
+        "yaoming": [
+          "柴胡",
+          "当归",
+          "熟地黄",
+          "女贞子",
+          "红花"
+        ],
+        "xuewei": [],
+        "jingluo": [],
+        "siqi": [],
+        "wuwei": [],
+        "guijing": [],
+        "keywords": [
+          "白驳风",
+          "白癜风",
+          "皮肤科",
+          "中医临床",
+          "色素脱失",
+          "辨证论治"
+        ]
+      }
+    },
+    {
+      "id": "chibizisao_001",
+      "book": "《中医皮肤性病学》规划教材（要点归纳）",
+      "type": "zhinan",
+      "tier": 1,
+      "category": "linchuang",
+      "subcategory": "pifu",
+      "path": "library/linchuang/pifu/chibizisao/chibizisao_001.md",
+      "weight": 8,
+      "title": "油风·头部突然片状脱发斑秃",
+      "chapter": "皮肤",
+      "conditions": {
+        "zhengxing": [
+          "血热风燥",
+          "气滞血瘀",
+          "气血两虚",
+          "肝肾不足"
+        ],
+        "zhifa": [
+          "凉血熄风",
+          "活血化瘀",
+          "益气养血",
+          "滋补肝肾"
+        ],
+        "bingzheng": [
+          "油风"
+        ],
+        "zhengzhuang": [
+          "头部突然片状脱发",
+          "头皮光亮",
+          "境界清楚",
+          "无自觉症状",
+          "或全秃"
+        ],
+        "fangming": [
+          "四物汤",
+          "通窍活血汤",
+          "八珍汤",
+          "七宝美髯丹"
+        ],
+        "yaoming": [
+          "当归",
+          "生地",
+          "赤芍",
+          "川芎",
+          "何首乌",
+          "枸杞子",
+          "菟丝子",
+          "黄芪"
+        ],
+        "xuewei": [],
+        "jingluo": [],
+        "siqi": [],
+        "wuwei": [],
+        "guijing": [],
+        "keywords": [
+          "油风",
+          "皮肤",
+          "中医临床",
+          "斑秃",
+          "片状脱发",
+          "养血生发",
+          "七宝美髯丹"
+        ]
+      }
+    },
+    {
+      "id": "dongchuang_001",
+      "book": "《中医皮肤性病学》规划教材（要点归纳）",
+      "type": "zhinan",
+      "tier": 1,
+      "category": "linchuang",
+      "subcategory": "pifu",
+      "path": "library/linchuang/pifu/dongchuang/dongchuang_001.md",
+      "weight": 8,
+      "title": "冻疮·低温部位红斑肿胀水疱糜烂",
+      "chapter": "皮肤",
+      "conditions": {
+        "zhengxing": [
+          "寒凝血瘀",
+          "寒化热毒"
+        ],
+        "zhifa": [
+          "温经散寒活血通络",
+          "清热解毒排脓"
+        ],
+        "bingzheng": [
+          "冻疮"
+        ],
+        "zhengzhuang": [
+          "耳廓手足红斑肿胀",
+          "灼热瘙痒",
+          "水疱糜烂",
+          "遇热加重",
+          "寒冬发病"
+        ],
+        "fangming": [
+          "当归四逆汤",
+          "四妙勇安汤"
+        ],
+        "yaoming": [
+          "当归",
+          "桂枝",
+          "赤芍",
+          "细辛",
+          "生姜",
+          "红花",
+          "干姜"
+        ],
+        "xuewei": [],
+        "jingluo": [],
+        "siqi": [],
+        "wuwei": [],
+        "guijing": [],
+        "keywords": [
+          "冻疮",
+          "皮肤",
+          "中医临床",
+          "低温损伤",
+          "寒凝血瘀",
+          "温经散寒",
+          "当归四逆汤"
+        ]
+      }
+    },
+    {
+      "id": "ezhangfeng_001",
+      "book": "《中医皮肤性病学》规划教材（要点归纳）",
+      "type": "zhinan",
+      "tier": 1,
+      "category": "linchuang",
+      "subcategory": "pifu",
+      "path": "library/linchuang/pifu/ezhangfeng/ezhangfeng_001.md",
+      "weight": 8,
+      "title": "鹅掌风·手掌皮肤粗糙脱屑皲裂手癣",
+      "chapter": "皮肤",
+      "conditions": {
+        "zhengxing": [
+          "风湿蕴肤",
+          "血虚风燥"
+        ],
+        "zhifa": [
+          "清热利湿解毒",
+          "养血润燥熄风"
+        ],
+        "bingzheng": [
+          "鹅掌风"
+        ],
+        "zhengzhuang": [
+          "手掌水疱",
+          "脱屑",
+          "皮肤粗糙肥厚",
+          "皲裂",
+          "瘙痒"
+        ],
+        "fangming": [
+          "消风散",
+          "四物消风饮"
+        ],
+        "yaoming": [
+          "当归",
+          "生地",
+          "苦参",
+          "白鲜皮",
+          "地肤子",
+          "蛇床子",
+          "大风子"
+        ],
+        "xuewei": [],
+        "jingluo": [],
+        "siqi": [],
+        "wuwei": [],
+        "guijing": [],
+        "keywords": [
+          "鹅掌风",
+          "皮肤",
+          "中医临床",
+          "手癣",
+          "手掌脱屑皲裂",
+          "血虚风燥",
+          "养血润燥"
+        ]
+      }
+    },
+    {
+      "id": "fenchi_001",
+      "book": "《中医皮肤性病学》规划教材（要点归纳）",
+      "type": "zhinan",
+      "tier": 1,
+      "category": "linchuang",
+      "subcategory": "pifu",
+      "path": "library/linchuang/pifu/fenchi/fenchi_001.md",
+      "weight": 8,
+      "title": "粉刺·痤疮",
+      "chapter": "皮肤",
+      "conditions": {
+        "zhengxing": [
+          "肺经风热",
+          "肠胃湿热",
+          "痰湿瘀滞"
+        ],
+        "zhifa": [
+          "疏风清肺",
+          "清热除湿",
+          "化痰活血"
+        ],
+        "bingzheng": [
+          "粉刺"
+        ],
+        "zhengzhuang": [
+          "面部丘疹脓疱",
+          "黑头白头粉刺",
+          "结节囊肿",
+          "好发青少年",
+          "皮脂溢出"
+        ],
+        "fangming": [
+          "枇杷清肺饮",
+          "黄连解毒汤",
+          "海藻玉壶汤"
+        ],
+        "yaoming": [
+          "枇杷叶",
+          "桑白皮",
+          "黄芩",
+          "黄连",
+          "夏枯草"
+        ],
+        "xuewei": [],
+        "jingluo": [],
+        "siqi": [],
+        "wuwei": [],
+        "guijing": [],
+        "keywords": [
+          "粉刺",
+          "痤疮",
+          "青春痘",
+          "皮肤科",
+          "中医临床",
+          "肺风粉刺",
+          "辨证论治"
+        ]
+      }
+    },
+    {
+      "id": "heiban_001",
+      "book": "《中医皮肤性病学》规划教材（要点归纳）",
+      "type": "zhinan",
+      "tier": 1,
+      "category": "linchuang",
+      "subcategory": "pifu",
+      "path": "library/linchuang/pifu/heiban/heiban_001.md",
+      "weight": 8,
+      "title": "黧黑斑·面部黄褐斑",
+      "chapter": "皮肤",
+      "conditions": {
+        "zhengxing": [
+          "肝郁气滞",
+          "脾土亏虚",
+          "肾水不足"
+        ],
+        "zhifa": [
+          "疏肝理气",
+          "健脾益气",
+          "滋补肾阴"
+        ],
+        "bingzheng": [
+          "黧黑斑"
+        ],
+        "zhengzhuang": [
+          "面部对称性黄褐色斑片"
+        ],
+        "fangming": [
+          "逍遥散",
+          "参苓白术散",
+          "六味地黄丸"
+        ],
+        "yaoming": [
+          "柴胡",
+          "当归",
+          "白术",
+          "茯苓",
+          "熟地黄"
+        ],
+        "xuewei": [],
+        "jingluo": [],
+        "siqi": [],
+        "wuwei": [],
+        "guijing": [],
+        "keywords": [
+          "黧黑斑",
+          "黄褐斑",
+          "皮肤科",
+          "中医临床",
+          "面部色斑"
+        ]
+      }
+    },
+    {
+      "id": "hongbanlangchuang_001",
+      "book": "《中医皮肤性病学》规划教材（要点归纳）",
+      "type": "zhinan",
+      "tier": 1,
+      "category": "linchuang",
+      "subcategory": "pifu",
+      "path": "library/linchuang/pifu/hongbanlangchuang/hongbanlangchuang_001.md",
+      "weight": 8,
+      "title": "红斑狼疮·面部蝶形红斑多系统损害",
+      "chapter": "皮肤",
+      "conditions": {
+        "zhengxing": [
+          "热毒炽盛",
+          "阴虚火旺",
+          "脾肾阳虚",
+          "气滞血瘀"
+        ],
+        "zhifa": [
+          "清热解毒凉血",
+          "滋阴降火",
+          "温补脾肾",
+          "活血化瘀"
+        ],
+        "bingzheng": [
+          "红斑狼疮"
+        ],
+        "zhengzhuang": [
+          "面部蝶形红斑",
+          "发热",
+          "关节痛",
+          "多系统损害",
+          "或口腔溃疡脱发"
+        ],
+        "fangming": [
+          "清瘟败毒饮",
+          "知柏地黄丸",
+          "真武汤",
+          "血府逐瘀汤"
+        ],
+        "yaoming": [
+          "水牛角",
+          "生地",
+          "丹皮",
+          "赤芍",
+          "知母",
+          "黄柏",
+          "黄芪",
+          "白花蛇舌草"
+        ],
+        "xuewei": [],
+        "jingluo": [],
+        "siqi": [],
+        "wuwei": [],
+        "guijing": [],
+        "keywords": [
+          "红斑狼疮",
+          "皮肤",
+          "中医临床",
+          "蝶形红斑",
+          "热毒炽盛",
+          "阴虚火旺",
+          "自身免疫"
+        ]
+      }
+    },
+    {
+      "id": "jiaoqishui_001",
+      "book": "《中医皮肤性病学》规划教材（要点归纳）",
+      "type": "zhinan",
+      "tier": 1,
+      "category": "linchuang",
+      "subcategory": "pifu",
+      "path": "library/linchuang/pifu/jiaoqishui/jiaoqishui_001.md",
+      "weight": 8,
+      "title": "脚湿气·足趾水疱糜烂脱屑足癣",
+      "chapter": "皮肤",
+      "conditions": {
+        "zhengxing": [
+          "湿热下注",
+          "血虚风燥"
+        ],
+        "zhifa": [
+          "清热利湿解毒",
+          "养血润燥"
+        ],
+        "bingzheng": [
+          "脚湿气"
+        ],
+        "zhengzhuang": [
+          "足趾间水疱",
+          "糜烂浸渍",
+          "脱屑瘙痒",
+          "角化皲裂",
+          "夏季加重"
+        ],
+        "fangming": [
+          "萆薢渗湿汤",
+          "四物消风饮"
+        ],
+        "yaoming": [
+          "苦参",
+          "地肤子",
+          "白鲜皮",
+          "黄柏",
+          "苍术",
+          "土茯苓",
+          "蛇床子"
+        ],
+        "xuewei": [],
+        "jingluo": [],
+        "siqi": [],
+        "wuwei": [],
+        "guijing": [],
+        "keywords": [
+          "脚湿气",
+          "皮肤",
+          "中医临床",
+          "足癣",
+          "脚气",
+          "湿热下注",
+          "清热利湿"
+        ]
+      }
+    },
+    {
+      "id": "jiechuan_001",
+      "book": "《中医皮肤性病学》规划教材（要点归纳）",
+      "type": "zhinan",
+      "tier": 1,
+      "category": "linchuang",
+      "subcategory": "pifu",
+      "path": "library/linchuang/pifu/jiechuan/jiechuan_001.md",
+      "weight": 8,
+      "title": "疥疮·皮肤丘疹水疱隧道奇痒",
+      "chapter": "皮肤",
+      "conditions": {
+        "zhengxing": [
+          "湿热毒聚"
+        ],
+        "zhifa": [
+          "清热利湿解毒杀虫"
+        ],
+        "bingzheng": [
+          "疥疮"
+        ],
+        "zhengzhuang": [
+          "皮肤丘疹水疱",
+          "指缝隧道",
+          "夜间奇痒",
+          "好发皮肤薄嫩处",
+          "有接触传染史"
+        ],
+        "fangming": [
+          "黄连解毒汤"
+        ],
+        "yaoming": [
+          "硫黄",
+          "苦参",
+          "地肤子",
+          "白鲜皮",
+          "百部",
+          "花椒",
+          "蛇床子"
+        ],
+        "xuewei": [],
+        "jingluo": [],
+        "siqi": [],
+        "wuwei": [],
+        "guijing": [],
+        "keywords": [
+          "疥疮",
+          "皮肤",
+          "中医临床",
+          "疥虫",
+          "隧道",
+          "夜间奇痒",
+          "杀虫止痒"
+        ]
+      }
+    },
+    {
+      "id": "jiechupiyan_001",
+      "book": "《中医皮肤性病学》规划教材（要点归纳）",
+      "type": "zhinan",
+      "tier": 1,
+      "category": "linchuang",
+      "subcategory": "pifu",
+      "path": "library/linchuang/pifu/jiechupiyan/jiechupiyan_001.md",
+      "weight": 8,
+      "title": "接触性皮炎",
+      "chapter": "皮肤",
+      "conditions": {
+        "zhengxing": [
+          "热毒夹湿",
+          "风热蕴肤"
+        ],
+        "zhifa": [
+          "清热利湿",
+          "凉血解毒",
+          "疏风止痒"
+        ],
+        "bingzheng": [
+          "接触性皮炎"
+        ],
+        "zhengzhuang": [
+          "接触部位红斑肿胀",
+          "丘疹水疱",
+          "甚则大疱糜烂",
+          "瘙痒灼痛",
+          "境界清楚"
+        ],
+        "fangming": [
+          "龙胆泻肝汤",
+          "化斑解毒汤",
+          "消风散"
+        ],
+        "yaoming": [
+          "龙胆草",
+          "生石膏",
+          "连翘",
+          "牛蒡子",
+          "甘草"
+        ],
+        "xuewei": [],
+        "jingluo": [],
+        "siqi": [],
+        "wuwei": [],
+        "guijing": [],
+        "keywords": [
+          "接触性皮炎",
+          "漆疮",
+          "皮肤科",
+          "中医临床",
+          "变态反应",
+          "辨证论治"
+        ]
+      }
+    },
+    {
+      "id": "jiuzhazi_001",
+      "book": "《中医皮肤性病学》规划教材（要点归纳）",
+      "type": "zhinan",
+      "tier": 1,
+      "category": "linchuang",
+      "subcategory": "pifu",
+      "path": "library/linchuang/pifu/jiuzhazi/jiuzhazi_001.md",
+      "weight": 8,
+      "title": "酒齄鼻",
+      "chapter": "皮肤",
+      "conditions": {
+        "zhengxing": [
+          "肺胃热盛",
+          "热毒蕴肤",
+          "气滞血瘀"
+        ],
+        "zhifa": [
+          "清泻肺胃",
+          "凉血解毒",
+          "活血化瘀"
+        ],
+        "bingzheng": [
+          "酒齄鼻"
+        ],
+        "zhengzhuang": [
+          "鼻尖鼻翼红斑",
+          "毛细血管扩张",
+          "丘疹脓疱",
+          "甚则鼻赘肥大"
+        ],
+        "fangming": [
+          "枇杷清肺饮",
+          "黄连解毒汤",
+          "通窍活血汤"
+        ],
+        "yaoming": [
+          "枇杷叶",
+          "桑白皮",
+          "黄芩",
+          "生石膏",
+          "红花"
+        ],
+        "xuewei": [],
+        "jingluo": [],
+        "siqi": [],
+        "wuwei": [],
+        "guijing": [],
+        "keywords": [
+          "酒齄鼻",
+          "酒糟鼻",
+          "皮肤科",
+          "中医临床",
+          "鼻部红斑",
+          "辨证论治"
+        ]
+      }
+    },
+    {
+      "id": "shechuan_001",
+      "book": "《中医皮肤性病学》规划教材（要点归纳）",
+      "type": "zhinan",
+      "tier": 1,
+      "category": "linchuang",
+      "subcategory": "pifu",
+      "path": "library/linchuang/pifu/shechuan/shechuan_001.md",
+      "weight": 8,
+      "title": "蛇串疮·带状疱疹",
+      "chapter": "皮肤",
+      "conditions": {
+        "zhengxing": [
+          "肝经郁热",
+          "脾虚湿蕴",
+          "气滞血瘀"
+        ],
+        "zhifa": [
+          "清肝泻火",
+          "健脾利湿",
+          "理气活血"
+        ],
+        "bingzheng": [
+          "蛇串疮"
+        ],
+        "zhengzhuang": [
+          "皮肤簇集水疱",
+          "沿一侧神经分布",
+          "排列成带状",
+          "剧烈疼痛"
+        ],
+        "fangming": [
+          "龙胆泻肝汤",
+          "除湿胃苓汤",
+          "柴胡疏肝散合桃红四物汤"
+        ],
+        "yaoming": [
+          "龙胆草",
+          "黄芩",
+          "柴胡",
+          "板蓝根",
+          "延胡索"
+        ],
+        "xuewei": [],
+        "jingluo": [],
+        "siqi": [],
+        "wuwei": [],
+        "guijing": [],
+        "keywords": [
+          "蛇串疮",
+          "缠腰火丹",
+          "带状疱疹",
+          "皮肤科",
+          "中医临床",
+          "神经痛",
+          "辨证论治"
+        ]
+      }
+    },
+    {
+      "id": "shenjingxingpiyan_001",
+      "book": "《中医皮肤性病学》规划教材（要点归纳）",
+      "type": "zhinan",
+      "tier": 1,
+      "category": "linchuang",
+      "subcategory": "pifu",
+      "path": "library/linchuang/pifu/shenjingxingpiyan/shenjingxingpiyan_001.md",
+      "weight": 8,
+      "title": "神经性皮炎",
+      "chapter": "皮肤",
+      "conditions": {
+        "zhengxing": [
+          "肝郁化火",
+          "风湿蕴肤",
+          "血虚风燥"
+        ],
+        "zhifa": [
+          "疏肝泻火",
+          "疏风利湿",
+          "养血润燥"
+        ],
+        "bingzheng": [
+          "神经性皮炎"
+        ],
+        "zhengzhuang": [
+          "皮肤苔藓样变",
+          "剧烈瘙痒",
+          "皮损肥厚",
+          "好发颈项肘腘",
+          "反复搔抓"
+        ],
+        "fangming": [
+          "龙胆泻肝汤",
+          "消风散",
+          "四物消风饮"
+        ],
+        "yaoming": [
+          "龙胆草",
+          "柴胡",
+          "当归",
+          "生地黄",
+          "何首乌"
+        ],
+        "xuewei": [],
+        "jingluo": [],
+        "siqi": [],
+        "wuwei": [],
+        "guijing": [],
+        "keywords": [
+          "神经性皮炎",
+          "牛皮癣",
+          "摄领疮",
+          "皮肤科",
+          "中医临床",
+          "瘙痒",
+          "辨证论治"
+        ]
+      }
+    },
+    {
+      "id": "shichuang_001",
+      "book": "《中医皮肤性病学》规划教材（要点归纳）",
+      "type": "zhinan",
+      "tier": 1,
+      "category": "linchuang",
+      "subcategory": "pifu",
+      "path": "library/linchuang/pifu/shichuang/shichuang_001.md",
+      "weight": 8,
+      "title": "湿疮·湿疹",
+      "chapter": "皮肤",
+      "conditions": {
+        "zhengxing": [
+          "湿热浸淫",
+          "脾虚湿蕴",
+          "血虚风燥"
+        ],
+        "zhifa": [
+          "清热利湿",
+          "健脾利湿",
+          "养血润肤"
+        ],
+        "bingzheng": [
+          "湿疮"
+        ],
+        "zhengzhuang": [
+          "皮损多形",
+          "红斑丘疹水疱",
+          "渗液瘙痒",
+          "对称分布",
+          "反复发作"
+        ],
+        "fangming": [
+          "龙胆泻肝汤",
+          "除湿胃苓汤",
+          "四物消风饮"
+        ],
+        "yaoming": [
+          "龙胆草",
+          "黄芩",
+          "黄柏",
+          "苍术",
+          "当归"
+        ],
+        "xuewei": [],
+        "jingluo": [],
+        "siqi": [],
+        "wuwei": [],
+        "guijing": [],
+        "keywords": [
+          "湿疮",
+          "湿疹",
+          "皮肤科",
+          "中医临床",
+          "变态反应",
+          "辨证论治"
+        ]
+      }
+    },
+    {
+      "id": "tixuan_001",
+      "book": "《中医皮肤性病学》规划教材（要点归纳）",
+      "type": "zhinan",
+      "tier": 1,
+      "category": "linchuang",
+      "subcategory": "pifu",
+      "path": "library/linchuang/pifu/tixuan/tixuan_001.md",
+      "weight": 8,
+      "title": "体癣·环形红斑边缘隆起瘙痒圆癣",
+      "chapter": "皮肤",
+      "conditions": {
+        "zhengxing": [
+          "风湿虫毒",
+          "湿热蕴肤"
+        ],
+        "zhifa": [
+          "清热利湿",
+          "解毒杀虫止痒"
+        ],
+        "bingzheng": [
+          "体癣"
+        ],
+        "zhengzhuang": [
+          "环形红斑",
+          "边缘隆起丘疹水疱",
+          "中央自愈",
+          "脱屑瘙痒",
+          "夏季多发"
+        ],
+        "fangming": [
+          "消风散",
+          "萆薢渗湿汤"
+        ],
+        "yaoming": [
+          "苦参",
+          "白鲜皮",
+          "地肤子",
+          "土槿皮",
+          "黄柏",
+          "百部",
+          "蛇床子"
+        ],
+        "xuewei": [],
+        "jingluo": [],
+        "siqi": [],
+        "wuwei": [],
+        "guijing": [],
+        "keywords": [
+          "体癣",
+          "皮肤",
+          "中医临床",
+          "圆癣",
+          "环形红斑",
+          "瘙痒",
+          "清热利湿"
+        ]
+      }
+    },
+    {
+      "id": "yaozhen_001",
+      "book": "《中医皮肤性病学》规划教材（要点归纳）",
+      "type": "zhinan",
+      "tier": 1,
+      "category": "linchuang",
+      "subcategory": "pifu",
+      "path": "library/linchuang/pifu/yaozhen/yaozhen_001.md",
+      "weight": 8,
+      "title": "药疹",
+      "chapter": "皮肤",
+      "conditions": {
+        "zhengxing": [
+          "湿毒蕴肤",
+          "热毒入营",
+          "气阴两虚"
+        ],
+        "zhifa": [
+          "清热利湿",
+          "凉血解毒",
+          "益气养阴"
+        ],
+        "bingzheng": [
+          "药疹"
+        ],
+        "zhengzhuang": [
+          "用药后皮肤红斑丘疹",
+          "甚则剥脱",
+          "瘙痒",
+          "可伴发热",
+          "对称泛发"
+        ],
+        "fangming": [
+          "萆薢渗湿汤",
+          "清营汤",
+          "增液汤"
+        ],
+        "yaoming": [
+          "生地黄",
+          "牡丹皮",
+          "赤芍",
+          "金银花",
+          "连翘"
+        ],
+        "xuewei": [],
+        "jingluo": [],
+        "siqi": [],
+        "wuwei": [],
+        "guijing": [],
+        "keywords": [
+          "药疹",
+          "药物性皮炎",
+          "皮肤科",
+          "中医临床",
+          "过敏",
+          "辨证论治"
+        ]
+      }
+    },
+    {
+      "id": "yingzhen_001",
+      "book": "《中医皮肤性病学》规划教材（要点归纳）",
+      "type": "zhinan",
+      "tier": 1,
+      "category": "linchuang",
+      "subcategory": "pifu",
+      "path": "library/linchuang/pifu/yingzhen/yingzhen_001.md",
+      "weight": 8,
+      "title": "瘾疹·荨麻疹",
+      "chapter": "皮肤",
+      "conditions": {
+        "zhengxing": [
+          "风寒外袭",
+          "风热犯表",
+          "胃肠湿热",
+          "气血两虚"
+        ],
+        "zhifa": [
+          "疏风散寒",
+          "疏风清热",
+          "通腑泄热",
+          "补益气血"
+        ],
+        "bingzheng": [
+          "瘾疹"
+        ],
+        "zhengzhuang": [
+          "皮肤瘙痒",
+          "风团骤起骤退",
+          "发无定处",
+          "消退不留痕迹"
+        ],
+        "fangming": [
+          "麻黄桂枝各半汤",
+          "消风散",
+          "防风通圣散",
+          "八珍汤"
+        ],
+        "yaoming": [
+          "荆芥",
+          "防风",
+          "蝉蜕",
+          "苦参",
+          "当归"
+        ],
+        "xuewei": [],
+        "jingluo": [],
+        "siqi": [],
+        "wuwei": [],
+        "guijing": [],
+        "keywords": [
+          "瘾疹",
+          "荨麻疹",
+          "皮肤科",
+          "中医临床",
+          "风团",
+          "辨证论治"
+        ]
+      }
+    },
+    {
+      "id": "you_001",
+      "book": "《中医皮肤性病学》规划教材（要点归纳）",
+      "type": "zhinan",
+      "tier": 1,
+      "category": "linchuang",
+      "subcategory": "pifu",
+      "path": "library/linchuang/pifu/you/you_001.md",
+      "weight": 8,
+      "title": "疣·皮肤黏膜赘生物寻常疣扁平疣",
+      "chapter": "皮肤",
+      "conditions": {
+        "zhengxing": [
+          "风热毒聚",
+          "肝郁血瘀",
+          "气虚血瘀"
+        ],
+        "zhifa": [
+          "疏风清热解毒",
+          "疏肝活血",
+          "益气活血"
+        ],
+        "bingzheng": [
+          "疣"
+        ],
+        "zhengzhuang": [
+          "皮肤赘生物",
+          "粗糙坚硬",
+          "或扁平丘疹",
+          "好发于手背颜面",
+          "逐渐增多"
+        ],
+        "fangming": [
+          "马齿苋合剂",
+          "治瘊方",
+          "桃红四物汤"
+        ],
+        "yaoming": [
+          "马齿苋",
+          "大青叶",
+          "板蓝根",
+          "紫草",
+          "红花",
+          "桃仁",
+          "香附",
+          "木贼"
+        ],
+        "xuewei": [],
+        "jingluo": [],
+        "siqi": [],
+        "wuwei": [],
+        "guijing": [],
+        "keywords": [
+          "疣",
+          "皮肤",
+          "中医临床",
+          "寻常疣",
+          "扁平疣",
+          "传染性",
+          "清热解毒"
+        ]
+      }
+    },
+    {
+      "id": "pifubing_001",
+      "book": "《中医皮肤性病学》规划教材（要点归纳）",
+      "type": "zhinan",
+      "tier": 1,
+      "category": "linchuang",
+      "subcategory": "pifu",
+      "path": "library/linchuang/pifu/zonglun/pifubing_001.md",
+      "weight": 8,
+      "title": "皮肤病总论",
+      "chapter": "皮肤",
+      "conditions": {
+        "zhengxing": [
+          "风热",
+          "湿热",
+          "血热",
+          "血瘀",
+          "血虚风燥",
+          "肝肾不足"
+        ],
+        "zhifa": [
+          "疏风清热",
+          "清热利湿",
+          "凉血解毒",
+          "养血润燥"
+        ],
+        "bingzheng": [
+          "皮肤病"
+        ],
+        "zhengzhuang": [
+          "皮肤红斑",
+          "丘疹",
+          "水疱",
+          "糜烂",
+          "瘙痒"
+        ],
+        "fangming": [
+          "消风散",
+          "龙胆泻肝汤",
+          "四物消风饮"
+        ],
+        "yaoming": [
+          "荆芥",
+          "防风",
+          "苦参",
+          "生地黄",
+          "当归"
+        ],
+        "xuewei": [],
+        "jingluo": [],
+        "siqi": [],
+        "wuwei": [],
+        "guijing": [],
+        "keywords": [
+          "皮肤病",
+          "皮肤科",
+          "中医临床",
+          "辨证论治"
         ]
       }
     },

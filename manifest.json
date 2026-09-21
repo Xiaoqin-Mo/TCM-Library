@@ -91,6 +91,10 @@
         "dir": "linchuang/neike/xinxi/xiongbi",
         "count": 1
       },
+      "waike": {
+        "dir": "linchuang/waike/youtouju",
+        "count": 1
+      },
       "wenbing": {
         "dir": "linchuang/wenbing/yingfenzheng",
         "count": 1
@@ -5071,6 +5075,166 @@
       "tier_name": "核心",
       "category": "linchuang",
       "subcategory": "neike",
+      "count": 1
+    },
+    {
+      "dir": "linchuang/waike/changyong",
+      "tier": 1,
+      "tier_name": "核心",
+      "category": "linchuang",
+      "subcategory": "waike",
+      "count": 1
+    },
+    {
+      "dir": "linchuang/waike/chuanyang",
+      "tier": 1,
+      "tier_name": "核心",
+      "category": "linchuang",
+      "subcategory": "waike",
+      "count": 1
+    },
+    {
+      "dir": "linchuang/waike/dandu",
+      "tier": 1,
+      "tier_name": "核心",
+      "category": "linchuang",
+      "subcategory": "waike",
+      "count": 1
+    },
+    {
+      "dir": "linchuang/waike/danshizheng",
+      "tier": 1,
+      "tier_name": "核心",
+      "category": "linchuang",
+      "subcategory": "waike",
+      "count": 1
+    },
+    {
+      "dir": "linchuang/waike/dingchuang",
+      "tier": 1,
+      "tier_name": "核心",
+      "category": "linchuang",
+      "subcategory": "waike",
+      "count": 1
+    },
+    {
+      "dir": "linchuang/waike/dongshang",
+      "tier": 1,
+      "tier_name": "核心",
+      "category": "linchuang",
+      "subcategory": "waike",
+      "count": 1
+    },
+    {
+      "dir": "linchuang/waike/fuguji",
+      "tier": 1,
+      "tier_name": "核心",
+      "category": "linchuang",
+      "subcategory": "waike",
+      "count": 1
+    },
+    {
+      "dir": "linchuang/waike/jueju",
+      "tier": 1,
+      "tier_name": "核心",
+      "category": "linchuang",
+      "subcategory": "waike",
+      "count": 1
+    },
+    {
+      "dir": "linchuang/waike/liangchuang",
+      "tier": 1,
+      "tier_name": "核心",
+      "category": "linchuang",
+      "subcategory": "waike",
+      "count": 1
+    },
+    {
+      "dir": "linchuang/waike/luoli",
+      "tier": 1,
+      "tier_name": "核心",
+      "category": "linchuang",
+      "subcategory": "waike",
+      "count": 1
+    },
+    {
+      "dir": "linchuang/waike/pucang",
+      "tier": 1,
+      "tier_name": "核心",
+      "category": "linchuang",
+      "subcategory": "waike",
+      "count": 1
+    },
+    {
+      "dir": "linchuang/waike/qiying",
+      "tier": 1,
+      "tier_name": "核心",
+      "category": "linchuang",
+      "subcategory": "waike",
+      "count": 1
+    },
+    {
+      "dir": "linchuang/waike/rouying",
+      "tier": 1,
+      "tier_name": "核心",
+      "category": "linchuang",
+      "subcategory": "waike",
+      "count": 1
+    },
+    {
+      "dir": "linchuang/waike/ruqi",
+      "tier": 1,
+      "tier_name": "核心",
+      "category": "linchuang",
+      "subcategory": "waike",
+      "count": 1
+    },
+    {
+      "dir": "linchuang/waike/ruyong",
+      "tier": 1,
+      "tier_name": "核心",
+      "category": "linchuang",
+      "subcategory": "waike",
+      "count": 1
+    },
+    {
+      "dir": "linchuang/waike/shangfeng",
+      "tier": 1,
+      "tier_name": "核心",
+      "category": "linchuang",
+      "subcategory": "waike",
+      "count": 1
+    },
+    {
+      "dir": "linchuang/waike/shaoshang",
+      "tier": 1,
+      "tier_name": "核心",
+      "category": "linchuang",
+      "subcategory": "waike",
+      "count": 1
+    },
+    {
+      "dir": "linchuang/waike/sheyaojishang",
+      "tier": 1,
+      "tier_name": "核心",
+      "category": "linchuang",
+      "subcategory": "waike",
+      "count": 1
+    },
+    {
+      "dir": "linchuang/waike/yong",
+      "tier": 1,
+      "tier_name": "核心",
+      "category": "linchuang",
+      "subcategory": "waike",
+      "count": 1
+    },
+    {
+      "dir": "linchuang/waike/youtouju",
+      "tier": 1,
+      "tier_name": "核心",
+      "category": "linchuang",
+      "subcategory": "waike",
       "count": 1
     },
     {
@@ -15410,7 +15574,7 @@
       "count": 1
     }
   ],
-  "total": 2938,
+  "total": 2958,
   "entries": [
     {
       "id": "angongniuhuangwan_002",
@@ -83827,6 +83991,1204 @@
         "keywords": [
           "中医内科",
           "胸痹"
+        ]
+      }
+    },
+    {
+      "id": "changyong_001",
+      "book": "《中医外科学》规划教材（要点归纳）",
+      "type": "zhinan",
+      "tier": 1,
+      "category": "linchuang",
+      "subcategory": "waike",
+      "path": "library/linchuang/waike/changyong/changyong_001.md",
+      "weight": 8,
+      "title": "肠痈·右下腹痛拒按伴发热恶心",
+      "chapter": "外科",
+      "conditions": {
+        "zhengxing": [
+          "瘀滞",
+          "湿热",
+          "热毒"
+        ],
+        "zhifa": [
+          "行气活血",
+          "通腑泄热",
+          "解毒透脓"
+        ],
+        "bingzheng": [
+          "肠痈"
+        ],
+        "zhengzhuang": [
+          "右下腹疼痛",
+          "固定拒按",
+          "伴发热",
+          "恶心纳呆",
+          "右下腹压痛反跳痛"
+        ],
+        "fangming": [
+          "大黄牡丹汤",
+          "红藤煎",
+          "复方大柴胡汤"
+        ],
+        "yaoming": [
+          "大黄",
+          "牡丹皮",
+          "桃仁",
+          "红藤",
+          "败酱草"
+        ],
+        "xuewei": [],
+        "jingluo": [],
+        "siqi": [],
+        "wuwei": [],
+        "guijing": [],
+        "keywords": [
+          "肠痈",
+          "外科",
+          "中医临床",
+          "急性阑尾炎",
+          "右下腹痛",
+          "辨证论治"
+        ]
+      }
+    },
+    {
+      "id": "chuanyangzonglun_001",
+      "book": "《中医外科学》规划教材（要点归纳）",
+      "type": "zhinan",
+      "tier": 1,
+      "category": "linchuang",
+      "subcategory": "waike",
+      "path": "library/linchuang/waike/chuanyang/chuanyangzonglun_001.md",
+      "weight": 8,
+      "title": "疮疡总论·外科化脓性感染性疾病概述",
+      "chapter": "外科",
+      "conditions": {
+        "zhengxing": [
+          "热毒蕴结",
+          "火毒炽盛",
+          "正虚邪恋"
+        ],
+        "zhifa": [
+          "清热解毒",
+          "和营消肿",
+          "托毒透邪"
+        ],
+        "bingzheng": [
+          "疮疡"
+        ],
+        "zhengzhuang": [
+          "局部红肿热痛",
+          "成脓破溃"
+        ],
+        "fangming": [
+          "五味消毒饮",
+          "仙方活命饮",
+          "托里消毒散"
+        ],
+        "yaoming": [
+          "金银花",
+          "蒲公英",
+          "紫花地丁",
+          "皂角刺"
+        ],
+        "xuewei": [],
+        "jingluo": [],
+        "siqi": [],
+        "wuwei": [],
+        "guijing": [],
+        "keywords": [
+          "疮疡",
+          "外科",
+          "中医临床",
+          "化脓感染",
+          "辨证论治"
+        ]
+      }
+    },
+    {
+      "id": "dandu_001",
+      "book": "《中医外科学》规划教材（要点归纳）",
+      "type": "zhinan",
+      "tier": 1,
+      "category": "linchuang",
+      "subcategory": "waike",
+      "path": "library/linchuang/waike/dandu/dandu_001.md",
+      "weight": 8,
+      "title": "丹毒·皮肤突然发红色如涂丹",
+      "chapter": "外科",
+      "conditions": {
+        "zhengxing": [
+          "风热毒蕴",
+          "肝脾湿火",
+          "湿热毒蕴",
+          "胎火蕴毒"
+        ],
+        "zhifa": [
+          "凉血清热",
+          "解毒化瘀",
+          "利湿"
+        ],
+        "bingzheng": [
+          "丹毒"
+        ],
+        "zhengzhuang": [
+          "皮肤突然发红",
+          "色如涂丹",
+          "灼热肿痛",
+          "边界清楚",
+          "伴恶寒发热"
+        ],
+        "fangming": [
+          "普济消毒饮",
+          "柴胡清肝汤",
+          "五神汤",
+          "萆薢渗湿汤"
+        ],
+        "yaoming": [
+          "板蓝根",
+          "黄芩",
+          "黄连",
+          "连翘",
+          "赤芍"
+        ],
+        "xuewei": [],
+        "jingluo": [],
+        "siqi": [],
+        "wuwei": [],
+        "guijing": [],
+        "keywords": [
+          "丹毒",
+          "外科",
+          "中医临床",
+          "链球菌感染",
+          "流火",
+          "辨证论治"
+        ]
+      }
+    },
+    {
+      "id": "danshizheng_001",
+      "book": "《中医外科学》规划教材（要点归纳）",
+      "type": "zhinan",
+      "tier": 1,
+      "category": "linchuang",
+      "subcategory": "waike",
+      "path": "library/linchuang/waike/danshizheng/danshizheng_001.md",
+      "weight": 8,
+      "title": "胆石症·胁肋疼痛口苦或伴黄疸发热",
+      "chapter": "外科",
+      "conditions": {
+        "zhengxing": [
+          "肝胆湿热",
+          "肝郁气滞",
+          "脓毒壅滞"
+        ],
+        "zhifa": [
+          "疏肝利胆",
+          "清热利湿",
+          "通腑排石"
+        ],
+        "bingzheng": [
+          "胆石症"
+        ],
+        "zhengzhuang": [
+          "胁肋疼痛",
+          "口苦",
+          "或伴黄疸发热",
+          "右胁绞痛牵及肩背"
+        ],
+        "fangming": [
+          "大柴胡汤",
+          "茵陈蒿汤",
+          "柴胡疏肝散"
+        ],
+        "yaoming": [
+          "柴胡",
+          "黄芩",
+          "茵陈",
+          "金钱草",
+          "大黄",
+          "枳实"
+        ],
+        "xuewei": [],
+        "jingluo": [],
+        "siqi": [],
+        "wuwei": [],
+        "guijing": [],
+        "keywords": [
+          "胆石症",
+          "外科",
+          "中医临床",
+          "胁痛",
+          "口苦",
+          "黄疸",
+          "疏肝利胆"
+        ]
+      }
+    },
+    {
+      "id": "dingchuang_001",
+      "book": "《中医外科学》规划教材（要点归纳）",
+      "type": "zhinan",
+      "tier": 1,
+      "category": "linchuang",
+      "subcategory": "waike",
+      "path": "library/linchuang/waike/dingchuang/dingchuang_001.md",
+      "weight": 8,
+      "title": "疔疮·形小根深坚硬如钉易发走黄",
+      "chapter": "外科",
+      "conditions": {
+        "zhengxing": [
+          "火毒凝结",
+          "热毒蕴结",
+          "走黄毒盛"
+        ],
+        "zhifa": [
+          "清热解毒",
+          "凉血泄火",
+          "消肿"
+        ],
+        "bingzheng": [
+          "疔疮"
+        ],
+        "zhengzhuang": [
+          "形小根深",
+          "坚硬如钉",
+          "红肿热痛",
+          "易发走黄",
+          "麻痒兼作"
+        ],
+        "fangming": [
+          "五味消毒饮",
+          "黄连解毒汤",
+          "犀角地黄汤"
+        ],
+        "yaoming": [
+          "金银花",
+          "紫花地丁",
+          "蒲公英",
+          "野菊花",
+          "天葵子"
+        ],
+        "xuewei": [],
+        "jingluo": [],
+        "siqi": [],
+        "wuwei": [],
+        "guijing": [],
+        "keywords": [
+          "疔疮",
+          "外科",
+          "中医临床",
+          "走黄",
+          "颜面部疔",
+          "辨证论治"
+        ]
+      }
+    },
+    {
+      "id": "dongshang_001",
+      "book": "《中医外科学》规划教材（要点归纳）",
+      "type": "zhinan",
+      "tier": 1,
+      "category": "linchuang",
+      "subcategory": "waike",
+      "path": "library/linchuang/waike/dongshang/dongshang_001.md",
+      "weight": 8,
+      "title": "冻伤·寒冷环境致局部或全身损伤",
+      "chapter": "外科",
+      "conditions": {
+        "zhengxing": [
+          "寒凝血瘀",
+          "寒凝化热",
+          "寒盛阳脱"
+        ],
+        "zhifa": [
+          "温阳散寒",
+          "活血化瘀",
+          "回阳救逆"
+        ],
+        "bingzheng": [
+          "冻伤"
+        ],
+        "zhengzhuang": [
+          "局部冰冷苍白",
+          "麻木水肿",
+          "水疱坏死",
+          "全身寒战",
+          "甚则僵直昏迷"
+        ],
+        "fangming": [
+          "当归四逆汤",
+          "四逆汤"
+        ],
+        "yaoming": [
+          "当归",
+          "桂枝",
+          "细辛",
+          "附子",
+          "干姜",
+          "红花"
+        ],
+        "xuewei": [],
+        "jingluo": [],
+        "siqi": [],
+        "wuwei": [],
+        "guijing": [],
+        "keywords": [
+          "冻伤",
+          "外科",
+          "中医临床",
+          "冻疮",
+          "寒凝血瘀",
+          "温阳散寒"
+        ]
+      }
+    },
+    {
+      "id": "fuguji_001",
+      "book": "《中医外科学》规划教材（要点归纳）",
+      "type": "zhinan",
+      "tier": 1,
+      "category": "linchuang",
+      "subcategory": "waike",
+      "path": "library/linchuang/waike/fuguji/fuguji_001.md",
+      "weight": 8,
+      "title": "附骨疽·儿童多发四肢长骨端寒战高热骨痛",
+      "chapter": "外科",
+      "conditions": {
+        "zhengxing": [
+          "湿热蕴阻",
+          "风寒湿邪",
+          "脓毒蚀骨",
+          "气血两虚"
+        ],
+        "zhifa": [
+          "清热解毒",
+          "化湿和营",
+          "托毒透脓",
+          "补益气血"
+        ],
+        "bingzheng": [
+          "附骨疽"
+        ],
+        "zhengzhuang": [
+          "好发儿童",
+          "多发四肢长骨端",
+          "寒战高热",
+          "局部漫肿骨痛",
+          "患肢不能活动"
+        ],
+        "fangming": [
+          "黄连解毒汤",
+          "仙方活命饮",
+          "托里消毒散"
+        ],
+        "yaoming": [
+          "黄连",
+          "黄芩",
+          "黄柏",
+          "栀子",
+          "金银花",
+          "皂角刺",
+          "当归"
+        ],
+        "xuewei": [],
+        "jingluo": [],
+        "siqi": [],
+        "wuwei": [],
+        "guijing": [],
+        "keywords": [
+          "附骨疽",
+          "外科",
+          "中医临床",
+          "骨髓炎",
+          "儿童",
+          "长骨端",
+          "寒战高热骨痛",
+          "清热解毒"
+        ]
+      }
+    },
+    {
+      "id": "jueju_001",
+      "book": "《中医外科学》规划教材（要点归纳）",
+      "type": "zhinan",
+      "tier": 1,
+      "category": "linchuang",
+      "subcategory": "waike",
+      "path": "library/linchuang/waike/jueju/jueju_001.md",
+      "weight": 8,
+      "title": "脱疽·四肢末端坏死严重趾节脱落",
+      "chapter": "外科",
+      "conditions": {
+        "zhengxing": [
+          "寒湿阻络",
+          "血脉瘀阻",
+          "湿热毒盛",
+          "气血两虚"
+        ],
+        "zhifa": [
+          "温阳散寒",
+          "活血化瘀",
+          "清热利湿",
+          "补益气血"
+        ],
+        "bingzheng": [
+          "脱疽"
+        ],
+        "zhengzhuang": [
+          "患肢发凉麻木",
+          "间歇性跛行",
+          "夜间痛甚",
+          "趾端坏死紫黑",
+          "趾节脱落"
+        ],
+        "fangming": [
+          "阳和汤",
+          "桃红四物汤",
+          "四妙勇安汤"
+        ],
+        "yaoming": [
+          "附子",
+          "桂枝",
+          "当归",
+          "丹参",
+          "金银花",
+          "玄参",
+          "牛膝"
+        ],
+        "xuewei": [],
+        "jingluo": [],
+        "siqi": [],
+        "wuwei": [],
+        "guijing": [],
+        "keywords": [
+          "脱疽",
+          "外科",
+          "中医临床",
+          "脉管炎",
+          "四肢末端坏死",
+          "趾节脱落",
+          "活血化瘀"
+        ]
+      }
+    },
+    {
+      "id": "liangchuang_001",
+      "book": "《中医外科学》规划教材（要点归纳）",
+      "type": "zhinan",
+      "tier": 1,
+      "category": "linchuang",
+      "subcategory": "waike",
+      "path": "library/linchuang/waike/liangchuang/liangchuang_001.md",
+      "weight": 8,
+      "title": "臁疮·小腿下部慢性溃疡经久难愈",
+      "chapter": "外科",
+      "conditions": {
+        "zhengxing": [
+          "湿热下注",
+          "气虚血瘀",
+          "脾虚湿盛"
+        ],
+        "zhifa": [
+          "清热利湿",
+          "益气活血",
+          "健脾利湿"
+        ],
+        "bingzheng": [
+          "臁疮"
+        ],
+        "zhengzhuang": [
+          "小腿下部溃疡",
+          "疮口凹陷",
+          "疮面肉色灰白",
+          "经久难愈",
+          "下肢青筋显露"
+        ],
+        "fangming": [
+          "三妙丸",
+          "补阳还五汤",
+          "二妙丸"
+        ],
+        "yaoming": [
+          "黄柏",
+          "苍术",
+          "牛膝",
+          "黄芪",
+          "当归",
+          "丹参"
+        ],
+        "xuewei": [],
+        "jingluo": [],
+        "siqi": [],
+        "wuwei": [],
+        "guijing": [],
+        "keywords": [
+          "臁疮",
+          "外科",
+          "中医临床",
+          "小腿溃疡",
+          "老烂腿",
+          "下肢静脉曲张",
+          "益气活血"
+        ]
+      }
+    },
+    {
+      "id": "luoli_001",
+      "book": "《中医外科学》规划教材（要点归纳）",
+      "type": "zhinan",
+      "tier": 1,
+      "category": "linchuang",
+      "subcategory": "waike",
+      "path": "library/linchuang/waike/luoli/luoli_001.md",
+      "weight": 8,
+      "title": "瘰疬·颈部淋巴结慢性感染累累如串珠",
+      "chapter": "外科",
+      "conditions": {
+        "zhengxing": [
+          "气滞痰凝",
+          "阴虚火旺",
+          "气血两虚"
+        ],
+        "zhifa": [
+          "疏肝理气",
+          "化痰散结",
+          "滋阴降火",
+          "益气养血"
+        ],
+        "bingzheng": [
+          "瘰疬"
+        ],
+        "zhengzhuang": [
+          "颈部结块",
+          "累累如串珠",
+          "不红不痛",
+          "破溃脓水清稀",
+          "夹有败絮"
+        ],
+        "fangming": [
+          "逍遥散",
+          "二陈汤",
+          "六味地黄丸",
+          "清骨散",
+          "香贝养营汤"
+        ],
+        "yaoming": [
+          "柴胡",
+          "香附",
+          "半夏",
+          "贝母",
+          "夏枯草"
+        ],
+        "xuewei": [],
+        "jingluo": [],
+        "siqi": [],
+        "wuwei": [],
+        "guijing": [],
+        "keywords": [
+          "瘰疬",
+          "外科",
+          "中医临床",
+          "颈部淋巴结",
+          "淋巴结核",
+          "辨证论治"
+        ]
+      }
+    },
+    {
+      "id": "pucang_001",
+      "book": "《中医外科学》规划教材（要点归纳）",
+      "type": "zhinan",
+      "tier": 1,
+      "category": "linchuang",
+      "subcategory": "waike",
+      "path": "library/linchuang/waike/pucang/pucang_001.md",
+      "weight": 8,
+      "title": "褥疮·长期受压部位皮肤溃烂多发于卧床者",
+      "chapter": "外科",
+      "conditions": {
+        "zhengxing": [
+          "气滞血瘀",
+          "蕴毒腐溃",
+          "气血两虚"
+        ],
+        "zhifa": [
+          "行气活血",
+          "解毒祛腐",
+          "补益气血"
+        ],
+        "bingzheng": [
+          "褥疮"
+        ],
+        "zhengzhuang": [
+          "受压部位皮肤红斑",
+          "紫黯",
+          "水疱溃烂",
+          "疮口久不愈合"
+        ],
+        "fangming": [
+          "血府逐瘀汤",
+          "托里消毒散"
+        ],
+        "yaoming": [
+          "当归",
+          "红花",
+          "黄芪",
+          "金银花",
+          "甘草"
+        ],
+        "xuewei": [],
+        "jingluo": [],
+        "siqi": [],
+        "wuwei": [],
+        "guijing": [],
+        "keywords": [
+          "褥疮",
+          "外科",
+          "中医临床",
+          "压疮",
+          "卧床",
+          "皮肤溃烂",
+          "祛腐生肌"
+        ]
+      }
+    },
+    {
+      "id": "qiying_001",
+      "book": "《中医外科学》规划教材（要点归纳）",
+      "type": "zhinan",
+      "tier": 1,
+      "category": "linchuang",
+      "subcategory": "waike",
+      "path": "library/linchuang/waike/qiying/qiying_001.md",
+      "weight": 8,
+      "title": "气瘿·颈部弥漫性肿胀随喜怒消长",
+      "chapter": "外科",
+      "conditions": {
+        "zhengxing": [
+          "肝郁气滞"
+        ],
+        "zhifa": [
+          "疏肝解郁",
+          "化痰软坚"
+        ],
+        "bingzheng": [
+          "气瘿"
+        ],
+        "zhengzhuang": [
+          "颈部弥漫性肿胀",
+          "边缘不清",
+          "皮色如常",
+          "按之柔软",
+          "随喜怒消长"
+        ],
+        "fangming": [
+          "四海舒郁丸",
+          "逍遥散"
+        ],
+        "yaoming": [
+          "柴胡",
+          "香附",
+          "青皮",
+          "海带",
+          "海蛤壳"
+        ],
+        "xuewei": [],
+        "jingluo": [],
+        "siqi": [],
+        "wuwei": [],
+        "guijing": [],
+        "keywords": [
+          "气瘿",
+          "外科",
+          "中医临床",
+          "单纯性甲状腺肿",
+          "地方性甲状腺肿",
+          "辨证论治"
+        ]
+      }
+    },
+    {
+      "id": "rouying_001",
+      "book": "《中医外科学》规划教材（要点归纳）",
+      "type": "zhinan",
+      "tier": 1,
+      "category": "linchuang",
+      "subcategory": "waike",
+      "path": "library/linchuang/waike/rouying/rouying_001.md",
+      "weight": 8,
+      "title": "肉瘿·颈前结块柔韧而圆",
+      "chapter": "外科",
+      "conditions": {
+        "zhengxing": [
+          "气滞痰凝",
+          "气阴两虚"
+        ],
+        "zhifa": [
+          "理气解郁",
+          "化痰软坚",
+          "益气养阴"
+        ],
+        "bingzheng": [
+          "肉瘿"
+        ],
+        "zhengzhuang": [
+          "颈前结喉结块",
+          "柔韧而圆",
+          "按之不痛",
+          "能随吞咽上下",
+          "发展缓慢"
+        ],
+        "fangming": [
+          "逍遥散",
+          "海藻玉壶汤",
+          "生脉散"
+        ],
+        "yaoming": [
+          "柴胡",
+          "香附",
+          "夏枯草",
+          "海藻",
+          "贝母"
+        ],
+        "xuewei": [],
+        "jingluo": [],
+        "siqi": [],
+        "wuwei": [],
+        "guijing": [],
+        "keywords": [
+          "肉瘿",
+          "外科",
+          "中医临床",
+          "甲状腺腺瘤",
+          "颈前结块",
+          "辨证论治"
+        ]
+      }
+    },
+    {
+      "id": "ruqi_001",
+      "book": "《中医外科学》规划教材（要点归纳）",
+      "type": "zhinan",
+      "tier": 1,
+      "category": "linchuang",
+      "subcategory": "waike",
+      "path": "library/linchuang/waike/ruqi/ruqi_001.md",
+      "weight": 8,
+      "title": "乳癖·乳房良性结块与月经周期相关",
+      "chapter": "外科",
+      "conditions": {
+        "zhengxing": [
+          "肝郁痰凝",
+          "冲任失调"
+        ],
+        "zhifa": [
+          "疏肝理气",
+          "化痰散结",
+          "调理冲任"
+        ],
+        "bingzheng": [
+          "乳癖"
+        ],
+        "zhengzhuang": [
+          "乳房结块",
+          "形态大小不一",
+          "与月经周期相关",
+          "经前胀痛加重",
+          "经后减轻"
+        ],
+        "fangming": [
+          "逍遥蒌贝散",
+          "二仙汤",
+          "四物汤"
+        ],
+        "yaoming": [
+          "柴胡",
+          "当归",
+          "白芍",
+          "贝母",
+          "瓜蒌"
+        ],
+        "xuewei": [],
+        "jingluo": [],
+        "siqi": [],
+        "wuwei": [],
+        "guijing": [],
+        "keywords": [
+          "乳癖",
+          "外科",
+          "中医临床",
+          "乳腺增生病",
+          "乳房结块",
+          "辨证论治"
+        ]
+      }
+    },
+    {
+      "id": "ruyong_001",
+      "book": "《中医外科学》规划教材（要点归纳）",
+      "type": "zhinan",
+      "tier": 1,
+      "category": "linchuang",
+      "subcategory": "waike",
+      "path": "library/linchuang/waike/ruyong/ruyong_001.md",
+      "weight": 8,
+      "title": "乳痈·乳房红肿疼痛乳汁不畅",
+      "chapter": "外科",
+      "conditions": {
+        "zhengxing": [
+          "气滞热壅",
+          "热毒炽盛",
+          "正虚邪恋"
+        ],
+        "zhifa": [
+          "疏肝清胃",
+          "通乳消肿",
+          "清热解毒",
+          "托里透脓"
+        ],
+        "bingzheng": [
+          "乳痈"
+        ],
+        "zhengzhuang": [
+          "乳房红肿疼痛",
+          "乳汁排出不畅",
+          "结块",
+          "伴恶寒发热",
+          "多发于产后"
+        ],
+        "fangming": [
+          "瓜蒌牛蒡汤",
+          "透脓散",
+          "托里消毒散"
+        ],
+        "yaoming": [
+          "瓜蒌",
+          "牛蒡子",
+          "天花粉",
+          "陈皮",
+          "皂角刺"
+        ],
+        "xuewei": [],
+        "jingluo": [],
+        "siqi": [],
+        "wuwei": [],
+        "guijing": [],
+        "keywords": [
+          "乳痈",
+          "外科",
+          "中医临床",
+          "急性乳腺炎",
+          "产后",
+          "辨证论治"
+        ]
+      }
+    },
+    {
+      "id": "shangfeng_001",
+      "book": "《中医外科学》规划教材（要点归纳）",
+      "type": "zhinan",
+      "tier": 1,
+      "category": "linchuang",
+      "subcategory": "waike",
+      "path": "library/linchuang/waike/shangfeng/shangfeng_001.md",
+      "weight": 8,
+      "title": "破伤风·外伤后牙关紧闭角弓反张须及时就医",
+      "chapter": "外科",
+      "conditions": {
+        "zhengxing": [
+          "风毒在表",
+          "风毒入里",
+          "风毒内陷"
+        ],
+        "zhifa": [
+          "祛风镇痉",
+          "清热解毒",
+          "熄风镇痉"
+        ],
+        "bingzheng": [
+          "破伤风"
+        ],
+        "zhengzhuang": [
+          "外伤史",
+          "牙关紧闭",
+          "苦笑面容",
+          "角弓反张",
+          "阵发性抽搐"
+        ],
+        "fangming": [
+          "玉真散",
+          "五虎追风散"
+        ],
+        "yaoming": [
+          "天麻",
+          "南星",
+          "防风",
+          "白芷",
+          "白附子",
+          "蝉蜕"
+        ],
+        "xuewei": [],
+        "jingluo": [],
+        "siqi": [],
+        "wuwei": [],
+        "guijing": [],
+        "keywords": [
+          "破伤风",
+          "外科",
+          "中医临床",
+          "外伤",
+          "牙关紧闭",
+          "角弓反张",
+          "祛风镇痉"
+        ]
+      }
+    },
+    {
+      "id": "shaoshang_002",
+      "book": "《中医外科学》规划教材（要点归纳）",
+      "type": "zhinan",
+      "tier": 1,
+      "category": "linchuang",
+      "subcategory": "waike",
+      "path": "library/linchuang/waike/shaoshang/shaoshang_002.md",
+      "weight": 8,
+      "title": "烧伤·沸水火焰等致局部皮肤损伤",
+      "chapter": "外科",
+      "conditions": {
+        "zhengxing": [
+          "火毒伤津",
+          "阴伤阳脱",
+          "火毒内陷",
+          "气血两虚"
+        ],
+        "zhifa": [
+          "清热解毒",
+          "养津护阴",
+          "回阳救逆",
+          "益气养血"
+        ],
+        "bingzheng": [
+          "烧伤"
+        ],
+        "zhengzhuang": [
+          "局部红斑",
+          "水疱",
+          "剧痛",
+          "皮肤焦痂",
+          "大面积者津脱亡阳"
+        ],
+        "fangming": [
+          "黄连解毒汤",
+          "犀角地黄汤",
+          "生脉散"
+        ],
+        "yaoming": [
+          "黄连",
+          "黄芩",
+          "黄柏",
+          "栀子",
+          "生地",
+          "金银花"
+        ],
+        "xuewei": [],
+        "jingluo": [],
+        "siqi": [],
+        "wuwei": [],
+        "guijing": [],
+        "keywords": [
+          "烧伤",
+          "外科",
+          "中医临床",
+          "烫伤",
+          "火毒",
+          "清热解毒",
+          "补液"
+        ]
+      }
+    },
+    {
+      "id": "sheyaojishang_001",
+      "book": "《中医外科学》规划教材（要点归纳）",
+      "type": "zhinan",
+      "tier": 1,
+      "category": "linchuang",
+      "subcategory": "waike",
+      "path": "library/linchuang/waike/sheyaojishang/sheyaojishang_001.md",
+      "weight": 8,
+      "title": "毒蛇咬伤·局部肿痛全身中毒须及时就医",
+      "chapter": "外科",
+      "conditions": {
+        "zhengxing": [
+          "风毒",
+          "火毒",
+          "风火毒",
+          "蛇毒内陷"
+        ],
+        "zhifa": [
+          "清热解毒",
+          "凉血止血",
+          "祛风定惊",
+          "通腑排毒"
+        ],
+        "bingzheng": [
+          "毒蛇咬伤"
+        ],
+        "zhengzhuang": [
+          "伤处齿痕",
+          "局部肿胀灼痛",
+          "水疱血疱",
+          "头晕复视",
+          "出血",
+          "甚则神昏"
+        ],
+        "fangming": [
+          "龙胆泻肝汤",
+          "五味消毒饮"
+        ],
+        "yaoming": [
+          "半边莲",
+          "白花蛇舌草",
+          "紫花地丁",
+          "七叶一枝花",
+          "大黄"
+        ],
+        "xuewei": [],
+        "jingluo": [],
+        "siqi": [],
+        "wuwei": [],
+        "guijing": [],
+        "keywords": [
+          "毒蛇咬伤",
+          "外科",
+          "中医临床",
+          "蛇毒",
+          "清热解毒",
+          "急救",
+          "局部结扎"
+        ]
+      }
+    },
+    {
+      "id": "yong_001",
+      "book": "《中医外科学》规划教材（要点归纳）",
+      "type": "zhinan",
+      "tier": 1,
+      "category": "linchuang",
+      "subcategory": "waike",
+      "path": "library/linchuang/waike/yong/yong_001.md",
+      "weight": 8,
+      "title": "痈·局部光软无头红肿热痛",
+      "chapter": "外科",
+      "conditions": {
+        "zhengxing": [
+          "热毒蕴结",
+          "热胜肉腐",
+          "正虚邪恋"
+        ],
+        "zhifa": [
+          "清热解毒",
+          "和营消肿",
+          "托毒透脓"
+        ],
+        "bingzheng": [
+          "痈"
+        ],
+        "zhengzhuang": [
+          "局部红肿热痛",
+          "光软无头",
+          "易脓易溃易敛",
+          "伴恶寒发热"
+        ],
+        "fangming": [
+          "仙方活命饮",
+          "五味消毒饮",
+          "托里消毒散"
+        ],
+        "yaoming": [
+          "金银花",
+          "皂角刺",
+          "当归",
+          "赤芍",
+          "甘草"
+        ],
+        "xuewei": [],
+        "jingluo": [],
+        "siqi": [],
+        "wuwei": [],
+        "guijing": [],
+        "keywords": [
+          "痈",
+          "外科",
+          "中医临床",
+          "阳证疮疡",
+          "化脓感染",
+          "辨证论治"
+        ]
+      }
+    },
+    {
+      "id": "youtouju_001",
+      "book": "《中医外科学》规划教材（要点归纳）",
+      "type": "zhinan",
+      "tier": 1,
+      "category": "linchuang",
+      "subcategory": "waike",
+      "path": "library/linchuang/waike/youtouju/youtouju_001.md",
+      "weight": 8,
+      "title": "有头疽·初起粟粒脓头向深部周围扩散",
+      "chapter": "外科",
+      "conditions": {
+        "zhengxing": [
+          "火毒凝结",
+          "湿热壅滞",
+          "阴虚火炽",
+          "气虚毒滞"
+        ],
+        "zhifa": [
+          "清热泻火",
+          "和营托毒",
+          "益气养阴"
+        ],
+        "bingzheng": [
+          "有头疽"
+        ],
+        "zhengzhuang": [
+          "初起粟粒脓头",
+          "渐向深部及周围扩散",
+          "红肿热痛",
+          "多个脓头",
+          "伴高热口渴"
+        ],
+        "fangming": [
+          "黄连解毒汤",
+          "仙方活命饮",
+          "竹叶黄芪汤",
+          "八珍汤"
+        ],
+        "yaoming": [
+          "黄连",
+          "黄芩",
+          "黄柏",
+          "栀子",
+          "皂角刺"
+        ],
+        "xuewei": [],
+        "jingluo": [],
+        "siqi": [],
+        "wuwei": [],
+        "guijing": [],
+        "keywords": [
+          "有头疽",
+          "外科",
+          "中医临床",
+          "项后背部",
+          "疽",
+          "糖尿病合并感染",
+          "辨证论治"
         ]
       }
     },

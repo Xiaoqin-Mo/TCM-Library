@@ -1,6 +1,6 @@
 # linchuang · 中医临床
 
-> 收录 59 条 · 下级 2 个子类
+> 收录 79 条 · 下级 3 个子类
 
 ## neike · 内科
 
@@ -53,6 +53,31 @@
 | linchuang/neike/xinxi/xianbing | 1 | [索引](./linchuang/neike/xinxi/xianbing/INDEX.md) |
 | linchuang/neike/xinxi/xinji | 1 | [索引](./linchuang/neike/xinxi/xinji/INDEX.md) |
 | linchuang/neike/xinxi/xiongbi | 1 | [索引](./linchuang/neike/xinxi/xiongbi/INDEX.md) |
+
+## waike · 外科
+
+| 书目 | 条目数 | 索引 |
+| --- | --- | --- |
+| linchuang/waike/changyong | 1 | [索引](./linchuang/waike/changyong/INDEX.md) |
+| linchuang/waike/chuanyang | 1 | [索引](./linchuang/waike/chuanyang/INDEX.md) |
+| linchuang/waike/dandu | 1 | [索引](./linchuang/waike/dandu/INDEX.md) |
+| linchuang/waike/danshizheng | 1 | [索引](./linchuang/waike/danshizheng/INDEX.md) |
+| linchuang/waike/dingchuang | 1 | [索引](./linchuang/waike/dingchuang/INDEX.md) |
+| linchuang/waike/dongshang | 1 | [索引](./linchuang/waike/dongshang/INDEX.md) |
+| linchuang/waike/fuguji | 1 | [索引](./linchuang/waike/fuguji/INDEX.md) |
+| linchuang/waike/jueju | 1 | [索引](./linchuang/waike/jueju/INDEX.md) |
+| linchuang/waike/liangchuang | 1 | [索引](./linchuang/waike/liangchuang/INDEX.md) |
+| linchuang/waike/luoli | 1 | [索引](./linchuang/waike/luoli/INDEX.md) |
+| linchuang/waike/pucang | 1 | [索引](./linchuang/waike/pucang/INDEX.md) |
+| linchuang/waike/qiying | 1 | [索引](./linchuang/waike/qiying/INDEX.md) |
+| linchuang/waike/rouying | 1 | [索引](./linchuang/waike/rouying/INDEX.md) |
+| linchuang/waike/ruqi | 1 | [索引](./linchuang/waike/ruqi/INDEX.md) |
+| linchuang/waike/ruyong | 1 | [索引](./linchuang/waike/ruyong/INDEX.md) |
+| linchuang/waike/shangfeng | 1 | [索引](./linchuang/waike/shangfeng/INDEX.md) |
+| linchuang/waike/shaoshang | 1 | [索引](./linchuang/waike/shaoshang/INDEX.md) |
+| linchuang/waike/sheyaojishang | 1 | [索引](./linchuang/waike/sheyaojishang/INDEX.md) |
+| linchuang/waike/yong | 1 | [索引](./linchuang/waike/yong/INDEX.md) |
+| linchuang/waike/youtouju | 1 | [索引](./linchuang/waike/youtouju/INDEX.md) |
 
 ## wenbing · 温病
 

@@ -64,6 +64,6 @@ anwen/wenhan/wenhanre/wennv/wenshuimian/wentong/wenyinshi/liuwei/luomai` 等四�
 
 ## 6. 实际进度（回填）
 
-- [ ] D1 四诊细化（20，PR 待建）
-- [ ] D2 辨证细化（25，PR 待建）
-- [ ] D3 舌脉深化（15，PR 待建）
+- [x] D1 四诊细化（17 净增，PR #89，3066）
+- [x] D2 辨证细化（19 净增，PR #90，3085）
+- [x] D3 舌脉深化（16 净增，PR #91，3101）

@@ -4,6 +4,6 @@
 
 | 条目 | 标题 | 类型 | 权重 |
 | --- | --- | --- | --- |
-| [xuefenzheng_001](./xuefenzheng_001.md) | 血分证·热盛动血动风耗阴 | zhinan | 8 |
+| [xuefenzheng_002](./xuefenzheng_002.md) | 血分证·热盛动血动风耗阴 | zhinan | 8 |
 
 [返回总索引](../../../INDEX.md)

@@ -164,7 +164,7 @@
         "count": 1
       },
       "siyang": {
-        "dir": "zhenduan/siyang/yinsheng",
+        "dir": "zhenduan/siyang/zi_qing_she",
         "count": 1
       }
     },
@@ -7618,6 +7618,22 @@
       "count": 1
     },
     {
+      "dir": "zhenduan/siyang/chenchi_mai",
+      "tier": 1,
+      "tier_name": "核心",
+      "category": "zhenduan",
+      "subcategory": "siyang",
+      "count": 1
+    },
+    {
+      "dir": "zhenduan/siyang/chihen_she",
+      "tier": 1,
+      "tier_name": "核心",
+      "category": "zhenduan",
+      "subcategory": "siyang",
+      "count": 1
+    },
+    {
       "dir": "zhenduan/siyang/cunkou",
       "tier": 1,
       "tier_name": "核心",
@@ -7626,7 +7642,47 @@
       "count": 1
     },
     {
+      "dir": "zhenduan/siyang/danbai_she",
+      "tier": 1,
+      "tier_name": "核心",
+      "category": "zhenduan",
+      "subcategory": "siyang",
+      "count": 1
+    },
+    {
       "dir": "zhenduan/siyang/deshen",
+      "tier": 1,
+      "tier_name": "核心",
+      "category": "zhenduan",
+      "subcategory": "siyang",
+      "count": 1
+    },
+    {
+      "dir": "zhenduan/siyang/fujin_mai",
+      "tier": 1,
+      "tier_name": "核心",
+      "category": "zhenduan",
+      "subcategory": "siyang",
+      "count": 1
+    },
+    {
+      "dir": "zhenduan/siyang/hong_she",
+      "tier": 1,
+      "tier_name": "核心",
+      "category": "zhenduan",
+      "subcategory": "siyang",
+      "count": 1
+    },
+    {
+      "dir": "zhenduan/siyang/jiang_she",
+      "tier": 1,
+      "tier_name": "核心",
+      "category": "zhenduan",
+      "subcategory": "siyang",
+      "count": 1
+    },
+    {
+      "dir": "zhenduan/siyang/liewen_she",
       "tier": 1,
       "tier_name": "核心",
       "category": "zhenduan",
@@ -7674,12 +7730,28 @@
       "count": 1
     },
     {
-      "dir": "zhenduan/siyang/shese",
+      "dir": "zhenduan/siyang/mangci_she",
       "tier": 1,
       "tier_name": "核心",
       "category": "zhenduan",
       "subcategory": "siyang",
       "count": 1
+    },
+    {
+      "dir": "zhenduan/siyang/pangdaxiao_she",
+      "tier": 1,
+      "tier_name": "核心",
+      "category": "zhenduan",
+      "subcategory": "siyang",
+      "count": 1
+    },
+    {
+      "dir": "zhenduan/siyang/shese",
+      "tier": 1,
+      "tier_name": "核心",
+      "category": "zhenduan",
+      "subcategory": "siyang",
+      "count": 2
     },
     {
       "dir": "zhenduan/siyang/shetai",
@@ -7715,6 +7787,38 @@
     },
     {
       "dir": "zhenduan/siyang/taizhi",
+      "tier": 1,
+      "tier_name": "核心",
+      "category": "zhenduan",
+      "subcategory": "siyang",
+      "count": 1
+    },
+    {
+      "dir": "zhenduan/siyang/taobaluo",
+      "tier": 1,
+      "tier_name": "核心",
+      "category": "zhenduan",
+      "subcategory": "siyang",
+      "count": 1
+    },
+    {
+      "dir": "zhenduan/siyang/taofuni",
+      "tier": 1,
+      "tier_name": "核心",
+      "category": "zhenduan",
+      "subcategory": "siyang",
+      "count": 1
+    },
+    {
+      "dir": "zhenduan/siyang/taohou",
+      "tier": 1,
+      "tier_name": "核心",
+      "category": "zhenduan",
+      "subcategory": "siyang",
+      "count": 1
+    },
+    {
+      "dir": "zhenduan/siyang/taoran",
       "tier": 1,
       "tier_name": "核心",
       "category": "zhenduan",
@@ -7882,6 +7986,14 @@
       "count": 1
     },
     {
+      "dir": "zhenduan/siyang/xianshuo_mai",
+      "tier": 1,
+      "tier_name": "核心",
+      "category": "zhenduan",
+      "subcategory": "siyang",
+      "count": 1
+    },
+    {
       "dir": "zhenduan/siyang/xiaoerwenxian",
       "tier": 1,
       "tier_name": "核心",
@@ -7907,6 +8019,14 @@
     },
     {
       "dir": "zhenduan/siyang/yinsheng",
+      "tier": 1,
+      "tier_name": "核心",
+      "category": "zhenduan",
+      "subcategory": "siyang",
+      "count": 1
+    },
+    {
+      "dir": "zhenduan/siyang/zi_qing_she",
       "tier": 1,
       "tier_name": "核心",
       "category": "zhenduan",
@@ -16602,7 +16722,7 @@
       "count": 1
     }
   ],
-  "total": 3085,
+  "total": 3101,
   "entries": [
     {
       "id": "angongniuhuangwan_002",
@@ -102887,6 +103007,94 @@
       }
     },
     {
+      "id": "chenchi_mai_001",
+      "book": "《中医诊断学》规划教材（要点归纳）",
+      "type": "zhinan",
+      "tier": 1,
+      "category": "zhenduan",
+      "subcategory": "siyang",
+      "path": "library/zhenduan/siyang/chenchi_mai/chenchi_mai_001.md",
+      "weight": 8,
+      "title": "沉迟脉·沉脉兼迟主里寒证",
+      "chapter": "四诊",
+      "conditions": {
+        "zhengxing": [
+          "里寒证"
+        ],
+        "zhifa": [],
+        "bingzheng": [
+          "相兼脉辨"
+        ],
+        "zhengzhuang": [
+          "脉沉",
+          "脉迟",
+          "畏寒肢冷",
+          "脘腹冷痛",
+          "得温则减"
+        ],
+        "fangming": [],
+        "yaoming": [],
+        "xuewei": [],
+        "jingluo": [],
+        "siqi": [
+          "寒"
+        ],
+        "wuwei": [],
+        "guijing": [],
+        "keywords": [
+          "沉迟脉",
+          "切脉",
+          "中医诊断",
+          "四诊",
+          "相兼脉",
+          "里寒证"
+        ]
+      }
+    },
+    {
+      "id": "chihen_she_001",
+      "book": "《中医诊断学》规划教材（要点归纳）",
+      "type": "zhinan",
+      "tier": 1,
+      "category": "zhenduan",
+      "subcategory": "siyang",
+      "path": "library/zhenduan/siyang/chihen_she/chihen_she_001.md",
+      "weight": 8,
+      "title": "齿痕舌·舌边齿痕主脾虚湿盛",
+      "chapter": "四诊",
+      "conditions": {
+        "zhengxing": [
+          "脾虚湿盛",
+          "阳虚水泛"
+        ],
+        "zhifa": [],
+        "bingzheng": [
+          "齿痕舌"
+        ],
+        "zhengzhuang": [
+          "舌边齿痕",
+          "舌体胖大",
+          "舌色淡",
+          "苔白腻"
+        ],
+        "fangming": [],
+        "yaoming": [],
+        "xuewei": [],
+        "jingluo": [],
+        "siqi": [],
+        "wuwei": [],
+        "guijing": [],
+        "keywords": [
+          "齿痕舌",
+          "舌形",
+          "望舌",
+          "中医诊断",
+          "四诊",
+          "舌诊"
+        ]
+      }
+    },
+    {
       "id": "cunkou_001",
       "book": "中医诊断学",
       "type": "zhinan",
@@ -102921,6 +103129,48 @@
           "三部九候",
           "寸关尺",
           "举按寻"
+        ]
+      }
+    },
+    {
+      "id": "danbai_she_001",
+      "book": "《中医诊断学》规划教材（要点归纳）",
+      "type": "zhinan",
+      "tier": 1,
+      "category": "zhenduan",
+      "subcategory": "siyang",
+      "path": "library/zhenduan/siyang/danbai_she/danbai_she_001.md",
+      "weight": 8,
+      "title": "淡白舌·舌色浅淡主气血两虚或阳虚",
+      "chapter": "四诊",
+      "conditions": {
+        "zhengxing": [
+          "气血两虚",
+          "阳虚寒盛"
+        ],
+        "zhifa": [],
+        "bingzheng": [
+          "淡白舌"
+        ],
+        "zhengzhuang": [
+          "舌色浅淡",
+          "舌体瘦薄或胖嫩",
+          "苔白"
+        ],
+        "fangming": [],
+        "yaoming": [],
+        "xuewei": [],
+        "jingluo": [],
+        "siqi": [],
+        "wuwei": [],
+        "guijing": [],
+        "keywords": [
+          "淡白舌",
+          "舌色",
+          "望舌",
+          "中医诊断",
+          "四诊",
+          "舌诊"
         ]
       }
     },
@@ -102965,6 +103215,179 @@
           "得神",
           "失神",
           "假神"
+        ]
+      }
+    },
+    {
+      "id": "fujin_mai_001",
+      "book": "《中医诊断学》规划教材（要点归纳）",
+      "type": "zhinan",
+      "tier": 1,
+      "category": "zhenduan",
+      "subcategory": "siyang",
+      "path": "library/zhenduan/siyang/fujin_mai/fujin_mai_001.md",
+      "weight": 8,
+      "title": "浮紧脉·浮脉兼紧主表寒证",
+      "chapter": "四诊",
+      "conditions": {
+        "zhengxing": [
+          "表寒证"
+        ],
+        "zhifa": [],
+        "bingzheng": [
+          "相兼脉辨"
+        ],
+        "zhengzhuang": [
+          "脉浮",
+          "脉紧",
+          "恶寒重",
+          "发热轻",
+          "无汗"
+        ],
+        "fangming": [],
+        "yaoming": [],
+        "xuewei": [],
+        "jingluo": [],
+        "siqi": [
+          "寒"
+        ],
+        "wuwei": [],
+        "guijing": [],
+        "keywords": [
+          "浮紧脉",
+          "切脉",
+          "中医诊断",
+          "四诊",
+          "相兼脉",
+          "表寒证"
+        ]
+      }
+    },
+    {
+      "id": "hong_she_001",
+      "book": "《中医诊断学》规划教材（要点归纳）",
+      "type": "zhinan",
+      "tier": 1,
+      "category": "zhenduan",
+      "subcategory": "siyang",
+      "path": "library/zhenduan/siyang/hong_she/hong_she_001.md",
+      "weight": 8,
+      "title": "红舌·舌色鲜红主热证",
+      "chapter": "四诊",
+      "conditions": {
+        "zhengxing": [
+          "实热",
+          "阴虚内热"
+        ],
+        "zhifa": [],
+        "bingzheng": [
+          "红舌"
+        ],
+        "zhengzhuang": [
+          "舌色鲜红",
+          "舌尖红",
+          "舌边红",
+          "苔黄或少苔"
+        ],
+        "fangming": [],
+        "yaoming": [],
+        "xuewei": [],
+        "jingluo": [],
+        "siqi": [],
+        "wuwei": [],
+        "guijing": [],
+        "keywords": [
+          "红舌",
+          "舌色",
+          "望舌",
+          "中医诊断",
+          "四诊",
+          "舌诊"
+        ]
+      }
+    },
+    {
+      "id": "jiang_she_001",
+      "book": "《中医诊断学》规划教材（要点归纳）",
+      "type": "zhinan",
+      "tier": 1,
+      "category": "zhenduan",
+      "subcategory": "siyang",
+      "path": "library/zhenduan/siyang/jiang_she/jiang_she_001.md",
+      "weight": 8,
+      "title": "绛舌·舌色深红主热入营血",
+      "chapter": "四诊",
+      "conditions": {
+        "zhengxing": [
+          "热入营血",
+          "阴虚火旺"
+        ],
+        "zhifa": [],
+        "bingzheng": [
+          "绛舌"
+        ],
+        "zhengzhuang": [
+          "舌色深红",
+          "少苔或无苔",
+          "舌面干燥"
+        ],
+        "fangming": [],
+        "yaoming": [],
+        "xuewei": [],
+        "jingluo": [],
+        "siqi": [],
+        "wuwei": [],
+        "guijing": [],
+        "keywords": [
+          "绛舌",
+          "舌色",
+          "望舌",
+          "中医诊断",
+          "四诊",
+          "舌诊"
+        ]
+      }
+    },
+    {
+      "id": "liewen_she_001",
+      "book": "《中医诊断学》规划教材（要点归纳）",
+      "type": "zhinan",
+      "tier": 1,
+      "category": "zhenduan",
+      "subcategory": "siyang",
+      "path": "library/zhenduan/siyang/liewen_she/liewen_she_001.md",
+      "weight": 8,
+      "title": "裂纹舌·舌面有裂纹主阴血亏虚或脾虚",
+      "chapter": "四诊",
+      "conditions": {
+        "zhengxing": [
+          "阴血亏虚",
+          "脾虚气弱",
+          "热盛伤阴"
+        ],
+        "zhifa": [],
+        "bingzheng": [
+          "裂纹舌"
+        ],
+        "zhengzhuang": [
+          "舌面有深浅裂纹",
+          "舌色淡白或红绛",
+          "少苔或无苔"
+        ],
+        "fangming": [],
+        "yaoming": [],
+        "xuewei": [],
+        "jingluo": [],
+        "siqi": [],
+        "wuwei": [],
+        "guijing": [],
+        "keywords": [
+          "裂纹舌",
+          "舌形",
+          "望舌",
+          "中医诊断",
+          "四诊",
+          "舌诊"
         ]
       }
     },
@@ -103225,6 +103648,96 @@
       }
     },
     {
+      "id": "mangci_she_001",
+      "book": "《中医诊断学》规划教材（要点归纳）",
+      "type": "zhinan",
+      "tier": 1,
+      "category": "zhenduan",
+      "subcategory": "siyang",
+      "path": "library/zhenduan/siyang/mangci_she/mangci_she_001.md",
+      "weight": 8,
+      "title": "芒刺舌·舌面突起点刺主邪热亢盛",
+      "chapter": "四诊",
+      "conditions": {
+        "zhengxing": [
+          "邪热亢盛"
+        ],
+        "zhifa": [],
+        "bingzheng": [
+          "舌形舌象"
+        ],
+        "zhengzhuang": [
+          "舌面突起点刺",
+          "舌色红",
+          "扪之糙手"
+        ],
+        "fangming": [],
+        "yaoming": [],
+        "xuewei": [],
+        "jingluo": [],
+        "siqi": [
+          "热"
+        ],
+        "wuwei": [],
+        "guijing": [],
+        "keywords": [
+          "芒刺舌",
+          "望舌",
+          "中医诊断",
+          "四诊",
+          "点刺",
+          "邪热亢盛"
+        ]
+      }
+    },
+    {
+      "id": "pangdaxiao_she_001",
+      "book": "《中医诊断学》规划教材（要点归纳）",
+      "type": "zhinan",
+      "tier": 1,
+      "category": "zhenduan",
+      "subcategory": "siyang",
+      "path": "library/zhenduan/siyang/pangdaxiao_she/pangdaxiao_she_001.md",
+      "weight": 8,
+      "title": "胖大舌瘦薄舌·舌体胖大或瘦薄的主病",
+      "chapter": "四诊",
+      "conditions": {
+        "zhengxing": [
+          "脾虚湿盛",
+          "阳虚水泛",
+          "气血两虚",
+          "阴虚火旺"
+        ],
+        "zhifa": [],
+        "bingzheng": [
+          "胖大舌",
+          "瘦薄舌"
+        ],
+        "zhengzhuang": [
+          "舌体胖大",
+          "舌边齿痕",
+          "舌体瘦薄",
+          "舌色淡红或红绛"
+        ],
+        "fangming": [],
+        "yaoming": [],
+        "xuewei": [],
+        "jingluo": [],
+        "siqi": [],
+        "wuwei": [],
+        "guijing": [],
+        "keywords": [
+          "胖大舌",
+          "瘦薄舌",
+          "舌形",
+          "望舌",
+          "中医诊断",
+          "四诊",
+          "舌诊"
+        ]
+      }
+    },
+    {
       "id": "shese_001",
       "book": "中医诊断学",
       "type": "zhinan",
@@ -103269,6 +103782,48 @@
           "淡红舌",
           "绛舌",
           "紫舌"
+        ]
+      }
+    },
+    {
+      "id": "shese_002",
+      "book": "《中医诊断学》规划教材（要点归纳）",
+      "type": "zhinan",
+      "tier": 1,
+      "category": "zhenduan",
+      "subcategory": "siyang",
+      "path": "library/zhenduan/siyang/shese/shese_002.md",
+      "weight": 8,
+      "title": "舌色·淡红淡红舌红舌绛舌紫舌青舌",
+      "chapter": "四诊",
+      "conditions": {
+        "zhengxing": [
+          "淡红舌",
+          "淡白舌",
+          "红舌",
+          "绛舌",
+          "紫舌",
+          "青舌"
+        ],
+        "zhifa": [],
+        "bingzheng": [
+          "舌色辨"
+        ],
+        "zhengzhuang": [
+          "舌质颜色异常"
+        ],
+        "fangming": [],
+        "yaoming": [],
+        "xuewei": [],
+        "jingluo": [],
+        "siqi": [],
+        "wuwei": [],
+        "guijing": [],
+        "keywords": [
+          "舌色",
+          "望舌",
+          "中医诊断",
+          "四诊"
         ]
       }
     },
@@ -103507,6 +104062,181 @@
           "腐腻",
           "剥落苔",
           "镜面舌"
+        ]
+      }
+    },
+    {
+      "id": "taobaluo_001",
+      "book": "《中医诊断学》规划教材（要点归纳）",
+      "type": "zhinan",
+      "tier": 1,
+      "category": "zhenduan",
+      "subcategory": "siyang",
+      "path": "library/zhenduan/siyang/taobaluo/taobaluo_001.md",
+      "weight": 8,
+      "title": "舌苔剥落·舌苔部分剥落辨胃气胃阴存亡",
+      "chapter": "四诊",
+      "conditions": {
+        "zhengxing": [
+          "胃气不足",
+          "胃阴枯竭",
+          "气血两虚"
+        ],
+        "zhifa": [],
+        "bingzheng": [
+          "苔质辨"
+        ],
+        "zhengzhuang": [
+          "舌苔部分剥落",
+          "镜面舌",
+          "花剥苔"
+        ],
+        "fangming": [],
+        "yaoming": [],
+        "xuewei": [],
+        "jingluo": [],
+        "siqi": [],
+        "wuwei": [],
+        "guijing": [],
+        "keywords": [
+          "舌苔剥落",
+          "望舌",
+          "中医诊断",
+          "四诊",
+          "花剥苔",
+          "镜面舌",
+          "胃气胃阴"
+        ]
+      }
+    },
+    {
+      "id": "taofuni_001",
+      "book": "《中医诊断学》规划教材（要点归纳）",
+      "type": "zhinan",
+      "tier": 1,
+      "category": "zhenduan",
+      "subcategory": "siyang",
+      "path": "library/zhenduan/siyang/taofuni/taofuni_001.md",
+      "weight": 8,
+      "title": "苔腐腻·苔质腐腻辨食积痰湿",
+      "chapter": "四诊",
+      "conditions": {
+        "zhengxing": [
+          "食积",
+          "痰湿"
+        ],
+        "zhifa": [],
+        "bingzheng": [
+          "苔质辨"
+        ],
+        "zhengzhuang": [
+          "苔颗粒粗大疏松如豆腐渣",
+          "苔颗粒细腻致密揩之不去"
+        ],
+        "fangming": [],
+        "yaoming": [],
+        "xuewei": [],
+        "jingluo": [],
+        "siqi": [],
+        "wuwei": [],
+        "guijing": [],
+        "keywords": [
+          "苔腐腻",
+          "望舌",
+          "中医诊断",
+          "四诊",
+          "舌苔",
+          "食积",
+          "痰湿"
+        ]
+      }
+    },
+    {
+      "id": "taohou_001",
+      "book": "《中医诊断学》规划教材（要点归纳）",
+      "type": "zhinan",
+      "tier": 1,
+      "category": "zhenduan",
+      "subcategory": "siyang",
+      "path": "library/zhenduan/siyang/taohou/taohou_001.md",
+      "weight": 8,
+      "title": "苔厚薄·舌苔厚薄辨病邪深浅",
+      "chapter": "四诊",
+      "conditions": {
+        "zhengxing": [
+          "表证",
+          "里证",
+          "邪浅",
+          "邪深"
+        ],
+        "zhifa": [],
+        "bingzheng": [
+          "苔质辨"
+        ],
+        "zhengzhuang": [
+          "舌苔薄",
+          "舌苔厚",
+          "见底不见底"
+        ],
+        "fangming": [],
+        "yaoming": [],
+        "xuewei": [],
+        "jingluo": [],
+        "siqi": [],
+        "wuwei": [],
+        "guijing": [],
+        "keywords": [
+          "苔厚薄",
+          "望舌",
+          "中医诊断",
+          "四诊",
+          "舌苔",
+          "病邪深浅"
+        ]
+      }
+    },
+    {
+      "id": "taoran_001",
+      "book": "《中医诊断学》规划教材（要点归纳）",
+      "type": "zhinan",
+      "tier": 1,
+      "category": "zhenduan",
+      "subcategory": "siyang",
+      "path": "library/zhenduan/siyang/taoran/taoran_001.md",
+      "weight": 8,
+      "title": "苔润燥·舌苔润燥辨津液存亡",
+      "chapter": "四诊",
+      "conditions": {
+        "zhengxing": [
+          "津液未伤",
+          "津液不足",
+          "热盛伤津",
+          "湿盛"
+        ],
+        "zhifa": [],
+        "bingzheng": [
+          "苔质辨"
+        ],
+        "zhengzhuang": [
+          "舌苔润泽",
+          "舌苔干燥",
+          "扪之无津",
+          "扪之津液"
+        ],
+        "fangming": [],
+        "yaoming": [],
+        "xuewei": [],
+        "jingluo": [],
+        "siqi": [],
+        "wuwei": [],
+        "guijing": [],
+        "keywords": [
+          "苔润燥",
+          "望舌",
+          "中医诊断",
+          "四诊",
+          "舌苔",
+          "津液存亡"
         ]
       }
     },
@@ -104465,6 +105195,46 @@
       }
     },
     {
+      "id": "xianshuo_mai_001",
+      "book": "《中医诊断学》规划教材（要点归纳）",
+      "type": "zhinan",
+      "tier": 1,
+      "category": "zhenduan",
+      "subcategory": "siyang",
+      "path": "library/zhenduan/siyang/xianshuo_mai/xianshuo_mai_001.md",
+      "weight": 8,
+      "title": "弦数脉·相兼脉主肝胆实火",
+      "chapter": "四诊",
+      "conditions": {
+        "zhengxing": [
+          "肝胆实火",
+          "肝郁化火"
+        ],
+        "zhifa": [],
+        "bingzheng": [
+          "弦数脉"
+        ],
+        "zhengzhuang": [
+          "脉来端直以长如按琴弦兼数"
+        ],
+        "fangming": [],
+        "yaoming": [],
+        "xuewei": [],
+        "jingluo": [],
+        "siqi": [
+          "热"
+        ],
+        "wuwei": [],
+        "guijing": [],
+        "keywords": [
+          "弦数脉",
+          "相兼脉",
+          "中医诊断",
+          "脉诊"
+        ]
+      }
+    },
+    {
       "id": "xiaoerwenxian_001",
       "book": "《中医诊断学》规划教材（要点归纳）",
       "type": "zhinan",
@@ -104649,6 +105419,52 @@
           "呕吐",
           "谵语",
           "郑声"
+        ]
+      }
+    },
+    {
+      "id": "zi_qing_she_001",
+      "book": "《中医诊断学》规划教材（要点归纳）",
+      "type": "zhinan",
+      "tier": 1,
+      "category": "zhenduan",
+      "subcategory": "siyang",
+      "path": "library/zhenduan/siyang/zi_qing_she/zi_qing_she_001.md",
+      "weight": 8,
+      "title": "紫舌青舌·舌色紫暗或青紫主血瘀寒凝",
+      "chapter": "四诊",
+      "conditions": {
+        "zhengxing": [
+          "血瘀",
+          "寒凝血瘀",
+          "热瘀"
+        ],
+        "zhifa": [],
+        "bingzheng": [
+          "紫舌",
+          "青舌"
+        ],
+        "zhengzhuang": [
+          "舌色紫暗",
+          "舌有瘀斑瘀点",
+          "舌色青紫",
+          "舌面湿润或干燥"
+        ],
+        "fangming": [],
+        "yaoming": [],
+        "xuewei": [],
+        "jingluo": [],
+        "siqi": [],
+        "wuwei": [],
+        "guijing": [],
+        "keywords": [
+          "紫舌",
+          "青舌",
+          "舌色",
+          "望舌",
+          "中医诊断",
+          "四诊",
+          "舌诊"
         ]
       }
     },

@@ -1,6 +1,6 @@
 # jichu · 中医基础理论
 
-> 收录 89 条 · 下级 5 个子类
+> 收录 104 条 · 下级 6 个子类
 
 ## bingyinbingji · 病因病机
 
@@ -115,5 +115,25 @@
 | jichu/zangxiang/xinrenshuohuoj | 1 | [索引](./jichu/zangxiang/xinrenshuohuoj/INDEX.md) |
 | jichu/zangxiang/zangfubiaoli | 1 | [索引](./jichu/zangxiang/zangfubiaoli/INDEX.md) |
 | jichu/zangxiang/zangxiangxueshuo | 1 | [索引](./jichu/zangxiang/zangxiangxueshuo/INDEX.md) |
+
+## zhifa · 治则治法
+
+| 书目 | 条目数 | 索引 |
+| --- | --- | --- |
+| jichu/zhifa/bafa | 1 | [索引](./jichu/zhifa/bafa/INDEX.md) |
+| jichu/zhifa/benbuanji | 1 | [索引](./jichu/zhifa/benbuanji/INDEX.md) |
+| jichu/zhifa/bianzhenglunzhi | 1 | [索引](./jichu/zhifa/bianzhenglunzhi/INDEX.md) |
+| jichu/zhifa/dixingzhiyi | 1 | [索引](./jichu/zhifa/dixingzhiyi/INDEX.md) |
+| jichu/zhifa/fuzhengquxie | 1 | [索引](./jichu/zhifa/fuzhengquxie/INDEX.md) |
+| jichu/zhifa/qiububen | 1 | [索引](./jichu/zhifa/qiububen/INDEX.md) |
+| jichu/zhifa/renxingzhiyi | 1 | [索引](./jichu/zhifa/renxingzhiyi/INDEX.md) |
+| jichu/zhifa/sanyinsanyizhi | 1 | [索引](./jichu/zhifa/sanyinsanyizhi/INDEX.md) |
+| jichu/zhifa/tiaoqiixue | 1 | [索引](./jichu/zhifa/tiaoqiixue/INDEX.md) |
+| jichu/zhifa/tiaozhengyang | 1 | [索引](./jichu/zhifa/tiaozhengyang/INDEX.md) |
+| jichu/zhifa/tongyibingzhiyi | 1 | [索引](./jichu/zhifa/tongyibingzhiyi/INDEX.md) |
+| jichu/zhifa/yinshizhiyi | 1 | [索引](./jichu/zhifa/yinshizhiyi/INDEX.md) |
+| jichu/zhifa/yipingweiqi | 1 | [索引](./jichu/zhifa/yipingweiqi/INDEX.md) |
+| jichu/zhifa/zhengzhifanzhi | 1 | [索引](./jichu/zhifa/zhengzhifanzhi/INDEX.md) |
+| jichu/zhifa/zhiweibing | 1 | [索引](./jichu/zhifa/zhiweibing/INDEX.md) |
 
 [返回总索引](../INDEX.md)

@@ -38,6 +38,10 @@
       "yinyangwuxing": {
         "dir": "jichu/yinyangwuxing/zhuanhua",
         "count": 1
+      },
+      "zangxiang": {
+        "dir": "jichu/zangxiang/zangxiangxueshuo",
+        "count": 1
       }
     },
     "jingdian": {
@@ -3619,6 +3623,198 @@
       "tier_name": "核心",
       "category": "jichu",
       "subcategory": "yinyangwuxing",
+      "count": 1
+    },
+    {
+      "dir": "jichu/zangxiang/dachang",
+      "tier": 1,
+      "tier_name": "核心",
+      "category": "jichu",
+      "subcategory": "zangxiang",
+      "count": 1
+    },
+    {
+      "dir": "jichu/zangxiang/dan",
+      "tier": 1,
+      "tier_name": "核心",
+      "category": "jichu",
+      "subcategory": "zangxiang",
+      "count": 1
+    },
+    {
+      "dir": "jichu/zangxiang/fei",
+      "tier": 1,
+      "tier_name": "核心",
+      "category": "jichu",
+      "subcategory": "zangxiang",
+      "count": 1
+    },
+    {
+      "dir": "jichu/zangxiang/gan",
+      "tier": 1,
+      "tier_name": "核心",
+      "category": "jichu",
+      "subcategory": "zangxiang",
+      "count": 1
+    },
+    {
+      "dir": "jichu/zangxiang/liufu",
+      "tier": 1,
+      "tier_name": "核心",
+      "category": "jichu",
+      "subcategory": "zangxiang",
+      "count": 1
+    },
+    {
+      "dir": "jichu/zangxiang/liufuyitongwei",
+      "tier": 1,
+      "tier_name": "核心",
+      "category": "jichu",
+      "subcategory": "zangxiang",
+      "count": 1
+    },
+    {
+      "dir": "jichu/zangxiang/mingmenxueshuo",
+      "tier": 1,
+      "tier_name": "核心",
+      "category": "jichu",
+      "subcategory": "zangxiang",
+      "count": 1
+    },
+    {
+      "dir": "jichu/zangxiang/nvzibao",
+      "tier": 1,
+      "tier_name": "核心",
+      "category": "jichu",
+      "subcategory": "zangxiang",
+      "count": 1
+    },
+    {
+      "dir": "jichu/zangxiang/pangguang",
+      "tier": 1,
+      "tier_name": "核心",
+      "category": "jichu",
+      "subcategory": "zangxiang",
+      "count": 1
+    },
+    {
+      "dir": "jichu/zangxiang/pi",
+      "tier": 1,
+      "tier_name": "核心",
+      "category": "jichu",
+      "subcategory": "zangxiang",
+      "count": 1
+    },
+    {
+      "dir": "jichu/zangxiang/qihengtezhi",
+      "tier": 1,
+      "tier_name": "核心",
+      "category": "jichu",
+      "subcategory": "zangxiang",
+      "count": 1
+    },
+    {
+      "dir": "jichu/zangxiang/qihengzhifu",
+      "tier": 1,
+      "tier_name": "核心",
+      "category": "jichu",
+      "subcategory": "zangxiang",
+      "count": 1
+    },
+    {
+      "dir": "jichu/zangxiang/sanjiao",
+      "tier": 1,
+      "tier_name": "核心",
+      "category": "jichu",
+      "subcategory": "zangxiang",
+      "count": 1
+    },
+    {
+      "dir": "jichu/zangxiang/sanjiaoqihua",
+      "tier": 1,
+      "tier_name": "核心",
+      "category": "jichu",
+      "subcategory": "zangxiang",
+      "count": 1
+    },
+    {
+      "dir": "jichu/zangxiang/shen",
+      "tier": 1,
+      "tier_name": "核心",
+      "category": "jichu",
+      "subcategory": "zangxiang",
+      "count": 1
+    },
+    {
+      "dir": "jichu/zangxiang/wei",
+      "tier": 1,
+      "tier_name": "核心",
+      "category": "jichu",
+      "subcategory": "zangxiang",
+      "count": 1
+    },
+    {
+      "dir": "jichu/zangxiang/wuzang",
+      "tier": 1,
+      "tier_name": "核心",
+      "category": "jichu",
+      "subcategory": "zangxiang",
+      "count": 1
+    },
+    {
+      "dir": "jichu/zangxiang/wuzangzhiyeqiaohua",
+      "tier": 1,
+      "tier_name": "核心",
+      "category": "jichu",
+      "subcategory": "zangxiang",
+      "count": 1
+    },
+    {
+      "dir": "jichu/zangxiang/xiaochang",
+      "tier": 1,
+      "tier_name": "核心",
+      "category": "jichu",
+      "subcategory": "zangxiang",
+      "count": 1
+    },
+    {
+      "dir": "jichu/zangxiang/xin",
+      "tier": 1,
+      "tier_name": "核心",
+      "category": "jichu",
+      "subcategory": "zangxiang",
+      "count": 1
+    },
+    {
+      "dir": "jichu/zangxiang/xinbao",
+      "tier": 1,
+      "tier_name": "核心",
+      "category": "jichu",
+      "subcategory": "zangxiang",
+      "count": 1
+    },
+    {
+      "dir": "jichu/zangxiang/xinrenshuohuoj",
+      "tier": 1,
+      "tier_name": "核心",
+      "category": "jichu",
+      "subcategory": "zangxiang",
+      "count": 1
+    },
+    {
+      "dir": "jichu/zangxiang/zangfubiaoli",
+      "tier": 1,
+      "tier_name": "核心",
+      "category": "jichu",
+      "subcategory": "zangxiang",
+      "count": 1
+    },
+    {
+      "dir": "jichu/zangxiang/zangxiangxueshuo",
+      "tier": 1,
+      "tier_name": "核心",
+      "category": "jichu",
+      "subcategory": "zangxiang",
       "count": 1
     },
     {
@@ -14702,7 +14898,7 @@
       "count": 1
     }
   ],
-  "total": 2852,
+  "total": 2876,
   "entries": [
     {
       "id": "angongniuhuangwan_002",
@@ -35649,6 +35845,843 @@
           "物极必反",
           "重阴必阳",
           "重阳必阴"
+        ]
+      }
+    },
+    {
+      "id": "dachang_001",
+      "book": "《中医基础理论》规划教材（要点归纳）",
+      "type": "chapter",
+      "tier": 1,
+      "category": "jichu",
+      "subcategory": "zangxiang",
+      "path": "library/jichu/zangxiang/dachang/dachang_001.md",
+      "weight": 8,
+      "title": "大肠·传化糟粕主津",
+      "chapter": "藏象",
+      "conditions": {
+        "zhengxing": [],
+        "zhifa": [],
+        "bingzheng": [],
+        "zhengzhuang": [],
+        "fangming": [],
+        "yaoming": [],
+        "xuewei": [],
+        "jingluo": [
+          "手阳明大肠经"
+        ],
+        "siqi": [],
+        "wuwei": [],
+        "guijing": [],
+        "keywords": [
+          "大肠",
+          "藏象",
+          "传化糟粕",
+          "主津",
+          "六腑",
+          "手阳明大肠经",
+          "中医基础"
+        ]
+      }
+    },
+    {
+      "id": "dan_001",
+      "book": "《中医基础理论》规划教材（要点归纳）",
+      "type": "chapter",
+      "tier": 1,
+      "category": "jichu",
+      "subcategory": "zangxiang",
+      "path": "library/jichu/zangxiang/dan/dan_001.md",
+      "weight": 8,
+      "title": "胆·贮藏排泄胆汁主决断",
+      "chapter": "藏象",
+      "conditions": {
+        "zhengxing": [],
+        "zhifa": [],
+        "bingzheng": [],
+        "zhengzhuang": [],
+        "fangming": [],
+        "yaoming": [],
+        "xuewei": [],
+        "jingluo": [
+          "足少阳胆经"
+        ],
+        "siqi": [],
+        "wuwei": [],
+        "guijing": [],
+        "keywords": [
+          "胆",
+          "藏象",
+          "贮藏胆汁",
+          "主决断",
+          "中精之府",
+          "六腑",
+          "奇恒之腑",
+          "中医基础"
+        ]
+      }
+    },
+    {
+      "id": "fei_001",
+      "book": "《中医基础理论》规划教材（要点归纳）",
+      "type": "chapter",
+      "tier": 1,
+      "category": "jichu",
+      "subcategory": "zangxiang",
+      "path": "library/jichu/zangxiang/fei/fei_001.md",
+      "weight": 8,
+      "title": "肺·主气司呼吸主行水朝百脉",
+      "chapter": "藏象",
+      "conditions": {
+        "zhengxing": [],
+        "zhifa": [],
+        "bingzheng": [],
+        "zhengzhuang": [],
+        "fangming": [],
+        "yaoming": [],
+        "xuewei": [],
+        "jingluo": [
+          "手太阴肺经"
+        ],
+        "siqi": [],
+        "wuwei": [],
+        "guijing": [],
+        "keywords": [
+          "肺",
+          "藏象",
+          "主气司呼吸",
+          "主行水",
+          "朝百脉",
+          "五脏",
+          "中医基础"
+        ]
+      }
+    },
+    {
+      "id": "gan_001",
+      "book": "《中医基础理论》规划教材（要点归纳）",
+      "type": "chapter",
+      "tier": 1,
+      "category": "jichu",
+      "subcategory": "zangxiang",
+      "path": "library/jichu/zangxiang/gan/gan_001.md",
+      "weight": 8,
+      "title": "肝·主疏泄主藏血",
+      "chapter": "藏象",
+      "conditions": {
+        "zhengxing": [],
+        "zhifa": [],
+        "bingzheng": [],
+        "zhengzhuang": [],
+        "fangming": [],
+        "yaoming": [],
+        "xuewei": [],
+        "jingluo": [
+          "足厥阴肝经"
+        ],
+        "siqi": [],
+        "wuwei": [],
+        "guijing": [],
+        "keywords": [
+          "肝",
+          "藏象",
+          "主疏泄",
+          "主藏血",
+          "五脏",
+          "将军之官",
+          "中医基础"
+        ]
+      }
+    },
+    {
+      "id": "liufu_001",
+      "book": "《中医基础理论》规划教材（要点归纳）",
+      "type": "chapter",
+      "tier": 1,
+      "category": "jichu",
+      "subcategory": "zangxiang",
+      "path": "library/jichu/zangxiang/liufu/liufu_001.md",
+      "weight": 8,
+      "title": "六腑·受盛传化水谷",
+      "chapter": "藏象",
+      "conditions": {
+        "zhengxing": [],
+        "zhifa": [],
+        "bingzheng": [],
+        "zhengzhuang": [],
+        "fangming": [],
+        "yaoming": [],
+        "xuewei": [],
+        "jingluo": [],
+        "siqi": [],
+        "wuwei": [],
+        "guijing": [],
+        "keywords": [
+          "六腑",
+          "胆小胃大肠胃膀胱三焦",
+          "传化水谷",
+          "中医基础",
+          "藏象"
+        ]
+      }
+    },
+    {
+      "id": "liufuyitongwei_001",
+      "book": "《中医基础理论》规划教材（要点归纳）",
+      "type": "chapter",
+      "tier": 1,
+      "category": "jichu",
+      "subcategory": "zangxiang",
+      "path": "library/jichu/zangxiang/liufuyitongwei/liufuyitongwei_001.md",
+      "weight": 8,
+      "title": "六腑以通为用·传化水谷宜通降",
+      "chapter": "藏象",
+      "conditions": {
+        "zhengxing": [],
+        "zhifa": [],
+        "bingzheng": [],
+        "zhengzhuang": [],
+        "fangming": [],
+        "yaoming": [],
+        "xuewei": [],
+        "jingluo": [],
+        "siqi": [],
+        "wuwei": [],
+        "guijing": [],
+        "keywords": [
+          "六腑以通为用",
+          "藏象",
+          "六腑",
+          "传化水谷",
+          "通降",
+          "实而不能满",
+          "中医基础"
+        ]
+      }
+    },
+    {
+      "id": "mingmenxueshuo_001",
+      "book": "《中医基础理论》规划教材（要点归纳）",
+      "type": "chapter",
+      "tier": 1,
+      "category": "jichu",
+      "subcategory": "zangxiang",
+      "path": "library/jichu/zangxiang/mingmenxueshuo/mingmenxueshuo_001.md",
+      "weight": 8,
+      "title": "命门学说",
+      "chapter": "藏象",
+      "conditions": {
+        "zhengxing": [],
+        "zhifa": [],
+        "bingzheng": [],
+        "zhengzhuang": [],
+        "fangming": [],
+        "yaoming": [],
+        "xuewei": [],
+        "jingluo": [],
+        "siqi": [],
+        "wuwei": [],
+        "guijing": [],
+        "keywords": [
+          "命门",
+          "命门学说",
+          "藏象",
+          "肾阳",
+          "元阳",
+          "相火",
+          "中医基础"
+        ]
+      }
+    },
+    {
+      "id": "nvzibao_001",
+      "book": "《中医基础理论》规划教材（要点归纳）",
+      "type": "chapter",
+      "tier": 1,
+      "category": "jichu",
+      "subcategory": "zangxiang",
+      "path": "library/jichu/zangxiang/nvzibao/nvzibao_001.md",
+      "weight": 8,
+      "title": "女子胞·主持月经孕育胎儿",
+      "chapter": "藏象",
+      "conditions": {
+        "zhengxing": [],
+        "zhifa": [],
+        "bingzheng": [],
+        "zhengzhuang": [],
+        "fangming": [],
+        "yaoming": [],
+        "xuewei": [],
+        "jingluo": [],
+        "siqi": [],
+        "wuwei": [],
+        "guijing": [],
+        "keywords": [
+          "女子胞",
+          "胞宫",
+          "藏象",
+          "主持月经",
+          "孕育胎儿",
+          "奇恒之腑",
+          "中医基础"
+        ]
+      }
+    },
+    {
+      "id": "pangguang_001",
+      "book": "《中医基础理论》规划教材（要点归纳）",
+      "type": "chapter",
+      "tier": 1,
+      "category": "jichu",
+      "subcategory": "zangxiang",
+      "path": "library/jichu/zangxiang/pangguang/pangguang_001.md",
+      "weight": 8,
+      "title": "膀胱·贮存排泄尿液",
+      "chapter": "藏象",
+      "conditions": {
+        "zhengxing": [],
+        "zhifa": [],
+        "bingzheng": [],
+        "zhengzhuang": [],
+        "fangming": [],
+        "yaoming": [],
+        "xuewei": [],
+        "jingluo": [
+          "足太阳膀胱经"
+        ],
+        "siqi": [],
+        "wuwei": [],
+        "guijing": [],
+        "keywords": [
+          "膀胱",
+          "藏象",
+          "贮尿排尿",
+          "州都之官",
+          "六腑",
+          "足太阳膀胱经",
+          "中医基础"
+        ]
+      }
+    },
+    {
+      "id": "pi_001",
+      "book": "《中医基础理论》规划教材（要点归纳）",
+      "type": "chapter",
+      "tier": 1,
+      "category": "jichu",
+      "subcategory": "zangxiang",
+      "path": "library/jichu/zangxiang/pi/pi_001.md",
+      "weight": 8,
+      "title": "脾·主运化主升清主统血",
+      "chapter": "藏象",
+      "conditions": {
+        "zhengxing": [],
+        "zhifa": [],
+        "bingzheng": [],
+        "zhengzhuang": [],
+        "fangming": [],
+        "yaoming": [],
+        "xuewei": [],
+        "jingluo": [
+          "足太阴脾经"
+        ],
+        "siqi": [],
+        "wuwei": [],
+        "guijing": [],
+        "keywords": [
+          "脾",
+          "藏象",
+          "主运化",
+          "主升清",
+          "主统血",
+          "五脏",
+          "中医基础"
+        ]
+      }
+    },
+    {
+      "id": "qihengtezhi_001",
+      "book": "《中医基础理论》规划教材（要点归纳）",
+      "type": "chapter",
+      "tier": 1,
+      "category": "jichu",
+      "subcategory": "zangxiang",
+      "path": "library/jichu/zangxiang/qihengtezhi/qihengtezhi_001.md",
+      "weight": 8,
+      "title": "奇恒之腑特点·形似腑而功能藏精气与脏同",
+      "chapter": "藏象",
+      "conditions": {
+        "zhengxing": [],
+        "zhifa": [],
+        "bingzheng": [],
+        "zhengzhuang": [],
+        "fangming": [],
+        "yaoming": [],
+        "xuewei": [],
+        "jingluo": [],
+        "siqi": [],
+        "wuwei": [],
+        "guijing": [],
+        "keywords": [
+          "奇恒之腑",
+          "藏象",
+          "脑髓骨脉胆女子胞",
+          "藏精气",
+          "形似腑",
+          "中医基础"
+        ]
+      }
+    },
+    {
+      "id": "qihengzhifu_001",
+      "book": "《中医基础理论》规划教材（要点归纳）",
+      "type": "chapter",
+      "tier": 1,
+      "category": "jichu",
+      "subcategory": "zangxiang",
+      "path": "library/jichu/zangxiang/qihengzhifu/qihengzhifu_001.md",
+      "weight": 8,
+      "title": "奇恒之腑·形似腑功能似脏",
+      "chapter": "藏象",
+      "conditions": {
+        "zhengxing": [],
+        "zhifa": [],
+        "bingzheng": [],
+        "zhengzhuang": [],
+        "fangming": [],
+        "yaoming": [],
+        "xuewei": [],
+        "jingluo": [],
+        "siqi": [],
+        "wuwei": [],
+        "guijing": [],
+        "keywords": [
+          "奇恒之腑",
+          "脑髓骨脉胆女子胞",
+          "藏精气",
+          "中医基础",
+          "藏象"
+        ]
+      }
+    },
+    {
+      "id": "sanjiao_002",
+      "book": "《中医基础理论》规划教材（要点归纳）",
+      "type": "chapter",
+      "tier": 1,
+      "category": "jichu",
+      "subcategory": "zangxiang",
+      "path": "library/jichu/zangxiang/sanjiao/sanjiao_002.md",
+      "weight": 8,
+      "title": "三焦·通行元气运行水液",
+      "chapter": "藏象",
+      "conditions": {
+        "zhengxing": [],
+        "zhifa": [],
+        "bingzheng": [],
+        "zhengzhuang": [],
+        "fangming": [],
+        "yaoming": [],
+        "xuewei": [],
+        "jingluo": [
+          "手少阳三焦经"
+        ],
+        "siqi": [],
+        "wuwei": [],
+        "guijing": [],
+        "keywords": [
+          "三焦",
+          "藏象",
+          "通行元气",
+          "运行水液",
+          "六腑",
+          "决渎之官",
+          "上焦中焦下焦",
+          "中医基础"
+        ]
+      }
+    },
+    {
+      "id": "sanjiaoqihua_001",
+      "book": "《中医基础理论》规划教材（要点归纳）",
+      "type": "chapter",
+      "tier": 1,
+      "category": "jichu",
+      "subcategory": "zangxiang",
+      "path": "library/jichu/zangxiang/sanjiaoqihua/sanjiaoqihua_001.md",
+      "weight": 8,
+      "title": "三焦气化",
+      "chapter": "藏象",
+      "conditions": {
+        "zhengxing": [],
+        "zhifa": [],
+        "bingzheng": [],
+        "zhengzhuang": [],
+        "fangming": [],
+        "yaoming": [],
+        "xuewei": [],
+        "jingluo": [
+          "手少阳三焦经"
+        ],
+        "siqi": [],
+        "wuwei": [],
+        "guijing": [],
+        "keywords": [
+          "三焦",
+          "气化",
+          "藏象",
+          "水液代谢",
+          "上焦如雾",
+          "中焦如沤",
+          "下焦如渎",
+          "中医基础"
+        ]
+      }
+    },
+    {
+      "id": "shen_001",
+      "book": "《中医基础理论》规划教材（要点归纳）",
+      "type": "chapter",
+      "tier": 1,
+      "category": "jichu",
+      "subcategory": "zangxiang",
+      "path": "library/jichu/zangxiang/shen/shen_001.md",
+      "weight": 8,
+      "title": "肾·主藏精主水主纳气",
+      "chapter": "藏象",
+      "conditions": {
+        "zhengxing": [],
+        "zhifa": [],
+        "bingzheng": [],
+        "zhengzhuang": [],
+        "fangming": [],
+        "yaoming": [],
+        "xuewei": [],
+        "jingluo": [
+          "足少阴肾经"
+        ],
+        "siqi": [],
+        "wuwei": [],
+        "guijing": [],
+        "keywords": [
+          "肾",
+          "藏象",
+          "主藏精",
+          "主水",
+          "主纳气",
+          "先天之本",
+          "五脏",
+          "中医基础"
+        ]
+      }
+    },
+    {
+      "id": "wei_001",
+      "book": "《中医基础理论》规划教材（要点归纳）",
+      "type": "chapter",
+      "tier": 1,
+      "category": "jichu",
+      "subcategory": "zangxiang",
+      "path": "library/jichu/zangxiang/wei/wei_001.md",
+      "weight": 8,
+      "title": "胃·受纳腐熟水谷主通降",
+      "chapter": "藏象",
+      "conditions": {
+        "zhengxing": [],
+        "zhifa": [],
+        "bingzheng": [],
+        "zhengzhuang": [],
+        "fangming": [],
+        "yaoming": [],
+        "xuewei": [],
+        "jingluo": [
+          "足阳明胃经"
+        ],
+        "siqi": [],
+        "wuwei": [],
+        "guijing": [],
+        "keywords": [
+          "胃",
+          "藏象",
+          "受纳腐熟",
+          "主通降",
+          "水谷气血之海",
+          "六腑",
+          "中医基础"
+        ]
+      }
+    },
+    {
+      "id": "wuzang_001",
+      "book": "《中医基础理论》规划教材（要点归纳）",
+      "type": "chapter",
+      "tier": 1,
+      "category": "jichu",
+      "subcategory": "zangxiang",
+      "path": "library/jichu/zangxiang/wuzang/wuzang_001.md",
+      "weight": 8,
+      "title": "五脏·化生贮藏精气",
+      "chapter": "藏象",
+      "conditions": {
+        "zhengxing": [],
+        "zhifa": [],
+        "bingzheng": [],
+        "zhengzhuang": [],
+        "fangming": [],
+        "yaoming": [],
+        "xuewei": [],
+        "jingluo": [],
+        "siqi": [],
+        "wuwei": [],
+        "guijing": [],
+        "keywords": [
+          "五脏",
+          "心肝脾肺肾",
+          "藏精气",
+          "中医基础",
+          "藏象"
+        ]
+      }
+    },
+    {
+      "id": "wuzangzhiyeqiaohua_001",
+      "book": "《中医基础理论》规划教材（要点归纳）",
+      "type": "chapter",
+      "tier": 1,
+      "category": "jichu",
+      "subcategory": "zangxiang",
+      "path": "library/jichu/zangxiang/wuzangzhiyeqiaohua/wuzangzhiyeqiaohua_001.md",
+      "weight": 8,
+      "title": "五脏与志液窍华·藏五志化五液开窍五华外应",
+      "chapter": "藏象",
+      "conditions": {
+        "zhengxing": [],
+        "zhifa": [],
+        "bingzheng": [],
+        "zhengzhuang": [],
+        "fangming": [],
+        "yaoming": [],
+        "xuewei": [],
+        "jingluo": [],
+        "siqi": [],
+        "wuwei": [],
+        "guijing": [],
+        "keywords": [
+          "五脏志液窍华",
+          "藏象",
+          "五志",
+          "五液",
+          "五华",
+          "五脏开窍",
+          "中医基础"
+        ]
+      }
+    },
+    {
+      "id": "xiaochang_001",
+      "book": "《中医基础理论》规划教材（要点归纳）",
+      "type": "chapter",
+      "tier": 1,
+      "category": "jichu",
+      "subcategory": "zangxiang",
+      "path": "library/jichu/zangxiang/xiaochang/xiaochang_001.md",
+      "weight": 8,
+      "title": "小肠·受盛化物泌别清浊",
+      "chapter": "藏象",
+      "conditions": {
+        "zhengxing": [],
+        "zhifa": [],
+        "bingzheng": [],
+        "zhengzhuang": [],
+        "fangming": [],
+        "yaoming": [],
+        "xuewei": [],
+        "jingluo": [
+          "手太阳小肠经"
+        ],
+        "siqi": [],
+        "wuwei": [],
+        "guijing": [],
+        "keywords": [
+          "小肠",
+          "藏象",
+          "受盛化物",
+          "泌别清浊",
+          "六腑",
+          "中医基础"
+        ]
+      }
+    },
+    {
+      "id": "xin_001",
+      "book": "《中医基础理论》规划教材（要点归纳）",
+      "type": "chapter",
+      "tier": 1,
+      "category": "jichu",
+      "subcategory": "zangxiang",
+      "path": "library/jichu/zangxiang/xin/xin_001.md",
+      "weight": 8,
+      "title": "心·主血脉主神明",
+      "chapter": "藏象",
+      "conditions": {
+        "zhengxing": [],
+        "zhifa": [],
+        "bingzheng": [],
+        "zhengzhuang": [],
+        "fangming": [],
+        "yaoming": [],
+        "xuewei": [],
+        "jingluo": [
+          "手少阴心经"
+        ],
+        "siqi": [],
+        "wuwei": [],
+        "guijing": [],
+        "keywords": [
+          "心",
+          "藏象",
+          "主血脉",
+          "主神明",
+          "五脏",
+          "中医基础"
+        ]
+      }
+    },
+    {
+      "id": "xinbao_001",
+      "book": "《中医基础理论》规划教材（要点归纳）",
+      "type": "chapter",
+      "tier": 1,
+      "category": "jichu",
+      "subcategory": "zangxiang",
+      "path": "library/jichu/zangxiang/xinbao/xinbao_001.md",
+      "weight": 8,
+      "title": "心包·心外围护组织代心受邪",
+      "chapter": "藏象",
+      "conditions": {
+        "zhengxing": [],
+        "zhifa": [],
+        "bingzheng": [],
+        "zhengzhuang": [],
+        "fangming": [],
+        "yaoming": [],
+        "xuewei": [],
+        "jingluo": [
+          "手厥阴心包经"
+        ],
+        "siqi": [],
+        "wuwei": [],
+        "guijing": [],
+        "keywords": [
+          "心包",
+          "膻中",
+          "代心受邪",
+          "手厥阴",
+          "藏象",
+          "中医基础"
+        ]
+      }
+    },
+    {
+      "id": "xinrenshuohuoj_001",
+      "book": "《中医基础理论》规划教材（要点归纳）",
+      "type": "chapter",
+      "tier": 1,
+      "category": "jichu",
+      "subcategory": "zangxiang",
+      "path": "library/jichu/zangxiang/xinrenshuohuoj/xinrenshuohuoj_001.md",
+      "weight": 8,
+      "title": "心肾水火既济·心肾相交水火互济",
+      "chapter": "藏象",
+      "conditions": {
+        "zhengxing": [],
+        "zhifa": [],
+        "bingzheng": [],
+        "zhengzhuang": [],
+        "fangming": [],
+        "yaoming": [],
+        "xuewei": [],
+        "jingluo": [],
+        "siqi": [],
+        "wuwei": [],
+        "guijing": [],
+        "keywords": [
+          "心肾相交",
+          "水火既济",
+          "藏象",
+          "心肾",
+          "水火互济",
+          "上下相交",
+          "中医基础"
+        ]
+      }
+    },
+    {
+      "id": "zangfubiaoli_001",
+      "book": "《中医基础理论》规划教材（要点归纳）",
+      "type": "chapter",
+      "tier": 1,
+      "category": "jichu",
+      "subcategory": "zangxiang",
+      "path": "library/jichu/zangxiang/zangfubiaoli/zangfubiaoli_001.md",
+      "weight": 8,
+      "title": "脏腑表里关系·五脏六腑阴阳表里配合",
+      "chapter": "藏象",
+      "conditions": {
+        "zhengxing": [],
+        "zhifa": [],
+        "bingzheng": [],
+        "zhengzhuang": [],
+        "fangming": [],
+        "yaoming": [],
+        "xuewei": [],
+        "jingluo": [],
+        "siqi": [],
+        "wuwei": [],
+        "guijing": [],
+        "keywords": [
+          "脏腑表里",
+          "藏象",
+          "表里关系",
+          "心与小肠",
+          "肺与大肠",
+          "脾与胃",
+          "肝与胆",
+          "肾与膀胱",
+          "中医基础"
+        ]
+      }
+    },
+    {
+      "id": "zangxiangxueshuo_001",
+      "book": "《中医基础理论》规划教材（要点归纳）",
+      "type": "chapter",
+      "tier": 1,
+      "category": "jichu",
+      "subcategory": "zangxiang",
+      "path": "library/jichu/zangxiang/zangxiangxueshuo/zangxiangxueshuo_001.md",
+      "weight": 8,
+      "title": "藏象学说·脏腑生理病理征象系统",
+      "chapter": "藏象",
+      "conditions": {
+        "zhengxing": [],
+        "zhifa": [],
+        "bingzheng": [],
+        "zhengzhuang": [],
+        "fangming": [],
+        "yaoming": [],
+        "xuewei": [],
+        "jingluo": [],
+        "siqi": [],
+        "wuwei": [],
+        "guijing": [],
+        "keywords": [
+          "藏象学说",
+          "藏象",
+          "中医基础",
+          "脏腑",
+          "生理病理",
+          "方法论"
         ]
       }
     },

@@ -35,6 +35,10 @@
       }
     },
     "jichu": {
+      "bingyinbingji": {
+        "dir": "jichu/bingyinbingji/zhengxiexiangzheng",
+        "count": 1
+      },
       "jingluo": {
         "dir": "jichu/jingluo/shiwuluomai",
         "count": 1
@@ -3487,6 +3491,166 @@
       "tier_name": "核心",
       "category": "fangji",
       "subcategory": "shifang",
+      "count": 1
+    },
+    {
+      "dir": "jichu/bingyinbingji/fengxie",
+      "tier": 1,
+      "tier_name": "核心",
+      "category": "jichu",
+      "subcategory": "bingyinbingji",
+      "count": 1
+    },
+    {
+      "dir": "jichu/bingyinbingji/hanxie",
+      "tier": 1,
+      "tier_name": "核心",
+      "category": "jichu",
+      "subcategory": "bingyinbingji",
+      "count": 1
+    },
+    {
+      "dir": "jichu/bingyinbingji/huoxie",
+      "tier": 1,
+      "tier_name": "核心",
+      "category": "jichu",
+      "subcategory": "bingyinbingji",
+      "count": 1
+    },
+    {
+      "dir": "jichu/bingyinbingji/jieshi",
+      "tier": 1,
+      "tier_name": "核心",
+      "category": "jichu",
+      "subcategory": "bingyinbingji",
+      "count": 1
+    },
+    {
+      "dir": "jichu/bingyinbingji/jinyeshichang",
+      "tier": 1,
+      "tier_name": "核心",
+      "category": "jichu",
+      "subcategory": "bingyinbingji",
+      "count": 1
+    },
+    {
+      "dir": "jichu/bingyinbingji/laoyishidu",
+      "tier": 1,
+      "tier_name": "核心",
+      "category": "jichu",
+      "subcategory": "bingyinbingji",
+      "count": 1
+    },
+    {
+      "dir": "jichu/bingyinbingji/liqi",
+      "tier": 1,
+      "tier_name": "核心",
+      "category": "jichu",
+      "subcategory": "bingyinbingji",
+      "count": 1
+    },
+    {
+      "dir": "jichu/bingyinbingji/liuyin",
+      "tier": 1,
+      "tier_name": "核心",
+      "category": "jichu",
+      "subcategory": "bingyinbingji",
+      "count": 1
+    },
+    {
+      "dir": "jichu/bingyinbingji/neishengwuxie",
+      "tier": 1,
+      "tier_name": "核心",
+      "category": "jichu",
+      "subcategory": "bingyinbingji",
+      "count": 1
+    },
+    {
+      "dir": "jichu/bingyinbingji/qiqingneishang",
+      "tier": 1,
+      "tier_name": "核心",
+      "category": "jichu",
+      "subcategory": "bingyinbingji",
+      "count": 1
+    },
+    {
+      "dir": "jichu/bingyinbingji/qixueshichang",
+      "tier": 1,
+      "tier_name": "核心",
+      "category": "jichu",
+      "subcategory": "bingyinbingji",
+      "count": 1
+    },
+    {
+      "dir": "jichu/bingyinbingji/shixie",
+      "tier": 1,
+      "tier_name": "核心",
+      "category": "jichu",
+      "subcategory": "bingyinbingji",
+      "count": 1
+    },
+    {
+      "dir": "jichu/bingyinbingji/shuxie",
+      "tier": 1,
+      "tier_name": "核心",
+      "category": "jichu",
+      "subcategory": "bingyinbingji",
+      "count": 1
+    },
+    {
+      "dir": "jichu/bingyinbingji/tanyin",
+      "tier": 1,
+      "tier_name": "核心",
+      "category": "jichu",
+      "subcategory": "bingyinbingji",
+      "count": 1
+    },
+    {
+      "dir": "jichu/bingyinbingji/yinshishiyi",
+      "tier": 1,
+      "tier_name": "核心",
+      "category": "jichu",
+      "subcategory": "bingyinbingji",
+      "count": 1
+    },
+    {
+      "dir": "jichu/bingyinbingji/yinyangshitiao",
+      "tier": 1,
+      "tier_name": "核心",
+      "category": "jichu",
+      "subcategory": "bingyinbingji",
+      "count": 1
+    },
+    {
+      "dir": "jichu/bingyinbingji/yuxue",
+      "tier": 1,
+      "tier_name": "核心",
+      "category": "jichu",
+      "subcategory": "bingyinbingji",
+      "count": 1
+    },
+    {
+      "dir": "jichu/bingyinbingji/zaoxie",
+      "tier": 1,
+      "tier_name": "核心",
+      "category": "jichu",
+      "subcategory": "bingyinbingji",
+      "count": 1
+    },
+    {
+      "dir": "jichu/bingyinbingji/zhengqixieqi",
+      "tier": 1,
+      "tier_name": "核心",
+      "category": "jichu",
+      "subcategory": "bingyinbingji",
+      "count": 1
+    },
+    {
+      "dir": "jichu/bingyinbingji/zhengxiexiangzheng",
+      "tier": 1,
+      "tier_name": "核心",
+      "category": "jichu",
+      "subcategory": "bingyinbingji",
       "count": 1
     },
     {
@@ -15122,7 +15286,7 @@
       "count": 1
     }
   ],
-  "total": 2903,
+  "total": 2923,
   "entries": [
     {
       "id": "angongniuhuangwan_002",
@@ -35465,6 +35629,686 @@
           "黄连吴茱萸",
           "《丹溪心法》",
           "朱丹溪"
+        ]
+      }
+    },
+    {
+      "id": "fengxie_001",
+      "book": "《中医基础理论》规划教材（要点归纳）",
+      "type": "chapter",
+      "tier": 1,
+      "category": "jichu",
+      "subcategory": "bingyinbingji",
+      "path": "library/jichu/bingyinbingji/fengxie/fengxie_001.md",
+      "weight": 8,
+      "title": "风邪·风为阳邪善行而数变为百病之长",
+      "chapter": "病因病机",
+      "conditions": {
+        "zhengxing": [],
+        "zhifa": [],
+        "bingzheng": [],
+        "zhengzhuang": [],
+        "fangming": [],
+        "yaoming": [],
+        "xuewei": [],
+        "jingluo": [],
+        "siqi": [],
+        "wuwei": [],
+        "guijing": [],
+        "keywords": [
+          "风邪",
+          "六淫",
+          "病因",
+          "中医基础",
+          "百病之长",
+          "善行而数变"
+        ]
+      }
+    },
+    {
+      "id": "hanxie_001",
+      "book": "《中医基础理论》规划教材（要点归纳）",
+      "type": "chapter",
+      "tier": 1,
+      "category": "jichu",
+      "subcategory": "bingyinbingji",
+      "path": "library/jichu/bingyinbingji/hanxie/hanxie_001.md",
+      "weight": 8,
+      "title": "寒邪·寒为阴邪易伤阳气凝滞收引",
+      "chapter": "病因病机",
+      "conditions": {
+        "zhengxing": [],
+        "zhifa": [],
+        "bingzheng": [],
+        "zhengzhuang": [],
+        "fangming": [],
+        "yaoming": [],
+        "xuewei": [],
+        "jingluo": [],
+        "siqi": [],
+        "wuwei": [],
+        "guijing": [],
+        "keywords": [
+          "寒邪",
+          "六淫",
+          "病因",
+          "中医基础",
+          "凝滞收引",
+          "伤阳"
+        ]
+      }
+    },
+    {
+      "id": "huoxie_001",
+      "book": "《中医基础理论》规划教材（要点归纳）",
+      "type": "chapter",
+      "tier": 1,
+      "category": "jichu",
+      "subcategory": "bingyinbingji",
+      "path": "library/jichu/bingyinbingji/huoxie/huoxie_001.md",
+      "weight": 8,
+      "title": "火邪·火为阳邪炎上耗气伤津生风动血",
+      "chapter": "病因病机",
+      "conditions": {
+        "zhengxing": [],
+        "zhifa": [],
+        "bingzheng": [],
+        "zhengzhuang": [],
+        "fangming": [],
+        "yaoming": [],
+        "xuewei": [],
+        "jingluo": [],
+        "siqi": [],
+        "wuwei": [],
+        "guijing": [],
+        "keywords": [
+          "火邪",
+          "热邪",
+          "六淫",
+          "病因",
+          "中医基础",
+          "炎上生风动血",
+          "扰神"
+        ]
+      }
+    },
+    {
+      "id": "jieshi_001",
+      "book": "《中医基础理论》规划教材（要点归纳）",
+      "type": "chapter",
+      "tier": 1,
+      "category": "jichu",
+      "subcategory": "bingyinbingji",
+      "path": "library/jichu/bingyinbingji/jieshi/jieshi_001.md",
+      "weight": 8,
+      "title": "结石·湿热久蕴浊物煎熬而成的病理性结块",
+      "chapter": "病因病机",
+      "conditions": {
+        "zhengxing": [],
+        "zhifa": [],
+        "bingzheng": [],
+        "zhengzhuang": [],
+        "fangming": [],
+        "yaoming": [],
+        "xuewei": [],
+        "jingluo": [],
+        "siqi": [],
+        "wuwei": [],
+        "guijing": [],
+        "keywords": [
+          "结石",
+          "病因病机",
+          "中医基础",
+          "病理产物",
+          "湿热久蕴",
+          "砂石",
+          "胆石尿石"
+        ]
+      }
+    },
+    {
+      "id": "jinyeshichang_001",
+      "book": "《中医基础理论》规划教材（要点归纳）",
+      "type": "chapter",
+      "tier": 1,
+      "category": "jichu",
+      "subcategory": "bingyinbingji",
+      "path": "library/jichu/bingyinbingji/jinyeshichang/jinyeshichang_001.md",
+      "weight": 8,
+      "title": "津液失常·津液不足津液输布排泄障碍",
+      "chapter": "病因病机",
+      "conditions": {
+        "zhengxing": [],
+        "zhifa": [],
+        "bingzheng": [],
+        "zhengzhuang": [],
+        "fangming": [],
+        "yaoming": [],
+        "xuewei": [],
+        "jingluo": [],
+        "siqi": [],
+        "wuwei": [],
+        "guijing": [],
+        "keywords": [
+          "津液失常",
+          "病因病机",
+          "中医基础",
+          "津液不足",
+          "津伤化燥",
+          "水湿痰饮",
+          "津液输布排泄障碍"
+        ]
+      }
+    },
+    {
+      "id": "laoyishidu_002",
+      "book": "《中医基础理论》规划教材（要点归纳）",
+      "type": "chapter",
+      "tier": 1,
+      "category": "jichu",
+      "subcategory": "bingyinbingji",
+      "path": "library/jichu/bingyinbingji/laoyishidu/laoyishidu_002.md",
+      "weight": 8,
+      "title": "劳逸失度·过劳过逸",
+      "chapter": "病因病机",
+      "conditions": {
+        "zhengxing": [],
+        "zhifa": [],
+        "bingzheng": [],
+        "zhengzhuang": [],
+        "fangming": [],
+        "yaoming": [],
+        "xuewei": [],
+        "jingluo": [],
+        "siqi": [],
+        "wuwei": [],
+        "guijing": [],
+        "keywords": [
+          "劳逸失度",
+          "劳力劳神房劳",
+          "过逸",
+          "病因",
+          "中医基础"
+        ]
+      }
+    },
+    {
+      "id": "liqi_001",
+      "book": "《中医基础理论》规划教材（要点归纳）",
+      "type": "chapter",
+      "tier": 1,
+      "category": "jichu",
+      "subcategory": "bingyinbingji",
+      "path": "library/jichu/bingyinbingji/liqi/liqi_001.md",
+      "weight": 8,
+      "title": "疠气·戾气瘟疫强烈传染性外感病邪",
+      "chapter": "病因病机",
+      "conditions": {
+        "zhengxing": [],
+        "zhifa": [],
+        "bingzheng": [],
+        "zhengzhuang": [],
+        "fangming": [],
+        "yaoming": [],
+        "xuewei": [],
+        "jingluo": [],
+        "siqi": [],
+        "wuwei": [],
+        "guijing": [],
+        "keywords": [
+          "疠气",
+          "戾气",
+          "瘟疫",
+          "传染病",
+          "病因",
+          "中医基础",
+          "吴又可"
+        ]
+      }
+    },
+    {
+      "id": "liuyin_001",
+      "book": "《中医基础理论》规划教材（要点归纳）",
+      "type": "chapter",
+      "tier": 1,
+      "category": "jichu",
+      "subcategory": "bingyinbingji",
+      "path": "library/jichu/bingyinbingji/liuyin/liuyin_001.md",
+      "weight": 8,
+      "title": "六淫·风寒暑湿燥火六种外感病邪",
+      "chapter": "病因病机",
+      "conditions": {
+        "zhengxing": [],
+        "zhifa": [],
+        "bingzheng": [],
+        "zhengzhuang": [],
+        "fangming": [],
+        "yaoming": [],
+        "xuewei": [],
+        "jingluo": [],
+        "siqi": [],
+        "wuwei": [],
+        "guijing": [],
+        "keywords": [
+          "六淫",
+          "病因",
+          "中医基础",
+          "风邪",
+          "寒邪",
+          "暑邪",
+          "湿邪",
+          "燥邪",
+          "火邪"
+        ]
+      }
+    },
+    {
+      "id": "neishengwuxie_001",
+      "book": "《中医基础理论》规划教材（要点归纳）",
+      "type": "chapter",
+      "tier": 1,
+      "category": "jichu",
+      "subcategory": "bingyinbingji",
+      "path": "library/jichu/bingyinbingji/neishengwuxie/neishengwuxie_001.md",
+      "weight": 8,
+      "title": "内生五邪·内风内寒内湿内燥内火脏腑气血失调所化",
+      "chapter": "病因病机",
+      "conditions": {
+        "zhengxing": [],
+        "zhifa": [],
+        "bingzheng": [],
+        "zhengzhuang": [],
+        "fangming": [],
+        "yaoming": [],
+        "xuewei": [],
+        "jingluo": [],
+        "siqi": [],
+        "wuwei": [],
+        "guijing": [],
+        "keywords": [
+          "内生五邪",
+          "病因病机",
+          "中医基础",
+          "内风",
+          "内寒",
+          "内湿",
+          "内燥",
+          "内火",
+          "病机"
+        ]
+      }
+    },
+    {
+      "id": "qiqingneishang_001",
+      "book": "《中医基础理论》规划教材（要点归纳）",
+      "type": "chapter",
+      "tier": 1,
+      "category": "jichu",
+      "subcategory": "bingyinbingji",
+      "path": "library/jichu/bingyinbingji/qiqingneishang/qiqingneishang_001.md",
+      "weight": 8,
+      "title": "七情内伤·喜怒忧思悲恐惊伤及内脏",
+      "chapter": "病因病机",
+      "conditions": {
+        "zhengxing": [],
+        "zhifa": [],
+        "bingzheng": [],
+        "zhengzhuang": [],
+        "fangming": [],
+        "yaoming": [],
+        "xuewei": [],
+        "jingluo": [],
+        "siqi": [],
+        "wuwei": [],
+        "guijing": [],
+        "keywords": [
+          "七情内伤",
+          "喜怒忧思悲恐惊",
+          "病因",
+          "中医基础",
+          "气机紊乱",
+          "情志致病"
+        ]
+      }
+    },
+    {
+      "id": "qixueshichang_001",
+      "book": "《中医基础理论》规划教材（要点归纳）",
+      "type": "chapter",
+      "tier": 1,
+      "category": "jichu",
+      "subcategory": "bingyinbingji",
+      "path": "library/jichu/bingyinbingji/qixueshichang/qixueshichang_001.md",
+      "weight": 8,
+      "title": "气血失常·气虚气机失调血失常气血关系失调",
+      "chapter": "病因病机",
+      "conditions": {
+        "zhengxing": [],
+        "zhifa": [],
+        "bingzheng": [],
+        "zhengzhuang": [],
+        "fangming": [],
+        "yaoming": [],
+        "xuewei": [],
+        "jingluo": [],
+        "siqi": [],
+        "wuwei": [],
+        "guijing": [],
+        "keywords": [
+          "气血失常",
+          "病因病机",
+          "中医基础",
+          "气虚",
+          "气机失调",
+          "血虚",
+          "出血",
+          "气血关系失调"
+        ]
+      }
+    },
+    {
+      "id": "shixie_001",
+      "book": "《中医基础理论》规划教材（要点归纳）",
+      "type": "chapter",
+      "tier": 1,
+      "category": "jichu",
+      "subcategory": "bingyinbingji",
+      "path": "library/jichu/bingyinbingji/shixie/shixie_001.md",
+      "weight": 8,
+      "title": "湿邪·湿为阴邪重浊黏滞趋下",
+      "chapter": "病因病机",
+      "conditions": {
+        "zhengxing": [],
+        "zhifa": [],
+        "bingzheng": [],
+        "zhengzhuang": [],
+        "fangming": [],
+        "yaoming": [],
+        "xuewei": [],
+        "jingluo": [],
+        "siqi": [],
+        "wuwei": [],
+        "guijing": [],
+        "keywords": [
+          "湿邪",
+          "六淫",
+          "病因",
+          "中医基础",
+          "重浊黏滞",
+          "趋下",
+          "困脾"
+        ]
+      }
+    },
+    {
+      "id": "shuxie_001",
+      "book": "《中医基础理论》规划教材（要点归纳）",
+      "type": "chapter",
+      "tier": 1,
+      "category": "jichu",
+      "subcategory": "bingyinbingji",
+      "path": "library/jichu/bingyinbingji/shuxie/shuxie_001.md",
+      "weight": 8,
+      "title": "暑邪·暑为阳邪升散耗气伤津挟湿",
+      "chapter": "病因病机",
+      "conditions": {
+        "zhengxing": [],
+        "zhifa": [],
+        "bingzheng": [],
+        "zhengzhuang": [],
+        "fangming": [],
+        "yaoming": [],
+        "xuewei": [],
+        "jingluo": [],
+        "siqi": [],
+        "wuwei": [],
+        "guijing": [],
+        "keywords": [
+          "暑邪",
+          "六淫",
+          "病因",
+          "中医基础",
+          "升散耗气",
+          "挟湿",
+          "夏季"
+        ]
+      }
+    },
+    {
+      "id": "tanyin_002",
+      "book": "《中医基础理论》规划教材（要点归纳）",
+      "type": "chapter",
+      "tier": 1,
+      "category": "jichu",
+      "subcategory": "bingyinbingji",
+      "path": "library/jichu/bingyinbingji/tanyin/tanyin_002.md",
+      "weight": 8,
+      "title": "痰饮·水液代谢障碍形成的病理产物",
+      "chapter": "病因病机",
+      "conditions": {
+        "zhengxing": [],
+        "zhifa": [],
+        "bingzheng": [],
+        "zhengzhuang": [],
+        "fangming": [],
+        "yaoming": [],
+        "xuewei": [],
+        "jingluo": [],
+        "siqi": [],
+        "wuwei": [],
+        "guijing": [],
+        "keywords": [
+          "痰饮",
+          "病因病机",
+          "中医基础",
+          "病理产物",
+          "有形之痰",
+          "无形之痰",
+          "水液代谢"
+        ]
+      }
+    },
+    {
+      "id": "yinshishiyi_001",
+      "book": "《中医基础理论》规划教材（要点归纳）",
+      "type": "chapter",
+      "tier": 1,
+      "category": "jichu",
+      "subcategory": "bingyinbingji",
+      "path": "library/jichu/bingyinbingji/yinshishiyi/yinshishiyi_001.md",
+      "weight": 8,
+      "title": "饮食失宜·不节不洁偏嗜",
+      "chapter": "病因病机",
+      "conditions": {
+        "zhengxing": [],
+        "zhifa": [],
+        "bingzheng": [],
+        "zhengzhuang": [],
+        "fangming": [],
+        "yaoming": [],
+        "xuewei": [],
+        "jingluo": [],
+        "siqi": [],
+        "wuwei": [],
+        "guijing": [],
+        "keywords": [
+          "饮食失宜",
+          "饮食不节",
+          "饮食不洁",
+          "饮食偏嗜",
+          "病因",
+          "中医基础"
+        ]
+      }
+    },
+    {
+      "id": "yinyangshitiao_001",
+      "book": "《中医基础理论》规划教材（要点归纳）",
+      "type": "chapter",
+      "tier": 1,
+      "category": "jichu",
+      "subcategory": "bingyinbingji",
+      "path": "library/jichu/bingyinbingji/yinyangshitiao/yinyangshitiao_001.md",
+      "weight": 8,
+      "title": "阴阳失调·阴阳偏盛偏衰互损格拒亡失",
+      "chapter": "病因病机",
+      "conditions": {
+        "zhengxing": [],
+        "zhifa": [],
+        "bingzheng": [],
+        "zhengzhuang": [],
+        "fangming": [],
+        "yaoming": [],
+        "xuewei": [],
+        "jingluo": [],
+        "siqi": [],
+        "wuwei": [],
+        "guijing": [],
+        "keywords": [
+          "阴阳失调",
+          "病因病机",
+          "中医基础",
+          "阴阳偏盛",
+          "阴阳偏衰",
+          "阴阳互损",
+          "阴阳格拒",
+          "阴阳亡失"
+        ]
+      }
+    },
+    {
+      "id": "yuxue_001",
+      "book": "《中医基础理论》规划教材（要点归纳）",
+      "type": "chapter",
+      "tier": 1,
+      "category": "jichu",
+      "subcategory": "bingyinbingji",
+      "path": "library/jichu/bingyinbingji/yuxue/yuxue_001.md",
+      "weight": 8,
+      "title": "瘀血·体内血液停滞形成的病理产物",
+      "chapter": "病因病机",
+      "conditions": {
+        "zhengxing": [],
+        "zhifa": [],
+        "bingzheng": [],
+        "zhengzhuang": [],
+        "fangming": [],
+        "yaoming": [],
+        "xuewei": [],
+        "jingluo": [],
+        "siqi": [],
+        "wuwei": [],
+        "guijing": [],
+        "keywords": [
+          "瘀血",
+          "病因病机",
+          "中医基础",
+          "病理产物",
+          "血行不畅",
+          "离经之血",
+          "刺痛"
+        ]
+      }
+    },
+    {
+      "id": "zaoxie_001",
+      "book": "《中医基础理论》规划教材（要点归纳）",
+      "type": "chapter",
+      "tier": 1,
+      "category": "jichu",
+      "subcategory": "bingyinbingji",
+      "path": "library/jichu/bingyinbingji/zaoxie/zaoxie_001.md",
+      "weight": 8,
+      "title": "燥邪·燥性干涩易伤津液伤肺",
+      "chapter": "病因病机",
+      "conditions": {
+        "zhengxing": [],
+        "zhifa": [],
+        "bingzheng": [],
+        "zhengzhuang": [],
+        "fangming": [],
+        "yaoming": [],
+        "xuewei": [],
+        "jingluo": [],
+        "siqi": [],
+        "wuwei": [],
+        "guijing": [],
+        "keywords": [
+          "燥邪",
+          "六淫",
+          "病因",
+          "中医基础",
+          "干涩伤津",
+          "伤肺",
+          "凉燥温燥"
+        ]
+      }
+    },
+    {
+      "id": "zhengqixieqi_001",
+      "book": "《中医基础理论》规划教材（要点归纳）",
+      "type": "chapter",
+      "tier": 1,
+      "category": "jichu",
+      "subcategory": "bingyinbingji",
+      "path": "library/jichu/bingyinbingji/zhengqixieqi/zhengqixieqi_001.md",
+      "weight": 8,
+      "title": "正气邪气·人体功能活动抗病康复能力与致病因素",
+      "chapter": "病因病机",
+      "conditions": {
+        "zhengxing": [],
+        "zhifa": [],
+        "bingzheng": [],
+        "zhengzhuang": [],
+        "fangming": [],
+        "yaoming": [],
+        "xuewei": [],
+        "jingluo": [],
+        "siqi": [],
+        "wuwei": [],
+        "guijing": [],
+        "keywords": [
+          "正气",
+          "邪气",
+          "病因病机",
+          "中医基础",
+          "发病",
+          "正胜邪却",
+          "邪胜正负"
+        ]
+      }
+    },
+    {
+      "id": "zhengxiexiangzheng_001",
+      "book": "《中医基础理论》规划教材（要点归纳）",
+      "type": "chapter",
+      "tier": 1,
+      "category": "jichu",
+      "subcategory": "bingyinbingji",
+      "path": "library/jichu/bingyinbingji/zhengxiexiangzheng/zhengxiexiangzheng_001.md",
+      "weight": 8,
+      "title": "正邪相争·正气与邪气斗争决定发病与转归",
+      "chapter": "病因病机",
+      "conditions": {
+        "zhengxing": [],
+        "zhifa": [],
+        "bingzheng": [],
+        "zhengzhuang": [],
+        "fangming": [],
+        "yaoming": [],
+        "xuewei": [],
+        "jingluo": [],
+        "siqi": [],
+        "wuwei": [],
+        "guijing": [],
+        "keywords": [
+          "正邪相争",
+          "病因病机",
+          "中医基础",
+          "发病",
+          "虚实变化",
+          "正胜邪却",
+          "邪胜正负"
         ]
       }
     },

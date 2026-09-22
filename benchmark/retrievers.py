@@ -115,15 +115,25 @@ class BM25Retriever:
 
 
 class VectorRetriever:
-    def __init__(self, corpus: List[dict], field: str = "baihua", model_name: str = "BAAI/bge-small-zh-v1.5"):
+    def __init__(self, corpus: List[dict], field: str = "baihua",
+                 model_name: str = "BAAI/bge-small-zh-v1.5", cache_dir: str = ""):
         if SentenceTransformer is None:
             raise RuntimeError("sentence-transformers 未安装")
         self.model = SentenceTransformer(model_name)
         self.field = field
         self.name = f"vector({field})"
         self.ids = [e["id"] for e in corpus]
-        self.emb = self.model.encode([e.get(field, "") for e in corpus],
-                                     normalize_embeddings=True, show_progress_bar=False)
+        cache_path = os.path.join(cache_dir, f"emb_{field}_{model_name.rsplit('/', 1)[-1]}.npy") if cache_dir else ""
+        if cache_path and os.path.exists(cache_path):
+            import numpy as np
+            self.emb = np.load(cache_path)
+        else:
+            self.emb = self.model.encode([e.get(field, "") for e in corpus],
+                                         normalize_embeddings=True, show_progress_bar=False)
+            if cache_path:
+                import numpy as np
+                os.makedirs(os.path.dirname(cache_path), exist_ok=True)
+                np.save(cache_path, self.emb)
 
     def search(self, query: str, k: int = 10) -> List[Tuple[str, float]]:
         import numpy as np
@@ -134,7 +144,7 @@ class VectorRetriever:
         return [(self.ids[i], float(scores[i])) for i in order]
 
 
-def build_retrievers(corpus: List[dict], with_vector: bool = True) -> List:
+def build_retrievers(corpus: List[dict], with_vector: bool = True, cache_dir: str = "") -> List:
     r = [
         BM25Retriever(corpus, "original", "char"),
         BM25Retriever(corpus, "baihua", "char"),
@@ -144,7 +154,7 @@ def build_retrievers(corpus: List[dict], with_vector: bool = True) -> List:
         r.append(BM25Retriever(corpus, "baihua", "jieba"))
     if with_vector:
         try:
-            r.append(VectorRetriever(corpus))
+            r.append(VectorRetriever(corpus, cache_dir=cache_dir))
         except RuntimeError as e:
             print(f"[skip] 向量基线：{e}")
     return r

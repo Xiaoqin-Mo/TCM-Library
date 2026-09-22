@@ -95,7 +95,9 @@
 
 - [x] Phase 0 · 数据冻结与基线（冻结 dev@7c81131；corpus.jsonl 3101 条，层覆盖 原文/白话 100%、古注 88%；
       BM25×4（字符/分词 × 原文/白话）+ 向量×1（bge-small-zh）跑通，冒烟指标流水线验证通过）
-- [ ] Phase 1 · 基准构建（查询集 / 标注 / IAA）
+- [~] Phase 1 · 基准构建：查询集 v1 56 条（现代 18 / 文言 18 / 临床 20）✓；pool_v1 多路 pooling ~4834 候选、
+      check_pool_recall 质量门 4/4 ✓；13 个待标注 CSV + 标注指南（四级量表）+ merge_annotations IAA 脚本 ✓；
+      **待人工标注**（relevance 0/4834），标注者填写后跑 merge_annotations 冻结金标准 + κ
 - [ ] Phase 2 · FBR 实现与消融
 - [ ] Phase 3 · RAG 端到端
 - [ ] Phase 4 · 写作与发布

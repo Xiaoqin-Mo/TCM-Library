@@ -11,7 +11,9 @@
   7. 正文含三层标记（原文/古注/白话提要），白话提要非空
   8. manifest.json 与条目实际一致（若存在则交叉核对）
 
-用法: python3 scripts/validate_library.py
+用法: python3 scripts/validate_library.py [--skip-manifest]
+     --skip-manifest  跳过第 8 项 manifest 交叉核对（内容线 PR 使用：
+                      构建产物后置，条目格式校验通过即可；manifest 一致性由构建 PR 全量验证）
 退出码: 0=通过, 1=有错误, 2=有警告
 """
 
@@ -130,6 +132,12 @@ def check_entry(path: str, fm: Dict[str, Any], body: str, errors: List[str], war
 
 
 def main() -> None:
+    import argparse
+    ap = argparse.ArgumentParser(description="TCM 库质量门")
+    ap.add_argument("--skip-manifest", action="store_true",
+                    help="跳过 manifest 交叉核对（内容线 PR 使用）")
+    args = ap.parse_args()
+
     global TYPE_VOCAB
     TYPE_VOCAB = load_type_vocab()
     errors: List[str] = []
@@ -151,8 +159,8 @@ def main() -> None:
     if dup:
         errors.append(f"重复 id: {dup}")
 
-    # 8. manifest 交叉核对
-    if os.path.exists(MANIFEST_PATH):
+    # 8. manifest 交叉核对（--skip-manifest 时跳过）
+    if not args.skip_manifest and os.path.exists(MANIFEST_PATH):
         with open(MANIFEST_PATH, encoding="utf-8") as f:
             manifest = json.load(f)
         manifest_ids = {e["id"] for e in manifest["entries"]}

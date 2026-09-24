@@ -135,6 +135,10 @@
         "dir": "yangsheng/daoyin/zhanzhuang",
         "count": 1
       },
+      "kangfu": {
+        "dir": "yangsheng/kangfu/zuoyeliaofazhongyi",
+        "count": 1
+      },
       "qiju": {
         "dir": "yangsheng/qiju/ziwujue",
         "count": 1
@@ -175,6 +179,10 @@
       },
       "shuxue": {
         "dir": "zhenjiu/shuxue/zuwuli",
+        "count": 1
+      },
+      "tuina": {
+        "dir": "zhenjiu/tuina/yuneibagua",
         "count": 1
       }
     },
@@ -6498,6 +6506,150 @@
       "count": 1
     },
     {
+      "dir": "yangsheng/kangfu/ertongnaotankangfu",
+      "tier": 1,
+      "tier_name": "核心",
+      "category": "yangsheng",
+      "subcategory": "kangfu",
+      "count": 1
+    },
+    {
+      "dir": "yangsheng/kangfu/guzheshuhoukangfu",
+      "tier": 1,
+      "tier_name": "核心",
+      "category": "yangsheng",
+      "subcategory": "kangfu",
+      "count": 1
+    },
+    {
+      "dir": "yangsheng/kangfu/jisuisunshangkangfu",
+      "tier": 1,
+      "tier_name": "核心",
+      "category": "yangsheng",
+      "subcategory": "kangfu",
+      "count": 1
+    },
+    {
+      "dir": "yangsheng/kangfu/kangfuhuli",
+      "tier": 1,
+      "tier_name": "核心",
+      "category": "yangsheng",
+      "subcategory": "kangfu",
+      "count": 1
+    },
+    {
+      "dir": "yangsheng/kangfu/kangfupingding",
+      "tier": 1,
+      "tier_name": "核心",
+      "category": "yangsheng",
+      "subcategory": "kangfu",
+      "count": 1
+    },
+    {
+      "dir": "yangsheng/kangfu/laonianbingkangfu",
+      "tier": 1,
+      "tier_name": "核心",
+      "category": "yangsheng",
+      "subcategory": "kangfu",
+      "count": 1
+    },
+    {
+      "dir": "yangsheng/kangfu/manxingtengtongkangfu",
+      "tier": 1,
+      "tier_name": "核心",
+      "category": "yangsheng",
+      "subcategory": "kangfu",
+      "count": 1
+    },
+    {
+      "dir": "yangsheng/kangfu/qigongkangfu",
+      "tier": 1,
+      "tier_name": "核心",
+      "category": "yangsheng",
+      "subcategory": "kangfu",
+      "count": 1
+    },
+    {
+      "dir": "yangsheng/kangfu/qingzhikangfu",
+      "tier": 1,
+      "tier_name": "核心",
+      "category": "yangsheng",
+      "subcategory": "kangfu",
+      "count": 1
+    },
+    {
+      "dir": "yangsheng/kangfu/shiliaokangfu",
+      "tier": 1,
+      "tier_name": "核心",
+      "category": "yangsheng",
+      "subcategory": "kangfu",
+      "count": 1
+    },
+    {
+      "dir": "yangsheng/kangfu/tuinakangfu",
+      "tier": 1,
+      "tier_name": "核心",
+      "category": "yangsheng",
+      "subcategory": "kangfu",
+      "count": 1
+    },
+    {
+      "dir": "yangsheng/kangfu/xinfeijibingkangfu",
+      "tier": 1,
+      "tier_name": "核心",
+      "category": "yangsheng",
+      "subcategory": "kangfu",
+      "count": 1
+    },
+    {
+      "dir": "yangsheng/kangfu/yundongkangfu",
+      "tier": 1,
+      "tier_name": "核心",
+      "category": "yangsheng",
+      "subcategory": "kangfu",
+      "count": 1
+    },
+    {
+      "dir": "yangsheng/kangfu/zhenjiukangfu",
+      "tier": 1,
+      "tier_name": "核心",
+      "category": "yangsheng",
+      "subcategory": "kangfu",
+      "count": 1
+    },
+    {
+      "dir": "yangsheng/kangfu/zhongfenghoukangfu",
+      "tier": 1,
+      "tier_name": "核心",
+      "category": "yangsheng",
+      "subcategory": "kangfu",
+      "count": 1
+    },
+    {
+      "dir": "yangsheng/kangfu/zhongliushuhoutiaoli",
+      "tier": 1,
+      "tier_name": "核心",
+      "category": "yangsheng",
+      "subcategory": "kangfu",
+      "count": 1
+    },
+    {
+      "dir": "yangsheng/kangfu/zhongyikangfuxuegaishu",
+      "tier": 1,
+      "tier_name": "核心",
+      "category": "yangsheng",
+      "subcategory": "kangfu",
+      "count": 1
+    },
+    {
+      "dir": "yangsheng/kangfu/zuoyeliaofazhongyi",
+      "tier": 1,
+      "tier_name": "核心",
+      "category": "yangsheng",
+      "subcategory": "kangfu",
+      "count": 1
+    },
+    {
       "dir": "yangsheng/qiju/bifenghan",
       "tier": 1,
       "tier_name": "核心",
@@ -8031,6 +8183,246 @@
       "tier_name": "核心",
       "category": "zhenduan",
       "subcategory": "siyang",
+      "count": 1
+    },
+    {
+      "dir": "zhenjiu/cijiu/aitiaojiu",
+      "tier": 1,
+      "tier_name": "核心",
+      "category": "zhenjiu",
+      "subcategory": "cijiu",
+      "count": 1
+    },
+    {
+      "dir": "zhenjiu/cijiu/aizhujiu",
+      "tier": 1,
+      "tier_name": "核心",
+      "category": "zhenjiu",
+      "subcategory": "cijiu",
+      "count": 1
+    },
+    {
+      "dir": "zhenjiu/cijiu/baguanfa",
+      "tier": 1,
+      "tier_name": "核心",
+      "category": "zhenjiu",
+      "subcategory": "cijiu",
+      "count": 1
+    },
+    {
+      "dir": "zhenjiu/cijiu/baojianjiuyujiufajinji",
+      "tier": 1,
+      "tier_name": "核心",
+      "category": "zhenjiu",
+      "subcategory": "cijiu",
+      "count": 1
+    },
+    {
+      "dir": "zhenjiu/cijiu/deqiyuhouqi",
+      "tier": 1,
+      "tier_name": "核心",
+      "category": "zhenjiu",
+      "subcategory": "cijiu",
+      "count": 1
+    },
+    {
+      "dir": "zhenjiu/cijiu/dianzhen",
+      "tier": 1,
+      "tier_name": "核心",
+      "category": "zhenjiu",
+      "subcategory": "cijiu",
+      "count": 1
+    },
+    {
+      "dir": "zhenjiu/cijiu/erzhen",
+      "tier": 1,
+      "tier_name": "核心",
+      "category": "zhenjiu",
+      "subcategory": "cijiu",
+      "count": 1
+    },
+    {
+      "dir": "zhenjiu/cijiu/gewujiu",
+      "tier": 1,
+      "tier_name": "核心",
+      "category": "zhenjiu",
+      "subcategory": "cijiu",
+      "count": 1
+    },
+    {
+      "dir": "zhenjiu/cijiu/guashafa",
+      "tier": 1,
+      "tier_name": "核心",
+      "category": "zhenjiu",
+      "subcategory": "cijiu",
+      "count": 1
+    },
+    {
+      "dir": "zhenjiu/cijiu/haozhencifazonglun",
+      "tier": 1,
+      "tier_name": "核心",
+      "category": "zhenjiu",
+      "subcategory": "cijiu",
+      "count": 1
+    },
+    {
+      "dir": "zhenjiu/cijiu/huozhen",
+      "tier": 1,
+      "tier_name": "核心",
+      "category": "zhenjiu",
+      "subcategory": "cijiu",
+      "count": 1
+    },
+    {
+      "dir": "zhenjiu/cijiu/huxibuxie",
+      "tier": 1,
+      "tier_name": "核心",
+      "category": "zhenjiu",
+      "subcategory": "cijiu",
+      "count": 1
+    },
+    {
+      "dir": "zhenjiu/cijiu/jinzhenshoufa",
+      "tier": 1,
+      "tier_name": "核心",
+      "category": "zhenjiu",
+      "subcategory": "cijiu",
+      "count": 1
+    },
+    {
+      "dir": "zhenjiu/cijiu/jixubuxie",
+      "tier": 1,
+      "tier_name": "核心",
+      "category": "zhenjiu",
+      "subcategory": "cijiu",
+      "count": 1
+    },
+    {
+      "dir": "zhenjiu/cijiu/kaihebuxie",
+      "tier": 1,
+      "tier_name": "核心",
+      "category": "zhenjiu",
+      "subcategory": "cijiu",
+      "count": 1
+    },
+    {
+      "dir": "zhenjiu/cijiu/nianzhuanbuxie",
+      "tier": 1,
+      "tier_name": "核心",
+      "category": "zhenjiu",
+      "subcategory": "cijiu",
+      "count": 1
+    },
+    {
+      "dir": "zhenjiu/cijiu/pifuzhen",
+      "tier": 1,
+      "tier_name": "核心",
+      "category": "zhenjiu",
+      "subcategory": "cijiu",
+      "count": 1
+    },
+    {
+      "dir": "zhenjiu/cijiu/pineizhen",
+      "tier": 1,
+      "tier_name": "核心",
+      "category": "zhenjiu",
+      "subcategory": "cijiu",
+      "count": 1
+    },
+    {
+      "dir": "zhenjiu/cijiu/pingbupingxie",
+      "tier": 1,
+      "tier_name": "核心",
+      "category": "zhenjiu",
+      "subcategory": "cijiu",
+      "count": 1
+    },
+    {
+      "dir": "zhenjiu/cijiu/sanlengzhenciluofangxue",
+      "tier": 1,
+      "tier_name": "核心",
+      "category": "zhenjiu",
+      "subcategory": "cijiu",
+      "count": 1
+    },
+    {
+      "dir": "zhenjiu/cijiu/tichabuxie",
+      "tier": 1,
+      "tier_name": "核心",
+      "category": "zhenjiu",
+      "subcategory": "cijiu",
+      "count": 1
+    },
+    {
+      "dir": "zhenjiu/cijiu/touzhen",
+      "tier": 1,
+      "tier_name": "核心",
+      "category": "zhenjiu",
+      "subcategory": "cijiu",
+      "count": 1
+    },
+    {
+      "dir": "zhenjiu/cijiu/wenjiuqijiu",
+      "tier": 1,
+      "tier_name": "核心",
+      "category": "zhenjiu",
+      "subcategory": "cijiu",
+      "count": 1
+    },
+    {
+      "dir": "zhenjiu/cijiu/wenjiuzhen",
+      "tier": 1,
+      "tier_name": "核心",
+      "category": "zhenjiu",
+      "subcategory": "cijiu",
+      "count": 1
+    },
+    {
+      "dir": "zhenjiu/cijiu/xingzhenshoufa",
+      "tier": 1,
+      "tier_name": "核心",
+      "category": "zhenjiu",
+      "subcategory": "cijiu",
+      "count": 1
+    },
+    {
+      "dir": "zhenjiu/cijiu/xueweimaixian",
+      "tier": 1,
+      "tier_name": "核心",
+      "category": "zhenjiu",
+      "subcategory": "cijiu",
+      "count": 1
+    },
+    {
+      "dir": "zhenjiu/cijiu/xueweizhushe",
+      "tier": 1,
+      "tier_name": "核心",
+      "category": "zhenjiu",
+      "subcategory": "cijiu",
+      "count": 1
+    },
+    {
+      "dir": "zhenjiu/cijiu/yingsuibuxie",
+      "tier": 1,
+      "tier_name": "核心",
+      "category": "zhenjiu",
+      "subcategory": "cijiu",
+      "count": 1
+    },
+    {
+      "dir": "zhenjiu/cijiu/yunzhenyuzhizhenchuli",
+      "tier": 1,
+      "tier_name": "核心",
+      "category": "zhenjiu",
+      "subcategory": "cijiu",
+      "count": 1
+    },
+    {
+      "dir": "zhenjiu/cijiu/zhencijinji",
+      "tier": 1,
+      "tier_name": "核心",
+      "category": "zhenjiu",
+      "subcategory": "cijiu",
       "count": 1
     },
     {
@@ -11111,6 +11503,262 @@
       "tier_name": "核心",
       "category": "zhenjiu",
       "subcategory": "shuxue",
+      "count": 1
+    },
+    {
+      "dir": "zhenjiu/tuina/anfa",
+      "tier": 1,
+      "tier_name": "核心",
+      "category": "zhenjiu",
+      "subcategory": "tuina",
+      "count": 1
+    },
+    {
+      "dir": "zhenjiu/tuina/banfa",
+      "tier": 1,
+      "tier_name": "核心",
+      "category": "zhenjiu",
+      "subcategory": "tuina",
+      "count": 1
+    },
+    {
+      "dir": "zhenjiu/tuina/baojiantuina",
+      "tier": 1,
+      "tier_name": "核心",
+      "category": "zhenjiu",
+      "subcategory": "tuina",
+      "count": 1
+    },
+    {
+      "dir": "zhenjiu/tuina/bashenfa",
+      "tier": 1,
+      "tier_name": "核心",
+      "category": "zhenjiu",
+      "subcategory": "tuina",
+      "count": 1
+    },
+    {
+      "dir": "zhenjiu/tuina/bofa",
+      "tier": 1,
+      "tier_name": "核心",
+      "category": "zhenjiu",
+      "subcategory": "tuina",
+      "count": 1
+    },
+    {
+      "dir": "zhenjiu/tuina/cafa",
+      "tier": 1,
+      "tier_name": "核心",
+      "category": "zhenjiu",
+      "subcategory": "tuina",
+      "count": 1
+    },
+    {
+      "dir": "zhenjiu/tuina/caiqiaofa",
+      "tier": 1,
+      "tier_name": "核心",
+      "category": "zhenjiu",
+      "subcategory": "tuina",
+      "count": 1
+    },
+    {
+      "dir": "zhenjiu/tuina/cuofa",
+      "tier": 1,
+      "tier_name": "核心",
+      "category": "zhenjiu",
+      "subcategory": "tuina",
+      "count": 1
+    },
+    {
+      "dir": "zhenjiu/tuina/dianfa",
+      "tier": 1,
+      "tier_name": "核心",
+      "category": "zhenjiu",
+      "subcategory": "tuina",
+      "count": 1
+    },
+    {
+      "dir": "zhenjiu/tuina/doufa",
+      "tier": 1,
+      "tier_name": "核心",
+      "category": "zhenjiu",
+      "subcategory": "tuina",
+      "count": 1
+    },
+    {
+      "dir": "zhenjiu/tuina/gunfa",
+      "tier": 1,
+      "tier_name": "核心",
+      "category": "zhenjiu",
+      "subcategory": "tuina",
+      "count": 1
+    },
+    {
+      "dir": "zhenjiu/tuina/jingjianyaotuitong",
+      "tier": 1,
+      "tier_name": "核心",
+      "category": "zhenjiu",
+      "subcategory": "tuina",
+      "count": 1
+    },
+    {
+      "dir": "zhenjiu/tuina/mofa",
+      "tier": 1,
+      "tier_name": "核心",
+      "category": "zhenjiu",
+      "subcategory": "tuina",
+      "count": 1
+    },
+    {
+      "dir": "zhenjiu/tuina/mofu",
+      "tier": 1,
+      "tier_name": "核心",
+      "category": "zhenjiu",
+      "subcategory": "tuina",
+      "count": 1
+    },
+    {
+      "dir": "zhenjiu/tuina/nafa",
+      "tier": 1,
+      "tier_name": "核心",
+      "category": "zhenjiu",
+      "subcategory": "tuina",
+      "count": 1
+    },
+    {
+      "dir": "zhenjiu/tuina/neiketuina",
+      "tier": 1,
+      "tier_name": "核心",
+      "category": "zhenjiu",
+      "subcategory": "tuina",
+      "count": 1
+    },
+    {
+      "dir": "zhenjiu/tuina/niefa",
+      "tier": 1,
+      "tier_name": "核心",
+      "category": "zhenjiu",
+      "subcategory": "tuina",
+      "count": 1
+    },
+    {
+      "dir": "zhenjiu/tuina/nieji",
+      "tier": 1,
+      "tier_name": "核心",
+      "category": "zhenjiu",
+      "subcategory": "tuina",
+      "count": 1
+    },
+    {
+      "dir": "zhenjiu/tuina/paifajifa",
+      "tier": 1,
+      "tier_name": "核心",
+      "category": "zhenjiu",
+      "subcategory": "tuina",
+      "count": 1
+    },
+    {
+      "dir": "zhenjiu/tuina/qingtianheshui",
+      "tier": 1,
+      "tier_name": "核心",
+      "category": "zhenjiu",
+      "subcategory": "tuina",
+      "count": 1
+    },
+    {
+      "dir": "zhenjiu/tuina/roubanmen",
+      "tier": 1,
+      "tier_name": "核心",
+      "category": "zhenjiu",
+      "subcategory": "tuina",
+      "count": 1
+    },
+    {
+      "dir": "zhenjiu/tuina/roufa",
+      "tier": 1,
+      "tier_name": "核心",
+      "category": "zhenjiu",
+      "subcategory": "tuina",
+      "count": 1
+    },
+    {
+      "dir": "zhenjiu/tuina/tuifa",
+      "tier": 1,
+      "tier_name": "核心",
+      "category": "zhenjiu",
+      "subcategory": "tuina",
+      "count": 1
+    },
+    {
+      "dir": "zhenjiu/tuina/tuiliufu",
+      "tier": 1,
+      "tier_name": "核心",
+      "category": "zhenjiu",
+      "subcategory": "tuina",
+      "count": 1
+    },
+    {
+      "dir": "zhenjiu/tuina/tuinaxuegaishu",
+      "tier": 1,
+      "tier_name": "核心",
+      "category": "zhenjiu",
+      "subcategory": "tuina",
+      "count": 1
+    },
+    {
+      "dir": "zhenjiu/tuina/tuinayiwaiyujinjichuli",
+      "tier": 1,
+      "tier_name": "核心",
+      "category": "zhenjiu",
+      "subcategory": "tuina",
+      "count": 1
+    },
+    {
+      "dir": "zhenjiu/tuina/tuisanguan",
+      "tier": 1,
+      "tier_name": "核心",
+      "category": "zhenjiu",
+      "subcategory": "tuina",
+      "count": 1
+    },
+    {
+      "dir": "zhenjiu/tuina/xiaoertoumiantedingxue",
+      "tier": 1,
+      "tier_name": "核心",
+      "category": "zhenjiu",
+      "subcategory": "tuina",
+      "count": 1
+    },
+    {
+      "dir": "zhenjiu/tuina/xiaoertuinagaishu",
+      "tier": 1,
+      "tier_name": "核心",
+      "category": "zhenjiu",
+      "subcategory": "tuina",
+      "count": 1
+    },
+    {
+      "dir": "zhenjiu/tuina/yaofa",
+      "tier": 1,
+      "tier_name": "核心",
+      "category": "zhenjiu",
+      "subcategory": "tuina",
+      "count": 1
+    },
+    {
+      "dir": "zhenjiu/tuina/yizhichantuifa",
+      "tier": 1,
+      "tier_name": "核心",
+      "category": "zhenjiu",
+      "subcategory": "tuina",
+      "count": 1
+    },
+    {
+      "dir": "zhenjiu/tuina/yuneibagua",
+      "tier": 1,
+      "tier_name": "核心",
+      "category": "zhenjiu",
+      "subcategory": "tuina",
       "count": 1
     },
     {
@@ -16722,7 +17370,7 @@
       "count": 1
     }
   ],
-  "total": 3101,
+  "total": 3181,
   "entries": [
     {
       "id": "angongniuhuangwan_002",
@@ -94891,6 +95539,999 @@
       }
     },
     {
+      "id": "ertongnaotankangfu_001",
+      "book": "中医康复学",
+      "type": "zhinan",
+      "tier": 1,
+      "category": "yangsheng",
+      "subcategory": "kangfu",
+      "path": "library/yangsheng/kangfu/ertongnaotankangfu/ertongnaotankangfu_001.md",
+      "weight": 8,
+      "title": "儿童脑瘫康复",
+      "chapter": "疾病康复",
+      "conditions": {
+        "zhengxing": [],
+        "zhifa": [
+          "针灸",
+          "推拿",
+          "中药",
+          "中医导引",
+          "运动疗法",
+          "作业疗法",
+          "言语训练",
+          "早期干预"
+        ],
+        "bingzheng": [
+          "脑性瘫痪"
+        ],
+        "zhengzhuang": [
+          "运动发育迟缓",
+          "姿势异常",
+          "肌张力异常",
+          "肌力低下",
+          "言语障碍",
+          "智力发育落后"
+        ],
+        "fangming": [],
+        "yaoming": [],
+        "xuewei": [
+          "百会",
+          "四神聪",
+          "夹脊穴",
+          "足三里",
+          "阳陵泉"
+        ],
+        "jingluo": [],
+        "siqi": [],
+        "wuwei": [],
+        "guijing": [],
+        "keywords": [
+          "儿童脑瘫康复",
+          "痉挛型",
+          "不随意运动型",
+          "共济失调型",
+          "早期干预",
+          "运动疗法",
+          "作业疗法",
+          "言语训练",
+          "家长指导"
+        ]
+      }
+    },
+    {
+      "id": "guzheshuhoukangfu_001",
+      "book": "中医康复学",
+      "type": "zhinan",
+      "tier": 1,
+      "category": "yangsheng",
+      "subcategory": "kangfu",
+      "path": "library/yangsheng/kangfu/guzheshuhoukangfu/guzheshuhoukangfu_001.md",
+      "weight": 8,
+      "title": "骨折术后康复",
+      "chapter": "疾病康复",
+      "conditions": {
+        "zhengxing": [],
+        "zhifa": [
+          "中药内服外用",
+          "推拿",
+          "针灸",
+          "导引",
+          "功能训练"
+        ],
+        "bingzheng": [
+          "骨折术后",
+          "关节僵硬",
+          "肌力下降",
+          "软组织粘连"
+        ],
+        "zhengzhuang": [
+          "关节活动受限",
+          "肌力下降",
+          "肿胀",
+          "疼痛"
+        ],
+        "fangming": [],
+        "yaoming": [],
+        "xuewei": [],
+        "jingluo": [],
+        "siqi": [],
+        "wuwei": [],
+        "guijing": [],
+        "keywords": [
+          "骨折术后康复",
+          "早期",
+          "中期",
+          "后期",
+          "肌力训练",
+          "关节活动度",
+          "负重",
+          "三期辨证"
+        ]
+      }
+    },
+    {
+      "id": "jisuisunshangkangfu_001",
+      "book": "中医康复学",
+      "type": "zhinan",
+      "tier": 1,
+      "category": "yangsheng",
+      "subcategory": "kangfu",
+      "path": "library/yangsheng/kangfu/jisuisunshangkangfu/jisuisunshangkangfu_001.md",
+      "weight": 8,
+      "title": "脊髓损伤康复",
+      "chapter": "疾病康复",
+      "conditions": {
+        "zhengxing": [],
+        "zhifa": [
+          "针灸",
+          "推拿",
+          "中药",
+          "导引",
+          "体位摆放",
+          "转移训练",
+          "轮椅训练",
+          "辅助器具应用"
+        ],
+        "bingzheng": [
+          "脊髓损伤",
+          "截瘫",
+          "四肢瘫"
+        ],
+        "zhengzhuang": [
+          "肢体瘫痪",
+          "感觉障碍",
+          "二便功能障碍",
+          "压疮",
+          "泌尿系感染",
+          "深静脉血栓",
+          "体位性低血压"
+        ],
+        "fangming": [],
+        "yaoming": [],
+        "xuewei": [
+          "夹脊穴",
+          "背俞穴",
+          "曲池",
+          "合谷",
+          "环跳",
+          "阳陵泉",
+          "足三里",
+          "三阴交"
+        ],
+        "jingluo": [],
+        "siqi": [],
+        "wuwei": [],
+        "guijing": [],
+        "keywords": [
+          "脊髓损伤康复",
+          "截瘫",
+          "四肢瘫",
+          "急性期康复",
+          "恢复期康复",
+          "并发症防治",
+          "轮椅",
+          "转移训练"
+        ]
+      }
+    },
+    {
+      "id": "kangfuhuli_001",
+      "book": "中医康复学",
+      "type": "zhinan",
+      "tier": 1,
+      "category": "yangsheng",
+      "subcategory": "kangfu",
+      "path": "library/yangsheng/kangfu/kangfuhuli/kangfuhuli_001.md",
+      "weight": 8,
+      "title": "康复护理",
+      "chapter": "康复护理",
+      "conditions": {
+        "zhengxing": [],
+        "zhifa": [
+          "体位摆放",
+          "转移护理",
+          "吞咽护理",
+          "膀胱肠道护理",
+          "压疮预防",
+          "辅助器具指导",
+          "心理护理",
+          "健康教育"
+        ],
+        "bingzheng": [
+          "脑卒中",
+          "脊髓损伤",
+          "骨折术后",
+          "老年衰弱",
+          "长期卧床"
+        ],
+        "zhengzhuang": [
+          "肢体功能障碍",
+          "吞咽障碍",
+          "大小便障碍",
+          "压疮风险",
+          "日常生活能力下降"
+        ],
+        "fangming": [],
+        "yaoming": [],
+        "xuewei": [],
+        "jingluo": [],
+        "siqi": [],
+        "wuwei": [],
+        "guijing": [],
+        "keywords": [
+          "康复护理",
+          "早期介入",
+          "功能导向",
+          "团队协作",
+          "压疮预防",
+          "吞咽护理",
+          "转移训练",
+          "家庭康复",
+          "出院指导"
+        ]
+      }
+    },
+    {
+      "id": "kangfupingding_001",
+      "book": "中医康复学",
+      "type": "zhinan",
+      "tier": 1,
+      "category": "yangsheng",
+      "subcategory": "kangfu",
+      "path": "library/yangsheng/kangfu/kangfupingding/kangfupingding_001.md",
+      "weight": 8,
+      "title": "康复评定",
+      "chapter": "康复疗法",
+      "conditions": {
+        "zhengxing": [],
+        "zhifa": [
+          "康复评定",
+          "功能评估"
+        ],
+        "bingzheng": [
+          "功能障碍",
+          "偏瘫",
+          "脊髓损伤",
+          "骨折术后"
+        ],
+        "zhengzhuang": [
+          "运动功能障碍",
+          "日常生活活动能力下降",
+          "认知障碍",
+          "言语障碍",
+          "心理障碍"
+        ],
+        "fangming": [],
+        "yaoming": [],
+        "xuewei": [],
+        "jingluo": [],
+        "siqi": [],
+        "wuwei": [],
+        "guijing": [],
+        "keywords": [
+          "康复评定",
+          "Fugl-Meyer",
+          "Barthel指数",
+          "FIM",
+          "日常生活活动能力",
+          "评定流程"
+        ]
+      }
+    },
+    {
+      "id": "laonianbingkangfu_001",
+      "book": "中医康复学",
+      "type": "zhinan",
+      "tier": 1,
+      "category": "yangsheng",
+      "subcategory": "kangfu",
+      "path": "library/yangsheng/kangfu/laonianbingkangfu/laonianbingkangfu_001.md",
+      "weight": 8,
+      "title": "老年病康复",
+      "chapter": "疾病康复",
+      "conditions": {
+        "zhengxing": [],
+        "zhifa": [
+          "中医导引",
+          "食疗",
+          "情志调摄",
+          "起居调摄",
+          "针灸",
+          "推拿",
+          "运动疗法",
+          "防跌倒训练"
+        ],
+        "bingzheng": [
+          "老年高血压",
+          "老年糖尿病",
+          "冠心病",
+          "骨质疏松症",
+          "认知障碍"
+        ],
+        "zhengzhuang": [
+          "脏腑虚衰",
+          "气血不足",
+          "筋骨懈惰",
+          "肌力下降",
+          "平衡减退",
+          "步履不稳"
+        ],
+        "fangming": [],
+        "yaoming": [],
+        "xuewei": [
+          "足三里",
+          "关元",
+          "气海",
+          "肾俞",
+          "脾俞"
+        ],
+        "jingluo": [],
+        "siqi": [],
+        "wuwei": [],
+        "guijing": [],
+        "keywords": [
+          "老年病康复",
+          "脏腑虚衰",
+          "气血不足",
+          "骨质疏松",
+          "认知障碍",
+          "防跌倒",
+          "日常生活活动能力",
+          "养生康复"
+        ]
+      }
+    },
+    {
+      "id": "manxingtengtongkangfu_001",
+      "book": "中医康复学",
+      "type": "zhinan",
+      "tier": 1,
+      "category": "yangsheng",
+      "subcategory": "kangfu",
+      "path": "library/yangsheng/kangfu/manxingtengtongkangfu/manxingtengtongkangfu_001.md",
+      "weight": 8,
+      "title": "慢性疼痛康复",
+      "chapter": "疾病康复",
+      "conditions": {
+        "zhengxing": [],
+        "zhifa": [
+          "针灸",
+          "推拿",
+          "中药",
+          "导引",
+          "情志调摄",
+          "物理因子治疗",
+          "运动疗法",
+          "认知行为干预"
+        ],
+        "bingzheng": [
+          "慢性颈肩腰腿痛",
+          "慢性腰痛",
+          "骨关节痛",
+          "神经病理性疼痛"
+        ],
+        "zhengzhuang": [
+          "慢性疼痛",
+          "痛处固定",
+          "酸楚重着",
+          "劳累加重"
+        ],
+        "fangming": [],
+        "yaoming": [],
+        "xuewei": [
+          "阿是穴",
+          "夹脊穴",
+          "肾俞",
+          "委中",
+          "阳陵泉",
+          "足三里"
+        ],
+        "jingluo": [],
+        "siqi": [],
+        "wuwei": [],
+        "guijing": [],
+        "keywords": [
+          "慢性疼痛康复",
+          "不通则痛",
+          "不荣则痛",
+          "VAS",
+          "疼痛评估",
+          "认知行为",
+          "预防慢性化"
+        ]
+      }
+    },
+    {
+      "id": "qigongkangfu_001",
+      "book": "中医康复学",
+      "type": "zhinan",
+      "tier": 1,
+      "category": "yangsheng",
+      "subcategory": "kangfu",
+      "path": "library/yangsheng/kangfu/qigongkangfu/qigongkangfu_001.md",
+      "weight": 8,
+      "title": "气功康复",
+      "chapter": "康复疗法",
+      "conditions": {
+        "zhengxing": [],
+        "zhifa": [
+          "调身",
+          "调息",
+          "调心",
+          "静功",
+          "动功",
+          "三调合一"
+        ],
+        "bingzheng": [
+          "慢性病",
+          "老年病",
+          "心身疾病",
+          "高血压",
+          "胃肠功能紊乱",
+          "失眠"
+        ],
+        "zhengzhuang": [
+          "神疲乏力",
+          "情绪紧张",
+          "失眠健忘",
+          "自主神经功能失调"
+        ],
+        "fangming": [],
+        "yaoming": [],
+        "xuewei": [],
+        "jingluo": [],
+        "siqi": [],
+        "wuwei": [],
+        "guijing": [],
+        "keywords": [
+          "气功康复",
+          "调身调息调心",
+          "三调合一",
+          "八段锦",
+          "五禽戏",
+          "六字诀",
+          "易筋经",
+          "太极拳",
+          "练功要领",
+          "禁忌证"
+        ]
+      }
+    },
+    {
+      "id": "qingzhikangfu_001",
+      "book": "中医康复学",
+      "type": "zhinan",
+      "tier": 1,
+      "category": "yangsheng",
+      "subcategory": "kangfu",
+      "path": "library/yangsheng/kangfu/qingzhikangfu/qingzhikangfu_001.md",
+      "weight": 8,
+      "title": "情志康复",
+      "chapter": "康复疗法",
+      "conditions": {
+        "zhengxing": [],
+        "zhifa": [
+          "情志相胜",
+          "移情易性",
+          "顺情解郁",
+          "音乐疗法",
+          "心理调摄"
+        ],
+        "bingzheng": [
+          "慢性病",
+          "老年病",
+          "中风后情志障碍",
+          "郁证",
+          "睡眠障碍"
+        ],
+        "zhengzhuang": [
+          "抑郁",
+          "焦虑",
+          "情绪波动",
+          "失眠"
+        ],
+        "fangming": [],
+        "yaoming": [],
+        "xuewei": [],
+        "jingluo": [],
+        "siqi": [],
+        "wuwei": [],
+        "guijing": [],
+        "keywords": [
+          "情志康复",
+          "七情",
+          "情志相胜",
+          "移情易性",
+          "顺情解郁",
+          "音乐疗法"
+        ]
+      }
+    },
+    {
+      "id": "shiliaokangfu_001",
+      "book": "中医康复学",
+      "type": "zhinan",
+      "tier": 1,
+      "category": "yangsheng",
+      "subcategory": "kangfu",
+      "path": "library/yangsheng/kangfu/shiliaokangfu/shiliaokangfu_001.md",
+      "weight": 8,
+      "title": "食疗康复",
+      "chapter": "康复疗法",
+      "conditions": {
+        "zhengxing": [],
+        "zhifa": [
+          "辨证施食",
+          "药食同源",
+          "饮食调养"
+        ],
+        "bingzheng": [
+          "慢性病",
+          "老年病",
+          "术后体虚",
+          "脾胃病",
+          "消渴"
+        ],
+        "zhengzhuang": [
+          "体虚",
+          "食欲不振",
+          "气血不足"
+        ],
+        "fangming": [],
+        "yaoming": [],
+        "xuewei": [],
+        "jingluo": [],
+        "siqi": [],
+        "wuwei": [],
+        "guijing": [],
+        "keywords": [
+          "食疗康复",
+          "药食同源",
+          "辨证施食",
+          "饮食禁忌",
+          "术后调养"
+        ]
+      }
+    },
+    {
+      "id": "tuinakangfu_001",
+      "book": "中医康复学",
+      "type": "zhinan",
+      "tier": 1,
+      "category": "yangsheng",
+      "subcategory": "kangfu",
+      "path": "library/yangsheng/kangfu/tuinakangfu/tuinakangfu_001.md",
+      "weight": 8,
+      "title": "推拿康复",
+      "chapter": "康复疗法",
+      "conditions": {
+        "zhengxing": [],
+        "zhifa": [
+          "舒筋通络",
+          "理筋整复",
+          "滑利关节",
+          "调节脏腑",
+          "推拿手法"
+        ],
+        "bingzheng": [
+          "颈肩腰腿痛",
+          "软组织损伤",
+          "关节活动不利",
+          "术后粘连",
+          "亚健康"
+        ],
+        "zhengzhuang": [
+          "肌肉酸痛",
+          "关节僵硬",
+          "运动功能障碍"
+        ],
+        "fangming": [],
+        "yaoming": [],
+        "xuewei": [],
+        "jingluo": [],
+        "siqi": [],
+        "wuwei": [],
+        "guijing": [],
+        "keywords": [
+          "推拿康复",
+          "舒筋通络",
+          "理筋整复",
+          "滚法",
+          "按法",
+          "揉法",
+          "禁忌"
+        ]
+      }
+    },
+    {
+      "id": "xinfeijibingkangfu_001",
+      "book": "中医康复学",
+      "type": "zhinan",
+      "tier": 1,
+      "category": "yangsheng",
+      "subcategory": "kangfu",
+      "path": "library/yangsheng/kangfu/xinfeijibingkangfu/xinfeijibingkangfu_001.md",
+      "weight": 8,
+      "title": "心肺疾病康复",
+      "chapter": "疾病康复",
+      "conditions": {
+        "zhengxing": [],
+        "zhifa": [
+          "有氧训练",
+          "呼吸训练",
+          "中医导引",
+          "针灸",
+          "推拿",
+          "食疗",
+          "情志调摄"
+        ],
+        "bingzheng": [
+          "冠心病",
+          "慢性心力衰竭",
+          "慢性阻塞性肺疾病"
+        ],
+        "zhengzhuang": [
+          "胸闷气短",
+          "动则气喘",
+          "活动耐量下降",
+          "咳嗽咯痰",
+          "乏力"
+        ],
+        "fangming": [],
+        "yaoming": [],
+        "xuewei": [
+          "内关",
+          "膻中",
+          "肺俞",
+          "定喘",
+          "足三里"
+        ],
+        "jingluo": [],
+        "siqi": [],
+        "wuwei": [],
+        "guijing": [],
+        "keywords": [
+          "心肺疾病康复",
+          "冠心病",
+          "慢性心衰",
+          "COPD",
+          "有氧训练",
+          "呼吸训练",
+          "八段锦",
+          "太极拳",
+          "运动安全监测"
+        ]
+      }
+    },
+    {
+      "id": "yundongkangfu_001",
+      "book": "中医康复学",
+      "type": "zhinan",
+      "tier": 1,
+      "category": "yangsheng",
+      "subcategory": "kangfu",
+      "path": "library/yangsheng/kangfu/yundongkangfu/yundongkangfu_001.md",
+      "weight": 8,
+      "title": "运动康复",
+      "chapter": "康复疗法",
+      "conditions": {
+        "zhengxing": [],
+        "zhifa": [
+          "运动疗法",
+          "中医导引",
+          "主动运动",
+          "被动运动"
+        ],
+        "bingzheng": [
+          "慢性病",
+          "老年病",
+          "术后功能障碍",
+          "偏瘫",
+          "颈肩腰腿痛"
+        ],
+        "zhengzhuang": [
+          "肌力下降",
+          "关节活动受限",
+          "体能下降"
+        ],
+        "fangming": [],
+        "yaoming": [],
+        "xuewei": [],
+        "jingluo": [],
+        "siqi": [],
+        "wuwei": [],
+        "guijing": [],
+        "keywords": [
+          "运动康复",
+          "八段锦",
+          "五禽戏",
+          "太极拳",
+          "运动处方",
+          "循序渐进"
+        ]
+      }
+    },
+    {
+      "id": "zhenjiukangfu_001",
+      "book": "中医康复学",
+      "type": "zhinan",
+      "tier": 1,
+      "category": "yangsheng",
+      "subcategory": "kangfu",
+      "path": "library/yangsheng/kangfu/zhenjiukangfu/zhenjiukangfu_001.md",
+      "weight": 8,
+      "title": "针灸康复",
+      "chapter": "康复疗法",
+      "conditions": {
+        "zhengxing": [],
+        "zhifa": [
+          "疏通经络",
+          "调和气血",
+          "扶正祛邪",
+          "针刺",
+          "艾灸"
+        ],
+        "bingzheng": [
+          "中风偏瘫",
+          "脊髓损伤",
+          "慢性疼痛",
+          "面瘫",
+          "颈肩腰腿痛"
+        ],
+        "zhengzhuang": [
+          "肢体瘫痪",
+          "疼痛",
+          "感觉障碍",
+          "肌痉挛"
+        ],
+        "fangming": [],
+        "yaoming": [],
+        "xuewei": [
+          "足三里",
+          "曲池",
+          "合谷",
+          "阳陵泉",
+          "肩髃",
+          "环跳",
+          "手三里",
+          "外关"
+        ],
+        "jingluo": [],
+        "siqi": [],
+        "wuwei": [],
+        "guijing": [],
+        "keywords": [
+          "针灸康复",
+          "循经取穴",
+          "辨证取穴",
+          "局部取穴",
+          "中风偏瘫",
+          "脊髓损伤"
+        ]
+      }
+    },
+    {
+      "id": "zhongfenghoukangfu_001",
+      "book": "中医康复学",
+      "type": "zhinan",
+      "tier": 1,
+      "category": "yangsheng",
+      "subcategory": "kangfu",
+      "path": "library/yangsheng/kangfu/zhongfenghoukangfu/zhongfenghoukangfu_001.md",
+      "weight": 8,
+      "title": "中风后康复",
+      "chapter": "疾病康复",
+      "conditions": {
+        "zhengxing": [],
+        "zhifa": [
+          "针灸",
+          "推拿",
+          "中药",
+          "导引",
+          "情志调摄",
+          "功能训练"
+        ],
+        "bingzheng": [
+          "中风后遗症",
+          "偏瘫",
+          "言语障碍",
+          "吞咽障碍",
+          "认知障碍"
+        ],
+        "zhengzhuang": [
+          "肢体瘫痪",
+          "口角歪斜",
+          "言语謇涩",
+          "吞咽困难",
+          "肢体痉挛",
+          "认知下降"
+        ],
+        "fangming": [],
+        "yaoming": [],
+        "xuewei": [
+          "足三里",
+          "曲池",
+          "合谷",
+          "阳陵泉",
+          "肩髃",
+          "地仓",
+          "颊车"
+        ],
+        "jingluo": [],
+        "siqi": [],
+        "wuwei": [],
+        "guijing": [],
+        "keywords": [
+          "中风后康复",
+          "偏瘫",
+          "急性期",
+          "恢复期",
+          "后遗症期",
+          "辨证康复",
+          "预防复发"
+        ]
+      }
+    },
+    {
+      "id": "zhongliushuhoutiaoli_001",
+      "book": "中医康复学",
+      "type": "zhinan",
+      "tier": 1,
+      "category": "yangsheng",
+      "subcategory": "kangfu",
+      "path": "library/yangsheng/kangfu/zhongliushuhoutiaoli/zhongliushuhoutiaoli_001.md",
+      "weight": 8,
+      "title": "肿瘤术后调理康复",
+      "chapter": "疾病康复",
+      "conditions": {
+        "zhengxing": [],
+        "zhifa": [
+          "扶正固本",
+          "健脾和胃",
+          "益气养血",
+          "滋补肝肾",
+          "食疗",
+          "情志调摄",
+          "中医导引"
+        ],
+        "bingzheng": [
+          "肿瘤术后",
+          "放化疗后康复"
+        ],
+        "zhengzhuang": [
+          "神疲乏力",
+          "食欲减退",
+          "恶心纳差",
+          "气血亏虚",
+          "免疫下降"
+        ],
+        "fangming": [],
+        "yaoming": [],
+        "xuewei": [
+          "足三里",
+          "中脘",
+          "脾俞",
+          "胃俞",
+          "关元"
+        ],
+        "jingluo": [],
+        "siqi": [],
+        "wuwei": [],
+        "guijing": [],
+        "keywords": [
+          "肿瘤术后调理",
+          "放化疗后康复",
+          "扶正固本",
+          "健脾和胃",
+          "益气养血",
+          "疲劳管理",
+          "情志康复",
+          "八段锦",
+          "定期复查"
+        ]
+      }
+    },
+    {
+      "id": "zhongyikangfuxuegaishu_001",
+      "book": "中医康复学",
+      "type": "zhinan",
+      "tier": 1,
+      "category": "yangsheng",
+      "subcategory": "kangfu",
+      "path": "library/yangsheng/kangfu/zhongyikangfuxuegaishu/zhongyikangfuxuegaishu_001.md",
+      "weight": 8,
+      "title": "中医康复学概述",
+      "chapter": "中医康复学概述",
+      "conditions": {
+        "zhengxing": [],
+        "zhifa": [
+          "整体康复",
+          "辨证康复",
+          "杂合以治",
+          "未病先防"
+        ],
+        "bingzheng": [
+          "残疾",
+          "慢性病",
+          "老年病",
+          "术后功能障碍"
+        ],
+        "zhengzhuang": [
+          "功能障碍"
+        ],
+        "fangming": [],
+        "yaoming": [],
+        "xuewei": [],
+        "jingluo": [],
+        "siqi": [],
+        "wuwei": [],
+        "guijing": [],
+        "keywords": [
+          "中医康复学",
+          "整体观念",
+          "辨证康复",
+          "杂合以治",
+          "康复对象",
+          "基本原则"
+        ]
+      }
+    },
+    {
+      "id": "zuoyeliaofazhongyi_001",
+      "book": "中医康复学",
+      "type": "zhinan",
+      "tier": 1,
+      "category": "yangsheng",
+      "subcategory": "kangfu",
+      "path": "library/yangsheng/kangfu/zuoyeliaofazhongyi/zuoyeliaofazhongyi_001.md",
+      "weight": 8,
+      "title": "作业疗法中医结合",
+      "chapter": "康复疗法",
+      "conditions": {
+        "zhengxing": [],
+        "zhifa": [
+          "作业疗法",
+          "日常生活活动训练",
+          "手工工艺作业",
+          "书画",
+          "园艺",
+          "烹饪作业",
+          "辅助器具改造",
+          "辨证施术"
+        ],
+        "bingzheng": [
+          "脑卒中",
+          "脊髓损伤",
+          "脑性瘫痪",
+          "手外伤"
+        ],
+        "zhengzhuang": [
+          "上肢功能障碍",
+          "精细动作障碍",
+          "日常生活能力下降",
+          "认知障碍"
+        ],
+        "fangming": [],
+        "yaoming": [],
+        "xuewei": [],
+        "jingluo": [],
+        "siqi": [],
+        "wuwei": [],
+        "guijing": [],
+        "keywords": [
+          "作业疗法",
+          "ADL",
+          "作业分析",
+          "活动调整",
+          "辅助器具",
+          "环境改造",
+          "书画疗法",
+          "园艺疗法",
+          "中医结合"
+        ]
+      }
+    },
+    {
       "id": "bifenghan_001",
       "book": "中医养生（古籍要义归纳）",
       "type": "chapter",
@@ -105465,6 +107106,1447 @@
           "中医诊断",
           "四诊",
           "舌诊"
+        ]
+      }
+    },
+    {
+      "id": "aitiaojiu_001",
+      "book": "刺法灸法学",
+      "type": "zhinan",
+      "tier": 1,
+      "category": "zhenjiu",
+      "subcategory": "cijiu",
+      "path": "library/zhenjiu/cijiu/aitiaojiu/aitiaojiu_001.md",
+      "weight": 8,
+      "title": "艾条灸",
+      "chapter": "灸法",
+      "conditions": {
+        "zhengxing": [],
+        "zhifa": [
+          "艾条灸",
+          "悬起灸",
+          "温和灸",
+          "雀啄灸",
+          "回旋灸",
+          "实按灸",
+          "太乙针",
+          "雷火针"
+        ],
+        "bingzheng": [
+          "虚寒性病证",
+          "寒湿痹痛",
+          "脏腑虚证",
+          "阳虚畏寒",
+          "慢性腹泻"
+        ],
+        "zhengzhuang": [
+          "局部冷痛",
+          "畏寒肢冷",
+          "气虚乏力"
+        ],
+        "fangming": [],
+        "yaoming": [],
+        "xuewei": [],
+        "jingluo": [],
+        "siqi": [],
+        "wuwei": [],
+        "guijing": [],
+        "keywords": [
+          "艾条灸",
+          "悬起灸",
+          "温和灸",
+          "雀啄灸",
+          "回旋灸",
+          "实按灸",
+          "太乙针",
+          "雷火针",
+          "灸法"
+        ]
+      }
+    },
+    {
+      "id": "aizhujiu_001",
+      "book": "刺法灸法学",
+      "type": "zhinan",
+      "tier": 1,
+      "category": "zhenjiu",
+      "subcategory": "cijiu",
+      "path": "library/zhenjiu/cijiu/aizhujiu/aizhujiu_001.md",
+      "weight": 8,
+      "title": "艾炷灸（直接灸）",
+      "chapter": "灸法",
+      "conditions": {
+        "zhengxing": [],
+        "zhifa": [
+          "艾炷灸",
+          "直接灸",
+          "瘢痕灸",
+          "无瘢痕灸",
+          "化脓灸"
+        ],
+        "bingzheng": [
+          "慢性虚寒性病证",
+          "哮喘",
+          "慢性胃肠病",
+          "体质虚弱",
+          "发育不良",
+          "预防保健"
+        ],
+        "zhengzhuang": [
+          "虚寒",
+          "阳气不足",
+          "强身防病"
+        ],
+        "fangming": [],
+        "yaoming": [],
+        "xuewei": [
+          "足三里",
+          "关元",
+          "气海",
+          "膏肓",
+          "肾俞"
+        ],
+        "jingluo": [],
+        "siqi": [],
+        "wuwei": [],
+        "guijing": [],
+        "keywords": [
+          "艾炷",
+          "直接灸",
+          "瘢痕灸",
+          "无瘢痕灸",
+          "壮数",
+          "麦粒灸",
+          "蒜泥粘炷",
+          "发泡"
+        ]
+      }
+    },
+    {
+      "id": "baguanfa_001",
+      "book": "刺法灸法学",
+      "type": "zhinan",
+      "tier": 1,
+      "category": "zhenjiu",
+      "subcategory": "cijiu",
+      "path": "library/zhenjiu/cijiu/baguanfa/baguanfa_001.md",
+      "weight": 8,
+      "title": "拔罐法",
+      "chapter": "其他外治法",
+      "conditions": {
+        "zhengxing": [],
+        "zhifa": [
+          "拔罐法",
+          "闪罐法",
+          "留罐法",
+          "走罐法",
+          "刺络拔罐法",
+          "药罐法"
+        ],
+        "bingzheng": [
+          "风寒湿痹",
+          "腰背酸痛",
+          "感冒咳嗽",
+          "扭伤",
+          "痈肿丹毒",
+          "皮肤麻木"
+        ],
+        "zhengzhuang": [
+          "局部酸痛",
+          "恶寒发热",
+          "肢体麻木"
+        ],
+        "fangming": [],
+        "yaoming": [],
+        "xuewei": [],
+        "jingluo": [],
+        "siqi": [],
+        "wuwei": [],
+        "guijing": [],
+        "keywords": [
+          "拔罐",
+          "闪罐",
+          "留罐",
+          "走罐",
+          "刺络拔罐",
+          "药罐",
+          "吸拔",
+          "负压"
+        ]
+      }
+    },
+    {
+      "id": "baojianjiuyujiufajinji_001",
+      "book": "刺法灸法学",
+      "type": "zhinan",
+      "tier": 1,
+      "category": "zhenjiu",
+      "subcategory": "cijiu",
+      "path": "library/zhenjiu/cijiu/baojianjiuyujiufajinji/baojianjiuyujiufajinji_001.md",
+      "weight": 8,
+      "title": "保健灸与灸法禁忌",
+      "chapter": "灸法",
+      "conditions": {
+        "zhengxing": [],
+        "zhifa": [
+          "保健灸",
+          "灸法禁忌"
+        ],
+        "bingzheng": [
+          "平素体虚",
+          "阳虚畏寒",
+          "脾胃虚弱",
+          "易感冒"
+        ],
+        "zhengzhuang": [
+          "神疲乏力",
+          "畏寒肢冷"
+        ],
+        "fangming": [],
+        "yaoming": [],
+        "xuewei": [
+          "足三里",
+          "关元",
+          "神阙",
+          "气海",
+          "大椎"
+        ],
+        "jingluo": [],
+        "siqi": [],
+        "wuwei": [],
+        "guijing": [],
+        "keywords": [
+          "保健灸",
+          "足三里灸",
+          "关元灸",
+          "神阙灸",
+          "灸法禁忌",
+          "孕妇",
+          "阴虚火旺"
+        ]
+      }
+    },
+    {
+      "id": "deqiyuhouqi_001",
+      "book": "刺法灸法学",
+      "type": "zhinan",
+      "tier": 1,
+      "category": "zhenjiu",
+      "subcategory": "cijiu",
+      "path": "library/zhenjiu/cijiu/deqiyuhouqi/deqiyuhouqi_001.md",
+      "weight": 8,
+      "title": "得气与候气",
+      "chapter": "毫针刺法",
+      "conditions": {
+        "zhengxing": [],
+        "zhifa": [
+          "得气",
+          "候气",
+          "催气"
+        ],
+        "bingzheng": [
+          "各科针灸适应证"
+        ],
+        "zhengzhuang": [
+          "酸麻胀重",
+          "针感迟滞"
+        ],
+        "fangming": [],
+        "yaoming": [],
+        "xuewei": [],
+        "jingluo": [],
+        "siqi": [],
+        "wuwei": [],
+        "guijing": [],
+        "keywords": [
+          "得气",
+          "气至",
+          "候气",
+          "催气",
+          "针感",
+          "刺法灸法"
+        ]
+      }
+    },
+    {
+      "id": "dianzhen_001",
+      "book": "刺法灸法学",
+      "type": "zhinan",
+      "tier": 1,
+      "category": "zhenjiu",
+      "subcategory": "cijiu",
+      "path": "library/zhenjiu/cijiu/dianzhen/dianzhen_001.md",
+      "weight": 8,
+      "title": "电针",
+      "chapter": "现代针刺技术",
+      "conditions": {
+        "zhengxing": [],
+        "zhifa": [
+          "电针",
+          "电针仪脉冲刺激"
+        ],
+        "bingzheng": [
+          "痛证",
+          "痹证",
+          "痿证",
+          "中风后遗症",
+          "胃肠功能失调",
+          "癫狂热证"
+        ],
+        "zhengzhuang": [
+          "肢体疼痛麻木",
+          "瘫痪",
+          "脏腑功能失调"
+        ],
+        "fangming": [],
+        "yaoming": [],
+        "xuewei": [],
+        "jingluo": [],
+        "siqi": [],
+        "wuwei": [],
+        "guijing": [],
+        "keywords": [
+          "电针",
+          "电针仪",
+          "波形",
+          "连续波",
+          "疏密波",
+          "断续波",
+          "频率",
+          "刺激强度",
+          "通电时间"
+        ]
+      }
+    },
+    {
+      "id": "erzhen_001",
+      "book": "刺法灸法学",
+      "type": "zhinan",
+      "tier": 1,
+      "category": "zhenjiu",
+      "subcategory": "cijiu",
+      "path": "library/zhenjiu/cijiu/erzhen/erzhen_001.md",
+      "weight": 8,
+      "title": "耳针",
+      "chapter": "微针系统",
+      "conditions": {
+        "zhengxing": [],
+        "zhifa": [
+          "耳针",
+          "耳穴探查",
+          "毫针刺耳",
+          "埋针",
+          "王不留行籽压丸"
+        ],
+        "bingzheng": [
+          "失眠",
+          "眩晕",
+          "疼痛性疾患",
+          "戒烟戒毒",
+          "过敏性鼻炎",
+          "便秘"
+        ],
+        "zhengzhuang": [
+          "失眠多梦",
+          "头痛眩晕",
+          "脘痞"
+        ],
+        "fangming": [],
+        "yaoming": [],
+        "xuewei": [
+          "神门",
+          "交感",
+          "皮质下",
+          "心",
+          "肝",
+          "肾",
+          "内分泌",
+          "胃"
+        ],
+        "jingluo": [],
+        "siqi": [],
+        "wuwei": [],
+        "guijing": [],
+        "keywords": [
+          "耳针",
+          "耳穴",
+          "探查",
+          "压丸",
+          "埋针",
+          "神门",
+          "交感",
+          "皮质下",
+          "微针系统"
+        ]
+      }
+    },
+    {
+      "id": "gewujiu_001",
+      "book": "刺法灸法学",
+      "type": "zhinan",
+      "tier": 1,
+      "category": "zhenjiu",
+      "subcategory": "cijiu",
+      "path": "library/zhenjiu/cijiu/gewujiu/gewujiu_001.md",
+      "weight": 8,
+      "title": "隔物灸",
+      "chapter": "灸法",
+      "conditions": {
+        "zhengxing": [],
+        "zhifa": [
+          "隔物灸",
+          "隔姜灸",
+          "隔蒜灸",
+          "隔盐灸",
+          "隔附子饼灸"
+        ],
+        "bingzheng": [
+          "虚寒呕吐",
+          "腹痛泄泻",
+          "虚寒泄利",
+          "瘰疬",
+          "痈疽肿毒",
+          "阳虚痿弱",
+          "中风脱证"
+        ],
+        "zhengzhuang": [
+          "脘腹冷痛",
+          "虚寒泄泻"
+        ],
+        "fangming": [],
+        "yaoming": [],
+        "xuewei": [
+          "神阙"
+        ],
+        "jingluo": [],
+        "siqi": [],
+        "wuwei": [],
+        "guijing": [],
+        "keywords": [
+          "隔物灸",
+          "隔姜灸",
+          "隔蒜灸",
+          "隔盐灸",
+          "隔附子饼灸",
+          "间隔物",
+          "灸法"
+        ]
+      }
+    },
+    {
+      "id": "guashafa_001",
+      "book": "刺法灸法学",
+      "type": "zhinan",
+      "tier": 1,
+      "category": "zhenjiu",
+      "subcategory": "cijiu",
+      "path": "library/zhenjiu/cijiu/guashafa/guashafa_001.md",
+      "weight": 8,
+      "title": "刮痧法",
+      "chapter": "其他外治法",
+      "conditions": {
+        "zhengxing": [],
+        "zhifa": [
+          "刮痧法"
+        ],
+        "bingzheng": [
+          "感冒",
+          "中暑",
+          "夏季伤暑",
+          "肌肉酸痛",
+          "轻度肠胃不适"
+        ],
+        "zhengzhuang": [
+          "头昏胸闷",
+          "全身酸楚",
+          "恶心欲吐"
+        ],
+        "fangming": [],
+        "yaoming": [],
+        "xuewei": [],
+        "jingluo": [],
+        "siqi": [],
+        "wuwei": [],
+        "guijing": [],
+        "keywords": [
+          "刮痧",
+          "刮痧板",
+          "出痧",
+          "介质",
+          "膀胱经",
+          "祛邪外出"
+        ]
+      }
+    },
+    {
+      "id": "haozhencifazonglun_001",
+      "book": "刺法灸法学",
+      "type": "zhinan",
+      "tier": 1,
+      "category": "zhenjiu",
+      "subcategory": "cijiu",
+      "path": "library/zhenjiu/cijiu/haozhencifazonglun/haozhencifazonglun_001.md",
+      "weight": 8,
+      "title": "毫针刺法总论（持针、进针、角度与深度）",
+      "chapter": "毫针刺法",
+      "conditions": {
+        "zhengxing": [],
+        "zhifa": [
+          "持针",
+          "进针",
+          "针刺角度",
+          "针刺深度"
+        ],
+        "bingzheng": [
+          "各科针灸适应证"
+        ],
+        "zhengzhuang": [],
+        "fangming": [],
+        "yaoming": [],
+        "xuewei": [],
+        "jingluo": [],
+        "siqi": [],
+        "wuwei": [],
+        "guijing": [],
+        "keywords": [
+          "毫针",
+          "持针",
+          "进针角度",
+          "直刺",
+          "斜刺",
+          "平刺",
+          "针刺深度",
+          "刺法灸法"
+        ]
+      }
+    },
+    {
+      "id": "huozhen_001",
+      "book": "刺法灸法学",
+      "type": "zhinan",
+      "tier": 1,
+      "category": "zhenjiu",
+      "subcategory": "cijiu",
+      "path": "library/zhenjiu/cijiu/huozhen/huozhen_001.md",
+      "weight": 8,
+      "title": "火针",
+      "chapter": "现代针刺技术",
+      "conditions": {
+        "zhengxing": [],
+        "zhifa": [
+          "火针",
+          "焠刺",
+          "烧针",
+          "深刺法",
+          "浅刺法",
+          "点刺法"
+        ],
+        "bingzheng": [
+          "痹证",
+          "寒证",
+          "痈疽",
+          "瘰疬",
+          "疣痣",
+          "顽癣",
+          "网球肘",
+          "胃脘冷痛",
+          "阳痿"
+        ],
+        "zhengzhuang": [
+          "风寒湿痹",
+          "阳虚畏寒",
+          "冷痛"
+        ],
+        "fangming": [],
+        "yaoming": [],
+        "xuewei": [],
+        "jingluo": [],
+        "siqi": [],
+        "wuwei": [],
+        "guijing": [],
+        "keywords": [
+          "火针",
+          "焠刺",
+          "烧针至红",
+          "白亮炽白",
+          "速刺疾出",
+          "深度",
+          "防寒防感染"
+        ]
+      }
+    },
+    {
+      "id": "huxibuxie_001",
+      "book": "刺法灸法学",
+      "type": "zhinan",
+      "tier": 1,
+      "category": "zhenjiu",
+      "subcategory": "cijiu",
+      "path": "library/zhenjiu/cijiu/huxibuxie/huxibuxie_001.md",
+      "weight": 8,
+      "title": "呼吸补泻",
+      "chapter": "针刺补泻",
+      "conditions": {
+        "zhengxing": [],
+        "zhifa": [
+          "呼吸补泻"
+        ],
+        "bingzheng": [
+          "虚证",
+          "实证"
+        ],
+        "zhengzhuang": [],
+        "fangming": [],
+        "yaoming": [],
+        "xuewei": [],
+        "jingluo": [],
+        "siqi": [],
+        "wuwei": [],
+        "guijing": [],
+        "keywords": [
+          "呼吸补泻",
+          "随呼气进针",
+          "随吸气进针",
+          "针刺补泻",
+          "刺法灸法"
+        ]
+      }
+    },
+    {
+      "id": "jinzhenshoufa_001",
+      "book": "刺法灸法学",
+      "type": "zhinan",
+      "tier": 1,
+      "category": "zhenjiu",
+      "subcategory": "cijiu",
+      "path": "library/zhenjiu/cijiu/jinzhenshoufa/jinzhenshoufa_001.md",
+      "weight": 8,
+      "title": "进针手法（指切、夹持、舒张、提捏）",
+      "chapter": "毫针刺法",
+      "conditions": {
+        "zhengxing": [],
+        "zhifa": [
+          "指切进针法",
+          "夹持进针法",
+          "舒张进针法",
+          "提捏进针法"
+        ],
+        "bingzheng": [
+          "各科针灸适应证"
+        ],
+        "zhengzhuang": [],
+        "fangming": [],
+        "yaoming": [],
+        "xuewei": [],
+        "jingluo": [],
+        "siqi": [],
+        "wuwei": [],
+        "guijing": [],
+        "keywords": [
+          "进针手法",
+          "指切进针",
+          "夹持进针",
+          "舒张进针",
+          "提捏进针",
+          "刺法灸法"
+        ]
+      }
+    },
+    {
+      "id": "jixubuxie_001",
+      "book": "刺法灸法学",
+      "type": "zhinan",
+      "tier": 1,
+      "category": "zhenjiu",
+      "subcategory": "cijiu",
+      "path": "library/zhenjiu/cijiu/jixubuxie/jixubuxie_001.md",
+      "weight": 8,
+      "title": "疾徐补泻",
+      "chapter": "针刺补泻",
+      "conditions": {
+        "zhengxing": [],
+        "zhifa": [
+          "疾徐补泻",
+          "徐疾补泻"
+        ],
+        "bingzheng": [
+          "虚证",
+          "实证"
+        ],
+        "zhengzhuang": [],
+        "fangming": [],
+        "yaoming": [],
+        "xuewei": [],
+        "jingluo": [],
+        "siqi": [],
+        "wuwei": [],
+        "guijing": [],
+        "keywords": [
+          "疾徐补泻",
+          "徐疾补泻",
+          "针刺补泻",
+          "进针出针快慢",
+          "刺法灸法"
+        ]
+      }
+    },
+    {
+      "id": "kaihebuxie_001",
+      "book": "刺法灸法学",
+      "type": "zhinan",
+      "tier": 1,
+      "category": "zhenjiu",
+      "subcategory": "cijiu",
+      "path": "library/zhenjiu/cijiu/kaihebuxie/kaihebuxie_001.md",
+      "weight": 8,
+      "title": "开阖补泻",
+      "chapter": "针刺补泻",
+      "conditions": {
+        "zhengxing": [],
+        "zhifa": [
+          "开阖补泻"
+        ],
+        "bingzheng": [
+          "虚证",
+          "实证"
+        ],
+        "zhengzhuang": [],
+        "fangming": [],
+        "yaoming": [],
+        "xuewei": [],
+        "jingluo": [],
+        "siqi": [],
+        "wuwei": [],
+        "guijing": [],
+        "keywords": [
+          "开阖补泻",
+          "出针按针孔",
+          "摇大针孔",
+          "针刺补泻",
+          "刺法灸法"
+        ]
+      }
+    },
+    {
+      "id": "nianzhuanbuxie_001",
+      "book": "刺法灸法学",
+      "type": "zhinan",
+      "tier": 1,
+      "category": "zhenjiu",
+      "subcategory": "cijiu",
+      "path": "library/zhenjiu/cijiu/nianzhuanbuxie/nianzhuanbuxie_001.md",
+      "weight": 8,
+      "title": "捻转补泻",
+      "chapter": "针刺补泻",
+      "conditions": {
+        "zhengxing": [],
+        "zhifa": [
+          "捻转补泻"
+        ],
+        "bingzheng": [
+          "虚证",
+          "实证"
+        ],
+        "zhengzhuang": [],
+        "fangming": [],
+        "yaoming": [],
+        "xuewei": [],
+        "jingluo": [],
+        "siqi": [],
+        "wuwei": [],
+        "guijing": [],
+        "keywords": [
+          "捻转补泻",
+          "针刺补泻",
+          "捻转角度",
+          "补法",
+          "泻法",
+          "刺法灸法"
+        ]
+      }
+    },
+    {
+      "id": "pifuzhen_001",
+      "book": "刺法灸法学",
+      "type": "zhinan",
+      "tier": 1,
+      "category": "zhenjiu",
+      "subcategory": "cijiu",
+      "path": "library/zhenjiu/cijiu/pifuzhen/pifuzhen_001.md",
+      "weight": 8,
+      "title": "皮肤针（梅花针）",
+      "chapter": "现代针刺技术",
+      "conditions": {
+        "zhengxing": [],
+        "zhifa": [
+          "皮肤针",
+          "梅花针",
+          "七星针",
+          "叩刺法"
+        ],
+        "bingzheng": [
+          "头痛",
+          "失眠",
+          "胁痛",
+          "背痛",
+          "皮肤病",
+          "高血压",
+          "近视",
+          "顽癣",
+          "斑秃"
+        ],
+        "zhengzhuang": [
+          "经络瘀滞",
+          "皮肤麻木",
+          "神经痛"
+        ],
+        "fangming": [],
+        "yaoming": [],
+        "xuewei": [],
+        "jingluo": [],
+        "siqi": [],
+        "wuwei": [],
+        "guijing": [],
+        "keywords": [
+          "皮肤针",
+          "梅花针",
+          "七星针",
+          "叩刺",
+          "循经叩刺",
+          "穴位叩刺",
+          "局部叩刺",
+          "轻刺重刺"
+        ]
+      }
+    },
+    {
+      "id": "pineizhen_001",
+      "book": "刺法灸法学",
+      "type": "zhinan",
+      "tier": 1,
+      "category": "zhenjiu",
+      "subcategory": "cijiu",
+      "path": "library/zhenjiu/cijiu/pineizhen/pineizhen_001.md",
+      "weight": 8,
+      "title": "皮内针（埋针）",
+      "chapter": "现代针刺技术",
+      "conditions": {
+        "zhengxing": [],
+        "zhifa": [
+          "皮内针",
+          "埋针",
+          "图钉型揿针",
+          "颗粒型皮内针",
+          "久留针"
+        ],
+        "bingzheng": [
+          "慢性病",
+          "顽固性疼痛",
+          "胃痛",
+          "胆绞痛",
+          "偏头痛",
+          "神经衰弱",
+          "高血压",
+          "哮喘"
+        ],
+        "zhengzhuang": [
+          "需长期留针持续刺激",
+          "定时发作性病证"
+        ],
+        "fangming": [],
+        "yaoming": [],
+        "xuewei": [],
+        "jingluo": [],
+        "siqi": [],
+        "wuwei": [],
+        "guijing": [],
+        "keywords": [
+          "皮内针",
+          "埋针",
+          "揿针",
+          "久留针",
+          "埋针时间",
+          "固定关节避刺",
+          "持续刺激"
+        ]
+      }
+    },
+    {
+      "id": "pingbupingxie_001",
+      "book": "刺法灸法学",
+      "type": "zhinan",
+      "tier": 1,
+      "category": "zhenjiu",
+      "subcategory": "cijiu",
+      "path": "library/zhenjiu/cijiu/pingbupingxie/pingbupingxie_001.md",
+      "weight": 8,
+      "title": "平补平泻",
+      "chapter": "针刺补泻",
+      "conditions": {
+        "zhengxing": [],
+        "zhifa": [
+          "平补平泻",
+          "得气后均匀提插捻转"
+        ],
+        "bingzheng": [
+          "虚实不甚明显的一般病证",
+          "慢性病证"
+        ],
+        "zhengzhuang": [],
+        "fangming": [],
+        "yaoming": [],
+        "xuewei": [],
+        "jingluo": [],
+        "siqi": [],
+        "wuwei": [],
+        "guijing": [],
+        "keywords": [
+          "平补平泻",
+          "针刺补泻",
+          "得气",
+          "均匀提插捻转",
+          "手法适中"
+        ]
+      }
+    },
+    {
+      "id": "sanlengzhenciluofangxue_001",
+      "book": "刺法灸法学",
+      "type": "zhinan",
+      "tier": 1,
+      "category": "zhenjiu",
+      "subcategory": "cijiu",
+      "path": "library/zhenjiu/cijiu/sanlengzhenciluofangxue/sanlengzhenciluofangxue_001.md",
+      "weight": 8,
+      "title": "三棱针刺络放血",
+      "chapter": "现代针刺技术",
+      "conditions": {
+        "zhengxing": [],
+        "zhifa": [
+          "三棱针",
+          "点刺",
+          "散刺",
+          "刺络",
+          "挑刺",
+          "放血疗法"
+        ],
+        "bingzheng": [
+          "高热",
+          "中暑",
+          "咽喉肿痛",
+          "目赤肿痛",
+          "扭挫伤",
+          "丹毒",
+          "顽癣",
+          "晕厥"
+        ],
+        "zhengzhuang": [
+          "实证热证",
+          "瘀血肿痛",
+          "经络瘀滞"
+        ],
+        "fangming": [],
+        "yaoming": [],
+        "xuewei": [
+          "十宣",
+          "十二井",
+          "曲泽",
+          "委中",
+          "太阳",
+          "耳尖"
+        ],
+        "jingluo": [],
+        "siqi": [],
+        "wuwei": [],
+        "guijing": [],
+        "keywords": [
+          "三棱针",
+          "点刺法",
+          "散刺法",
+          "刺络法",
+          "挑刺法",
+          "放血",
+          "泻热逐瘀",
+          "出血量"
+        ]
+      }
+    },
+    {
+      "id": "tichabuxie_001",
+      "book": "刺法灸法学",
+      "type": "zhinan",
+      "tier": 1,
+      "category": "zhenjiu",
+      "subcategory": "cijiu",
+      "path": "library/zhenjiu/cijiu/tichabuxie/tichabuxie_001.md",
+      "weight": 8,
+      "title": "提插补泻",
+      "chapter": "针刺补泻",
+      "conditions": {
+        "zhengxing": [],
+        "zhifa": [
+          "提插补泻"
+        ],
+        "bingzheng": [
+          "虚证",
+          "实证"
+        ],
+        "zhengzhuang": [],
+        "fangming": [],
+        "yaoming": [],
+        "xuewei": [],
+        "jingluo": [],
+        "siqi": [],
+        "wuwei": [],
+        "guijing": [],
+        "keywords": [
+          "提插补泻",
+          "针刺补泻",
+          "提插幅度",
+          "补法",
+          "泻法",
+          "刺法灸法"
+        ]
+      }
+    },
+    {
+      "id": "touzhen_001",
+      "book": "刺法灸法学",
+      "type": "zhinan",
+      "tier": 1,
+      "category": "zhenjiu",
+      "subcategory": "cijiu",
+      "path": "library/zhenjiu/cijiu/touzhen/touzhen_001.md",
+      "weight": 8,
+      "title": "头针",
+      "chapter": "微针系统",
+      "conditions": {
+        "zhengxing": [],
+        "zhifa": [
+          "头针",
+          "头皮针",
+          "快速捻转"
+        ],
+        "bingzheng": [
+          "中风偏瘫",
+          "肢体瘫痪",
+          "震颤麻痹",
+          "皮层性尿频",
+          "舞蹈病",
+          "眩晕耳鸣"
+        ],
+        "zhengzhuang": [
+          "肢体瘫痪",
+          "麻木",
+          "震颤"
+        ],
+        "fangming": [],
+        "yaoming": [],
+        "xuewei": [
+          "运动区",
+          "感觉区",
+          "舞蹈震颤控制区",
+          "运用区",
+          "足运感区"
+        ],
+        "jingluo": [],
+        "siqi": [],
+        "wuwei": [],
+        "guijing": [],
+        "keywords": [
+          "头针",
+          "头皮针",
+          "刺激区",
+          "运动区",
+          "感觉区",
+          "捻转频率",
+          "微针系统"
+        ]
+      }
+    },
+    {
+      "id": "wenjiuqijiu_001",
+      "book": "刺法灸法学",
+      "type": "zhinan",
+      "tier": 1,
+      "category": "zhenjiu",
+      "subcategory": "cijiu",
+      "path": "library/zhenjiu/cijiu/wenjiuqijiu/wenjiuqijiu_001.md",
+      "weight": 8,
+      "title": "温灸器灸",
+      "chapter": "灸法",
+      "conditions": {
+        "zhengxing": [],
+        "zhifa": [
+          "温灸器灸",
+          "温灸盒灸",
+          "温灸筒灸"
+        ],
+        "bingzheng": [
+          "虚寒性病证",
+          "风寒湿痹",
+          "脘腹冷痛",
+          "肩背腰腿痛"
+        ],
+        "zhengzhuang": [
+          "局部怕冷",
+          "酸痛不适"
+        ],
+        "fangming": [],
+        "yaoming": [],
+        "xuewei": [],
+        "jingluo": [],
+        "siqi": [],
+        "wuwei": [],
+        "guijing": [],
+        "keywords": [
+          "温灸器灸",
+          "温灸盒",
+          "温灸筒",
+          "灸法",
+          "温和持久灸"
+        ]
+      }
+    },
+    {
+      "id": "wenjiuzhen_001",
+      "book": "刺法灸法学",
+      "type": "zhinan",
+      "tier": 1,
+      "category": "zhenjiu",
+      "subcategory": "cijiu",
+      "path": "library/zhenjiu/cijiu/wenjiuzhen/wenjiuzhen_001.md",
+      "weight": 8,
+      "title": "温针灸",
+      "chapter": "现代针刺技术",
+      "conditions": {
+        "zhengxing": [],
+        "zhifa": [
+          "温针灸",
+          "针柄灸",
+          "针刺加艾灸"
+        ],
+        "bingzheng": [
+          "寒湿痹痛",
+          "关节冷痛",
+          "胃脘冷痛",
+          "脾肾阳虚",
+          "风寒湿痹证"
+        ],
+        "zhengzhuang": [
+          "冷痛",
+          "畏寒",
+          "艾灸温通"
+        ],
+        "fangming": [],
+        "yaoming": [],
+        "xuewei": [
+          "足三里",
+          "关元",
+          "气海",
+          "肾俞",
+          "命门",
+          "犊鼻",
+          "阳陵泉"
+        ],
+        "jingluo": [],
+        "siqi": [],
+        "wuwei": [],
+        "guijing": [],
+        "keywords": [
+          "温针灸",
+          "针柄插艾绒",
+          "针刺得气加灸",
+          "防火",
+          "艾灰脱落",
+          "针上灸"
+        ]
+      }
+    },
+    {
+      "id": "xingzhenshoufa_001",
+      "book": "刺法灸法学",
+      "type": "zhinan",
+      "tier": 1,
+      "category": "zhenjiu",
+      "subcategory": "cijiu",
+      "path": "library/zhenjiu/cijiu/xingzhenshoufa/xingzhenshoufa_001.md",
+      "weight": 8,
+      "title": "行针手法（提插、捻转）",
+      "chapter": "毫针刺法",
+      "conditions": {
+        "zhengxing": [],
+        "zhifa": [
+          "行针",
+          "提插法",
+          "捻转法"
+        ],
+        "bingzheng": [
+          "各科针灸适应证"
+        ],
+        "zhengzhuang": [
+          "得气感应"
+        ],
+        "fangming": [],
+        "yaoming": [],
+        "xuewei": [],
+        "jingluo": [],
+        "siqi": [],
+        "wuwei": [],
+        "guijing": [],
+        "keywords": [
+          "行针",
+          "催气",
+          "提插",
+          "捻转",
+          "基本行针手法",
+          "刺法灸法"
+        ]
+      }
+    },
+    {
+      "id": "xueweimaixian_001",
+      "book": "刺法灸法学",
+      "type": "zhinan",
+      "tier": 1,
+      "category": "zhenjiu",
+      "subcategory": "cijiu",
+      "path": "library/zhenjiu/cijiu/xueweimaixian/xueweimaixian_001.md",
+      "weight": 8,
+      "title": "穴位埋线",
+      "chapter": "穴位疗法",
+      "conditions": {
+        "zhengxing": [],
+        "zhifa": [
+          "穴位埋线"
+        ],
+        "bingzheng": [
+          "哮喘",
+          "胃痛",
+          "久泻",
+          "痿证",
+          "癫痫",
+          "肥胖",
+          "慢性顽固性病证"
+        ],
+        "zhengzhuang": [
+          "病程缠绵",
+          "反复发作"
+        ],
+        "fangming": [],
+        "yaoming": [],
+        "xuewei": [
+          "足三里",
+          "胃俞",
+          "肺俞",
+          "脾俞",
+          "肾俞",
+          "夹脊穴"
+        ],
+        "jingluo": [],
+        "siqi": [],
+        "wuwei": [],
+        "guijing": [],
+        "keywords": [
+          "穴位埋线",
+          "羊肠线",
+          "埋针",
+          "长期刺激",
+          "术后反应",
+          "无菌操作"
+        ]
+      }
+    },
+    {
+      "id": "xueweizhushe_001",
+      "book": "刺法灸法学",
+      "type": "zhinan",
+      "tier": 1,
+      "category": "zhenjiu",
+      "subcategory": "cijiu",
+      "path": "library/zhenjiu/cijiu/xueweizhushe/xueweizhushe_001.md",
+      "weight": 8,
+      "title": "穴位注射",
+      "chapter": "穴位疗法",
+      "conditions": {
+        "zhengxing": [],
+        "zhifa": [
+          "穴位注射",
+          "水针"
+        ],
+        "bingzheng": [
+          "腰腿痛",
+          "痹证",
+          "胃痛",
+          "哮喘",
+          "神经痛",
+          "慢性软组织损伤"
+        ],
+        "zhengzhuang": [
+          "局部酸痛",
+          "绵绵作痛"
+        ],
+        "fangming": [],
+        "yaoming": [],
+        "xuewei": [
+          "足三里",
+          "胃俞",
+          "肾俞",
+          "夹脊穴",
+          "阿是穴"
+        ],
+        "jingluo": [],
+        "siqi": [],
+        "wuwei": [],
+        "guijing": [],
+        "keywords": [
+          "穴位注射",
+          "水针",
+          "小剂量药物",
+          "针头刺入得气",
+          "注意事项"
+        ]
+      }
+    },
+    {
+      "id": "yingsuibuxie_001",
+      "book": "刺法灸法学",
+      "type": "zhinan",
+      "tier": 1,
+      "category": "zhenjiu",
+      "subcategory": "cijiu",
+      "path": "library/zhenjiu/cijiu/yingsuibuxie/yingsuibuxie_001.md",
+      "weight": 8,
+      "title": "迎随补泻",
+      "chapter": "针刺补泻",
+      "conditions": {
+        "zhengxing": [],
+        "zhifa": [
+          "迎随补泻"
+        ],
+        "bingzheng": [
+          "虚证",
+          "实证"
+        ],
+        "zhengzhuang": [],
+        "fangming": [],
+        "yaoming": [],
+        "xuewei": [],
+        "jingluo": [],
+        "siqi": [],
+        "wuwei": [],
+        "guijing": [],
+        "keywords": [
+          "迎随补泻",
+          "顺经逆经",
+          "针刺补泻",
+          "刺法灸法"
+        ]
+      }
+    },
+    {
+      "id": "yunzhenyuzhizhenchuli_001",
+      "book": "刺法灸法学",
+      "type": "zhinan",
+      "tier": 1,
+      "category": "zhenjiu",
+      "subcategory": "cijiu",
+      "path": "library/zhenjiu/cijiu/yunzhenyuzhizhenchuli/yunzhenyuzhizhenchuli_001.md",
+      "weight": 8,
+      "title": "晕针与滞针处理",
+      "chapter": "针刺异常与禁忌",
+      "conditions": {
+        "zhengxing": [],
+        "zhifa": [
+          "晕针处理",
+          "滞针处理",
+          "针刺异常情况预防"
+        ],
+        "bingzheng": [
+          "晕针",
+          "滞针",
+          "针刺不良反应"
+        ],
+        "zhengzhuang": [
+          "头晕目眩",
+          "面色苍白",
+          "恶心欲吐",
+          "汗出肢冷",
+          "针下紧涩捻转不动"
+        ],
+        "fangming": [],
+        "yaoming": [],
+        "xuewei": [
+          "水沟",
+          "内关",
+          "足三里",
+          "合谷"
+        ],
+        "jingluo": [],
+        "siqi": [],
+        "wuwei": [],
+        "guijing": [],
+        "keywords": [
+          "晕针",
+          "滞针",
+          "针刺异常",
+          "拔针",
+          "平卧保暖",
+          "留针过久",
+          "肌肉痉挛"
+        ]
+      }
+    },
+    {
+      "id": "zhencijinji_001",
+      "book": "刺法灸法学",
+      "type": "zhinan",
+      "tier": 1,
+      "category": "zhenjiu",
+      "subcategory": "cijiu",
+      "path": "library/zhenjiu/cijiu/zhencijinji/zhencijinji_001.md",
+      "weight": 8,
+      "title": "针刺禁忌",
+      "chapter": "针刺异常与禁忌",
+      "conditions": {
+        "zhengxing": [],
+        "zhifa": [
+          "针刺禁忌",
+          "取穴避伤"
+        ],
+        "bingzheng": [
+          "重要脏器部位禁忌",
+          "特殊状态禁忌",
+          "孕妇禁忌"
+        ],
+        "zhengzhuang": [
+          "过劳",
+          "过饥",
+          "过饱",
+          "醉酒",
+          "大怒"
+        ],
+        "fangming": [],
+        "yaoming": [],
+        "xuewei": [
+          "神阙",
+          "孕妇腹部穴",
+          "孕妇腰骶部穴",
+          "合谷",
+          "三阴交",
+          "至阴"
+        ],
+        "jingluo": [],
+        "siqi": [],
+        "wuwei": [],
+        "guijing": [],
+        "keywords": [
+          "针刺禁忌",
+          "部位禁忌",
+          "体质禁忌",
+          "孕妇禁针",
+          "胸腹背腰",
+          "防刺伤脏器"
         ]
       }
     },
@@ -123775,6 +126857,1696 @@
         "guijing": [],
         "keywords": [
           "疏肝理气"
+        ]
+      }
+    },
+    {
+      "id": "anfa_001",
+      "book": "推拿学",
+      "type": "zhinan",
+      "tier": 1,
+      "category": "zhenjiu",
+      "subcategory": "tuina",
+      "path": "library/zhenjiu/tuina/anfa/anfa_001.md",
+      "weight": 8,
+      "title": "按法",
+      "chapter": "成人推拿手法",
+      "conditions": {
+        "zhengxing": [],
+        "zhifa": [
+          "按法",
+          "指按法",
+          "掌按法"
+        ],
+        "bingzheng": [
+          "胃脘痛",
+          "腹痛",
+          "腰背痛",
+          "肢体酸痛",
+          "痛经"
+        ],
+        "zhengzhuang": [
+          "局部疼痛",
+          "肌肉紧张"
+        ],
+        "fangming": [],
+        "yaoming": [],
+        "xuewei": [
+          "各部腧穴",
+          "阿是穴"
+        ],
+        "jingluo": [],
+        "siqi": [],
+        "wuwei": [],
+        "guijing": [],
+        "keywords": [
+          "按法",
+          "指按",
+          "掌按",
+          "逐渐用力下压",
+          "按而留之",
+          "放松肌肉",
+          "活血止痛"
+        ]
+      }
+    },
+    {
+      "id": "banfa_001",
+      "book": "推拿学",
+      "type": "zhinan",
+      "tier": 1,
+      "category": "zhenjiu",
+      "subcategory": "tuina",
+      "path": "library/zhenjiu/tuina/banfa/banfa_001.md",
+      "weight": 8,
+      "title": "扳法",
+      "chapter": "成人推拿手法",
+      "conditions": {
+        "zhengxing": [],
+        "zhifa": [
+          "扳法",
+          "舒筋通络",
+          "整复关节",
+          "松解粘连"
+        ],
+        "bingzheng": [
+          "颈椎病",
+          "胸椎小关节紊乱",
+          "腰椎间盘突出症",
+          "脊柱小关节错位",
+          "关节粘连"
+        ],
+        "zhengzhuang": [
+          "脊柱强直",
+          "活动受限",
+          "错动弹响"
+        ],
+        "fangming": [],
+        "yaoming": [],
+        "xuewei": [],
+        "jingluo": [],
+        "siqi": [],
+        "wuwei": [],
+        "guijing": [],
+        "keywords": [
+          "扳法",
+          "颈项扳法",
+          "胸椎扳法",
+          "腰椎扳法",
+          "脊柱扳法",
+          "短促扳动",
+          "高风险手法",
+          "成人推拿手法"
+        ]
+      }
+    },
+    {
+      "id": "baojiantuina_001",
+      "book": "推拿学",
+      "type": "zhinan",
+      "tier": 1,
+      "category": "zhenjiu",
+      "subcategory": "tuina",
+      "path": "library/zhenjiu/tuina/baojiantuina/baojiantuina_001.md",
+      "weight": 8,
+      "title": "保健推拿（头面/全身）",
+      "chapter": "推拿临床应用",
+      "conditions": {
+        "zhengxing": [],
+        "zhifa": [
+          "推法",
+          "分推法",
+          "按揉法",
+          "㨰法",
+          "擦法",
+          "拿法",
+          "自我推拿"
+        ],
+        "bingzheng": [
+          "日常保健",
+          "疲劳",
+          "亚健康",
+          "头痛",
+          "失眠",
+          "腰背酸楚"
+        ],
+        "zhengzhuang": [
+          "神疲乏力",
+          "头昏",
+          "腰背酸累"
+        ],
+        "fangming": [],
+        "yaoming": [],
+        "xuewei": [
+          "印堂",
+          "太阳",
+          "百会",
+          "背俞穴",
+          "涌泉"
+        ],
+        "jingluo": [],
+        "siqi": [],
+        "wuwei": [],
+        "guijing": [],
+        "keywords": [
+          "保健推拿",
+          "头面保健",
+          "干洗脸",
+          "鸣天鼓",
+          "全身保健",
+          "背俞穴",
+          "擦腰骶",
+          "搓涌泉",
+          "推拿临床应用"
+        ]
+      }
+    },
+    {
+      "id": "bashenfa_001",
+      "book": "推拿学",
+      "type": "zhinan",
+      "tier": 1,
+      "category": "zhenjiu",
+      "subcategory": "tuina",
+      "path": "library/zhenjiu/tuina/bashenfa/bashenfa_001.md",
+      "weight": 8,
+      "title": "拔伸法",
+      "chapter": "成人推拿手法",
+      "conditions": {
+        "zhengxing": [],
+        "zhifa": [
+          "拔伸法",
+          "牵引",
+          "整复关节",
+          "拉开关节间隙"
+        ],
+        "bingzheng": [
+          "颈椎病",
+          "落枕",
+          "肩关节周围炎",
+          "腰椎间盘突出症",
+          "四肢关节扭伤",
+          "关节错位"
+        ],
+        "zhengzhuang": [
+          "关节间隙狭窄",
+          "活动受限",
+          "错缝"
+        ],
+        "fangming": [],
+        "yaoming": [],
+        "xuewei": [],
+        "jingluo": [],
+        "siqi": [],
+        "wuwei": [],
+        "guijing": [],
+        "keywords": [
+          "拔伸法",
+          "颈椎拔伸",
+          "肩关节拔伸",
+          "腰椎拔伸",
+          "四肢关节拔伸",
+          "对抗牵引",
+          "成人推拿手法"
+        ]
+      }
+    },
+    {
+      "id": "bofa_001",
+      "book": "推拿学",
+      "type": "zhinan",
+      "tier": 1,
+      "category": "zhenjiu",
+      "subcategory": "tuina",
+      "path": "library/zhenjiu/tuina/bofa/bofa_001.md",
+      "weight": 8,
+      "title": "拨法",
+      "chapter": "成人推拿手法",
+      "conditions": {
+        "zhengxing": [],
+        "zhifa": [
+          "拨法"
+        ],
+        "bingzheng": [
+          "腰肌劳损",
+          "肩周炎",
+          "肌腱劳损",
+          "筋结",
+          "软组织粘连",
+          "颈肩痛"
+        ],
+        "zhengzhuang": [
+          "筋结条索",
+          "局部酸胀"
+        ],
+        "fangming": [],
+        "yaoming": [],
+        "xuewei": [
+          "肌腱",
+          "韧带",
+          "压痛点"
+        ],
+        "jingluo": [],
+        "siqi": [],
+        "wuwei": [],
+        "guijing": [],
+        "keywords": [
+          "拨法",
+          "拇指端深按",
+          "垂直肌纤维方向",
+          "往返拨动",
+          "解痉止痛",
+          "疏松筋结"
+        ]
+      }
+    },
+    {
+      "id": "cafa_001",
+      "book": "推拿学",
+      "type": "zhinan",
+      "tier": 1,
+      "category": "zhenjiu",
+      "subcategory": "tuina",
+      "path": "library/zhenjiu/tuina/cafa/cafa_001.md",
+      "weight": 8,
+      "title": "擦法",
+      "chapter": "成人推拿手法",
+      "conditions": {
+        "zhengxing": [],
+        "zhifa": [
+          "擦法",
+          "掌擦法",
+          "鱼际擦法",
+          "侧擦法"
+        ],
+        "bingzheng": [
+          "虚寒证",
+          "腰背酸痛",
+          "肩周炎",
+          "脾胃虚寒",
+          "关节活动不利"
+        ],
+        "zhengzhuang": [
+          "局部怕冷",
+          "虚寒腹痛"
+        ],
+        "fangming": [],
+        "yaoming": [],
+        "xuewei": [
+          "背部膀胱经",
+          "督脉",
+          "胸腹"
+        ],
+        "jingluo": [
+          "足太阳膀胱经",
+          "督脉"
+        ],
+        "siqi": [],
+        "wuwei": [],
+        "guijing": [],
+        "keywords": [
+          "擦法",
+          "直线往返",
+          "透热为度",
+          "温经通络",
+          "活血止痛",
+          "滑利关节"
+        ]
+      }
+    },
+    {
+      "id": "caiqiaofa_001",
+      "book": "推拿学",
+      "type": "zhinan",
+      "tier": 1,
+      "category": "zhenjiu",
+      "subcategory": "tuina",
+      "path": "library/zhenjiu/tuina/caiqiaofa/caiqiaofa_001.md",
+      "weight": 8,
+      "title": "踩跷法",
+      "chapter": "成人推拿手法",
+      "conditions": {
+        "zhengxing": [],
+        "zhifa": [
+          "踩跷法",
+          "足部踩踏",
+          "舒筋活血",
+          "松解腰背"
+        ],
+        "bingzheng": [
+          "腰椎间盘突出症",
+          "慢性腰肌劳损",
+          "腰背酸痛",
+          "梨状肌综合征",
+          "下肢沉重"
+        ],
+        "zhengzhuang": [
+          "腰背僵硬",
+          "下肢疲劳"
+        ],
+        "fangming": [],
+        "yaoming": [],
+        "xuewei": [],
+        "jingluo": [],
+        "siqi": [],
+        "wuwei": [],
+        "guijing": [],
+        "keywords": [
+          "踩跷法",
+          "足弓踩",
+          "足跟踩",
+          "足尖踩",
+          "腰背踩踏",
+          "高风险手法",
+          "成人推拿手法"
+        ]
+      }
+    },
+    {
+      "id": "cuofa_001",
+      "book": "推拿学",
+      "type": "zhinan",
+      "tier": 1,
+      "category": "zhenjiu",
+      "subcategory": "tuina",
+      "path": "library/zhenjiu/tuina/cuofa/cuofa_001.md",
+      "weight": 8,
+      "title": "搓法",
+      "chapter": "成人推拿手法",
+      "conditions": {
+        "zhengxing": [],
+        "zhifa": [
+          "搓法",
+          "疏肝理气",
+          "疏通经络",
+          "放松肌肉"
+        ],
+        "bingzheng": [
+          "肢体酸痛",
+          "肩背不适",
+          "胸胁胀痛",
+          "肌肉紧张"
+        ],
+        "zhengzhuang": [
+          "局部酸胀",
+          "肌肉僵硬"
+        ],
+        "fangming": [],
+        "yaoming": [],
+        "xuewei": [],
+        "jingluo": [],
+        "siqi": [],
+        "wuwei": [],
+        "guijing": [],
+        "keywords": [
+          "搓法",
+          "夹搓",
+          "双手搓揉",
+          "疏肝理气",
+          "放松肌肉",
+          "成人推拿手法"
+        ]
+      }
+    },
+    {
+      "id": "dianfa_001",
+      "book": "推拿学",
+      "type": "zhinan",
+      "tier": 1,
+      "category": "zhenjiu",
+      "subcategory": "tuina",
+      "path": "library/zhenjiu/tuina/dianfa/dianfa_001.md",
+      "weight": 8,
+      "title": "点法",
+      "chapter": "成人推拿手法",
+      "conditions": {
+        "zhengxing": [],
+        "zhifa": [
+          "点法",
+          "拇指端点法",
+          "屈食指点法"
+        ],
+        "bingzheng": [
+          "头痛",
+          "胃脘痛",
+          "腹痛",
+          "腰腿痛",
+          "急性扭伤",
+          "肢体麻木"
+        ],
+        "zhengzhuang": [
+          "剧烈疼痛",
+          "经络不通"
+        ],
+        "fangming": [],
+        "yaoming": [],
+        "xuewei": [
+          "十二经井荥输经合穴",
+          "阿是穴"
+        ],
+        "jingluo": [
+          "十四经"
+        ],
+        "siqi": [],
+        "wuwei": [],
+        "guijing": [],
+        "keywords": [
+          "点法",
+          "拇指端点",
+          "屈食指点",
+          "着力集中",
+          "刺激量强",
+          "解痉止痛",
+          "通经活络"
+        ]
+      }
+    },
+    {
+      "id": "doufa_001",
+      "book": "推拿学",
+      "type": "zhinan",
+      "tier": 1,
+      "category": "zhenjiu",
+      "subcategory": "tuina",
+      "path": "library/zhenjiu/tuina/doufa/doufa_001.md",
+      "weight": 8,
+      "title": "抖法",
+      "chapter": "成人推拿手法",
+      "conditions": {
+        "zhengxing": [],
+        "zhifa": [
+          "抖法",
+          "疏松脉络",
+          "放松关节",
+          "滑利关节"
+        ],
+        "bingzheng": [
+          "肩臂酸痛",
+          "腰腿疲劳",
+          "关节活动不利",
+          "肌肉紧张"
+        ],
+        "zhengzhuang": [
+          "肢体沉重",
+          "关节僵硬"
+        ],
+        "fangming": [],
+        "yaoming": [],
+        "xuewei": [],
+        "jingluo": [],
+        "siqi": [],
+        "wuwei": [],
+        "guijing": [],
+        "keywords": [
+          "抖法",
+          "肢体抖动",
+          "小幅度颤动",
+          "滑利关节",
+          "成人推拿手法"
+        ]
+      }
+    },
+    {
+      "id": "gunfa_001",
+      "book": "推拿学",
+      "type": "zhinan",
+      "tier": 1,
+      "category": "zhenjiu",
+      "subcategory": "tuina",
+      "path": "library/zhenjiu/tuina/gunfa/gunfa_001.md",
+      "weight": 8,
+      "title": "㨰法",
+      "chapter": "成人推拿手法",
+      "conditions": {
+        "zhengxing": [],
+        "zhifa": [
+          "㨰法"
+        ],
+        "bingzheng": [
+          "颈肩痛",
+          "腰腿痛",
+          "腰背筋膜炎",
+          "肢体瘫痪",
+          "关节酸痛"
+        ],
+        "zhengzhuang": [
+          "肌肉酸痛",
+          "肢体麻木",
+          "活动不利"
+        ],
+        "fangming": [],
+        "yaoming": [],
+        "xuewei": [],
+        "jingluo": [
+          "足太阳膀胱经",
+          "督脉"
+        ],
+        "siqi": [],
+        "wuwei": [],
+        "guijing": [],
+        "keywords": [
+          "㨰法",
+          "手背近小指侧",
+          "腕关节屈伸",
+          "前臂旋转",
+          "舒筋活血",
+          "缓解肌肉痉挛"
+        ]
+      }
+    },
+    {
+      "id": "jingjianyaotuitong_001",
+      "book": "推拿学",
+      "type": "zhinan",
+      "tier": 1,
+      "category": "zhenjiu",
+      "subcategory": "tuina",
+      "path": "library/zhenjiu/tuina/jingjianyaotuitong/jingjianyaotuitong_001.md",
+      "weight": 8,
+      "title": "颈肩腰腿痛推拿",
+      "chapter": "推拿临床应用",
+      "conditions": {
+        "zhengxing": [],
+        "zhifa": [
+          "㨰法",
+          "拿法",
+          "扳法",
+          "拔伸法",
+          "摇法",
+          "按法",
+          "揉法",
+          "被动运动"
+        ],
+        "bingzheng": [
+          "颈椎病",
+          "肩关节周围炎",
+          "腰椎间盘突出症",
+          "膝骨关节炎",
+          "腰腿痛"
+        ],
+        "zhengzhuang": [
+          "颈肩疼痛",
+          "肩关节活动受限",
+          "腰痛伴下肢放射痛",
+          "膝关节疼痛"
+        ],
+        "fangming": [],
+        "yaoming": [],
+        "xuewei": [
+          "风池",
+          "肩井",
+          "天宗",
+          "肾俞",
+          "腰阳关",
+          "委中",
+          "犊鼻",
+          "阳陵泉"
+        ],
+        "jingluo": [],
+        "siqi": [],
+        "wuwei": [],
+        "guijing": [],
+        "keywords": [
+          "颈肩腰腿痛",
+          "颈椎病",
+          "肩周炎",
+          "腰椎间盘突出症",
+          "膝骨关节炎",
+          "㨰法",
+          "扳法",
+          "拔伸法",
+          "推拿临床应用"
+        ]
+      }
+    },
+    {
+      "id": "mofa_001",
+      "book": "推拿学",
+      "type": "zhinan",
+      "tier": 1,
+      "category": "zhenjiu",
+      "subcategory": "tuina",
+      "path": "library/zhenjiu/tuina/mofa/mofa_001.md",
+      "weight": 8,
+      "title": "摩法",
+      "chapter": "成人推拿手法",
+      "conditions": {
+        "zhengxing": [],
+        "zhifa": [
+          "摩法",
+          "指摩法",
+          "掌摩法"
+        ],
+        "bingzheng": [
+          "胃脘痛",
+          "消化不良",
+          "便秘",
+          "腹胀",
+          "消化不良"
+        ],
+        "zhengzhuang": [
+          "脘腹胀满",
+          "食积不化"
+        ],
+        "fangming": [],
+        "yaoming": [],
+        "xuewei": [
+          "中脘",
+          "神阙",
+          "腹部"
+        ],
+        "jingluo": [],
+        "siqi": [],
+        "wuwei": [],
+        "guijing": [],
+        "keywords": [
+          "摩法",
+          "指摩",
+          "掌摩",
+          "环形摩擦",
+          "和中消积",
+          "理气和胃",
+          "不带动皮下组织"
+        ]
+      }
+    },
+    {
+      "id": "mofu_001",
+      "book": "推拿学",
+      "type": "zhinan",
+      "tier": 1,
+      "category": "zhenjiu",
+      "subcategory": "tuina",
+      "path": "library/zhenjiu/tuina/mofu/mofu_001.md",
+      "weight": 8,
+      "title": "摩腹",
+      "chapter": "小儿推拿",
+      "conditions": {
+        "zhengxing": [],
+        "zhifa": [
+          "摩法",
+          "摩腹",
+          "健脾和胃",
+          "理气消食"
+        ],
+        "bingzheng": [
+          "腹胀",
+          "消化不良",
+          "便秘",
+          "泄泻",
+          "疳积",
+          "食积"
+        ],
+        "zhengzhuang": [
+          "脘腹痞满",
+          "食纳不佳"
+        ],
+        "fangming": [],
+        "yaoming": [],
+        "xuewei": [
+          "中脘",
+          "神阙",
+          "气海"
+        ],
+        "jingluo": [],
+        "siqi": [],
+        "wuwei": [],
+        "guijing": [],
+        "keywords": [
+          "摩腹",
+          "摩法",
+          "腹部",
+          "顺时针泻",
+          "逆时针补",
+          "健脾和胃",
+          "理气消食",
+          "小儿推拿"
+        ]
+      }
+    },
+    {
+      "id": "nafa_001",
+      "book": "推拿学",
+      "type": "zhinan",
+      "tier": 1,
+      "category": "zhenjiu",
+      "subcategory": "tuina",
+      "path": "library/zhenjiu/tuina/nafa/nafa_001.md",
+      "weight": 8,
+      "title": "拿法",
+      "chapter": "成人推拿手法",
+      "conditions": {
+        "zhengxing": [],
+        "zhifa": [
+          "拿法"
+        ],
+        "bingzheng": [
+          "头痛",
+          "项强",
+          "颈椎病",
+          "肩背酸痛",
+          "失眠",
+          "感冒"
+        ],
+        "zhengzhuang": [
+          "颈项强痛",
+          "肌肉酸楚"
+        ],
+        "fangming": [],
+        "yaoming": [],
+        "xuewei": [
+          "风池",
+          "肩井",
+          "合谷"
+        ],
+        "jingluo": [
+          "足少阳胆经",
+          "手阳明大肠经"
+        ],
+        "siqi": [],
+        "wuwei": [],
+        "guijing": [],
+        "keywords": [
+          "拿法",
+          "拇指与余指对合",
+          "捏住提起",
+          "舒筋通络",
+          "祛风散寒",
+          "解痉止痛"
+        ]
+      }
+    },
+    {
+      "id": "neiketuina_001",
+      "book": "推拿学",
+      "type": "zhinan",
+      "tier": 1,
+      "category": "zhenjiu",
+      "subcategory": "tuina",
+      "path": "library/zhenjiu/tuina/neiketuina/neiketuina_001.md",
+      "weight": 8,
+      "title": "内科推拿（头痛/失眠）",
+      "chapter": "推拿临床应用",
+      "conditions": {
+        "zhengxing": [],
+        "zhifa": [
+          "推法",
+          "分推法",
+          "按揉法",
+          "拿法",
+          "扫散法",
+          "摩法",
+          "擦法"
+        ],
+        "bingzheng": [
+          "头痛",
+          "失眠",
+          "神经衰弱",
+          "偏头痛",
+          "入睡困难"
+        ],
+        "zhengzhuang": [
+          "头部胀痛",
+          "头晕",
+          "夜寐不安",
+          "多梦易醒"
+        ],
+        "fangming": [],
+        "yaoming": [],
+        "xuewei": [
+          "太阳",
+          "风池",
+          "百会",
+          "神门",
+          "三阴交",
+          "涌泉"
+        ],
+        "jingluo": [],
+        "siqi": [],
+        "wuwei": [],
+        "guijing": [],
+        "keywords": [
+          "内科推拿",
+          "头痛",
+          "失眠",
+          "分推前额",
+          "扫散法",
+          "拿风池",
+          "按揉百会",
+          "摩腹",
+          "擦涌泉",
+          "推拿临床应用"
+        ]
+      }
+    },
+    {
+      "id": "niefa_001",
+      "book": "推拿学",
+      "type": "zhinan",
+      "tier": 1,
+      "category": "zhenjiu",
+      "subcategory": "tuina",
+      "path": "library/zhenjiu/tuina/niefa/niefa_001.md",
+      "weight": 8,
+      "title": "捏法",
+      "chapter": "成人推拿手法",
+      "conditions": {
+        "zhengxing": [],
+        "zhifa": [
+          "捏法",
+          "捏脊",
+          "舒筋通络",
+          "行气活血"
+        ],
+        "bingzheng": [
+          "肌肉酸痛",
+          "肢体麻木",
+          "脾胃虚弱",
+          "脊柱旁筋结"
+        ],
+        "zhengzhuang": [
+          "局部酸胀",
+          "肌肉僵硬"
+        ],
+        "fangming": [],
+        "yaoming": [],
+        "xuewei": [],
+        "jingluo": [],
+        "siqi": [],
+        "wuwei": [],
+        "guijing": [],
+        "keywords": [
+          "捏法",
+          "三指捏",
+          "五指捏",
+          "捏脊",
+          "舒筋通络",
+          "成人推拿手法"
+        ]
+      }
+    },
+    {
+      "id": "nieji_001",
+      "book": "推拿学",
+      "type": "zhinan",
+      "tier": 1,
+      "category": "zhenjiu",
+      "subcategory": "tuina",
+      "path": "library/zhenjiu/tuina/nieji/nieji_001.md",
+      "weight": 8,
+      "title": "捏脊",
+      "chapter": "小儿推拿",
+      "conditions": {
+        "zhengxing": [],
+        "zhifa": [
+          "捏法",
+          "捏脊",
+          "调阴阳",
+          "理气血",
+          "和脏腑",
+          "通经络",
+          "培元气"
+        ],
+        "bingzheng": [
+          "小儿疳积",
+          "泄泻",
+          "消化不良",
+          "食欲不振",
+          "夜啼",
+          "发育迟缓",
+          "保健"
+        ],
+        "zhengzhuang": [
+          "脾胃虚弱",
+          "形体消瘦"
+        ],
+        "fangming": [],
+        "yaoming": [],
+        "xuewei": [
+          "大椎",
+          "长强"
+        ],
+        "jingluo": [
+          "督脉",
+          "足太阳膀胱经"
+        ],
+        "siqi": [],
+        "wuwei": [],
+        "guijing": [],
+        "keywords": [
+          "捏脊",
+          "捏三提一",
+          "脊柱",
+          "督脉",
+          "调阴阳",
+          "理气血",
+          "和脏腑",
+          "培元气",
+          "小儿推拿"
+        ]
+      }
+    },
+    {
+      "id": "paifajifa_001",
+      "book": "推拿学",
+      "type": "zhinan",
+      "tier": 1,
+      "category": "zhenjiu",
+      "subcategory": "tuina",
+      "path": "library/zhenjiu/tuina/paifajifa/paifajifa_001.md",
+      "weight": 8,
+      "title": "拍法击法",
+      "chapter": "成人推拿手法",
+      "conditions": {
+        "zhengxing": [],
+        "zhifa": [
+          "拍法",
+          "击法",
+          "宣通气血",
+          "舒筋通络",
+          "缓解痉挛"
+        ],
+        "bingzheng": [
+          "腰背酸痛",
+          "肌肉痉挛",
+          "肢体麻木",
+          "疲劳酸痛"
+        ],
+        "zhengzhuang": [
+          "肌肉僵硬",
+          "局部酸胀"
+        ],
+        "fangming": [],
+        "yaoming": [],
+        "xuewei": [],
+        "jingluo": [],
+        "siqi": [],
+        "wuwei": [],
+        "guijing": [],
+        "keywords": [
+          "拍法",
+          "击法",
+          "虚掌拍打",
+          "掌根击",
+          "侧击",
+          "指击",
+          "拳击",
+          "宣通气血",
+          "成人推拿手法"
+        ]
+      }
+    },
+    {
+      "id": "qingtianheshui_001",
+      "book": "推拿学",
+      "type": "zhinan",
+      "tier": 1,
+      "category": "zhenjiu",
+      "subcategory": "tuina",
+      "path": "library/zhenjiu/tuina/qingtianheshui/qingtianheshui_001.md",
+      "weight": 8,
+      "title": "清天河水",
+      "chapter": "小儿推拿",
+      "conditions": {
+        "zhengxing": [],
+        "zhifa": [
+          "推法",
+          "清天河水",
+          "清热解表",
+          "泻火除烦"
+        ],
+        "bingzheng": [
+          "外感发热",
+          "内热",
+          "烦躁不安",
+          "口舌生疮",
+          "惊风"
+        ],
+        "zhengzhuang": [
+          "发热",
+          "口渴",
+          "心烦"
+        ],
+        "fangming": [],
+        "yaoming": [],
+        "xuewei": [
+          "天河水"
+        ],
+        "jingluo": [],
+        "siqi": [],
+        "wuwei": [],
+        "guijing": [],
+        "keywords": [
+          "清天河水",
+          "天河水",
+          "前臂正中",
+          "推法",
+          "性凉",
+          "清热解表",
+          "泻火除烦",
+          "小儿推拿"
+        ]
+      }
+    },
+    {
+      "id": "roubanmen_001",
+      "book": "推拿学",
+      "type": "zhinan",
+      "tier": 1,
+      "category": "zhenjiu",
+      "subcategory": "tuina",
+      "path": "library/zhenjiu/tuina/roubanmen/roubanmen_001.md",
+      "weight": 8,
+      "title": "揉板门",
+      "chapter": "小儿推拿",
+      "conditions": {
+        "zhengxing": [],
+        "zhifa": [
+          "揉法",
+          "揉板门",
+          "健脾和胃",
+          "消食化滞"
+        ],
+        "bingzheng": [
+          "食欲不振",
+          "乳食积滞",
+          "腹胀",
+          "嗳气",
+          "泄泻",
+          "呕吐"
+        ],
+        "zhengzhuang": [
+          "纳呆",
+          "脘腹胀满"
+        ],
+        "fangming": [],
+        "yaoming": [],
+        "xuewei": [
+          "板门"
+        ],
+        "jingluo": [],
+        "siqi": [],
+        "wuwei": [],
+        "guijing": [],
+        "keywords": [
+          "揉板门",
+          "板门",
+          "大鱼际",
+          "揉法",
+          "健脾和胃",
+          "消食化滞",
+          "小儿推拿"
+        ]
+      }
+    },
+    {
+      "id": "roufa_001",
+      "book": "推拿学",
+      "type": "zhinan",
+      "tier": 1,
+      "category": "zhenjiu",
+      "subcategory": "tuina",
+      "path": "library/zhenjiu/tuina/roufa/roufa_001.md",
+      "weight": 8,
+      "title": "揉法（指揉·掌揉·鱼际揉）",
+      "chapter": "成人推拿手法",
+      "conditions": {
+        "zhengxing": [],
+        "zhifa": [
+          "揉法",
+          "指揉法",
+          "掌揉法",
+          "鱼际揉法"
+        ],
+        "bingzheng": [
+          "头痛",
+          "胃脘痛",
+          "脘腹胀痛",
+          "泄泻",
+          "软组织损伤",
+          "小儿肌性斜颈"
+        ],
+        "zhengzhuang": [
+          "局部胀痛",
+          "脘腹不适"
+        ],
+        "fangming": [],
+        "yaoming": [],
+        "xuewei": [
+          "面部腧穴",
+          "腹部腧穴",
+          "压痛点"
+        ],
+        "jingluo": [],
+        "siqi": [],
+        "wuwei": [],
+        "guijing": [],
+        "keywords": [
+          "揉法",
+          "指揉",
+          "掌揉",
+          "鱼际揉",
+          "带动皮下组织",
+          "宽胸理气",
+          "消积导滞"
+        ]
+      }
+    },
+    {
+      "id": "tuifa_001",
+      "book": "推拿学",
+      "type": "zhinan",
+      "tier": 1,
+      "category": "zhenjiu",
+      "subcategory": "tuina",
+      "path": "library/zhenjiu/tuina/tuifa/tuifa_001.md",
+      "weight": 8,
+      "title": "推法",
+      "chapter": "成人推拿手法",
+      "conditions": {
+        "zhengxing": [],
+        "zhifa": [
+          "推法",
+          "指推法",
+          "掌推法",
+          "肘推法"
+        ],
+        "bingzheng": [
+          "头痛",
+          "项强",
+          "腰背酸痛",
+          "四肢酸痛",
+          "筋脉拘急"
+        ],
+        "zhengzhuang": [
+          "局部酸痛",
+          "活动不利"
+        ],
+        "fangming": [],
+        "yaoming": [],
+        "xuewei": [
+          "经络循行线",
+          "阿是穴"
+        ],
+        "jingluo": [
+          "十四经"
+        ],
+        "siqi": [],
+        "wuwei": [],
+        "guijing": [],
+        "keywords": [
+          "推法",
+          "单方向直线",
+          "舒筋通络",
+          "活血止痛",
+          "消积散结"
+        ]
+      }
+    },
+    {
+      "id": "tuiliufu_001",
+      "book": "推拿学",
+      "type": "zhinan",
+      "tier": 1,
+      "category": "zhenjiu",
+      "subcategory": "tuina",
+      "path": "library/zhenjiu/tuina/tuiliufu/tuiliufu_001.md",
+      "weight": 8,
+      "title": "退六腑",
+      "chapter": "小儿推拿",
+      "conditions": {
+        "zhengxing": [],
+        "zhifa": [
+          "退六腑",
+          "推法",
+          "清热",
+          "凉血",
+          "解毒"
+        ],
+        "bingzheng": [
+          "高热",
+          "实热证",
+          "腑热便秘",
+          "咽喉肿痛",
+          "壮热烦渴"
+        ],
+        "zhengzhuang": [
+          "高热面赤",
+          "烦躁口渴"
+        ],
+        "fangming": [],
+        "yaoming": [],
+        "xuewei": [
+          "六腑"
+        ],
+        "jingluo": [],
+        "siqi": [
+          "凉"
+        ],
+        "wuwei": [],
+        "guijing": [],
+        "keywords": [
+          "退六腑",
+          "前臂尺侧缘",
+          "肘横纹至腕横纹",
+          "自肘推向腕",
+          "性凉",
+          "清热凉血解毒",
+          "小儿推拿特定穴"
+        ]
+      }
+    },
+    {
+      "id": "tuinaxuegaishu_001",
+      "book": "推拿学",
+      "type": "zhinan",
+      "tier": 1,
+      "category": "zhenjiu",
+      "subcategory": "tuina",
+      "path": "library/zhenjiu/tuina/tuinaxuegaishu/tuinaxuegaishu_001.md",
+      "weight": 8,
+      "title": "推拿学概述（适应证·禁忌·介质）",
+      "chapter": "推拿学概述",
+      "conditions": {
+        "zhengxing": [],
+        "zhifa": [
+          "推拿"
+        ],
+        "bingzheng": [
+          "颈肩痛",
+          "腰腿痛",
+          "关节扭伤",
+          "头痛",
+          "失眠",
+          "消化不良",
+          "便秘",
+          "月经不调",
+          "小儿泄泻",
+          "小儿肌性斜颈"
+        ],
+        "zhengzhuang": [
+          "局部疼痛",
+          "功能障碍",
+          "疲劳乏力"
+        ],
+        "fangming": [],
+        "yaoming": [],
+        "xuewei": [],
+        "jingluo": [],
+        "siqi": [],
+        "wuwei": [],
+        "guijing": [],
+        "keywords": [
+          "推拿学",
+          "推拿定义",
+          "作用机制",
+          "适应证",
+          "禁忌证",
+          "推拿介质",
+          "滑石粉",
+          "葱姜水",
+          "冬青膏"
+        ]
+      }
+    },
+    {
+      "id": "tuinayiwaiyujinjichuli_001",
+      "book": "推拿学",
+      "type": "zhinan",
+      "tier": 1,
+      "category": "zhenjiu",
+      "subcategory": "tuina",
+      "path": "library/zhenjiu/tuina/tuinayiwaiyujinjichuli/tuinayiwaiyujinjichuli_001.md",
+      "weight": 8,
+      "title": "推拿意外与禁忌处理",
+      "chapter": "推拿异常与禁忌",
+      "conditions": {
+        "zhengxing": [],
+        "zhifa": [
+          "推拿异常情况处理",
+          "禁忌证管理"
+        ],
+        "bingzheng": [
+          "软组织损伤",
+          "骨与关节损伤",
+          "神经系统损伤",
+          "晕厥",
+          "皮下出血"
+        ],
+        "zhengzhuang": [
+          "局部肿痛",
+          "肢体麻木",
+          "头晕面色苍白",
+          "皮肤瘀斑"
+        ],
+        "fangming": [],
+        "yaoming": [],
+        "xuewei": [],
+        "jingluo": [],
+        "siqi": [],
+        "wuwei": [],
+        "guijing": [],
+        "keywords": [
+          "推拿意外",
+          "禁忌证",
+          "晕厥",
+          "皮下出血",
+          "软组织损伤",
+          "骨与关节损伤",
+          "神经系统损伤",
+          "推拿异常与禁忌"
+        ]
+      }
+    },
+    {
+      "id": "tuisanguan_001",
+      "book": "推拿学",
+      "type": "zhinan",
+      "tier": 1,
+      "category": "zhenjiu",
+      "subcategory": "tuina",
+      "path": "library/zhenjiu/tuina/tuisanguan/tuisanguan_001.md",
+      "weight": 8,
+      "title": "推三关",
+      "chapter": "小儿推拿",
+      "conditions": {
+        "zhengxing": [],
+        "zhifa": [
+          "推三关",
+          "推法",
+          "补气行气",
+          "温阳散寒"
+        ],
+        "bingzheng": [
+          "畏寒怕冷",
+          "腹痛泄泻",
+          "病后体虚",
+          "感冒风寒",
+          "四肢厥冷"
+        ],
+        "zhengzhuang": [
+          "面色苍白",
+          "神疲乏力"
+        ],
+        "fangming": [],
+        "yaoming": [],
+        "xuewei": [
+          "三关"
+        ],
+        "jingluo": [],
+        "siqi": [
+          "温"
+        ],
+        "wuwei": [],
+        "guijing": [],
+        "keywords": [
+          "推三关",
+          "前臂桡侧缘",
+          "腕横纹至肘横纹",
+          "自腕推向肘",
+          "性温",
+          "补气行气",
+          "温阳散寒",
+          "小儿推拿特定穴"
+        ]
+      }
+    },
+    {
+      "id": "xiaoertoumiantedingxue_001",
+      "book": "推拿学",
+      "type": "zhinan",
+      "tier": 1,
+      "category": "zhenjiu",
+      "subcategory": "tuina",
+      "path": "library/zhenjiu/tuina/xiaoertoumiantedingxue/xiaoertoumiantedingxue_001.md",
+      "weight": 8,
+      "title": "小儿头面特定穴（攒竹/坎宫/天柱骨）",
+      "chapter": "小儿推拿",
+      "conditions": {
+        "zhengxing": [],
+        "zhifa": [
+          "推法",
+          "分推法",
+          "刮法",
+          "疏风解表",
+          "醒脑明目",
+          "降逆止呕",
+          "祛风散寒"
+        ],
+        "bingzheng": [
+          "外感发热",
+          "头痛",
+          "目赤肿痛",
+          "近视",
+          "恶心呕吐",
+          "项强"
+        ],
+        "zhengzhuang": [
+          "发热恶风",
+          "头痛无汗",
+          "呕吐",
+          "烦躁"
+        ],
+        "fangming": [],
+        "yaoming": [],
+        "xuewei": [
+          "攒竹",
+          "坎宫",
+          "天柱骨"
+        ],
+        "jingluo": [],
+        "siqi": [],
+        "wuwei": [],
+        "guijing": [],
+        "keywords": [
+          "攒竹",
+          "坎宫",
+          "天柱骨",
+          "小儿头面特定穴",
+          "推攒竹",
+          "推坎宫",
+          "推天柱骨",
+          "疏风解表",
+          "醒脑明目",
+          "降逆止呕",
+          "小儿推拿"
+        ]
+      }
+    },
+    {
+      "id": "xiaoertuinagaishu_001",
+      "book": "推拿学",
+      "type": "zhinan",
+      "tier": 1,
+      "category": "zhenjiu",
+      "subcategory": "tuina",
+      "path": "library/zhenjiu/tuina/xiaoertuinagaishu/xiaoertuinagaishu_001.md",
+      "weight": 8,
+      "title": "小儿推拿概述（特点/常用介质）",
+      "chapter": "小儿推拿",
+      "conditions": {
+        "zhengxing": [],
+        "zhifa": [
+          "小儿推拿",
+          "推法",
+          "揉法",
+          "按法",
+          "摩法",
+          "捏脊"
+        ],
+        "bingzheng": [
+          "泄泻",
+          "呕吐",
+          "疳积",
+          "便秘",
+          "发热",
+          "咳嗽",
+          "遗尿",
+          "肌性斜颈"
+        ],
+        "zhengzhuang": [
+          "食欲不振",
+          "夜啼",
+          "腹胀"
+        ],
+        "fangming": [],
+        "yaoming": [],
+        "xuewei": [
+          "三关",
+          "六腑",
+          "脾经",
+          "胃经",
+          "大肠",
+          "七节骨",
+          "龟尾"
+        ],
+        "jingluo": [],
+        "siqi": [],
+        "wuwei": [],
+        "guijing": [],
+        "keywords": [
+          "小儿推拿",
+          "小儿特点穴",
+          "手法轻柔",
+          "频率快",
+          "常用介质",
+          "葱姜水",
+          "滑石粉",
+          "冬青膏",
+          "爽身粉",
+          "小儿推拿适应证"
+        ]
+      }
+    },
+    {
+      "id": "yaofa_001",
+      "book": "推拿学",
+      "type": "zhinan",
+      "tier": 1,
+      "category": "zhenjiu",
+      "subcategory": "tuina",
+      "path": "library/zhenjiu/tuina/yaofa/yaofa_001.md",
+      "weight": 8,
+      "title": "摇法",
+      "chapter": "成人推拿手法",
+      "conditions": {
+        "zhengxing": [],
+        "zhifa": [
+          "摇法",
+          "舒筋活血",
+          "滑利关节",
+          "松解粘连"
+        ],
+        "bingzheng": [
+          "颈项强痛",
+          "肩关节炎",
+          "腰扭伤",
+          "关节活动不利",
+          "四肢关节酸痛"
+        ],
+        "zhengzhuang": [
+          "关节僵硬",
+          "活动受限"
+        ],
+        "fangming": [],
+        "yaoming": [],
+        "xuewei": [],
+        "jingluo": [],
+        "siqi": [],
+        "wuwei": [],
+        "guijing": [],
+        "keywords": [
+          "摇法",
+          "颈项摇法",
+          "肩关节摇法",
+          "肘关节摇法",
+          "腕关节摇法",
+          "腰部摇法",
+          "髋膝踝关节摇法",
+          "滑利关节",
+          "成人推拿手法"
+        ]
+      }
+    },
+    {
+      "id": "yizhichantuifa_001",
+      "book": "推拿学",
+      "type": "zhinan",
+      "tier": 1,
+      "category": "zhenjiu",
+      "subcategory": "tuina",
+      "path": "library/zhenjiu/tuina/yizhichantuifa/yizhichantuifa_001.md",
+      "weight": 8,
+      "title": "一指禅推法",
+      "chapter": "成人推拿手法",
+      "conditions": {
+        "zhengxing": [],
+        "zhifa": [
+          "一指禅推法"
+        ],
+        "bingzheng": [
+          "头痛",
+          "失眠",
+          "胃脘痛",
+          "颈肩痛",
+          "面瘫",
+          "消化不良"
+        ],
+        "zhengzhuang": [
+          "局部酸痛",
+          "脘腹不适"
+        ],
+        "fangming": [],
+        "yaoming": [],
+        "xuewei": [
+          "面部腧穴",
+          "背部腧穴",
+          "四肢腧穴"
+        ],
+        "jingluo": [
+          "十四经"
+        ],
+        "siqi": [],
+        "wuwei": [],
+        "guijing": [],
+        "keywords": [
+          "一指禅推法",
+          "拇指罗纹面",
+          "沉肩垂肘悬腕",
+          "摆动",
+          "舒筋通络",
+          "调和脾胃"
+        ]
+      }
+    },
+    {
+      "id": "yuneibagua_001",
+      "book": "推拿学",
+      "type": "zhinan",
+      "tier": 1,
+      "category": "zhenjiu",
+      "subcategory": "tuina",
+      "path": "library/zhenjiu/tuina/yuneibagua/yuneibagua_001.md",
+      "weight": 8,
+      "title": "运内八卦",
+      "chapter": "小儿推拿",
+      "conditions": {
+        "zhengxing": [],
+        "zhifa": [
+          "运法",
+          "运内八卦",
+          "理气化痰",
+          "行滞消食"
+        ],
+        "bingzheng": [
+          "咳嗽痰喘",
+          "胸闷",
+          "乳食停滞",
+          "呕吐",
+          "泄泻",
+          "纳呆"
+        ],
+        "zhengzhuang": [
+          "痰涎壅盛",
+          "脘腹胀满"
+        ],
+        "fangming": [],
+        "yaoming": [],
+        "xuewei": [
+          "内八卦"
+        ],
+        "jingluo": [],
+        "siqi": [],
+        "wuwei": [],
+        "guijing": [],
+        "keywords": [
+          "运内八卦",
+          "内八卦",
+          "掌心",
+          "运法",
+          "理气化痰",
+          "行滞消食",
+          "小儿推拿"
         ]
       }
     },

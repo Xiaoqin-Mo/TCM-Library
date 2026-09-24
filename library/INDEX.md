@@ -1,6 +1,6 @@
 # TCM-Library · 全库总索引
 
-> 中医知识百科全书检索库 · 当前收录 3101 条（按目录自动生成）
+> 中医知识百科全书检索库 · 当前收录 3181 条（按目录自动生成）
 
 ## 收录进度
 
@@ -10,9 +10,9 @@
 | zhenduan | 中医诊断 | 102 | 104 | [索引](./library/zhenduan/INDEX.md) |
 | zhongyao | 中药学 | 701 | 701 | [索引](./library/zhongyao/INDEX.md) |
 | fangji | 方剂学 | 356 | 356 | [索引](./library/fangji/INDEX.md) |
-| zhenjiu | 针灸推拿 | 385 | 385 | [索引](./library/zhenjiu/INDEX.md) |
+| zhenjiu | 针灸推拿 | 447 | 447 | [索引](./library/zhenjiu/INDEX.md) |
 | linchuang | 中医临床 | 170 | 170 | [索引](./library/linchuang/INDEX.md) |
-| yangsheng | 养生康复 | 42 | 42 | [索引](./library/yangsheng/INDEX.md) |
+| yangsheng | 养生康复 | 60 | 60 | [索引](./library/yangsheng/INDEX.md) |
 | yishi | 医史医家 | 64 | 92 | [索引](./library/yishi/INDEX.md) |
 | jingdian | 经典医籍 | 46 | 1111 | [索引](./library/jingdian/INDEX.md) |
 | xiandai | 现代中医 | 36 | 36 | [索引](./library/xiandai/INDEX.md) |

@@ -21,7 +21,7 @@
   - 构建产物（manifest.json / INDEX）→ `build: regenerate …`
 - 显式按路径暂存（`git add <paths>`），提交前检查 `git status` 与 `git diff --cached --stat`；避免 `git add -A` 处理大混合改动。
 - 使用 Conventional Commits，英文动词 + scope：`feat|fix|docs|style|refactor|test|chore|build(scope): subject`。
-- 每个提交必须让仓库处于**有效状态**：相关解析器可跑、`validate_library.py` 0 错误、回归测试全绿。
+- 每个提交必须让仓库处于**有效状态**：相关解析器可跑、质量门通过。内容线 PR（构建产物后置）以 `validate_library.py --skip-manifest` 0 错误为准；构建/集成提交要求全量 `validate_library.py` 0 错误、回归测试全绿。
 
 ## 2. 分支与 PR（MANDATORY）
 

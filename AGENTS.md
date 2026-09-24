@@ -35,6 +35,13 @@
 
 远程操作：分支创建、PR、release 用 GitHub CLI（`gh`）。禁止直接 commit 到 `main` / `dev`。
 
+### 审核门（Review gate，MANDATORY）
+
+- **PR 创建后不自动合并**（Agent 不得自行执行 `gh pr merge`），一律由审核人逐条 Review 后手动合并；Agent 只负责开 PR、报告并等待。
+- **内容线 PR 只含内容**：feature 分支只提交内容文件（如 `library/<分类>/*.md` 新条目）；构建产物——`manifest.json`、各级 `INDEX.md`、`controlled_vocabulary.json`、`tests/recall_regression.py` 的条目数期望——**一律不进内容 PR**。
+- 内容 PR 被审核合并后，Agent 另开构建 PR：在最新 dev 上统一重建上述产物并更新回归期望，作为独立机器生成提交（标题标 `build: regenerate`），同样待审核合并。
+- **串行开 PR**：一条内容线一个 PR，前一个审核合并后再开下一条；构建产物后置后即便多条 OPEN 也不冲突，但串行可保持 dev 基线新鲜。
+
 ## 3. 内容不变量（修改/新增内容时不可破坏）
 
 1. Frontmatter 必填字段齐全；`id` 与文件名一致、全局唯一

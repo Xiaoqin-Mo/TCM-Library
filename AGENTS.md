@@ -21,7 +21,7 @@
   - 构建产物（manifest.json / INDEX）→ `build: regenerate …`
 - 显式按路径暂存（`git add <paths>`），提交前检查 `git status` 与 `git diff --cached --stat`；避免 `git add -A` 处理大混合改动。
 - 使用 Conventional Commits，英文动词 + scope：`feat|fix|docs|style|refactor|test|chore|build(scope): subject`。
-- 每个提交必须让仓库处于**有效状态**：相关解析器可跑、`validate_library.py` 0 错误、回归测试全绿。
+- 每个提交必须让仓库处于**有效状态**：相关解析器可跑、质量门通过。内容线 PR（构建产物后置）以 `validate_library.py --skip-manifest` 0 错误为准；构建/集成提交要求全量 `validate_library.py` 0 错误、回归测试全绿。
 
 ## 2. 分支与 PR（MANDATORY）
 
@@ -34,6 +34,13 @@
 - `release/*` — 发布冻结分支（可选）：从 `dev` 切出，合并回 `main`（tag）与 `dev`
 
 远程操作：分支创建、PR、release 用 GitHub CLI（`gh`）。禁止直接 commit 到 `main` / `dev`。
+
+### 审核门（Review gate，MANDATORY）
+
+- **PR 创建后不自动合并**（Agent 不得自行执行 `gh pr merge`），一律由审核人逐条 Review 后手动合并；Agent 只负责开 PR、报告并等待。
+- **内容线 PR 只含内容**：feature 分支只提交内容文件（如 `library/<分类>/*.md` 新条目）；构建产物——`manifest.json`、各级 `INDEX.md`、`controlled_vocabulary.json`、`tests/recall_regression.py` 的条目数期望——**一律不进内容 PR**。
+- 内容 PR 被审核合并后，Agent 另开构建 PR：在最新 dev 上统一重建上述产物并更新回归期望，作为独立机器生成提交（标题标 `build: regenerate`），同样待审核合并。
+- **串行开 PR**：一条内容线一个 PR，前一个审核合并后再开下一条；构建产物后置后即便多条 OPEN 也不冲突，但串行可保持 dev 基线新鲜。
 
 ## 3. 内容不变量（修改/新增内容时不可破坏）
 

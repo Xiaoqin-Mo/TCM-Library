@@ -1,6 +1,6 @@
 # yangsheng · 养生康复
 
-> 收录 42 条 · 下级 3 个子类
+> 收录 60 条 · 下级 4 个子类
 
 ## daoyin · 导引气功
 
@@ -22,6 +22,29 @@
 | yangsheng/daoyin/xiongjingniaoshen | 1 | [索引](./yangsheng/daoyin/xiongjingniaoshen/INDEX.md) |
 | yangsheng/daoyin/yijinjing | 1 | [索引](./yangsheng/daoyin/yijinjing/INDEX.md) |
 | yangsheng/daoyin/zhanzhuang | 1 | [索引](./yangsheng/daoyin/zhanzhuang/INDEX.md) |
+
+## kangfu · 康复
+
+| 书目 | 条目数 | 索引 |
+| --- | --- | --- |
+| yangsheng/kangfu/ertongnaotankangfu | 1 | [索引](./yangsheng/kangfu/ertongnaotankangfu/INDEX.md) |
+| yangsheng/kangfu/guzheshuhoukangfu | 1 | [索引](./yangsheng/kangfu/guzheshuhoukangfu/INDEX.md) |
+| yangsheng/kangfu/jisuisunshangkangfu | 1 | [索引](./yangsheng/kangfu/jisuisunshangkangfu/INDEX.md) |
+| yangsheng/kangfu/kangfuhuli | 1 | [索引](./yangsheng/kangfu/kangfuhuli/INDEX.md) |
+| yangsheng/kangfu/kangfupingding | 1 | [索引](./yangsheng/kangfu/kangfupingding/INDEX.md) |
+| yangsheng/kangfu/laonianbingkangfu | 1 | [索引](./yangsheng/kangfu/laonianbingkangfu/INDEX.md) |
+| yangsheng/kangfu/manxingtengtongkangfu | 1 | [索引](./yangsheng/kangfu/manxingtengtongkangfu/INDEX.md) |
+| yangsheng/kangfu/qigongkangfu | 1 | [索引](./yangsheng/kangfu/qigongkangfu/INDEX.md) |
+| yangsheng/kangfu/qingzhikangfu | 1 | [索引](./yangsheng/kangfu/qingzhikangfu/INDEX.md) |
+| yangsheng/kangfu/shiliaokangfu | 1 | [索引](./yangsheng/kangfu/shiliaokangfu/INDEX.md) |
+| yangsheng/kangfu/tuinakangfu | 1 | [索引](./yangsheng/kangfu/tuinakangfu/INDEX.md) |
+| yangsheng/kangfu/xinfeijibingkangfu | 1 | [索引](./yangsheng/kangfu/xinfeijibingkangfu/INDEX.md) |
+| yangsheng/kangfu/yundongkangfu | 1 | [索引](./yangsheng/kangfu/yundongkangfu/INDEX.md) |
+| yangsheng/kangfu/zhenjiukangfu | 1 | [索引](./yangsheng/kangfu/zhenjiukangfu/INDEX.md) |
+| yangsheng/kangfu/zhongfenghoukangfu | 1 | [索引](./yangsheng/kangfu/zhongfenghoukangfu/INDEX.md) |
+| yangsheng/kangfu/zhongliushuhoutiaoli | 1 | [索引](./yangsheng/kangfu/zhongliushuhoutiaoli/INDEX.md) |
+| yangsheng/kangfu/zhongyikangfuxuegaishu | 1 | [索引](./yangsheng/kangfu/zhongyikangfuxuegaishu/INDEX.md) |
+| yangsheng/kangfu/zuoyeliaofazhongyi | 1 | [索引](./yangsheng/kangfu/zuoyeliaofazhongyi/INDEX.md) |
 
 ## qiju · 起居调摄
 
